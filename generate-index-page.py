@@ -1800,7 +1800,7 @@ def generate_html(tunes):
         // Auto-switch to card view on mobile
         function checkMobileView() {
             if (window.innerWidth <= 768) {
-                showCards();
+                switchView('cards');
             }
         }
 
