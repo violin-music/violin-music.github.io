@@ -277,7 +277,7 @@ document.addEventListener('webkitfullscreenchange', () => {
     }
 });
 
-// Add performance mode CSS
+// Add performance mode CSS and dark mode flicker fix
 const performanceModeStyles = document.createElement('style');
 performanceModeStyles.textContent = `
     .performance-mode {
@@ -302,6 +302,21 @@ performanceModeStyles.textContent = `
         object-fit: contain !important;
         border-radius: 0 !important;
         box-shadow: none !important;
+    }
+    /* Fix dark mode flicker when switching pages */
+    #score-page-img {
+        background-color: var(--bg-container, white);
+    }
+    [data-theme="dark"] #score-page-img,
+    .dark-mode #score-page-img {
+        background-color: #1a1a2e;
+    }
+    #tune-preview-container {
+        background-color: var(--bg-container, white);
+    }
+    [data-theme="dark"] #tune-preview-container,
+    .dark-mode #tune-preview-container {
+        background-color: #1a1a2e;
     }
 `;
 document.head.appendChild(performanceModeStyles);
@@ -688,13 +703,21 @@ function showTuneDetailView(tuneSlug, selectedKey = null) {
         <div style="display: flex; gap: 15px; margin: 30px 0; flex-wrap: wrap;">
     `;
 
-    // Generate key-specific MIDI path if needed
+    // Generate MIDI path - only add key suffix if the key is in filenameKeys
     let midiPath = tuneData.midiPath;
 
-    if (tuneData.currentKey && tuneData.baseName && tuneData.directory) {
-        // Encode key properly for URLs (handles F#m)
-        const encodedKey = encodeURIComponent(tuneData.currentKey);
-        midiPath = `${tuneData.directory}/${tuneData.baseName}_(${encodedKey}).midi`;
+    if (tuneData.baseName && tuneData.directory) {
+        // Check if this key has a filename suffix (is in filenameKeys)
+        const hasFilenameSuffix = tuneData.filenameKeys && tuneData.filenameKeys.includes(tuneData.currentKey);
+
+        if (hasFilenameSuffix) {
+            // Key has suffix in filename: TuneName_(Key).midi
+            const encodedKey = encodeURIComponent(tuneData.currentKey);
+            midiPath = `${tuneData.directory}/${tuneData.baseName}_(${encodedKey}).midi`;
+        } else {
+            // Default key or single-key tune: TuneName.midi (no key suffix)
+            midiPath = `${tuneData.directory}/${tuneData.baseName}.midi`;
+        }
     }
 
     if (midiPath) {
