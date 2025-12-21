@@ -1,18 +1,18 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Render SVG preview from a LilyPond file
-# SVG output is scalable and can be themed with CSS
+# Render SVG files from a LilyPond file
+# Generates: <tune>_page_1.svg, <tune>_page_2.svg, etc.
 #
-# The script generates both:
-#   - tune-preview.svg (original, for light mode)
-#   - Modifies the SVG to use currentColor for CSS theming
+# SVGs are processed to use currentColor for CSS theming
 
 show_help() {
   cat <<EOF
 Usage: $(basename "$0") [OPTIONS] file.ly
 
-Render a LilyPond score to SVG preview.
+Render a LilyPond score to SVG files.
+
+Output naming: <basename>_page_1.svg, <basename>_page_2.svg, etc.
 
 Options:
   --help              Show this help.
@@ -23,6 +23,7 @@ The SVG is processed to support CSS theming:
 
 Examples:
   $(basename "$0") my-tune.ly
+  # Outputs: my-tune_page_1.svg (and _page_2.svg, etc. if multi-page)
 
 Requires:
   - lilypond
@@ -70,41 +71,60 @@ command -v lilypond >/dev/null 2>&1 || { echo "Error: lilypond not found in PATH
 
 BASENAME="$(basename "$LY_FILE" .ly)"
 DIRNAME="$(dirname "$LY_FILE")"
-SVG_OUT="${DIRNAME}/${BASENAME}-preview.svg"
-TEMP_OUT="${DIRNAME}/${BASENAME}-temp"
+
+# Use a unique temp directory to avoid conflicts
+TEMP_DIR=$(mktemp -d)
+TEMP_BASE="${TEMP_DIR}/${BASENAME}"
 
 echo "Rendering SVG with LilyPond..."
-lilypond -fsvg --loglevel=ERROR -dno-midi -o "$TEMP_OUT" "$LY_FILE" 2>/dev/null
+lilypond -fsvg --loglevel=ERROR -dno-midi -o "$TEMP_BASE" "$LY_FILE" 2>/dev/null
 
-# Find the output SVG (might be .svg or -page1.svg for multi-page)
-if [ -f "${TEMP_OUT}.svg" ]; then
-  TEMP_SVG="${TEMP_OUT}.svg"
-elif [ -f "${TEMP_OUT}-page1.svg" ]; then
-  TEMP_SVG="${TEMP_OUT}-page1.svg"
-  echo "Multi-page score detected, using page 1 for preview."
+# Process SVG to make it CSS-themeable
+process_svg() {
+  local input="$1"
+  local output="$2"
+  sed -e 's/fill="#000000"/fill="currentColor"/g' \
+      -e 's/fill="#000"/fill="currentColor"/g' \
+      -e 's/fill:black/fill:currentColor/g' \
+      -e 's/fill="black"/fill="currentColor"/g' \
+      -e 's/stroke="#000000"/stroke="currentColor"/g' \
+      -e 's/stroke="#000"/stroke="currentColor"/g' \
+      -e 's/stroke:black/stroke:currentColor/g' \
+      -e 's/stroke="black"/stroke="currentColor"/g' \
+      "$input" > "$output"
+}
+
+# Find and process output SVGs
+# LilyPond generates: basename.svg (single) or basename-1.svg, basename-2.svg (multi-page)
+PAGE_COUNT=0
+
+if [ -f "${TEMP_BASE}.svg" ]; then
+  # Single page output
+  PAGE_COUNT=1
+  OUTPUT_FILE="${DIRNAME}/${BASENAME}_page_1.svg"
+  echo "Processing page 1..."
+  process_svg "${TEMP_BASE}.svg" "$OUTPUT_FILE"
+  echo "  Created: $OUTPUT_FILE"
+elif [ -f "${TEMP_BASE}-1.svg" ]; then
+  # Multi-page output
+  echo "Multi-page score detected."
+  for svg_file in "${TEMP_BASE}"-*.svg; do
+    # Extract page number from filename (e.g., basename-1.svg -> 1)
+    PAGE_NUM=$(basename "$svg_file" .svg | sed "s/${BASENAME}-//")
+    OUTPUT_FILE="${DIRNAME}/${BASENAME}_page_${PAGE_NUM}.svg"
+    echo "Processing page ${PAGE_NUM}..."
+    process_svg "$svg_file" "$OUTPUT_FILE"
+    echo "  Created: $OUTPUT_FILE"
+    PAGE_COUNT=$((PAGE_COUNT + 1))
+  done
 else
-  echo "Error: expected output ${TEMP_OUT}.svg not found." >&2
+  echo "Error: no SVG output found from LilyPond." >&2
+  rm -rf "$TEMP_DIR"
   exit 1
 fi
 
-# Process SVG to make it CSS-themeable
-# Replace black colors with currentColor for CSS theming
-echo "Processing SVG for CSS theming..."
+# Clean up temp directory
+rm -rf "$TEMP_DIR"
 
-# Create a processed version that uses currentColor
-# This makes the SVG inherit color from its parent element
-sed -e 's/fill="#000000"/fill="currentColor"/g' \
-    -e 's/fill="#000"/fill="currentColor"/g' \
-    -e 's/fill:black/fill:currentColor/g' \
-    -e 's/fill="black"/fill="currentColor"/g' \
-    -e 's/stroke="#000000"/stroke="currentColor"/g' \
-    -e 's/stroke="#000"/stroke="currentColor"/g' \
-    -e 's/stroke:black/stroke:currentColor/g' \
-    -e 's/stroke="black"/stroke="currentColor"/g' \
-    "$TEMP_SVG" > "$SVG_OUT"
-
-# Clean up temp files
-rm -f "${TEMP_OUT}".svg "${TEMP_OUT}"-page*.svg "${TEMP_OUT}".midi
-
-echo "Done: $SVG_OUT"
-echo "  The SVG uses 'currentColor' - set color via CSS to theme it."
+echo "Done: Generated ${PAGE_COUNT} page(s)"
+echo "  SVGs use 'currentColor' - set color via CSS to theme them."

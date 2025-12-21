@@ -52,28 +52,30 @@
 melody =  \relative c''  {
  \time 4/4
  \key c \major
- c16-2 _\smark "I" e-1 _\smark "IV"  g   f     
+ c16-2 _\smark "I" e^\shift-1_\smark "IV"  g   f     
  e16  f  d^\shift-2 _\smark "II"
- e16  c-1  e  g   f_"III"   
- e16  f d e-3
- c16-1  e  g   f     
- e16   f  d  e-3     
+ e16  c-1  e^\shift-1_\smark "IV"  g   f   
+ e16  f d^\shift-2 _\smark "II" e-3
+ c16-1  e^\shift-1_\smark "IV"  g   f     
+ e16   f  d^\shift-2 _\smark "II"  e-3     
  c-1  d  e-3 d   
  c d^\shift-1_\smark "III"  b c
  
- a16-2 c^\shift-1   e-3 d     c  d  b  c       a  c  e   d   c d b c
+ a16-2 c^\shift-1   e-3 d     
+ c  d  b^\shift-2 _\smark "IV"  c       
+ a  c  e   d   c d b c
 
  a16-1_\smark "IV" c^\shift-1 _\smark "VI"  e-3 d    
- c  d   b-2_\smark "IV"  c     
+ c  d   b^\shift-2 _\smark "IV"  c     
  a  b   c   b    
  a  b  g^\shift-2 _\smark "II"   a
  f16^1 _\smark "II" a^\shift-1 _\smark "IV"  c   bf   
  a  bf  g^\shift-2 _\smark "II"  a   
  f^1 _\smark "II"  a-3 d^\shift-3 _\smark "V"   c    
  b! c  a^\shift-2 _\smark "III" b
- g16^\shift-1_\smark "III" b  d^\shift-3_\smark "?"   c    
+ g16^1 b^\shift-1_\smark "V"  d   c    
  b  c   a  b     
- g  b   e-4 d    
+ g  b   e^\shift-3 _\smark "V" d    
  c  d  b   c
 
  \break

@@ -11,39 +11,30 @@ const scorePageState = {
 };
 
 // Detect available SVG pages for a tune
+// New naming convention: <tune>_page_1.svg, <tune>_page_2.svg, etc.
 async function detectSvgPages(baseSvgPath) {
     const pages = [];
 
-    // First page is always the base path
+    // First page is always the base path (should be _page_1.svg)
     pages.push(baseSvgPath);
 
-    // Check for additional pages (e.g., -page2.svg, -page3.svg or -2.svg, -3.svg)
-    const baseWithoutExt = baseSvgPath.replace(/-preview\.svg$/, '').replace(/\.svg$/, '');
+    // Extract base path without _page_1.svg
+    const baseWithoutPage = baseSvgPath.replace(/_page_1\.svg$/, '');
 
-    // Try different naming conventions
-    const patterns = [
-        (n) => `${baseWithoutExt}-preview-page${n}.svg`,
-        (n) => `${baseWithoutExt}-page${n}.svg`,
-        (n) => `${baseWithoutExt}-${n}.svg`
-    ];
-
-    // Check up to 20 pages
+    // Check for additional pages: _page_2.svg, _page_3.svg, etc.
     for (let pageNum = 2; pageNum <= 20; pageNum++) {
-        let foundPage = false;
-        for (const pattern of patterns) {
-            const pagePath = pattern(pageNum);
-            try {
-                const response = await fetch(pagePath, { method: 'HEAD' });
-                if (response.ok) {
-                    pages.push(pagePath);
-                    foundPage = true;
-                    break;
-                }
-            } catch (e) {
-                // File doesn't exist, continue
+        const pagePath = `${baseWithoutPage}_page_${pageNum}.svg`;
+        try {
+            const response = await fetch(pagePath, { method: 'HEAD' });
+            if (response.ok) {
+                pages.push(pagePath);
+            } else {
+                break;
             }
+        } catch (e) {
+            // File doesn't exist, stop looking
+            break;
         }
-        if (!foundPage) break;
     }
 
     return pages;
@@ -310,6 +301,7 @@ performanceModeStyles.textContent = `
     [data-theme="dark"] #score-page-img,
     .dark-mode #score-page-img {
         background-color: #1a1a2e;
+        filter: invert(1);
     }
     #tune-preview-container {
         background-color: var(--bg-container, white);
@@ -432,13 +424,13 @@ function findThumbnailForTune(tuneSlug, key = null) {
                 if (baseName && directory) {
                     const encodedBaseName = encodeURIComponent(baseName);
 
-                    // If the key has a filename suffix (is in filename_keys), use _(Key)-preview.svg
+                    // If the key has a filename suffix (is in filename_keys), use _(Key)_page_1.svg
                     if (filenameKeys.includes(key)) {
                         const encodedKey = encodeURIComponent(key);
-                        return `${directory}/${encodedBaseName}_(${encodedKey})-preview.svg`;
+                        return `${directory}/${encodedBaseName}_(${encodedKey})_page_1.svg`;
                     }
-                    // Otherwise, key is from header - use base preview (no key suffix)
-                    return `${directory}/${encodedBaseName}-preview.svg`;
+                    // Otherwise, key is from header - use base file (no key suffix)
+                    return `${directory}/${encodedBaseName}_page_1.svg`;
                 }
             }
         }
@@ -451,7 +443,7 @@ function findThumbnailForTune(tuneSlug, key = null) {
             const directory = row.dataset.directory || '';
             if (baseName && directory) {
                 const encodedBaseName = encodeURIComponent(baseName);
-                return `${directory}/${encodedBaseName}-preview.svg`;
+                return `${directory}/${encodedBaseName}_page_1.svg`;
             }
         }
     }
@@ -965,10 +957,10 @@ function switchKey(tuneSlug, newKey) {
     const previewImg = document.querySelector('#tune-preview-container img');
     if (previewImg && tuneData.baseName && tuneData.directory) {
         if (hasFilenameSuffix) {
-            previewImg.src = `${tuneData.directory}/${encodedBaseName}_(${encodedKey})-preview.svg`;
+            previewImg.src = `${tuneData.directory}/${encodedBaseName}_(${encodedKey})_page_1.svg`;
         } else {
-            // Key is from header, use base preview (no key suffix)
-            previewImg.src = `${tuneData.directory}/${encodedBaseName}-preview.svg`;
+            // Key is from header, use base file (no key suffix)
+            previewImg.src = `${tuneData.directory}/${encodedBaseName}_page_1.svg`;
         }
     }
 

@@ -476,9 +476,9 @@ def scan_repository():
         rel_path = ly_file.relative_to(REPO_ROOT)
         pdf_path = ly_file.with_suffix('.pdf')
         midi_path = ly_file.with_suffix('.midi')
-        # Check for SVG preview first (preferred for CSS theming), then fall back to PNG
-        svg_path = ly_file.parent / (ly_file.stem + '-preview.svg')
-        png_path = ly_file.parent / (ly_file.stem + '-preview.png')
+        # Check for SVG pages first (new convention: _page_1.svg), fall back to PNG
+        svg_path = ly_file.parent / (ly_file.stem + '_page_1.svg')
+        png_path = ly_file.parent / (ly_file.stem + '.png')
         thumbnail_path = svg_path if svg_path.exists() else png_path
         thumbnail_exists = svg_path.exists() or png_path.exists()
 

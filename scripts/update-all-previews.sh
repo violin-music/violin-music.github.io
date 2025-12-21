@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Batch update all LilyPond PDFs and SVG previews
-# Skips files that already have recent previews
+# Batch generate SVG files for all LilyPond scores
+# Skips files that already have SVG pages generated
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 REPO_ROOT="$(dirname "$SCRIPT_DIR")"
@@ -33,7 +33,8 @@ for d in sorted(dirs):
                 and 'PREVIEW WRAPPER' not in open(f).read(500)]
 
     for ly in ly_files:
-        svg = ly.parent / (ly.stem + '-preview.svg')
+        # Check for new naming convention: basename_page_1.svg
+        svg = ly.parent / (ly.stem + '_page_1.svg')
         if not svg.exists():
             print(str(ly))
 " | while read -r ly_file; do
