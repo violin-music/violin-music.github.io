@@ -74,12 +74,15 @@ melody =  \relative c''  {
  f^1 _\smark "II"  a-3 d^\shift-3 _\smark "V"   c    
  b! c  a^\shift-2 _\smark "III" b
  g16^1 b^\shift-1_\smark "V"  d   c    
- b  c   a  b     
- g  b   e^\shift-3 _\smark "V" d    
- c  d  b   c
+ b  c   a^\shift-2 _\smark "III"   b     
+ g  b   e^\shift-3 _\smark "VI" d    
+ c  d  b^\shift-2 _\smark "IV"   c
 
  \break
- a16 c  e-4 d    c  d    b  c      a-0  c  f  e      d  e  c  d
+  a16-1_\smark "IV" c^\shift-1 _\smark "VI"  e-3 d    
+  c16  d   b^\shift-2 _\smark "IV"  c     
+
+ a-0  c  f  e      d  e  c  d
  b16 d  f   e    d  e-4  c  d      b    d  g  f      e  f  d  e
  c16 e  g   f    e  f    g  e      a    a, b  c      d-\shift-1  e  f  d
 

@@ -4,10 +4,7 @@
 \version "2.14.0"
 \include "../../common/stylesheet_fiddle.ly"
 \include "english.ly"
-#(set-global-staff-size 21)
-\layout {
-    indent = 0\in
-}
+
 
 \header {
   title     = "Basso - Gypsy in Am"

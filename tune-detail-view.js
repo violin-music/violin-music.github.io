@@ -268,7 +268,7 @@ document.addEventListener('webkitfullscreenchange', () => {
     }
 });
 
-// Add performance mode CSS and dark mode flicker fix
+// Add performance mode CSS and dark mode fixes
 const performanceModeStyles = document.createElement('style');
 performanceModeStyles.textContent = `
     .performance-mode {
@@ -294,21 +294,83 @@ performanceModeStyles.textContent = `
         border-radius: 0 !important;
         box-shadow: none !important;
     }
-    /* Fix dark mode flicker when switching pages */
-    #score-page-img {
-        background-color: var(--bg-container, white);
-    }
-    [data-theme="dark"] #score-page-img,
-    .dark-mode #score-page-img {
-        background-color: #1a1a2e;
-        filter: invert(1);
-    }
+
+    /* Dark mode score display - use wrapper for background isolation */
     #tune-preview-container {
         background-color: var(--bg-container, white);
+        border-radius: 8px;
+    }
+    #score-page-img {
+        background-color: white;
     }
     [data-theme="dark"] #tune-preview-container,
     .dark-mode #tune-preview-container {
-        background-color: #1a1a2e;
+        background-color: #1e1e2e;
+    }
+    [data-theme="dark"] #score-page-img,
+    .dark-mode #score-page-img {
+        filter: invert(1) hue-rotate(180deg);
+        background-color: transparent;
+    }
+
+    /* Dark mode title header */
+    [data-theme="dark"] #tune-title-header h1,
+    .dark-mode #tune-title-header h1 {
+        color: #7ec8e3 !important;
+    }
+
+    /* Dark mode key badge/selector */
+    [data-theme="dark"] #tune-title-header .key-badge,
+    .dark-mode #tune-title-header .key-badge,
+    [data-theme="dark"] #tune-title-header .key-selector-wrapper,
+    .dark-mode #tune-title-header .key-selector-wrapper {
+        background: linear-gradient(135deg, #2d4a5e 0%, #1e3a4a 100%) !important;
+        border-color: #4d7a9e !important;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3) !important;
+    }
+    [data-theme="dark"] #tune-title-header .key-badge span,
+    .dark-mode #tune-title-header .key-badge span {
+        color: #7ec8e3 !important;
+    }
+    [data-theme="dark"] #tune-title-header .key-badge svg,
+    .dark-mode #tune-title-header .key-badge svg,
+    [data-theme="dark"] #tune-title-header .key-selector-wrapper svg,
+    .dark-mode #tune-title-header .key-selector-wrapper svg {
+        stroke: #7ec8e3 !important;
+    }
+    [data-theme="dark"] #key-selector,
+    .dark-mode #key-selector {
+        background: transparent !important;
+        color: #7ec8e3 !important;
+    }
+    [data-theme="dark"] #key-selector option,
+    .dark-mode #key-selector option {
+        background: #1e3a4a !important;
+        color: #7ec8e3 !important;
+    }
+
+    /* Dark mode metadata grid */
+    [data-theme="dark"] .tune-metadata-grid,
+    .dark-mode .tune-metadata-grid {
+        background: #1e2830 !important;
+    }
+
+    /* Dark mode action buttons in header */
+    [data-theme="dark"] .header-action-btn,
+    .dark-mode .header-action-btn {
+        background: linear-gradient(135deg, #3d5a80 0%, #2d4a6a 100%) !important;
+        color: #e8f4f6 !important;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3) !important;
+    }
+    [data-theme="dark"] .header-action-btn:hover,
+    .dark-mode .header-action-btn:hover {
+        background: linear-gradient(135deg, #4d6a90 0%, #3d5a80 100%) !important;
+    }
+
+    /* Fix page navigation in dark mode */
+    [data-theme="dark"] #page-nav-container,
+    .dark-mode #page-nav-container {
+        background: #252538 !important;
     }
 `;
 document.head.appendChild(performanceModeStyles);
@@ -593,19 +655,26 @@ function showTuneDetailView(tuneSlug, selectedKey = null) {
             </div>`;
     }
 
+    // Build Share and Fullscreen URL/handlers
+    const tuneUrl = window.location.origin + window.location.pathname + '?tune=' + tuneSlug;
+    const escapedTuneUrl = escapeForJs(tuneUrl);
+
     detailHTML += `
         </div>
 
-        <div style="display: flex; align-items: center; gap: 20px; margin: 20px 20px 20px 0; padding: 5px; border-bottom: 3px solid var(--ocean-mid, #2d8a9f);">
-            <h1 style="font-size: 2.5em; color: var(--ocean-deep, #1a5c6e); margin: 20px 20px 20px 0; padding: 5px; line-height: 1; font-family: 'Crimson Pro', serif;">${tuneData.title}</h1>`;
+        <div id="tune-title-header" style="display: flex; align-items: center; justify-content: space-between; gap: 20px; margin: 20px 0; padding: 10px 0; border-bottom: 3px solid var(--ocean-mid, #2d8a9f); flex-wrap: wrap;">
+            <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+                <h1 style="font-size: 2.2em; color: var(--ocean-deep, #1a5c6e); margin: 0; padding: 0; line-height: 1.2; font-family: 'Crimson Pro', serif;">${tuneData.title}</h1>`;
 
     // Add inline key selector if multiple keys available
     if (tuneData.availableKeys && tuneData.availableKeys.length > 1) {
         detailHTML += `
-            <select id="key-selector"
-                    style="margin: 20px; padding: 5px; font-size: 1.1rem; border: 2px solid var(--ocean-mid, #2d8a9f); border-radius: 6px; background: white; color: var(--ocean-deep, #1a5c6e); font-weight: 600; cursor: pointer; font-family: 'Work Sans', sans-serif; align-self: center;"
-                    onchange="switchKey('${tuneSlug}', this.value)"
-                    title="Select a key">`;
+                <div class="key-selector-wrapper" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px 6px 10px; background: linear-gradient(135deg, #e8f5f8 0%, #d4eef3 100%); border: 2px solid var(--ocean-mid, #2d8a9f); border-radius: 8px; box-shadow: 0 2px 4px rgba(45, 138, 159, 0.15);">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--ocean-deep, #1a5c6e)" stroke-width="2.5" style="flex-shrink: 0;"><circle cx="12" cy="12" r="3"></circle><path d="M12 1v4m0 14v4m-9-11h4m14 0h4m-3.5-6.5l-2.8 2.8m-9.4 9.4l-2.8 2.8m0-15l2.8 2.8m9.4 9.4l2.8 2.8"></path></svg>
+                    <select id="key-selector"
+                            style="padding: 4px 8px; font-size: 0.95rem; border: none; background: transparent; color: var(--ocean-deep, #1a5c6e); font-weight: 700; cursor: pointer; font-family: 'Work Sans', sans-serif; appearance: none; -webkit-appearance: none; outline: none;"
+                            onchange="switchKey('${tuneSlug}', this.value)"
+                            title="Select a key">`;
 
         // Sort keys musically (C, C#, D, D#, E, F, F#, G, G#, A, A#, B) with minor variants
         const keyOrder = ['C', 'C#', 'Db', 'D', 'D#', 'Eb', 'E', 'F', 'F#', 'Gb', 'G', 'G#', 'Ab', 'A', 'A#', 'Bb', 'B'];
@@ -620,24 +689,48 @@ function showTuneDetailView(tuneSlug, selectedKey = null) {
         });
         for (const key of sortedKeys) {
             const selected = key === tuneData.currentKey ? 'selected' : '';
-            detailHTML += `<option value="${key}" ${selected}>Key: ${key}</option>`;
+            detailHTML += `<option value="${key}" ${selected}>${key}</option>`;
         }
 
-        detailHTML += `</select>`;
+        detailHTML += `</select>
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="var(--ocean-deep, #1a5c6e)" stroke-width="3" style="flex-shrink: 0;"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                </div>`;
     } else if (tuneData.key && tuneData.key !== '—') {
         // Single key - show as badge
         detailHTML += `
-            <span style="padding: 12px 20px; background: var(--ocean-light, #e8f5f8); color: var(--ocean-deep, #1a5c6e); border-radius: 8px; font-weight: 600; font-size: 1.3rem;">Key: ${tuneData.key}</span>`;
+                <div class="key-badge" style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px 6px 10px; background: linear-gradient(135deg, #e8f5f8 0%, #d4eef3 100%); border: 2px solid var(--ocean-mid, #2d8a9f); border-radius: 8px; box-shadow: 0 2px 4px rgba(45, 138, 159, 0.15);">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--ocean-deep, #1a5c6e)" stroke-width="2.5"><circle cx="12" cy="12" r="3"></circle><path d="M12 1v4m0 14v4m-9-11h4m14 0h4m-3.5-6.5l-2.8 2.8m-9.4 9.4l-2.8 2.8m0-15l2.8 2.8m9.4 9.4l2.8 2.8"></path></svg>
+                    <span style="font-weight: 700; font-size: 0.95rem; color: var(--ocean-deep, #1a5c6e);">${tuneData.key}</span>
+                </div>`;
     }
 
     detailHTML += `
-        </div>
-        ${tuneData.subtitle ? `<p style="font-size: 1.1em; color: #7f8c8d; margin-bottom: 20px; margin-top: 5px;">${tuneData.subtitle}</p>` : ''}
+            </div>
+            <div style="display: flex; gap: 8px; align-items: center;">
+                <button class="header-action-btn" onclick="navigator.clipboard.writeText('${escapedTuneUrl}').then(() => { this.innerHTML = '<svg width=\\'16\\' height=\\'16\\' viewBox=\\'0 0 24 24\\' fill=\\'none\\' stroke=\\'currentColor\\' stroke-width=\\'2\\'><polyline points=\\'20 6 9 17 4 12\\'></polyline></svg> Copied!'; setTimeout(() => { this.innerHTML = '<svg width=\\'16\\' height=\\'16\\' viewBox=\\'0 0 24 24\\' fill=\\'none\\' stroke=\\'currentColor\\' stroke-width=\\'2\\'><path d=\\'M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8\\'></path><polyline points=\\'16 6 12 2 8 6\\'></polyline><line x1=\\'12\\' y1=\\'2\\' x2=\\'12\\' y2=\\'15\\'></line></svg> Share'; }, 2000); })"
+                   style="padding: 8px 14px; background: linear-gradient(135deg, #4a5568 0%, #2d3748 100%); color: white; border: none; border-radius: 8px; font-weight: 500; cursor: pointer; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease;">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path><polyline points="16 6 12 2 8 6"></polyline><line x1="12" y1="2" x2="12" y2="15"></line></svg>
+                    Share
+                </button>`;
 
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0; padding: 20px; background: var(--bg-filter, #f8f9fa); border-radius: 8px;">
+    if (tuneData.thumbnailPath) {
+        detailHTML += `
+                <button class="header-action-btn" onclick="togglePerformanceMode()"
+                   style="padding: 8px 14px; background: linear-gradient(135deg, #4a5568 0%, #2d3748 100%); color: white; border: none; border-radius: 8px; font-weight: 500; cursor: pointer; font-size: 0.85rem; display: inline-flex; align-items: center; gap: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease;">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
+                    Full Screen
+                </button>`;
+    }
+
+    detailHTML += `
+            </div>
+        </div>
+        ${tuneData.subtitle ? `<p style="font-size: 1.1em; color: var(--text-secondary, #7f8c8d); margin-bottom: 20px; margin-top: 5px;">${tuneData.subtitle}</p>` : ''}
+
+        <div class="tune-metadata-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px; margin: 25px 0; padding: 20px; background: var(--bg-filter, #f8f9fa); border-radius: 8px;">
             <div><strong>Composer:</strong><br>${tuneData.composer || '—'}</div>
             <div><strong>Country:</strong><br>${tuneData.country || '—'}</div>
-            <div><strong>Genre:</strong><br>${tuneData.csvGenre || '—'}${tuneData.csvSubgenre ? `<br><small style="color: #7f8c8d;">${tuneData.csvSubgenre}</small>` : ''}</div>
+            <div><strong>Genre:</strong><br>${tuneData.csvGenre || tuneData.category || '—'}${tuneData.csvSubgenre ? `<br><small style="color: var(--text-secondary, #7f8c8d);">${tuneData.csvSubgenre}</small>` : ''}</div>
             <div><strong>Difficulty:</strong><br>${stars}</div>
         </div>
     `;
@@ -730,31 +823,11 @@ function showTuneDetailView(tuneSlug, selectedKey = null) {
     if (tuneData.videoUrl) {
         detailHTML += `
             <a href="${tuneData.videoUrl}" target="_blank"
-               style="padding: 12px 24px; background: #e74c3c; color: white; text-decoration: none; border-radius: 6px; font-weight: 600; display: inline-flex; align-items: center; gap: 8px;">
-                🎥 Watch Video
+               style="padding: 12px 24px; background: #c0392b; color: white; text-decoration: none; border-radius: 6px; font-weight: 600; display: inline-flex; align-items: center; gap: 8px;">
+                Watch Video
             </a>
         `;
     }
-
-    // Add Performance Mode button
-    if (tuneData.thumbnailPath) {
-        detailHTML += `
-            <button onclick="togglePerformanceMode()"
-               style="padding: 12px 24px; background: #9b59b6; color: white; border: none; border-radius: 6px; font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 8px;">
-                🎭 Performance Mode
-            </button>
-        `;
-    }
-
-    // Add copy link button
-    const tuneUrl = window.location.origin + window.location.pathname + '?tune=' + tuneSlug;
-    const escapedTuneUrl = escapeForJs(tuneUrl);
-    detailHTML += `
-        <button onclick="navigator.clipboard.writeText('${escapedTuneUrl}').then(() => alert('Link copied to clipboard!'))"
-           style="padding: 12px 24px; background: #95a5a6; color: white; border: none; border-radius: 6px; font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 8px;">
-            🔗 Copy Link
-        </button>
-    `;
 
     detailHTML += `</div>`;
 

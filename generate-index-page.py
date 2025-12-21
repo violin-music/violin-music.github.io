@@ -445,6 +445,10 @@ def scan_repository():
         if any(excluded in ly_file.parts for excluded in EXCLUDE_DIRS):
             continue
 
+        # Skip directories starting with underscore (practice step subdirectories like _9-Arpeggios)
+        if any(part.startswith('_') for part in ly_file.parts):
+            continue
+
         # Skip component files
         if ly_file.name in EXCLUDE_FILENAMES:
             continue
@@ -1051,18 +1055,39 @@ def generate_html(tunes):
         is_christmas = is_christmas_song(tune['title'], tune['category'], tune['style'], tune['tags'])
         is_wedding = is_wedding_song(tune['title'], tune['category'], tune['style'], tune['tags'])
 
-        # Generate tune slug for URL
-        tune_slug = tune['title'].lower()
-        tune_slug = re.sub(r'[^a-z0-9]+', '-', tune_slug)
-        tune_slug = tune_slug.strip('-')
-
-        # Include version tag from base_name if present (e.g., [Easy], [Simple])
+        # Generate tune slug for URL - must be unique per distinct tune version
+        # Use base_name (filename) as primary source for uniqueness
         base_name = tune.get('base_name', '')
+        subtitle = tune.get('subtitle', '')
+
+        if base_name:
+            # Use base_name as the slug - it's unique per file within a directory
+            tune_slug = base_name.lower()
+            tune_slug = re.sub(r'[^a-z0-9]+', '-', tune_slug)
+            tune_slug = tune_slug.strip('-')
+        else:
+            # Fallback to title if no base_name
+            tune_slug = tune['title'].lower()
+            tune_slug = re.sub(r'[^a-z0-9]+', '-', tune_slug)
+            tune_slug = tune_slug.strip('-')
+
+        # Check for version tag in brackets from base_name (e.g., [Easy], [Jig], [Violin & Piano])
         version_match = re.search(r'\[([^\]]+)\]', base_name)
         if version_match:
             version_tag = version_match.group(1).lower()
-            version_tag = re.sub(r'[^a-z0-9]+', '-', version_tag)
-            tune_slug = f"{tune_slug}-{version_tag}"
+            version_tag = re.sub(r'[^a-z0-9]+', '-', version_tag).strip('-')
+            if version_tag not in tune_slug:  # Don't add if already in slug
+                tune_slug = f"{tune_slug}-{version_tag}"
+        elif subtitle:
+            # Use subtitle as version differentiator if no bracket tag
+            # Take first few meaningful words (up to 3)
+            subtitle_slug = subtitle.lower()
+            subtitle_slug = re.sub(r'[^a-z0-9]+', '-', subtitle_slug).strip('-')
+            # Limit to first 3 "words" in the slug
+            subtitle_parts = subtitle_slug.split('-')[:3]
+            subtitle_short = '-'.join(subtitle_parts)
+            if subtitle_short and subtitle_short not in tune_slug:
+                tune_slug = f"{tune_slug}-{subtitle_short}"
 
         # Prepare key-related data
         available_keys_json = json.dumps(tune.get('available_keys', []))

@@ -4,7 +4,6 @@
 \version "2.14.0"
 \include "../../common/stylesheet_fiddle.ly"
 \include "english.ly"
-#(set-global-staff-size 26)
 
 
 \header {
