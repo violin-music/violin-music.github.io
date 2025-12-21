@@ -14,10 +14,11 @@ from urllib.parse import quote
 
 # Configuration
 REPO_ROOT = Path(__file__).parent
+TUNES_DIR = REPO_ROOT / "tunes"  # All tunes are in the tunes/ folder
 OUTPUT_FILE = REPO_ROOT / "index.html"
 METADATA_FILE = REPO_ROOT / ".music-metadata.json"
 CSV_METADATA_FILE = REPO_ROOT / "tune_catalog_rich_schema.csv"
-EXCLUDE_DIRS = {'.git', 'stylesheets', 'common', 'lilypong_how-to', 'Lilypond_How-to', 'node_modules', '__pycache__', 'Scales'}
+EXCLUDE_DIRS = {'.git', 'stylesheets', 'common', 'lilypong_how-to', 'Lilypond_How-to', 'node_modules', '__pycache__', 'Scales', 'scripts', 'docs'}
 
 # Country-to-flag emoji mapping
 COUNTRY_FLAGS = {
@@ -439,7 +440,7 @@ def scan_repository():
                          'gymnopedie-2.ly', 'gymnopedie-3.ly', 'make-score-preview-lilypond-example.ly',
                          'music.ily'}  # Exclude include files that contain only music definitions
 
-    for ly_file in REPO_ROOT.rglob('*.ly'):
+    for ly_file in TUNES_DIR.rglob('*.ly'):
         # Skip excluded directories
         if any(excluded in ly_file.parts for excluded in EXCLUDE_DIRS):
             continue
@@ -710,9 +711,19 @@ def generate_html(tunes):
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marc's Violin Music Collection 🎵</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <meta name="theme-color" content="#2d8a9f">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Mouries Music">
+    <meta name="application-name" content="Mouries Music">
+    <meta name="msapplication-TileColor" content="#2d8a9f">
+    <meta name="format-detection" content="telephone=no">
+    <title>Mouries' Music 🎵</title>
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='0.9em' font-size='90'%3E🎵%3C/text%3E%3C/svg%3E">
+    <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect fill='%232d8a9f' width='100' height='100' rx='20'/%3E%3Ctext x='50' y='70' font-size='60' text-anchor='middle'%3E🎻%3C/text%3E%3C/svg%3E">
+    <link rel="manifest" href="manifest.json">
     <!-- Tone.js libraries for MIDI playback -->
     <script src="https://unpkg.com/tone"></script>
     <script src="https://unpkg.com/@tonejs/midi"></script>
@@ -730,7 +741,7 @@ def generate_html(tunes):
     </div>
 
     <div class="container">
-        <h1>Marc's Violin Music Collection 🎵</h1>
+        <h1>Mouries' Music 🎵</h1>
 
         <div class="stats">
             <div class="stat-item">
@@ -1019,7 +1030,6 @@ def generate_html(tunes):
                         <th onclick="sortTable(3)">Genre</th>
                         <th onclick="sortTable(4)">Key</th>
                         <th onclick="sortTable(5)">Difficulty</th>
-                        <th>Files</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -1079,23 +1089,6 @@ def generate_html(tunes):
                     <td>{html.escape(display_genre.title())}{f'<br><small style="color: #7f8c8d;">{html.escape(display_subgenre)}</small>' if display_subgenre else ''}</td>
                     <td>{html.escape(tune['key']) if tune['key'] else '—'}</td>
                     <td><div class="difficulty">{stars}</div></td>
-                    <td class="links">"""
-        # Add video link if available
-        if tune['video']:
-            html_output += f"""
-                        <a href="{tune['video']}" title="Watch video" target="_blank">🎥 Video</a>"""
-        # Add PDF link
-        if tune['pdf_exists']:
-            html_output += f"""
-                        <a href="{tune['pdf_path']}" title="View PDF" target="_blank">📄 PDF</a>"""
-        # Add MIDI player
-        if tune['midi_exists']:
-            # Escape title for JavaScript string (use JSON encoding to handle quotes properly)
-            safe_title = json.dumps(tune['title'])
-            html_output += f"""
-                        <button class="btn" onclick="playMidi('{tune['midi_path']}', {safe_title})" title="Play MIDI">🎵 Play</button>"""
-        html_output += """
-                    </td>
                 </tr>
 """
 
@@ -1905,6 +1898,19 @@ def generate_html(tunes):
                 }
             }
         });
+
+        // Register service worker for PWA support
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js')
+                    .then((registration) => {
+                        console.log('Service Worker registered:', registration.scope);
+                    })
+                    .catch((error) => {
+                        console.log('Service Worker registration failed:', error);
+                    });
+            });
+        }
     </script>
 </body>
 </html>

@@ -1,6 +1,311 @@
 // Tune Detail View Support
 // This adds URL parameter support for direct tune links and detail views
 
+// Multi-page score navigation state
+const scorePageState = {
+    currentPage: 1,
+    totalPages: 1,
+    pages: [],
+    basePath: '',
+    tuneTitle: ''
+};
+
+// Detect available SVG pages for a tune
+async function detectSvgPages(baseSvgPath) {
+    const pages = [];
+
+    // First page is always the base path
+    pages.push(baseSvgPath);
+
+    // Check for additional pages (e.g., -page2.svg, -page3.svg or -2.svg, -3.svg)
+    const baseWithoutExt = baseSvgPath.replace(/-preview\.svg$/, '').replace(/\.svg$/, '');
+
+    // Try different naming conventions
+    const patterns = [
+        (n) => `${baseWithoutExt}-preview-page${n}.svg`,
+        (n) => `${baseWithoutExt}-page${n}.svg`,
+        (n) => `${baseWithoutExt}-${n}.svg`
+    ];
+
+    // Check up to 20 pages
+    for (let pageNum = 2; pageNum <= 20; pageNum++) {
+        let foundPage = false;
+        for (const pattern of patterns) {
+            const pagePath = pattern(pageNum);
+            try {
+                const response = await fetch(pagePath, { method: 'HEAD' });
+                if (response.ok) {
+                    pages.push(pagePath);
+                    foundPage = true;
+                    break;
+                }
+            } catch (e) {
+                // File doesn't exist, continue
+            }
+        }
+        if (!foundPage) break;
+    }
+
+    return pages;
+}
+
+// Navigate to a specific score page
+function goToScorePage(pageNum) {
+    if (pageNum < 1 || pageNum > scorePageState.totalPages) return;
+
+    scorePageState.currentPage = pageNum;
+    const scoreImg = document.getElementById('score-page-img');
+    if (scoreImg) {
+        scoreImg.src = scorePageState.pages[pageNum - 1];
+    }
+    updatePageIndicator();
+
+    // Preload adjacent pages
+    preloadAdjacentPages(pageNum);
+}
+
+// Navigate to next page
+function nextScorePage() {
+    if (scorePageState.currentPage < scorePageState.totalPages) {
+        goToScorePage(scorePageState.currentPage + 1);
+    }
+}
+
+// Navigate to previous page
+function prevScorePage() {
+    if (scorePageState.currentPage > 1) {
+        goToScorePage(scorePageState.currentPage - 1);
+    }
+}
+
+// Update page indicator display
+function updatePageIndicator() {
+    const indicator = document.getElementById('page-indicator');
+    if (indicator) {
+        indicator.textContent = `Page ${scorePageState.currentPage} of ${scorePageState.totalPages}`;
+    }
+
+    // Update button states
+    const prevBtn = document.getElementById('prev-page-btn');
+    const nextBtn = document.getElementById('next-page-btn');
+
+    if (prevBtn) {
+        prevBtn.disabled = scorePageState.currentPage <= 1;
+        prevBtn.style.opacity = scorePageState.currentPage <= 1 ? '0.5' : '1';
+    }
+    if (nextBtn) {
+        nextBtn.disabled = scorePageState.currentPage >= scorePageState.totalPages;
+        nextBtn.style.opacity = scorePageState.currentPage >= scorePageState.totalPages ? '0.5' : '1';
+    }
+}
+
+// Preload adjacent pages for smooth navigation
+function preloadAdjacentPages(currentPage) {
+    const pagesToPreload = [currentPage - 1, currentPage + 1];
+
+    for (const pageNum of pagesToPreload) {
+        if (pageNum >= 1 && pageNum <= scorePageState.totalPages) {
+            const img = new Image();
+            img.src = scorePageState.pages[pageNum - 1];
+        }
+    }
+}
+
+// Performance Mode state
+const performanceMode = {
+    active: false,
+    wakeLock: null,
+    uiHidden: false
+};
+
+// Enter performance mode (fullscreen + wake lock)
+async function enterPerformanceMode() {
+    const container = document.getElementById('tune-preview-container');
+    if (!container) return;
+
+    try {
+        // Request fullscreen
+        if (container.requestFullscreen) {
+            await container.requestFullscreen();
+        } else if (container.webkitRequestFullscreen) {
+            await container.webkitRequestFullscreen();
+        }
+
+        // Request wake lock
+        if ('wakeLock' in navigator) {
+            try {
+                performanceMode.wakeLock = await navigator.wakeLock.request('screen');
+                console.log('Wake lock acquired');
+            } catch (err) {
+                console.log('Wake lock failed:', err);
+            }
+        }
+
+        performanceMode.active = true;
+        performanceMode.uiHidden = true;
+
+        // Add performance mode styles
+        container.classList.add('performance-mode');
+
+        // Add tap zone overlay for navigation
+        addTapZones(container);
+
+    } catch (err) {
+        console.error('Failed to enter performance mode:', err);
+    }
+}
+
+// Exit performance mode
+async function exitPerformanceMode() {
+    try {
+        if (document.fullscreenElement || document.webkitFullscreenElement) {
+            if (document.exitFullscreen) {
+                await document.exitFullscreen();
+            } else if (document.webkitExitFullscreen) {
+                await document.webkitExitFullscreen();
+            }
+        }
+
+        // Release wake lock
+        if (performanceMode.wakeLock) {
+            await performanceMode.wakeLock.release();
+            performanceMode.wakeLock = null;
+        }
+
+        performanceMode.active = false;
+        performanceMode.uiHidden = false;
+
+        // Remove performance mode styles
+        const container = document.getElementById('tune-preview-container');
+        if (container) {
+            container.classList.remove('performance-mode');
+        }
+
+        // Remove tap zones
+        removeTapZones();
+
+    } catch (err) {
+        console.error('Failed to exit performance mode:', err);
+    }
+}
+
+// Toggle performance mode
+function togglePerformanceMode() {
+    if (performanceMode.active) {
+        exitPerformanceMode();
+    } else {
+        enterPerformanceMode();
+    }
+}
+
+// Add tap zones for touch navigation
+function addTapZones(container) {
+    // Remove existing tap zones
+    removeTapZones();
+
+    const tapZonesHTML = `
+        <div id="performance-tap-zones" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: flex; z-index: 10;">
+            <div id="tap-zone-prev" style="flex: 1; cursor: pointer;" onclick="prevScorePage()"></div>
+            <div id="tap-zone-center" style="flex: 1; cursor: pointer;" onclick="togglePerformanceUI()"></div>
+            <div id="tap-zone-next" style="flex: 1; cursor: pointer;" onclick="nextScorePage()"></div>
+        </div>
+        <div id="performance-page-indicator" style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); padding: 8px 16px; background: rgba(0,0,0,0.7); color: white; border-radius: 20px; font-size: 14px; z-index: 11; transition: opacity 0.3s;">
+            Page ${scorePageState.currentPage} of ${scorePageState.totalPages}
+        </div>
+        <div id="performance-exit-hint" style="position: absolute; top: 20px; right: 20px; padding: 8px 16px; background: rgba(0,0,0,0.7); color: white; border-radius: 6px; font-size: 12px; z-index: 11; opacity: 0.5;">
+            Press Esc to exit
+        </div>
+    `;
+
+    // Make container relative for absolute positioning
+    container.style.position = 'relative';
+
+    // Insert tap zones
+    container.insertAdjacentHTML('beforeend', tapZonesHTML);
+
+    // Auto-hide UI after 3 seconds
+    setTimeout(() => {
+        const indicator = document.getElementById('performance-page-indicator');
+        const exitHint = document.getElementById('performance-exit-hint');
+        if (indicator) indicator.style.opacity = '0';
+        if (exitHint) exitHint.style.opacity = '0';
+    }, 3000);
+}
+
+// Remove tap zones
+function removeTapZones() {
+    const tapZones = document.getElementById('performance-tap-zones');
+    const indicator = document.getElementById('performance-page-indicator');
+    const exitHint = document.getElementById('performance-exit-hint');
+    if (tapZones) tapZones.remove();
+    if (indicator) indicator.remove();
+    if (exitHint) exitHint.remove();
+}
+
+// Toggle UI visibility in performance mode
+function togglePerformanceUI() {
+    const indicator = document.getElementById('performance-page-indicator');
+    const exitHint = document.getElementById('performance-exit-hint');
+    const navContainer = document.getElementById('page-nav-container');
+
+    performanceMode.uiHidden = !performanceMode.uiHidden;
+
+    if (performanceMode.uiHidden) {
+        if (indicator) indicator.style.opacity = '0';
+        if (exitHint) exitHint.style.opacity = '0';
+        if (navContainer) navContainer.style.display = 'none';
+    } else {
+        if (indicator) {
+            indicator.textContent = `Page ${scorePageState.currentPage} of ${scorePageState.totalPages}`;
+            indicator.style.opacity = '1';
+        }
+        if (exitHint) exitHint.style.opacity = '0.5';
+        if (navContainer && scorePageState.totalPages > 1) navContainer.style.display = 'flex';
+    }
+}
+
+// Listen for fullscreen change to update state
+document.addEventListener('fullscreenchange', () => {
+    if (!document.fullscreenElement) {
+        exitPerformanceMode();
+    }
+});
+
+document.addEventListener('webkitfullscreenchange', () => {
+    if (!document.webkitFullscreenElement) {
+        exitPerformanceMode();
+    }
+});
+
+// Add performance mode CSS
+const performanceModeStyles = document.createElement('style');
+performanceModeStyles.textContent = `
+    .performance-mode {
+        background: black !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    .performance-mode #page-nav-container {
+        display: none !important;
+    }
+    .performance-mode #page-nav-hint {
+        display: none !important;
+    }
+    .performance-mode #score-page-img {
+        max-height: 100vh !important;
+        max-width: 100vw !important;
+        width: auto !important;
+        height: auto !important;
+        object-fit: contain !important;
+        border-radius: 0 !important;
+        box-shadow: none !important;
+    }
+`;
+document.head.appendChild(performanceModeStyles);
+
 function sanitizeTitleForUrl(title) {
     return title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 }
@@ -110,16 +415,15 @@ function findThumbnailForTune(tuneSlug, key = null) {
                 }
 
                 if (baseName && directory) {
-                    const relativePath = directory.replace('/Users/marc.mouries/projects/Sheet-Music/', '');
                     const encodedBaseName = encodeURIComponent(baseName);
 
                     // If the key has a filename suffix (is in filename_keys), use _(Key)-preview.svg
                     if (filenameKeys.includes(key)) {
                         const encodedKey = encodeURIComponent(key);
-                        return `${relativePath}/${encodedBaseName}_(${encodedKey})-preview.svg`;
+                        return `${directory}/${encodedBaseName}_(${encodedKey})-preview.svg`;
                     }
                     // Otherwise, key is from header - use base preview (no key suffix)
-                    return `${relativePath}/${encodedBaseName}-preview.svg`;
+                    return `${directory}/${encodedBaseName}-preview.svg`;
                 }
             }
         }
@@ -131,9 +435,8 @@ function findThumbnailForTune(tuneSlug, key = null) {
             const baseName = row.dataset.baseName || '';
             const directory = row.dataset.directory || '';
             if (baseName && directory) {
-                const relativePath = directory.replace('/Users/marc.mouries/projects/Sheet-Music/', '');
                 const encodedBaseName = encodeURIComponent(baseName);
-                return `${relativePath}/${encodedBaseName}-preview.svg`;
+                return `${directory}/${encodedBaseName}-preview.svg`;
             }
         }
     }
@@ -203,7 +506,7 @@ function showTuneDetailView(tuneSlug, selectedKey = null) {
     if (!detailView) {
         detailView = document.createElement('div');
         detailView.id = 'tune-detail-view';
-        detailView.style.cssText = 'width: 100%; margin: 0; padding: 30px; background: var(--bg-container, white); color: var(--text-primary, #2d3842);';
+        detailView.style.cssText = 'width: 100%; margin: 0; padding: 0.5rem; background: var(--bg-container, white); color: var(--text-primary, #2d3842);';
         document.querySelector('.container').appendChild(detailView);
     }
 
@@ -332,18 +635,52 @@ function showTuneDetailView(tuneSlug, selectedKey = null) {
         </div>
     `;
 
-    // Add preview image if available
+    // Add score image with pagination support
     if (tuneData.thumbnailPath) {
-        const escapedThumbnailPath = escapeForJs(tuneData.thumbnailPath);
         const escapedTitle = escapeForJs(tuneData.title);
+
+        // Initialize page state
+        scorePageState.basePath = tuneData.thumbnailPath;
+        scorePageState.tuneTitle = tuneData.title;
+        scorePageState.currentPage = 1;
+        scorePageState.pages = [tuneData.thumbnailPath];
+        scorePageState.totalPages = 1;
+
         detailHTML += `
             <div id="tune-preview-container" style="margin: 30px 0; width: 100%; color: var(--text-primary, #2c3e50);">
-                <h2 style="color: var(--text-heading, #2c3e50); margin-bottom: 15px;">Preview</h2>
-                <img src="${tuneData.thumbnailPath}" alt="${escapeHtml(tuneData.title)}"
+                <!-- Page navigation (hidden if single page) -->
+                <div id="page-nav-container" style="display: none; align-items: center; justify-content: center; gap: 20px; margin-bottom: 15px; padding: 10px; background: var(--bg-filter, #f8f9fa); border-radius: 8px;">
+                    <button id="prev-page-btn" onclick="prevScorePage()" style="padding: 8px 16px; background: var(--ocean-mid, #2d8a9f); color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 600;">← Prev</button>
+                    <span id="page-indicator" style="font-weight: 600; color: var(--text-primary, #2c3e50);">Page 1 of 1</span>
+                    <button id="next-page-btn" onclick="nextScorePage()" style="padding: 8px 16px; background: var(--ocean-mid, #2d8a9f); color: white; border: none; border-radius: 6px; cursor: pointer; font-weight: 600;">Next →</button>
+                </div>
+                <img id="score-page-img" src="${tuneData.thumbnailPath}" alt="${escapeHtml(tuneData.title)}"
                      style="width: 100%; max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); cursor: pointer;"
-                     onclick="openLightbox('${escapedThumbnailPath}', '${escapedTitle}')">
+                     onclick="openLightbox(scorePageState.pages[scorePageState.currentPage - 1], '${escapedTitle}')">
+                <!-- Keyboard shortcuts hint for pages -->
+                <div id="page-nav-hint" style="display: none; margin-top: 10px; text-align: center; font-size: 12px; color: var(--text-secondary, #7f8c8d);">
+                    <kbd style="padding: 2px 6px; background: var(--bg-input, white); border: 1px solid var(--border-color, #ccc); border-radius: 3px; font-family: monospace;">→</kbd> Next page
+                    <kbd style="padding: 2px 6px; background: var(--bg-input, white); border: 1px solid var(--border-color, #ccc); border-radius: 3px; font-family: monospace; margin-left: 15px;">←</kbd> Prev page
+                </div>
             </div>
         `;
+
+        // Async detect additional pages after render
+        setTimeout(async () => {
+            const pages = await detectSvgPages(tuneData.thumbnailPath);
+            if (pages.length > 1) {
+                scorePageState.pages = pages;
+                scorePageState.totalPages = pages.length;
+                // Show navigation UI
+                const navContainer = document.getElementById('page-nav-container');
+                const navHint = document.getElementById('page-nav-hint');
+                if (navContainer) navContainer.style.display = 'flex';
+                if (navHint) navHint.style.display = 'block';
+                updatePageIndicator();
+                // Preload page 2
+                preloadAdjacentPages(1);
+            }
+        }, 100);
     }
 
     // Add action buttons
@@ -351,25 +688,13 @@ function showTuneDetailView(tuneSlug, selectedKey = null) {
         <div style="display: flex; gap: 15px; margin: 30px 0; flex-wrap: wrap;">
     `;
 
-    // Generate key-specific paths if needed
-    let pdfPath = tuneData.pdfPath;
+    // Generate key-specific MIDI path if needed
     let midiPath = tuneData.midiPath;
 
     if (tuneData.currentKey && tuneData.baseName && tuneData.directory) {
-        const relativePath = tuneData.directory.replace('/Users/marc.mouries/projects/Sheet-Music/', '');
         // Encode key properly for URLs (handles F#m)
         const encodedKey = encodeURIComponent(tuneData.currentKey);
-        pdfPath = `${relativePath}/${tuneData.baseName}_(${encodedKey}).pdf`;
-        midiPath = `${relativePath}/${tuneData.baseName}_(${encodedKey}).midi`;
-    }
-
-    if (pdfPath) {
-        detailHTML += `
-            <a id="pdf-link" href="${pdfPath}" target="_blank"
-               style="padding: 12px 24px; background: var(--ocean-mid, #2d8a9f); color: white; text-decoration: none; border-radius: 6px; font-weight: 600; display: inline-flex; align-items: center; gap: 8px;">
-                📄 View PDF
-            </a>
-        `;
+        midiPath = `${tuneData.directory}/${tuneData.baseName}_(${encodedKey}).midi`;
     }
 
     if (midiPath) {
@@ -393,6 +718,16 @@ function showTuneDetailView(tuneSlug, selectedKey = null) {
                style="padding: 12px 24px; background: #e74c3c; color: white; text-decoration: none; border-radius: 6px; font-weight: 600; display: inline-flex; align-items: center; gap: 8px;">
                 🎥 Watch Video
             </a>
+        `;
+    }
+
+    // Add Performance Mode button
+    if (tuneData.thumbnailPath) {
+        detailHTML += `
+            <button onclick="togglePerformanceMode()"
+               style="padding: 12px 24px; background: #9b59b6; color: white; border: none; border-radius: 6px; font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 8px;">
+                🎭 Performance Mode
+            </button>
         `;
     }
 
@@ -426,7 +761,7 @@ function showTuneDetailView(tuneSlug, selectedKey = null) {
     detailView.style.display = 'block';
 
     // Update page title
-    document.title = tuneData.title + ' - Marc\'s Sheet Music Collection';
+    document.title = tuneData.title + ' - Mouries\' Music';
 
     // Set up keyboard navigation (arrow keys)
     setupKeyboardNavigation(navInfo);
@@ -451,20 +786,44 @@ function setupKeyboardNavigation(navInfo) {
             return;
         }
 
-        if (e.key === 'ArrowLeft' && navInfo.prev) {
-            // Navigate to previous tune
+        const hasMultiplePages = scorePageState.totalPages > 1;
+        const isFirstPage = scorePageState.currentPage === 1;
+        const isLastPage = scorePageState.currentPage === scorePageState.totalPages;
+
+        if (e.key === 'ArrowLeft') {
             e.preventDefault();
-            const newUrl = new URL(window.location);
-            newUrl.searchParams.set('tune', navInfo.prev);
-            newUrl.searchParams.delete('key');
-            window.location.href = newUrl.toString();
-        } else if (e.key === 'ArrowRight' && navInfo.next) {
-            // Navigate to next tune
+            if (hasMultiplePages && !isFirstPage) {
+                // Navigate to previous page within score
+                prevScorePage();
+            } else if (isFirstPage && navInfo.prev) {
+                // On first page, navigate to previous tune
+                const newUrl = new URL(window.location);
+                newUrl.searchParams.set('tune', navInfo.prev);
+                newUrl.searchParams.delete('key');
+                window.location.href = newUrl.toString();
+            }
+        } else if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'Enter') {
             e.preventDefault();
-            const newUrl = new URL(window.location);
-            newUrl.searchParams.set('tune', navInfo.next);
-            newUrl.searchParams.delete('key');
-            window.location.href = newUrl.toString();
+            if (hasMultiplePages && !isLastPage) {
+                // Navigate to next page within score
+                nextScorePage();
+            } else if (isLastPage && navInfo.next) {
+                // On last page, navigate to next tune
+                const newUrl = new URL(window.location);
+                newUrl.searchParams.set('tune', navInfo.next);
+                newUrl.searchParams.delete('key');
+                window.location.href = newUrl.toString();
+            }
+        } else if (e.key === 'PageDown') {
+            e.preventDefault();
+            if (hasMultiplePages && !isLastPage) {
+                nextScorePage();
+            }
+        } else if (e.key === 'PageUp' || e.key === 'Backspace') {
+            e.preventDefault();
+            if (hasMultiplePages && !isFirstPage) {
+                prevScorePage();
+            }
         } else if (e.key === 'Escape') {
             // Go back to collection
             e.preventDefault();
@@ -490,7 +849,7 @@ function hideDetailView() {
     document.querySelector('.stats').style.display = 'flex';
 
     // Reset page title
-    document.title = 'Marc\'s Sheet Music Collection 🎵';
+    document.title = 'Mouries\' Music 🎵';
 }
 
 // Enhanced URL parameter handling
@@ -582,35 +941,22 @@ function switchKey(tuneSlug, newKey) {
     // Update preview image
     const previewImg = document.querySelector('#tune-preview-container img');
     if (previewImg && tuneData.baseName && tuneData.directory) {
-        const relativePath = tuneData.directory.replace('/Users/marc.mouries/projects/Sheet-Music/', '');
         if (hasFilenameSuffix) {
-            previewImg.src = `${relativePath}/${encodedBaseName}_(${encodedKey})-preview.svg`;
+            previewImg.src = `${tuneData.directory}/${encodedBaseName}_(${encodedKey})-preview.svg`;
         } else {
             // Key is from header, use base preview (no key suffix)
-            previewImg.src = `${relativePath}/${encodedBaseName}-preview.svg`;
-        }
-    }
-
-    // Update PDF link
-    const pdfLink = document.getElementById('pdf-link');
-    if (pdfLink && tuneData.baseName && tuneData.directory) {
-        const relativePath = tuneData.directory.replace('/Users/marc.mouries/projects/Sheet-Music/', '');
-        if (hasFilenameSuffix) {
-            pdfLink.href = `${relativePath}/${encodedBaseName}_(${encodedKey}).pdf`;
-        } else {
-            pdfLink.href = `${relativePath}/${encodedBaseName}.pdf`;
+            previewImg.src = `${tuneData.directory}/${encodedBaseName}-preview.svg`;
         }
     }
 
     // Update MIDI button
     const midiButton = document.getElementById('midi-button');
     if (midiButton && tuneData.baseName && tuneData.directory) {
-        const relativePath = tuneData.directory.replace('/Users/marc.mouries/projects/Sheet-Music/', '');
         let midiPath;
         if (hasFilenameSuffix) {
-            midiPath = `${relativePath}/${encodedBaseName}_(${encodedKey}).midi`;
+            midiPath = `${tuneData.directory}/${encodedBaseName}_(${encodedKey}).midi`;
         } else {
-            midiPath = `${relativePath}/${encodedBaseName}.midi`;
+            midiPath = `${tuneData.directory}/${encodedBaseName}.midi`;
         }
         const basePath = window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1);
         const absolutePath = new URL(midiPath, window.location.origin + basePath).href;
