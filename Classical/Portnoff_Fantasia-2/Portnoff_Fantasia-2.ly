@@ -1,15 +1,17 @@
-%%% -*- coding: utf-8 -*-
-%%%
-%%% Copyright © 2019 Philipp Büttgenbach
-%%%
-%%% This work is licensed under the Creative Commons
-%%% Attribution-ShareAlike 4.0 International License.  To view a copy of
-%%% this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
-%%%
-
 \version "2.24.0"
 
+
 \include "mylib.ily"
+
+
+\header {
+  title = "Russian Fantasia No. 2"
+  composer = "Leo Portnoff"
+  country  = "Ukraine"
+  genre = "Classical"
+  copyright = \copyrightText
+  tagline = ##f
+}
 
 allargando = \markup {\italic "allargando"}
 cadenzaAdLib = \markup {\italic #"Cadenza ad lib."}
@@ -200,23 +202,6 @@ pianoDownMovementI = \new Voice \relative b {
 
 %%% ------------
 
-\header {
-  arranger = ##f
-  composer = "Leo Portnoff"
-  copyright = \copyrightText
-  tagline = ##f
-  enteredby = "Philipp Büttgenbach"
-  opus = "Fantasia 2"
-  source = "http://imslp.org/"
-  title = "Russian Fantasia No. 2"
-}
-
-\paper {
-  #(set-paper-size "c4")
-  binding-offset = 4\mm
-  page-breaking = #ly:page-turn-breaking
-  two-sided = ##t
-}
 
 define(`PianoMovement', `\score {
     <<

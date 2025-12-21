@@ -26,15 +26,15 @@
 
         <div class="stats">
             <div class="stat-item">
-                <span class="stat-number" id="total-count">81</span>
+                <span class="stat-number" id="total-count">87</span>
                 <span>Total Tunes</span>
             </div>
             <div class="stat-item">
-                <span class="stat-number">4</span>
+                <span class="stat-number">5</span>
                 <span>Categories</span>
             </div>
             <div class="stat-item">
-                <span class="stat-number">51</span>
+                <span class="stat-number">53</span>
                 <span>Composers</span>
             </div>
             <div class="stat-item">
@@ -42,11 +42,11 @@
                 <span>Countries</span>
             </div>
             <div class="stat-item">
-                <span class="stat-number">74</span>
+                <span class="stat-number">79</span>
                 <span>PDFs Available</span>
             </div>
             <div class="stat-item">
-                <span class="stat-number">61</span>
+                <span class="stat-number">66</span>
                 <span>MIDI Files</span>
             </div>
         </div>
@@ -60,6 +60,7 @@
                 <option value="Christmas">Christmas</option>
                 <option value="Classical">Classical</option>
                 <option value="Folk/Canada">Folk/Canada</option>
+                <option value="Other">Other</option>
             </select>
 
             <select id="country-filter" onchange="filterItems()">
@@ -67,7 +68,7 @@
                 <option value="Austria">🇦🇹 Austria (10)</option>
                 <option value="Canada">🇨🇦 Canada (3)</option>
                 <option value="Czech Republic">🇨🇿 Czech Republic (1)</option>
-                <option value="England">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (11)</option>
+                <option value="England">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (16)</option>
                 <option value="France">🇫🇷 France (6)</option>
                 <option value="Germany">🇩🇪 Germany (3)</option>
                 <option value="Ireland">🇮🇪 Ireland (18)</option>
@@ -76,7 +77,7 @@
                 <option value="Norway">🇳🇴 Norway (2)</option>
                 <option value="Russia">🇷🇺 Russia (2)</option>
                 <option value="USA">🇺🇸 USA (1)</option>
-                <option value="Ukraine">🇺🇦 Ukraine (2)</option>
+                <option value="Ukraine">🇺🇦 Ukraine (3)</option>
                 <option value="Wales">🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (1)</option>
             </select>
 
@@ -139,6 +140,8 @@
                 <option value="Classical piano piece (arr.)">Classical piano piece (arr.)</option>
                 <option value="Classical serenade">Classical serenade</option>
                 <option value="Classical/early romantic">Classical/early romantic</option>
+                <option value="English / session adaptation">English / session adaptation</option>
+                <option value="English ballad">English ballad</option>
                 <option value="English carol">English carol</option>
                 <option value="English hymn">English hymn</option>
                 <option value="French Christmas song">French Christmas song</option>
@@ -208,6 +211,7 @@
                 <option value="Dance tune / reel">Dance tune / reel</option>
                 <option value="Hymn-like tune">Hymn-like tune</option>
                 <option value="Jig">Jig</option>
+                <option value="Jig adaptation">Jig adaptation</option>
                 <option value="Lullaby">Lullaby</option>
                 <option value="Lute song / air">Lute song / air</option>
                 <option value="March / tune">March / tune</option>
@@ -241,7 +245,7 @@
             <select id="key-filter" onchange="filterItems()">
                 <option value="">All Keys</option>
                 <option value="A minor">C Major / A minor (6)</option>
-                <option value="E minor">G Major / E minor (24)</option>
+                <option value="E minor">G Major / E minor (28)</option>
                 <option value="D major">D Major / B minor (32)</option>
                 <option value="F major">F Major / D minor (1)</option>
                 <option value="E-flat major (often D)">Eb Major / C minor (2)</option>
@@ -282,6 +286,7 @@
                 <option value="Country / fiddle events">Country / fiddle events</option>
                 <option value="Dance sets, sessions">Dance sets, sessions</option>
                 <option value="Early music performance">Early music performance</option>
+                <option value="Fun variation in sessions">Fun variation in sessions</option>
                 <option value="March sets, historical pieces">March sets, historical pieces</option>
                 <option value="Orchestral excerpts, ceremonies">Orchestral excerpts, ceremonies</option>
                 <option value="Recital / expressive playing">Recital / expressive playing</option>
@@ -292,6 +297,7 @@
                 <option value="Recital piece">Recital piece</option>
                 <option value="Recital showpiece">Recital showpiece</option>
                 <option value="Recital, bedtime music">Recital, bedtime music</option>
+                <option value="Recital, church, folk sets">Recital, church, folk sets</option>
                 <option value="Recital, dramatic feature">Recital, dramatic feature</option>
                 <option value="Recital, fingerings study">Recital, fingerings study</option>
                 <option value="Recital, lyrical showpiece">Recital, lyrical showpiece</option>
@@ -319,10 +325,10 @@
 
             <select id="mood-filter" onchange="filterItems()">
                 <option value="">All Moods</option>
+                <option value="lyrical">Lyrical (10)</option>
                 <option value="energetic">Energetic (8)</option>
                 <option value="dramatic">Dramatic (7)</option>
-                <option value="lyrical">Lyrical (6)</option>
-                <option value="playful">Playful (5)</option>
+                <option value="playful">Playful (6)</option>
                 <option value="driving">Driving (5)</option>
                 <option value="tender">Tender (5)</option>
                 <option value="peaceful">Peaceful (5)</option>
@@ -332,6 +338,7 @@
                 <option value="introspective">Introspective (4)</option>
                 <option value="sacred">Sacred (4)</option>
                 <option value="noble">Noble (4)</option>
+                <option value="melancholic">Melancholic (4)</option>
                 <option value="storytelling">Storytelling (3)</option>
                 <option value="cheerful">Cheerful (3)</option>
                 <option value="joyful">Joyful (3)</option>
@@ -381,6 +388,7 @@
                 <option value="pastoral">Pastoral (1)</option>
                 <option value="warm">Warm (1)</option>
                 <option value="soothing">Soothing (1)</option>
+                <option value="lilting">Lilting (1)</option>
             </select>
 
             <select id="session-filter" onchange="filterItems()" style="display: none;">
@@ -394,6 +402,7 @@
                 <option value="Moderately common in contemporary fiddle circles">Moderately common in contemporary fiddle circles</option>
                 <option value="Moderately common in modern circles">Moderately common in modern circles</option>
                 <option value="Moderately common in niche circles">Moderately common in niche circles</option>
+                <option value="Occasional">Occasional</option>
                 <option value="Very common">Very common</option>
                 <option value="Very common (but sometimes overplayed)">Very common (but sometimes overplayed)</option>
             </select>
@@ -425,7 +434,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                <tr data-category="Celtic/Irish" data-difficulty="3" data-tags="traditional,celtic,irish,jig" data-style="" data-country="Ireland" data-dance-types="" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish / film-related" data-csv-period="Traditional (pre-modern)" data-csv-type="Medley / programmatic tune" data-csv-key="D major / G major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session / performance" data-csv-session="Less common" data-csv-moods="playful,storytelling" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="darby-o-gill-fox-chase" data-available-keys='["C"]' data-filename-keys='[]' data-base-name="Darby-O-Gill-Fox-Chase" data-file-key="" data-directory="Folk_Ireland/Darby-O-Gill_Fox-Chase" onclick="navigateToTune(event, 'darby-o-gill-fox-chase')">
+                <tr data-category="Celtic/Irish" data-difficulty="3" data-tags="jig,celtic,traditional,irish" data-style="" data-country="Ireland" data-dance-types="" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish / film-related" data-csv-period="Traditional (pre-modern)" data-csv-type="Medley / programmatic tune" data-csv-key="D major / G major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session / performance" data-csv-session="Less common" data-csv-moods="playful,storytelling" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="darby-o-gill-fox-chase" data-available-keys='["C"]' data-filename-keys='[]' data-base-name="Darby-O-Gill-Fox-Chase" data-file-key="" data-directory="Folk_Ireland/Darby-O-Gill_Fox-Chase" onclick="navigateToTune(event, 'darby-o-gill-fox-chase')">
                     <td>
                         <strong>Darby O&#x27; Gill - Fox Chase</strong><br><small style="color: #7f8c8d;">Irish Jig – Ornamented (top) vs Plain (bottom)</small></td>
                     <td>Traditional</td>
@@ -517,7 +526,7 @@
                         <button class="btn" onclick="playMidi('Folk_Ireland/Molly-Ban/Molly-Ban.midi', "Molly B\u00e1n")" title="Play MIDI">🎵 Play</button>
                     </td>
                 </tr>
-                <tr data-category="Celtic/Irish" data-difficulty="3" data-tags="traditional,celtic,irish,jig" data-style="" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="D major / G major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Moderately common" data-csv-moods="rolling,thoughtful" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="paddy-fahey-s-jig" data-available-keys='["Dm"]' data-filename-keys='[]' data-base-name="Paddy-Fahy-s-Jig" data-file-key="" data-directory="Folk_Ireland/Paddy-Fahey&#x27;s-Jig" onclick="navigateToTune(event, 'paddy-fahey-s-jig')">
+                <tr data-category="Celtic/Irish" data-difficulty="3" data-tags="jig,celtic,traditional,irish" data-style="" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="D major / G major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Moderately common" data-csv-moods="rolling,thoughtful" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="paddy-fahey-s-jig" data-available-keys='["Dm"]' data-filename-keys='[]' data-base-name="Paddy-Fahy-s-Jig" data-file-key="" data-directory="Folk_Ireland/Paddy-Fahey&#x27;s-Jig" onclick="navigateToTune(event, 'paddy-fahey-s-jig')">
                     <td>
                         <strong>Paddy Fahey&#x27;s Jig</strong></td>
                     <td>Traditional</td>
@@ -530,7 +539,7 @@
                         <button class="btn" onclick="playMidi('Folk_Ireland/Paddy-Fahey%27s-Jig/Paddy-Fahy-s-Jig.midi', "Paddy Fahey's Jig")" title="Play MIDI">🎵 Play</button>
                     </td>
                 </tr>
-                <tr data-category="Celtic/Irish" data-difficulty="2" data-tags="traditional,celtic,irish,jig" data-style="" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="E Dorian (Em)" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Very common (but sometimes overplayed)" data-csv-moods="energetic,bright" data-top10="true" data-christmas="false" data-wedding="false" data-tune-slug="swallowtail-jig" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="Swallowtail-Jig" data-file-key="" data-directory="Folk_Ireland/Swallowtail-Jig" onclick="navigateToTune(event, 'swallowtail-jig')">
+                <tr data-category="Celtic/Irish" data-difficulty="2" data-tags="jig,celtic,traditional,irish" data-style="" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="E Dorian (Em)" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Very common (but sometimes overplayed)" data-csv-moods="energetic,bright" data-top10="true" data-christmas="false" data-wedding="false" data-tune-slug="swallowtail-jig" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="Swallowtail-Jig" data-file-key="" data-directory="Folk_Ireland/Swallowtail-Jig" onclick="navigateToTune(event, 'swallowtail-jig')">
                     <td>
                         <strong>Swallowtail Jig</strong></td>
                     <td>Traditional</td>
@@ -543,7 +552,7 @@
                         <button class="btn" onclick="playMidi('Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig.midi', "Swallowtail Jig")" title="Play MIDI">🎵 Play</button>
                     </td>
                 </tr>
-                <tr data-category="Celtic/Irish" data-difficulty="2" data-tags="traditional,celtic,irish,jig" data-style="" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="E Dorian (Em)" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Very common (but sometimes overplayed)" data-csv-moods="energetic,bright" data-top10="true" data-christmas="false" data-wedding="false" data-tune-slug="swallowtail-jig-easy" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="Swallowtail-Jig_[Easy]" data-file-key="" data-directory="Folk_Ireland/Swallowtail-Jig" onclick="navigateToTune(event, 'swallowtail-jig-easy')">
+                <tr data-category="Celtic/Irish" data-difficulty="2" data-tags="jig,celtic,traditional,irish" data-style="" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="E Dorian (Em)" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Very common (but sometimes overplayed)" data-csv-moods="energetic,bright" data-top10="true" data-christmas="false" data-wedding="false" data-tune-slug="swallowtail-jig-easy" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="Swallowtail-Jig_[Easy]" data-file-key="" data-directory="Folk_Ireland/Swallowtail-Jig" onclick="navigateToTune(event, 'swallowtail-jig-easy')">
                     <td>
                         <strong>Swallowtail Jig</strong><br><small style="color: #7f8c8d;">Easy Version</small></td>
                     <td>Traditional</td>
@@ -674,7 +683,7 @@
                         <button class="btn" onclick="playMidi('Christmas/Carol-of-the-bells/Carol-of-the-bells_Violin_%28Em%29.midi', "Carol of the Bells")" title="Play MIDI">🎵 Play</button>
                     </td>
                 </tr>
-                <tr data-category="Christmas" data-difficulty="3" data-tags="traditional,christmas,waltz" data-style="" data-country="Ukraine" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas / classical" data-csv-subgenre="Ukrainian carol" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Carol / ostinato-based" data-csv-key="E minor" data-csv-ensemble="Solo violin / ensemble" data-csv-use-case="Christmas concerts" data-csv-session="Common in Christmas sets" data-csv-moods="mysterious,driving" data-top10="false" data-christmas="true" data-wedding="false" data-tune-slug="carol-of-the-bells" data-available-keys='["Gm"]' data-filename-keys='[]' data-base-name="Carol-of-the-bells_SATB" data-file-key="" data-directory="Christmas/Carol-of-the-bells" onclick="navigateToTune(event, 'carol-of-the-bells')">
+                <tr data-category="Christmas" data-difficulty="3" data-tags="traditional,waltz,christmas" data-style="" data-country="Ukraine" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas / classical" data-csv-subgenre="Ukrainian carol" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Carol / ostinato-based" data-csv-key="E minor" data-csv-ensemble="Solo violin / ensemble" data-csv-use-case="Christmas concerts" data-csv-session="Common in Christmas sets" data-csv-moods="mysterious,driving" data-top10="false" data-christmas="true" data-wedding="false" data-tune-slug="carol-of-the-bells" data-available-keys='["Gm"]' data-filename-keys='[]' data-base-name="Carol-of-the-bells_SATB" data-file-key="" data-directory="Christmas/Carol-of-the-bells" onclick="navigateToTune(event, 'carol-of-the-bells')">
                     <td>
                         <strong>Carol of the Bells</strong><br><small style="color: #7f8c8d;">Shchedryk (Щедрик) - SATB</small></td>
                     <td>Mykola Leontovych (1877–1921)</td>
@@ -839,7 +848,7 @@
                         <button class="btn" onclick="playMidi('Christmas/Silent-Night/silent_night-ORIGINAL.midi', "Stille  Nacht")" title="Play MIDI">🎵 Play</button>
                     </td>
                 </tr>
-                <tr data-category="Christmas" data-difficulty="1" data-tags="traditional,christmas,waltz" data-style="" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene,devotional" data-top10="true" data-christmas="true" data-wedding="false" data-tune-slug="the-first-noel" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="The-First-Noel_Duet" data-file-key="" data-directory="Christmas/The-First-Noel" onclick="navigateToTune(event, 'the-first-noel')">
+                <tr data-category="Christmas" data-difficulty="1" data-tags="traditional,waltz,christmas" data-style="" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene,devotional" data-top10="true" data-christmas="true" data-wedding="false" data-tune-slug="the-first-noel" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="The-First-Noel_Duet" data-file-key="" data-directory="Christmas/The-First-Noel" onclick="navigateToTune(event, 'the-first-noel')">
                     <td>
                         <strong>The First Noel</strong><br><small style="color: #7f8c8d;">Duet</small></td>
                     <td>Traditional French (18th Century)</td>
@@ -851,7 +860,7 @@
                         <a href="Christmas/The-First-Noel/The-First-Noel_Duet.pdf" title="View PDF" target="_blank">📄 PDF</a>
                     </td>
                 </tr>
-                <tr data-category="Christmas" data-difficulty="1" data-tags="traditional,christmas,waltz" data-style="" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene,devotional" data-top10="true" data-christmas="true" data-wedding="false" data-tune-slug="the-first-noel" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="first-noel_A" data-file-key="" data-directory="Christmas/First-Noel" onclick="navigateToTune(event, 'the-first-noel')">
+                <tr data-category="Christmas" data-difficulty="1" data-tags="traditional,waltz,christmas" data-style="" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene,devotional" data-top10="true" data-christmas="true" data-wedding="false" data-tune-slug="the-first-noel" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="first-noel_A" data-file-key="" data-directory="Christmas/First-Noel" onclick="navigateToTune(event, 'the-first-noel')">
                     <td>
                         <strong>The First Noel</strong></td>
                     <td>Traditional French (18th Century)</td>
@@ -864,7 +873,7 @@
                         <button class="btn" onclick="playMidi('Christmas/First-Noel/first-noel_A.midi', "The First Noel")" title="Play MIDI">🎵 Play</button>
                     </td>
                 </tr>
-                <tr data-category="Christmas" data-difficulty="1" data-tags="traditional,christmas,waltz" data-style="" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene" data-top10="false" data-christmas="true" data-wedding="false" data-tune-slug="the-first-no-l" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="The-First-Noel" data-file-key="" data-directory="Christmas/The-First-Noel" onclick="navigateToTune(event, 'the-first-no-l')">
+                <tr data-category="Christmas" data-difficulty="1" data-tags="traditional,waltz,christmas" data-style="" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene" data-top10="false" data-christmas="true" data-wedding="false" data-tune-slug="the-first-no-l" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="The-First-Noel" data-file-key="" data-directory="Christmas/The-First-Noel" onclick="navigateToTune(event, 'the-first-no-l')">
                     <td>
                         <strong>The First Noël</strong></td>
                     <td>Traditional French (18th Century)</td>
@@ -877,7 +886,7 @@
                         <button class="btn" onclick="playMidi('Christmas/The-First-Noel/The-First-Noel.midi', "The First No\u00ebl")" title="Play MIDI">🎵 Play</button>
                     </td>
                 </tr>
-                <tr data-category="Christmas" data-difficulty="1" data-tags="traditional,christmas,waltz" data-style="" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="English carol" data-csv-period="Traditional (pre-modern)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin / ensemble" data-csv-use-case="Christmas caroling" data-csv-session="Very common" data-csv-moods="festive" data-top10="false" data-christmas="true" data-wedding="false" data-tune-slug="we-wish-you-a-merry-christmas" data-available-keys='["G"]' data-filename-keys='[]' data-base-name="We-Wish-You-a-Merry-Christmas" data-file-key="" data-directory="Christmas/We-Wish-You-a-Merry-Christmas" onclick="navigateToTune(event, 'we-wish-you-a-merry-christmas')">
+                <tr data-category="Christmas" data-difficulty="1" data-tags="traditional,waltz,christmas" data-style="" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="English carol" data-csv-period="Traditional (pre-modern)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin / ensemble" data-csv-use-case="Christmas caroling" data-csv-session="Very common" data-csv-moods="festive" data-top10="false" data-christmas="true" data-wedding="false" data-tune-slug="we-wish-you-a-merry-christmas" data-available-keys='["G"]' data-filename-keys='[]' data-base-name="We-Wish-You-a-Merry-Christmas" data-file-key="" data-directory="Christmas/We-Wish-You-a-Merry-Christmas" onclick="navigateToTune(event, 'we-wish-you-a-merry-christmas')">
                     <td>
                         <strong>We Wish You a Merry Christmas</strong><br><small style="color: #7f8c8d;">XVI Century</small></td>
                     <td>Traditional English</td>
@@ -1244,6 +1253,17 @@
                         <button class="btn" onclick="playMidi('Classical/Mozart_Rondo-Alla-Turca/KV331_3_RondoAllaTurca.midi', "Rondo Alla Turca")" title="Play MIDI">🎵 Play</button>
                     </td>
                 </tr>
+                <tr data-category="Classical" data-difficulty="2" data-tags="classical" data-style="" data-country="Ukraine" data-dance-types="" data-genres="classical" data-occasions="" data-csv-genre="" data-csv-subgenre="" data-csv-period="" data-csv-type="" data-csv-key="" data-csv-ensemble="" data-csv-use-case="" data-csv-session="" data-csv-moods="" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="russian-fantasia-no-2" data-available-keys='["Dm"]' data-filename-keys='[]' data-base-name="Portnoff_Fantasia-2" data-file-key="" data-directory="Classical/Portnoff_Fantasia-2" onclick="navigateToTune(event, 'russian-fantasia-no-2')">
+                    <td>
+                        <strong>Russian Fantasia No. 2</strong></td>
+                    <td>Leo Portnoff</td>
+                    <td>🇺🇦 Ukraine</td>
+                    <td>—</td>
+                    <td>Dm</td>
+                    <td><div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div></td>
+                    <td class="links">
+                    </td>
+                </tr>
                 <tr data-category="Classical" data-difficulty="4" data-tags="classical" data-style="" data-country="Russia" data-dance-types="" data-genres="classical" data-occasions="" data-csv-genre="Classical" data-csv-subgenre="Romantic orchestral" data-csv-period="Late Romantic (c. 1850–1920)" data-csv-type="Orchestral excerpt" data-csv-key="B minor" data-csv-ensemble="Solo violin (excerpt)" data-csv-use-case="Recital excerpt, orchestral study" data-csv-session="N/A" data-csv-moods="exotic,narrative" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="scheherazade-mvt-2-the-kalendar-prince" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="Scheherazade-Mvt-2-Themes-Violin" data-file-key="" data-directory="Classical/Rimsky-Korsakov_Sheherazade/Scheherazade-Mvt-2-Themes-Violin" onclick="navigateToTune(event, 'scheherazade-mvt-2-the-kalendar-prince')">
                     <td>
                         <strong>Scheherazade – Mvt. 2: The Kalendar Prince</strong></td>
@@ -1416,7 +1436,7 @@
                         <a href="Classical/Brahms_Berceuse/Brahms-Berceuse.pdf" title="View PDF" target="_blank">📄 PDF</a>
                     </td>
                 </tr>
-                <tr data-category="Folk/Canada" data-difficulty="3" data-tags="folk,traditional,canadian" data-style="canadian traditional" data-country="Canada" data-dance-types="" data-genres="folk" data-occasions="" data-csv-genre="Folk / barndance" data-csv-subgenre="Quebec / French Canadian" data-csv-period="Contemporary (c. 1975–present)" data-csv-type="Barndance" data-csv-key="A major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Dance sets, sessions" data-csv-session="Moderately common in niche circles" data-csv-moods="cheerful,bouncy" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="l-air-mignonne" data-available-keys='["A"]' data-filename-keys='[]' data-base-name="L-Air-Mignonne" data-file-key="" data-directory="Folk_Canada/L-Air-Mignonne" onclick="navigateToTune(event, 'l-air-mignonne')">
+                <tr data-category="Folk/Canada" data-difficulty="3" data-tags="traditional,folk,canadian" data-style="canadian traditional" data-country="Canada" data-dance-types="" data-genres="folk" data-occasions="" data-csv-genre="Folk / barndance" data-csv-subgenre="Quebec / French Canadian" data-csv-period="Contemporary (c. 1975–present)" data-csv-type="Barndance" data-csv-key="A major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Dance sets, sessions" data-csv-session="Moderately common in niche circles" data-csv-moods="cheerful,bouncy" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="l-air-mignonne" data-available-keys='["A"]' data-filename-keys='[]' data-base-name="L-Air-Mignonne" data-file-key="" data-directory="Folk_Canada/L-Air-Mignonne" onclick="navigateToTune(event, 'l-air-mignonne')">
                     <td>
                         <strong>L&#x27;Air Mignonne</strong><br><small style="color: #7f8c8d;">barndance</small></td>
                     <td>Simon Riopel</td>
@@ -1429,7 +1449,7 @@
                         <button class="btn" onclick="playMidi('Folk_Canada/L-Air-Mignonne/L-Air-Mignonne.midi', "L'Air Mignonne")" title="Play MIDI">🎵 Play</button>
                     </td>
                 </tr>
-                <tr data-category="Folk/Canada" data-difficulty="3" data-tags="folk,traditional,canadian,waltz" data-style="" data-country="Canada" data-dance-types="waltz" data-genres="folk" data-occasions="" data-csv-genre="Folk / fiddle" data-csv-subgenre="Canadian waltz" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Waltz" data-csv-key="D major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Country / fiddle events" data-csv-session="Moderately common" data-csv-moods="sentimental" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="teardrop-waltz" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="Teardrop-Waltz_Marc" data-file-key="" data-directory="Folk_Canada/Teardrop-Waltz" onclick="navigateToTune(event, 'teardrop-waltz')">
+                <tr data-category="Folk/Canada" data-difficulty="3" data-tags="traditional,folk,waltz,canadian" data-style="" data-country="Canada" data-dance-types="waltz" data-genres="folk" data-occasions="" data-csv-genre="Folk / fiddle" data-csv-subgenre="Canadian waltz" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Waltz" data-csv-key="D major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Country / fiddle events" data-csv-session="Moderately common" data-csv-moods="sentimental" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="teardrop-waltz" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="Teardrop-Waltz_Marc" data-file-key="" data-directory="Folk_Canada/Teardrop-Waltz" onclick="navigateToTune(event, 'teardrop-waltz')">
                     <td>
                         <strong>Teardrop Waltz</strong></td>
                     <td>Reg Bouvette</td>
@@ -1442,7 +1462,7 @@
                         <button class="btn" onclick="playMidi('Folk_Canada/Teardrop-Waltz/Teardrop-Waltz_Marc.midi', "Teardrop Waltz")" title="Play MIDI">🎵 Play</button>
                     </td>
                 </tr>
-                <tr data-category="Folk/Canada" data-difficulty="3" data-tags="folk,traditional,canadian,waltz" data-style="" data-country="Canada" data-dance-types="waltz" data-genres="folk" data-occasions="" data-csv-genre="Folk / fiddle" data-csv-subgenre="Canadian waltz" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Waltz" data-csv-key="D major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Country / fiddle events" data-csv-session="Moderately common" data-csv-moods="sentimental" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="teardrop-waltz" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="Teardrop-Waltz-Casey-Willis" data-file-key="" data-directory="Folk_Canada/Teardrop-Waltz" onclick="navigateToTune(event, 'teardrop-waltz')">
+                <tr data-category="Folk/Canada" data-difficulty="3" data-tags="traditional,folk,waltz,canadian" data-style="" data-country="Canada" data-dance-types="waltz" data-genres="folk" data-occasions="" data-csv-genre="Folk / fiddle" data-csv-subgenre="Canadian waltz" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Waltz" data-csv-key="D major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Country / fiddle events" data-csv-session="Moderately common" data-csv-moods="sentimental" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="teardrop-waltz" data-available-keys='["D"]' data-filename-keys='[]' data-base-name="Teardrop-Waltz-Casey-Willis" data-file-key="" data-directory="Folk_Canada/Teardrop-Waltz" onclick="navigateToTune(event, 'teardrop-waltz')">
                     <td>
                         <strong>Teardrop Waltz</strong></td>
                     <td>Reg Bouvette</td>
@@ -1455,12 +1475,78 @@
                         <button class="btn" onclick="playMidi('Folk_Canada/Teardrop-Waltz/Teardrop-Waltz-Casey-Willis.midi', "Teardrop Waltz")" title="Play MIDI">🎵 Play</button>
                     </td>
                 </tr>
+                <tr data-category="Other" data-difficulty="2" data-tags="waltz" data-style="" data-country="England" data-dance-types="" data-genres="" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="English ballad" data-csv-period="Renaissance (c. 1400–1600)" data-csv-type="Song / air" data-csv-key="E minor" data-csv-ensemble="Solo violin" data-csv-use-case="Recital, church, folk sets" data-csv-session="Common" data-csv-moods="melancholic,lyrical" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="greensleeves" data-available-keys='["Em"]' data-filename-keys='[]' data-base-name="greensleeves" data-file-key="" data-directory="Folk_England/Greensleeves" onclick="navigateToTune(event, 'greensleeves')">
+                    <td>
+                        <strong>Greensleeves</strong><br><small style="color: #7f8c8d;">for Vioin</small></td>
+                    <td>Traditional English Folk Song</td>
+                    <td>🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</td>
+                    <td>Folk<br><small style="color: #7f8c8d;">English ballad</small></td>
+                    <td>Em</td>
+                    <td><div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div></td>
+                    <td class="links">
+                        <a href="Folk_England/Greensleeves/greensleeves.pdf" title="View PDF" target="_blank">📄 PDF</a>
+                        <button class="btn" onclick="playMidi('Folk_England/Greensleeves/greensleeves.midi', "Greensleeves")" title="Play MIDI">🎵 Play</button>
+                    </td>
+                </tr>
+                <tr data-category="Other" data-difficulty="2" data-tags="" data-style="Renaissance" data-country="England" data-dance-types="" data-genres="" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="English ballad" data-csv-period="Renaissance (c. 1400–1600)" data-csv-type="Song / air" data-csv-key="E minor" data-csv-ensemble="Solo violin" data-csv-use-case="Recital, church, folk sets" data-csv-session="Common" data-csv-moods="melancholic,lyrical" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="greensleeves" data-available-keys='[]' data-filename-keys='[]' data-base-name="greensleeves_guitar" data-file-key="" data-directory="Folk_England/Greensleeves" onclick="navigateToTune(event, 'greensleeves')">
+                    <td>
+                        <strong>Greensleeves</strong></td>
+                    <td>Traditional</td>
+                    <td>🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</td>
+                    <td>Folk<br><small style="color: #7f8c8d;">English ballad</small></td>
+                    <td>—</td>
+                    <td><div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div></td>
+                    <td class="links">
+                        <a href="Folk_England/Greensleeves/greensleeves_guitar.pdf" title="View PDF" target="_blank">📄 PDF</a>
+                        <button class="btn" onclick="playMidi('Folk_England/Greensleeves/greensleeves_guitar.midi', "Greensleeves")" title="Play MIDI">🎵 Play</button>
+                    </td>
+                </tr>
+                <tr data-category="Other" data-difficulty="2" data-tags="" data-style="Renaissance" data-country="England" data-dance-types="" data-genres="" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="English ballad" data-csv-period="Renaissance (c. 1400–1600)" data-csv-type="Song / air" data-csv-key="E minor" data-csv-ensemble="Solo violin" data-csv-use-case="Recital, church, folk sets" data-csv-session="Common" data-csv-moods="melancholic,lyrical" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="greensleeves" data-available-keys='[]' data-filename-keys='[]' data-base-name="greensleeves_melody" data-file-key="" data-directory="Folk_England/Greensleeves" onclick="navigateToTune(event, 'greensleeves')">
+                    <td>
+                        <strong>Greensleeves</strong></td>
+                    <td>Traditional</td>
+                    <td>🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</td>
+                    <td>Folk<br><small style="color: #7f8c8d;">English ballad</small></td>
+                    <td>—</td>
+                    <td><div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div></td>
+                    <td class="links">
+                        <a href="Folk_England/Greensleeves/greensleeves_melody.pdf" title="View PDF" target="_blank">📄 PDF</a>
+                        <button class="btn" onclick="playMidi('Folk_England/Greensleeves/greensleeves_melody.midi', "Greensleeves")" title="Play MIDI">🎵 Play</button>
+                    </td>
+                </tr>
+                <tr data-category="Other" data-difficulty="2" data-tags="" data-style="" data-country="England" data-dance-types="" data-genres="" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="English ballad" data-csv-period="Renaissance (c. 1400–1600)" data-csv-type="Song / air" data-csv-key="E minor" data-csv-ensemble="Solo violin" data-csv-use-case="Recital, church, folk sets" data-csv-session="Common" data-csv-moods="melancholic,lyrical" data-top10="false" data-christmas="false" data-wedding="false" data-tune-slug="greensleeves" data-available-keys='["Em"]' data-filename-keys='[]' data-base-name="greensleeves-(Em)" data-file-key="" data-directory="Folk_England/Greensleeves" onclick="navigateToTune(event, 'greensleeves')">
+                    <td>
+                        <strong>Greensleeves</strong></td>
+                    <td>Traditional English</td>
+                    <td>🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</td>
+                    <td>Folk<br><small style="color: #7f8c8d;">English ballad</small></td>
+                    <td>Em</td>
+                    <td><div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div></td>
+                    <td class="links">
+                        <a href="Folk_England/Greensleeves/greensleeves-%28Em%29.pdf" title="View PDF" target="_blank">📄 PDF</a>
+                        <button class="btn" onclick="playMidi('Folk_England/Greensleeves/greensleeves-%28Em%29.midi', "Greensleeves")" title="Play MIDI">🎵 Play</button>
+                    </td>
+                </tr>
+                <tr data-category="Other" data-difficulty="3" data-tags="jig" data-style="" data-country="England" data-dance-types="jig" data-genres="" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="English / session adaptation" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig adaptation" data-csv-key="G major / E minor" data-csv-ensemble="Solo fiddle" data-csv-use-case="Fun variation in sessions" data-csv-session="Occasional" data-csv-moods="playful,lilting" data-top10="true" data-christmas="false" data-wedding="false" data-tune-slug="greensleeves-jig" data-available-keys='["Gm"]' data-filename-keys='[]' data-base-name="Greensleeves-Jig" data-file-key="" data-directory="Folk_England/Greensleeves-Jig" onclick="navigateToTune(event, 'greensleeves-jig')">
+                    <td>
+                        <strong>Greensleeves Jig</strong><br><small style="color: #7f8c8d;">Jig arrangement</small></td>
+                    <td>Traditional English</td>
+                    <td>🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</td>
+                    <td>Folk<br><small style="color: #7f8c8d;">English / session adaptation</small></td>
+                    <td>Gm</td>
+                    <td><div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div></td>
+                    <td class="links">
+                        <a href="https://www.youtube.com/watch?v=4aDK9qdoWpk" title="Watch video" target="_blank">🎥 Video</a>
+                        <a href="Folk_England/Greensleeves-Jig/Greensleeves-Jig.pdf" title="View PDF" target="_blank">📄 PDF</a>
+                        <button class="btn" onclick="playMidi('Folk_England/Greensleeves-Jig/Greensleeves-Jig.midi', "Greensleeves Jig")" title="Play MIDI">🎵 Play</button>
+                    </td>
+                </tr>
                 </tbody>
             </table>
         </div>
 
         <div id="cards-container" class="cards-grid">
-            <div class="card" data-category="Celtic/Irish" data-difficulty="3" data-tags="traditional,celtic,irish,jig" data-country="Ireland" data-dance-types="" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish / film-related" data-csv-period="Traditional (pre-modern)" data-csv-type="Medley / programmatic tune" data-csv-key="D major / G major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session / performance" data-csv-session="Less common" data-csv-moods="playful,storytelling" data-top10="false" data-christmas="false" data-wedding="false">
+            <div class="card" data-category="Celtic/Irish" data-difficulty="3" data-tags="jig,celtic,traditional,irish" data-country="Ireland" data-dance-types="" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish / film-related" data-csv-period="Traditional (pre-modern)" data-csv-type="Medley / programmatic tune" data-csv-key="D major / G major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session / performance" data-csv-session="Less common" data-csv-moods="playful,storytelling" data-top10="false" data-christmas="false" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Folk_Ireland/Darby-O-Gill_Fox-Chase/Darby-O-Gill-Fox-Chase-preview.png" alt="Darby O&#x27; Gill - Fox Chase" onclick="openLightbox('Folk_Ireland/Darby-O-Gill_Fox-Chase/Darby-O-Gill-Fox-Chase-preview.png', 'Darby O&#x27; Gill - Fox Chase')">
                 </div>
@@ -1472,7 +1558,7 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">Irish / film-related</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">traditional</span><span class="tag">celtic</span><span class="tag">irish</span><span class="tag">jig</span></div>
+                <div class="tags"><span class="tag">jig</span><span class="tag">celtic</span><span class="tag">traditional</span><span class="tag">irish</span></div>
                 <div class="links">
                     <a href="Folk_Ireland/Darby-O-Gill_Fox-Chase/Darby-O-Gill-Fox-Chase.pdf" target="_blank">📄 PDF</a>
                     <button class="btn" onclick="playMidi('Folk_Ireland/Darby-O-Gill_Fox-Chase/Darby-O-Gill-Fox-Chase.midi', "Darby O' Gill - Fox Chase")">🎵 Play</button>
@@ -1587,7 +1673,7 @@
                     <button class="btn" onclick="playMidi('Folk_Ireland/Molly-Ban/Molly-Ban.midi', "Molly B\u00e1n")">🎵 Play</button>
                 </div>
             </div>
-            <div class="card" data-category="Celtic/Irish" data-difficulty="3" data-tags="traditional,celtic,irish,jig" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="D major / G major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Moderately common" data-csv-moods="rolling,thoughtful" data-top10="false" data-christmas="false" data-wedding="false">
+            <div class="card" data-category="Celtic/Irish" data-difficulty="3" data-tags="jig,celtic,traditional,irish" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="D major / G major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Moderately common" data-csv-moods="rolling,thoughtful" data-top10="false" data-christmas="false" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Folk_Ireland/Paddy-Fahey%27s-Jig/Paddy-Fahy-s-Jig-preview.png" alt="Paddy Fahey&#x27;s Jig" onclick="openLightbox('Folk_Ireland/Paddy-Fahey%27s-Jig/Paddy-Fahy-s-Jig-preview.png', 'Paddy Fahey&#x27;s Jig')">
                 </div>
@@ -1599,13 +1685,13 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">Irish jig</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">traditional</span><span class="tag">celtic</span><span class="tag">irish</span><span class="tag">jig</span></div>
+                <div class="tags"><span class="tag">jig</span><span class="tag">celtic</span><span class="tag">traditional</span><span class="tag">irish</span></div>
                 <div class="links">
                     <a href="Folk_Ireland/Paddy-Fahey%27s-Jig/Paddy-Fahy-s-Jig.pdf" target="_blank">📄 PDF</a>
                     <button class="btn" onclick="playMidi('Folk_Ireland/Paddy-Fahey%27s-Jig/Paddy-Fahy-s-Jig.midi', "Paddy Fahey's Jig")">🎵 Play</button>
                 </div>
             </div>
-            <div class="card" data-category="Celtic/Irish" data-difficulty="2" data-tags="traditional,celtic,irish,jig" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="E Dorian (Em)" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Very common (but sometimes overplayed)" data-csv-moods="energetic,bright" data-top10="true" data-christmas="false" data-wedding="false">
+            <div class="card" data-category="Celtic/Irish" data-difficulty="2" data-tags="jig,celtic,traditional,irish" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="E Dorian (Em)" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Very common (but sometimes overplayed)" data-csv-moods="energetic,bright" data-top10="true" data-christmas="false" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig-preview.svg" alt="Swallowtail Jig" onclick="openLightbox('Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig-preview.svg', 'Swallowtail Jig')">
                 </div>
@@ -1617,13 +1703,13 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">Irish jig</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">traditional</span><span class="tag">celtic</span><span class="tag">irish</span><span class="tag">jig</span></div>
+                <div class="tags"><span class="tag">jig</span><span class="tag">celtic</span><span class="tag">traditional</span><span class="tag">irish</span></div>
                 <div class="links">
                     <a href="Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig.pdf" target="_blank">📄 PDF</a>
                     <button class="btn" onclick="playMidi('Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig.midi', "Swallowtail Jig")">🎵 Play</button>
                 </div>
             </div>
-            <div class="card" data-category="Celtic/Irish" data-difficulty="2" data-tags="traditional,celtic,irish,jig" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="E Dorian (Em)" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Very common (but sometimes overplayed)" data-csv-moods="energetic,bright" data-top10="true" data-christmas="false" data-wedding="false">
+            <div class="card" data-category="Celtic/Irish" data-difficulty="2" data-tags="jig,celtic,traditional,irish" data-country="Ireland" data-dance-types="jig" data-genres="folk" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="Irish jig" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig" data-csv-key="E Dorian (Em)" data-csv-ensemble="Solo fiddle" data-csv-use-case="Session tune" data-csv-session="Very common (but sometimes overplayed)" data-csv-moods="energetic,bright" data-top10="true" data-christmas="false" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig_%5BEasy%5D-preview.svg" alt="Swallowtail Jig" onclick="openLightbox('Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig_%5BEasy%5D-preview.svg', 'Swallowtail Jig')">
                 </div>
@@ -1635,7 +1721,7 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">Irish jig</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">traditional</span><span class="tag">celtic</span><span class="tag">irish</span><span class="tag">jig</span></div>
+                <div class="tags"><span class="tag">jig</span><span class="tag">celtic</span><span class="tag">traditional</span><span class="tag">irish</span></div>
                 <div class="links">
                     <a href="Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig_%5BEasy%5D.pdf" target="_blank">📄 PDF</a>
                     <button class="btn" onclick="playMidi('Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig_%5BEasy%5D.midi', "Swallowtail Jig")">🎵 Play</button>
@@ -1804,7 +1890,7 @@
                     <button class="btn" onclick="playMidi('Christmas/Carol-of-the-bells/Carol-of-the-bells_Violin_%28Em%29.midi', "Carol of the Bells")">🎵 Play</button>
                 </div>
             </div>
-            <div class="card" data-category="Christmas" data-difficulty="3" data-tags="traditional,christmas,waltz" data-country="Ukraine" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas / classical" data-csv-subgenre="Ukrainian carol" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Carol / ostinato-based" data-csv-key="E minor" data-csv-ensemble="Solo violin / ensemble" data-csv-use-case="Christmas concerts" data-csv-session="Common in Christmas sets" data-csv-moods="mysterious,driving" data-top10="false" data-christmas="true" data-wedding="false">
+            <div class="card" data-category="Christmas" data-difficulty="3" data-tags="traditional,waltz,christmas" data-country="Ukraine" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas / classical" data-csv-subgenre="Ukrainian carol" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Carol / ostinato-based" data-csv-key="E minor" data-csv-ensemble="Solo violin / ensemble" data-csv-use-case="Christmas concerts" data-csv-session="Common in Christmas sets" data-csv-moods="mysterious,driving" data-top10="false" data-christmas="true" data-wedding="false">
                 <div class="card-thumbnail">
                     🎼
                 </div>
@@ -1816,7 +1902,7 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">Ukrainian carol</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">traditional</span><span class="tag">christmas</span><span class="tag">waltz</span></div>
+                <div class="tags"><span class="tag">traditional</span><span class="tag">waltz</span><span class="tag">christmas</span></div>
                 <div class="links">
                     <a href="Christmas/Carol-of-the-bells/Carol-of-the-bells_SATB.pdf" target="_blank">📄 PDF</a>
                     <button class="btn" onclick="playMidi('Christmas/Carol-of-the-bells/Carol-of-the-bells_SATB.midi', "Carol of the Bells")">🎵 Play</button>
@@ -2034,7 +2120,7 @@
                     <button class="btn" onclick="playMidi('Christmas/Silent-Night/silent_night-ORIGINAL.midi', "Stille  Nacht")">🎵 Play</button>
                 </div>
             </div>
-            <div class="card" data-category="Christmas" data-difficulty="1" data-tags="traditional,christmas,waltz" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene,devotional" data-top10="true" data-christmas="true" data-wedding="false">
+            <div class="card" data-category="Christmas" data-difficulty="1" data-tags="traditional,waltz,christmas" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene,devotional" data-top10="true" data-christmas="true" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Christmas/The-First-Noel/The-First-Noel_Duet-preview.svg" alt="The First Noel" onclick="openLightbox('Christmas/The-First-Noel/The-First-Noel_Duet-preview.svg', 'The First Noel')">
                 </div>
@@ -2046,12 +2132,12 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">French/English carol</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">traditional</span><span class="tag">christmas</span><span class="tag">waltz</span></div>
+                <div class="tags"><span class="tag">traditional</span><span class="tag">waltz</span><span class="tag">christmas</span></div>
                 <div class="links">
                     <a href="Christmas/The-First-Noel/The-First-Noel_Duet.pdf" target="_blank">📄 PDF</a>
                 </div>
             </div>
-            <div class="card" data-category="Christmas" data-difficulty="1" data-tags="traditional,christmas,waltz" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene,devotional" data-top10="true" data-christmas="true" data-wedding="false">
+            <div class="card" data-category="Christmas" data-difficulty="1" data-tags="traditional,waltz,christmas" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene,devotional" data-top10="true" data-christmas="true" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Christmas/First-Noel/first-noel_A-preview.svg" alt="The First Noel" onclick="openLightbox('Christmas/First-Noel/first-noel_A-preview.svg', 'The First Noel')">
                 </div>
@@ -2063,13 +2149,13 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">French/English carol</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">traditional</span><span class="tag">christmas</span><span class="tag">waltz</span></div>
+                <div class="tags"><span class="tag">traditional</span><span class="tag">waltz</span><span class="tag">christmas</span></div>
                 <div class="links">
                     <a href="Christmas/First-Noel/first-noel_A.pdf" target="_blank">📄 PDF</a>
                     <button class="btn" onclick="playMidi('Christmas/First-Noel/first-noel_A.midi', "The First Noel")">🎵 Play</button>
                 </div>
             </div>
-            <div class="card" data-category="Christmas" data-difficulty="1" data-tags="traditional,christmas,waltz" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene" data-top10="false" data-christmas="true" data-wedding="false">
+            <div class="card" data-category="Christmas" data-difficulty="1" data-tags="traditional,waltz,christmas" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="French/English carol" data-csv-period="Baroque (c. 1600–1750)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin" data-csv-use-case="Christmas services" data-csv-session="Common" data-csv-moods="serene" data-top10="false" data-christmas="true" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Christmas/The-First-Noel/The-First-Noel-preview.svg" alt="The First Noël" onclick="openLightbox('Christmas/The-First-Noel/The-First-Noel-preview.svg', 'The First Noël')">
                 </div>
@@ -2081,13 +2167,13 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">French/English carol</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">traditional</span><span class="tag">christmas</span><span class="tag">waltz</span></div>
+                <div class="tags"><span class="tag">traditional</span><span class="tag">waltz</span><span class="tag">christmas</span></div>
                 <div class="links">
                     <a href="Christmas/The-First-Noel/The-First-Noel.pdf" target="_blank">📄 PDF</a>
                     <button class="btn" onclick="playMidi('Christmas/The-First-Noel/The-First-Noel.midi', "The First No\u00ebl")">🎵 Play</button>
                 </div>
             </div>
-            <div class="card" data-category="Christmas" data-difficulty="1" data-tags="traditional,christmas,waltz" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="English carol" data-csv-period="Traditional (pre-modern)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin / ensemble" data-csv-use-case="Christmas caroling" data-csv-session="Very common" data-csv-moods="festive" data-top10="false" data-christmas="true" data-wedding="false">
+            <div class="card" data-category="Christmas" data-difficulty="1" data-tags="traditional,waltz,christmas" data-country="England" data-dance-types="" data-genres="" data-occasions="christmas" data-csv-genre="Christmas" data-csv-subgenre="English carol" data-csv-period="Traditional (pre-modern)" data-csv-type="Carol" data-csv-key="G major" data-csv-ensemble="Solo violin / ensemble" data-csv-use-case="Christmas caroling" data-csv-session="Very common" data-csv-moods="festive" data-top10="false" data-christmas="true" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Christmas/We-Wish-You-a-Merry-Christmas/We-Wish-You-a-Merry-Christmas-preview.svg" alt="We Wish You a Merry Christmas" onclick="openLightbox('Christmas/We-Wish-You-a-Merry-Christmas/We-Wish-You-a-Merry-Christmas-preview.svg', 'We Wish You a Merry Christmas')">
                 </div>
@@ -2099,7 +2185,7 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">English carol</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">traditional</span><span class="tag">christmas</span><span class="tag">waltz</span></div>
+                <div class="tags"><span class="tag">traditional</span><span class="tag">waltz</span><span class="tag">christmas</span></div>
                 <div class="links">
                     <a href="Christmas/We-Wish-You-a-Merry-Christmas/We-Wish-You-a-Merry-Christmas.pdf" target="_blank">📄 PDF</a>
                     <button class="btn" onclick="playMidi('Christmas/We-Wish-You-a-Merry-Christmas/We-Wish-You-a-Merry-Christmas.midi', "We Wish You a Merry Christmas")">🎵 Play</button>
@@ -2599,6 +2685,22 @@
                     <button class="btn" onclick="playMidi('Classical/Mozart_Rondo-Alla-Turca/KV331_3_RondoAllaTurca.midi', "Rondo Alla Turca")">🎵 Play</button>
                 </div>
             </div>
+            <div class="card" data-category="Classical" data-difficulty="2" data-tags="classical" data-country="Ukraine" data-dance-types="" data-genres="classical" data-occasions="" data-csv-genre="" data-csv-subgenre="" data-csv-period="" data-csv-type="" data-csv-key="" data-csv-ensemble="" data-csv-use-case="" data-csv-session="" data-csv-moods="" data-top10="false" data-christmas="false" data-wedding="false">
+                <div class="card-thumbnail">
+                    🎼
+                </div>
+                <div class="card-title">Russian Fantasia No. 2</div>
+                <div class="card-composer">Leo Portnoff</div>
+                <div class="card-country" style="font-size: 0.85em; color: #7f8c8d; margin: 4px 0;">🇺🇦 Ukraine</div>
+                <div class="card-meta">
+                    <span class="category classical">Classical</span>
+                    
+                    <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
+                </div>
+                <div class="tags"><span class="tag">classical</span></div>
+                <div class="links">
+                </div>
+            </div>
             <div class="card" data-category="Classical" data-difficulty="4" data-tags="classical" data-country="Russia" data-dance-types="" data-genres="classical" data-occasions="" data-csv-genre="Classical" data-csv-subgenre="Romantic orchestral" data-csv-period="Late Romantic (c. 1850–1920)" data-csv-type="Orchestral excerpt" data-csv-key="B minor" data-csv-ensemble="Solo violin (excerpt)" data-csv-use-case="Recital excerpt, orchestral study" data-csv-session="N/A" data-csv-moods="exotic,narrative" data-top10="false" data-christmas="false" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Classical/Rimsky-Korsakov_Sheherazade/Scheherazade-Mvt-2-Themes-Violin/Scheherazade-Mvt-2-Themes-Violin-preview.svg" alt="Scheherazade – Mvt. 2: The Kalendar Prince" onclick="openLightbox('Classical/Rimsky-Korsakov_Sheherazade/Scheherazade-Mvt-2-Themes-Violin/Scheherazade-Mvt-2-Themes-Violin-preview.svg', 'Scheherazade – Mvt. 2: The Kalendar Prince')">
@@ -2841,7 +2943,7 @@
                     <a href="Classical/Brahms_Berceuse/Brahms-Berceuse.pdf" target="_blank">📄 PDF</a>
                 </div>
             </div>
-            <div class="card" data-category="Folk/Canada" data-difficulty="3" data-tags="folk,traditional,canadian" data-country="Canada" data-dance-types="" data-genres="folk" data-occasions="" data-csv-genre="Folk / barndance" data-csv-subgenre="Quebec / French Canadian" data-csv-period="Contemporary (c. 1975–present)" data-csv-type="Barndance" data-csv-key="A major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Dance sets, sessions" data-csv-session="Moderately common in niche circles" data-csv-moods="cheerful,bouncy" data-top10="false" data-christmas="false" data-wedding="false">
+            <div class="card" data-category="Folk/Canada" data-difficulty="3" data-tags="traditional,folk,canadian" data-country="Canada" data-dance-types="" data-genres="folk" data-occasions="" data-csv-genre="Folk / barndance" data-csv-subgenre="Quebec / French Canadian" data-csv-period="Contemporary (c. 1975–present)" data-csv-type="Barndance" data-csv-key="A major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Dance sets, sessions" data-csv-session="Moderately common in niche circles" data-csv-moods="cheerful,bouncy" data-top10="false" data-christmas="false" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Folk_Canada/L-Air-Mignonne/L-Air-Mignonne-preview.svg" alt="L&#x27;Air Mignonne" onclick="openLightbox('Folk_Canada/L-Air-Mignonne/L-Air-Mignonne-preview.svg', 'L&#x27;Air Mignonne')">
                 </div>
@@ -2853,13 +2955,13 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">Quebec / French Canadian</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">folk</span><span class="tag">traditional</span><span class="tag">canadian</span></div>
+                <div class="tags"><span class="tag">traditional</span><span class="tag">folk</span><span class="tag">canadian</span></div>
                 <div class="links">
                     <a href="Folk_Canada/L-Air-Mignonne/L-Air-Mignonne.pdf" target="_blank">📄 PDF</a>
                     <button class="btn" onclick="playMidi('Folk_Canada/L-Air-Mignonne/L-Air-Mignonne.midi', "L'Air Mignonne")">🎵 Play</button>
                 </div>
             </div>
-            <div class="card" data-category="Folk/Canada" data-difficulty="3" data-tags="folk,traditional,canadian,waltz" data-country="Canada" data-dance-types="waltz" data-genres="folk" data-occasions="" data-csv-genre="Folk / fiddle" data-csv-subgenre="Canadian waltz" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Waltz" data-csv-key="D major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Country / fiddle events" data-csv-session="Moderately common" data-csv-moods="sentimental" data-top10="false" data-christmas="false" data-wedding="false">
+            <div class="card" data-category="Folk/Canada" data-difficulty="3" data-tags="traditional,folk,waltz,canadian" data-country="Canada" data-dance-types="waltz" data-genres="folk" data-occasions="" data-csv-genre="Folk / fiddle" data-csv-subgenre="Canadian waltz" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Waltz" data-csv-key="D major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Country / fiddle events" data-csv-session="Moderately common" data-csv-moods="sentimental" data-top10="false" data-christmas="false" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Folk_Canada/Teardrop-Waltz/Teardrop-Waltz_Marc-preview.svg" alt="Teardrop Waltz" onclick="openLightbox('Folk_Canada/Teardrop-Waltz/Teardrop-Waltz_Marc-preview.svg', 'Teardrop Waltz')">
                 </div>
@@ -2871,13 +2973,13 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">Canadian waltz</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">folk</span><span class="tag">traditional</span><span class="tag">canadian</span><span class="tag">waltz</span></div>
+                <div class="tags"><span class="tag">traditional</span><span class="tag">folk</span><span class="tag">waltz</span><span class="tag">canadian</span></div>
                 <div class="links">
                     <a href="Folk_Canada/Teardrop-Waltz/Teardrop-Waltz_Marc.pdf" target="_blank">📄 PDF</a>
                     <button class="btn" onclick="playMidi('Folk_Canada/Teardrop-Waltz/Teardrop-Waltz_Marc.midi', "Teardrop Waltz")">🎵 Play</button>
                 </div>
             </div>
-            <div class="card" data-category="Folk/Canada" data-difficulty="3" data-tags="folk,traditional,canadian,waltz" data-country="Canada" data-dance-types="waltz" data-genres="folk" data-occasions="" data-csv-genre="Folk / fiddle" data-csv-subgenre="Canadian waltz" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Waltz" data-csv-key="D major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Country / fiddle events" data-csv-session="Moderately common" data-csv-moods="sentimental" data-top10="false" data-christmas="false" data-wedding="false">
+            <div class="card" data-category="Folk/Canada" data-difficulty="3" data-tags="traditional,folk,waltz,canadian" data-country="Canada" data-dance-types="waltz" data-genres="folk" data-occasions="" data-csv-genre="Folk / fiddle" data-csv-subgenre="Canadian waltz" data-csv-period="20th century (c. 1900–2000)" data-csv-type="Waltz" data-csv-key="D major" data-csv-ensemble="Solo fiddle" data-csv-use-case="Country / fiddle events" data-csv-session="Moderately common" data-csv-moods="sentimental" data-top10="false" data-christmas="false" data-wedding="false">
                 <div class="card-thumbnail">
                     <img src="Folk_Canada/Teardrop-Waltz/Teardrop-Waltz-Casey-Willis-preview.svg" alt="Teardrop Waltz" onclick="openLightbox('Folk_Canada/Teardrop-Waltz/Teardrop-Waltz-Casey-Willis-preview.svg', 'Teardrop Waltz')">
                 </div>
@@ -2889,10 +2991,98 @@
                     <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">Canadian waltz</div>
                     <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
                 </div>
-                <div class="tags"><span class="tag">folk</span><span class="tag">traditional</span><span class="tag">canadian</span><span class="tag">waltz</span></div>
+                <div class="tags"><span class="tag">traditional</span><span class="tag">folk</span><span class="tag">waltz</span><span class="tag">canadian</span></div>
                 <div class="links">
                     <a href="Folk_Canada/Teardrop-Waltz/Teardrop-Waltz-Casey-Willis.pdf" target="_blank">📄 PDF</a>
                     <button class="btn" onclick="playMidi('Folk_Canada/Teardrop-Waltz/Teardrop-Waltz-Casey-Willis.midi', "Teardrop Waltz")">🎵 Play</button>
+                </div>
+            </div>
+            <div class="card" data-category="Other" data-difficulty="2" data-tags="waltz" data-country="England" data-dance-types="" data-genres="" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="English ballad" data-csv-period="Renaissance (c. 1400–1600)" data-csv-type="Song / air" data-csv-key="E minor" data-csv-ensemble="Solo violin" data-csv-use-case="Recital, church, folk sets" data-csv-session="Common" data-csv-moods="melancholic,lyrical" data-top10="false" data-christmas="false" data-wedding="false">
+                <div class="card-thumbnail">
+                    <img src="Folk_England/Greensleeves/greensleeves-preview.svg" alt="Greensleeves" onclick="openLightbox('Folk_England/Greensleeves/greensleeves-preview.svg', 'Greensleeves')">
+                </div>
+                <div class="card-title">Greensleeves</div>
+                <div class="card-composer">Traditional English Folk Song</div>
+                <div class="card-country" style="font-size: 0.85em; color: #7f8c8d; margin: 4px 0;">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</div>
+                <div class="card-meta">
+                    <span class="category other">Folk</span>
+                    <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">English ballad</div>
+                    <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
+                </div>
+                <div class="tags"><span class="tag">waltz</span></div>
+                <div class="links">
+                    <a href="Folk_England/Greensleeves/greensleeves.pdf" target="_blank">📄 PDF</a>
+                    <button class="btn" onclick="playMidi('Folk_England/Greensleeves/greensleeves.midi', "Greensleeves")">🎵 Play</button>
+                </div>
+            </div>
+            <div class="card" data-category="Other" data-difficulty="2" data-tags="" data-country="England" data-dance-types="" data-genres="" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="English ballad" data-csv-period="Renaissance (c. 1400–1600)" data-csv-type="Song / air" data-csv-key="E minor" data-csv-ensemble="Solo violin" data-csv-use-case="Recital, church, folk sets" data-csv-session="Common" data-csv-moods="melancholic,lyrical" data-top10="false" data-christmas="false" data-wedding="false">
+                <div class="card-thumbnail">
+                    <img src="Folk_England/Greensleeves/greensleeves_guitar-preview.png" alt="Greensleeves" onclick="openLightbox('Folk_England/Greensleeves/greensleeves_guitar-preview.png', 'Greensleeves')">
+                </div>
+                <div class="card-title">Greensleeves</div>
+                <div class="card-composer">Traditional</div>
+                <div class="card-country" style="font-size: 0.85em; color: #7f8c8d; margin: 4px 0;">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</div>
+                <div class="card-meta">
+                    <span class="category other">Folk</span>
+                    <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">English ballad</div>
+                    <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
+                </div>
+                <div class="links">
+                    <a href="Folk_England/Greensleeves/greensleeves_guitar.pdf" target="_blank">📄 PDF</a>
+                    <button class="btn" onclick="playMidi('Folk_England/Greensleeves/greensleeves_guitar.midi', "Greensleeves")">🎵 Play</button>
+                </div>
+            </div>
+            <div class="card" data-category="Other" data-difficulty="2" data-tags="" data-country="England" data-dance-types="" data-genres="" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="English ballad" data-csv-period="Renaissance (c. 1400–1600)" data-csv-type="Song / air" data-csv-key="E minor" data-csv-ensemble="Solo violin" data-csv-use-case="Recital, church, folk sets" data-csv-session="Common" data-csv-moods="melancholic,lyrical" data-top10="false" data-christmas="false" data-wedding="false">
+                <div class="card-thumbnail">
+                    <img src="Folk_England/Greensleeves/greensleeves_melody-preview.png" alt="Greensleeves" onclick="openLightbox('Folk_England/Greensleeves/greensleeves_melody-preview.png', 'Greensleeves')">
+                </div>
+                <div class="card-title">Greensleeves</div>
+                <div class="card-composer">Traditional</div>
+                <div class="card-country" style="font-size: 0.85em; color: #7f8c8d; margin: 4px 0;">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</div>
+                <div class="card-meta">
+                    <span class="category other">Folk</span>
+                    <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">English ballad</div>
+                    <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
+                </div>
+                <div class="links">
+                    <a href="Folk_England/Greensleeves/greensleeves_melody.pdf" target="_blank">📄 PDF</a>
+                    <button class="btn" onclick="playMidi('Folk_England/Greensleeves/greensleeves_melody.midi', "Greensleeves")">🎵 Play</button>
+                </div>
+            </div>
+            <div class="card" data-category="Other" data-difficulty="2" data-tags="" data-country="England" data-dance-types="" data-genres="" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="English ballad" data-csv-period="Renaissance (c. 1400–1600)" data-csv-type="Song / air" data-csv-key="E minor" data-csv-ensemble="Solo violin" data-csv-use-case="Recital, church, folk sets" data-csv-session="Common" data-csv-moods="melancholic,lyrical" data-top10="false" data-christmas="false" data-wedding="false">
+                <div class="card-thumbnail">
+                    🎼
+                </div>
+                <div class="card-title">Greensleeves</div>
+                <div class="card-composer">Traditional English</div>
+                <div class="card-country" style="font-size: 0.85em; color: #7f8c8d; margin: 4px 0;">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</div>
+                <div class="card-meta">
+                    <span class="category other">Folk</span>
+                    <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">English ballad</div>
+                    <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
+                </div>
+                <div class="links">
+                    <a href="Folk_England/Greensleeves/greensleeves-%28Em%29.pdf" target="_blank">📄 PDF</a>
+                    <button class="btn" onclick="playMidi('Folk_England/Greensleeves/greensleeves-%28Em%29.midi', "Greensleeves")">🎵 Play</button>
+                </div>
+            </div>
+            <div class="card" data-category="Other" data-difficulty="3" data-tags="jig" data-country="England" data-dance-types="jig" data-genres="" data-occasions="" data-csv-genre="Folk" data-csv-subgenre="English / session adaptation" data-csv-period="Traditional (pre-modern)" data-csv-type="Jig adaptation" data-csv-key="G major / E minor" data-csv-ensemble="Solo fiddle" data-csv-use-case="Fun variation in sessions" data-csv-session="Occasional" data-csv-moods="playful,lilting" data-top10="true" data-christmas="false" data-wedding="false">
+                <div class="card-thumbnail">
+                    <img src="Folk_England/Greensleeves-Jig/Greensleeves-Jig-preview.png" alt="Greensleeves Jig" onclick="openLightbox('Folk_England/Greensleeves-Jig/Greensleeves-Jig-preview.png', 'Greensleeves Jig')">
+                </div>
+                <div class="card-title">Greensleeves Jig</div>
+                <div class="card-composer">Traditional English</div>
+                <div class="card-country" style="font-size: 0.85em; color: #7f8c8d; margin: 4px 0;">🏴󠁧󠁢󠁥󠁮󠁧󠁿 England</div>
+                <div class="card-meta">
+                    <span class="category other">Folk</span>
+                    <div style="font-size: 0.75em; color: #95a5a6; margin-top: 2px;">English / session adaptation</div>
+                    <div class="difficulty"><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star">★</span><span class="difficulty-star empty">★</span><span class="difficulty-star empty">★</span></div>
+                </div>
+                <div class="tags"><span class="tag">jig</span></div>
+                <div class="links">
+                    <a href="https://www.youtube.com/watch?v=4aDK9qdoWpk" title="Watch video" target="_blank">🎥 Video</a>
+                    <a href="Folk_England/Greensleeves-Jig/Greensleeves-Jig.pdf" target="_blank">📄 PDF</a>
+                    <button class="btn" onclick="playMidi('Folk_England/Greensleeves-Jig/Greensleeves-Jig.midi', "Greensleeves Jig")">🎵 Play</button>
                 </div>
             </div>
         </div>
