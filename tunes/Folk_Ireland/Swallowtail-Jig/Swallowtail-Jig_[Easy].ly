@@ -1,5 +1,7 @@
 \version "2.24.4"
 \language "english"
+\include "../../common/common-header.ily"
+\include "../../common/stylesheet_fiddle.ly"
 \header {
   title = "Swallowtail Jig"
   subtitle = "Easy Version"
@@ -8,10 +10,7 @@
   genre = "Folk"
   subgenre = "Irish"
   difficulty = "Beginner"
-  tagline = ##f
 }
-
-\include "../../common/common-header.ily"
 
 global = {
   \time 6/8
