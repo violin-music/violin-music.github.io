@@ -1,4 +1,5 @@
 \version "2.19.64"
+\include "../../common/common-header.ily"
 \include "../../common/stylesheet_fiddle.ly"
 \language "english"
 
@@ -10,7 +11,6 @@
   style = "folk tune"
 }
 
-\include "../../common/common-header.ily"
 
 global = {
   \time 4/4
@@ -45,7 +45,7 @@ partB = \relative c'' {
 }
 
 % C: later section (lower start)
-partC = \relative c'' {
+part_C = \relative c'' {
   a4. b8 c4 c
   c c c4. e8
   ds e f e d c b a
@@ -53,7 +53,7 @@ partC = \relative c'' {
 }
 
 % D: later section
-partD = \relative c'' {
+part_D = \relative c'' {
   gs4. a8  b4 b
   b8 gs4 ~ gs8 e4. e'8
   ds e f e d c b c
@@ -61,62 +61,48 @@ partD = \relative c'' {
 }
 
 % Convenience: 8va versions
-partAUp = \transpose c \targetKey' \partA
-partBUp = \transpose c \targetKey' \partB
+partAUp = \transpose c c' \partA
+partBUp = \transpose c c' \partB
+
+part_E = \relative c'' {
+  e4. fs8 e d cs4
+  cs4. d8 cs b a4
+  e'4. fs8 e d cs4
+  cs4. d8 cs b a4
+}
 
 melody = {
   \global
 
-  \mark \markup \box "A"
-  \partA
-  \break
+  \mark \markup \box "A"       \partA   \break
 
-  \mark \markup \box "A"
-  \partA
-  \break
+  \mark \markup \box "A"       \partA   \break
 
-  \mark \markup \box "B"
-  \partB
-  \break
+  \mark \markup \box "B"       \partB   \break
 
-  \mark \markup \box "A"
-  \partA
-  \break
+  \mark \markup \box "A"       \partA   \break
 
-  \mark \markup \box "B"
-  \partB
-  \break
+  \mark \markup \box "B"       \partB   \break
 
-  \mark \markup \box "A"
-  \partA
-  \break
+ \repeat volta 3 {
+  \volta #'() { s1*0^\markup { \bold "3×" } }
+  \mark \markup \box "A"       \partA   \break
+ }
+ 
+ \repeat volta 2 {
+  \mark \markup \box "B (8va)" \partBUp \break
+  \mark \markup \box "A (8va)" \partAUp \break
+ }
 
-  \mark \markup \box "A"
-  \partA
-  \break
+  \mark \markup \box "C"       \part_C   \break
 
-  \mark \markup \box "B (8va)"
-  \partBUp
-  \break
+  \mark \markup \box "D"       \part_D   \break
 
-  % <-- updated here: A now also 8va
-  \mark \markup \box "A (8va)"
-  \partAUp
-  \break
+  \mark \markup \box "E"       \part_E   \break
+  
+  \mark \markup \box "C"       \part_C   \break
+  \mark \markup \box "D"       \part_D   \break
 
-  \mark \markup \box "C"
-  \partC
-  \break
-
-  \mark \markup \box "D"
-  \partD
-  \break
-
-  % Ending rests
-  r4 r r r
-  r4 r r r
-  r4 r r r
-  r4 r r r
 }
 
 
