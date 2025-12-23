@@ -4,7 +4,7 @@
 
 \header {
   title = "Moscow Nights"
-  subtitle = ""
+  subtitle = "aka Le Temps du Muguet"
   composer = "Vasily Solovyov-Sedoy"
   country = "Russia"
   genre = "Folk"
