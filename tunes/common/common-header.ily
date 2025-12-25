@@ -31,11 +31,18 @@
     \override LyricText.font-name = #"Optima"
 
     % Increase spacing between staff lines for better readability
-    \context {
-      \Score
-      \override StaffSymbol.staff-space = #1.1  % Default is 1.0, increase to 1.1 for wider spacing
-    }
+       \context {
+    \Score
+    \override StaffSymbol.staff-space = #1.1  % Default is 1.0, increase to 1.1 for wider spacing
+
+    \override Glissando.minimum-length = #4
+    \override Glissando.springs-and-rods =  #ly:spanner::set-spacing-rods
+
   }
+}
+
+    
+  
 
 %\paper{ #(define fonts
 %           (make-pango-font-tree
@@ -97,28 +104,13 @@
       \center-column {
         \override #'(font-name . "Optima Bold")
         \bold \fontsize #6 \smallCaps \fromproperty #'header:title
-        \fontsize #-2 \fromproperty #'header:subtitle
+        \fontsize #1 \fromproperty #'header:subtitle
       }
-      \fontsize #-1
+      \fontsize #1
       \column {
         \fromproperty #'header:composer
       }
     }
   }
 }
-
-
-
-% \paper {
-%   % Define how to format the title using the simple string from header
-%   bookTitleMarkup = \markup {
-%     \column {
-%       \fill-line { 
-%        \override #'(font-name . "Garamond Premier Pro Semibold") 
-%         \fontsize #2 \smallCaps \fromproperty #'header:title
-%       }
-%       \fill-line {  \medium \fromproperty #'header:composer   }
-%     }
-%   }
-% }
 
