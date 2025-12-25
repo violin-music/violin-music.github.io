@@ -77,7 +77,9 @@ TEMP_DIR=$(mktemp -d)
 TEMP_BASE="${TEMP_DIR}/${BASENAME}"
 
 echo "Rendering SVG with LilyPond..."
-lilypond -fsvg --loglevel=ERROR -dno-midi -o "$TEMP_BASE" "$LY_FILE" 2>/dev/null
+#lilypond -fsvg --loglevel=ERROR -dno-midi -o "$TEMP_BASE" "$LY_FILE" 2>/dev/null
+lilypond -fsvg  -dno-midi -o "$TEMP_BASE" "$LY_FILE" 
+
 
 # Process SVG to make it CSS-themeable
 process_svg() {
