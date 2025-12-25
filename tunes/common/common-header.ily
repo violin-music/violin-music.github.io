@@ -92,21 +92,21 @@
     \override #'(font-name . "Optima")
 
     \fill-line {
-      \fontsize #-1
+      \fontsize #0
       \column {
         \line { \fromproperty #'header:notes }
         \line {
           \if \transcriber-exists {
-            "Transcription by " \fromproperty #'header:transcriber
+            "Transcription by" \fromproperty #'header:transcriber
           }
         }
       }
       \center-column {
         \override #'(font-name . "Optima Bold")
         \bold \fontsize #6 \smallCaps \fromproperty #'header:title
-        \fontsize #1 \fromproperty #'header:subtitle
+        \fontsize #0 \fromproperty #'header:subtitle
       }
-      \fontsize #1
+      \fontsize #0
       \column {
         \fromproperty #'header:composer
       }

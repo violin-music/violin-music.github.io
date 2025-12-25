@@ -1,18 +1,19 @@
 \version "2.24.0"
 \language "english"
-
-\include "../../common/twoByTwoBeaming.ly"
+\include "../../common/common-header.ily"
 \include "../../common/bars-per-line-engraver.ly"
+\include "../../common/twoByTwoBeaming.ly"
 
 \header {
   title = "Blue Lou"
-  subtitle = \markup \small "transcribed by Marc"
-  composer = "Stephane Grappelli"
+  subtitle = "As played by Stephane Grappelli in 1947 in Paris"
+  composer = "transcribed by Marc"
   country = "France"
-  opus = "1947 in Paris"
+  opus = ""
   % Stephane Grappelli 26.03.1947
   genre = "Jazz"
   subgenre = "Gypsy Jazz"
+  video = "https://www.youtube.com/watch?v=Jo_50EcRhuw"
 }
 
 chordNames = \chordmode {
@@ -26,7 +27,7 @@ chordNames = \chordmode {
   c         cs:dim d:m7 g:7 c:7
 
   g:m7.5-   c:7    g:m7.5-  c:7
-  f         f/a    bf       g:7  c:7  f
+  %f         f/a    bf       g:7  
 }
 
 
@@ -62,9 +63,11 @@ melody = \relative c' {
   g' af g f d df c bf
   a g f e
   g4 \grace {f8( g)} f8 e d c a4 
-  r1 r1 r1 r1
-
-
+    \break
+  \compressEmptyMeasures
+  R1*12^"Guitar"
+  \break
+  r1^"Violin (~1:44')" r1 r1 r1 
 }
 
 \score {

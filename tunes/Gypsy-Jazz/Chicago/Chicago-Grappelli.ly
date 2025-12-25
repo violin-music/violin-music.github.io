@@ -1,5 +1,6 @@
-\version "2.19.83"
+\version "2.24.0"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Chicago"

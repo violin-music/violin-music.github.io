@@ -4,20 +4,15 @@
 \include "../../common/includes.ly"
 \include "../../common/common-header.ily"
 
-
-
-date = #(strftime "%B, %d %Y" (localtime (current-time)))
-
 \header {
-  title = "Minor Swing"
-  subtitle = "As played by Christiaan van Hemert"
-  composer = "Django Reinhardt & Stéphane Grappelli"
-  country = "France"
-  video = "https://www.youtube.com/watch?v=mNejZlpOpAU"
-  genre = "Jazz"
-
-  subgenre = "Gypsy Jazz"
-  transcriber =  "Marc & Maxence Mouries"
+  title       = "Minor Swing"
+  subtitle    = "As played by Christiaan van Hemert"
+  composer    = "Django Reinhardt & Stéphane Grappelli"
+  transcriber = "Marc & Maxence Mouries"
+  country     = "France"
+  genre       = "Jazz"
+  subgenre    = "Gypsy Jazz"
+  video       = "https://www.youtube.com/watch?v=mNejZlpOpAU"
 }
 
 

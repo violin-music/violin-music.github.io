@@ -1,5 +1,6 @@
 \version "2.24.4"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Blue Lou – Arpeggio Practice"
