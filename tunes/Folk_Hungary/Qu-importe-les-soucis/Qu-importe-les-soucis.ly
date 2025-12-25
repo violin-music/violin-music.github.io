@@ -1,9 +1,11 @@
 \version "2.24.4"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Qu'importe les soucis"
   subtitle = "As played by Yoska Nemeth"
+  transcription = "Marc"
 }
 
 global = {
@@ -24,7 +26,7 @@ melody = \relative c''' {
   r8 g4 f8 ef d c4
   r8 f4 g8 af g f4
   r8 bf4 c8 d c bf af 
-  g4. fs8 g af g f8 ef d c4
+  g8. fs16 g8 af g f8 ef d c4
 }
 
 \score {
