@@ -5,13 +5,13 @@
 
 \header {
   title = "Bella Ciao"
-  subtitle = "Key: D minor"
+  subtitle = "Key: G minor"
   composer = "Traditional Italian"
   country = "Italy"
   style = "folk song"
 }
 
-targetKey = d
+targetKey = g
 
 \score {
   <<

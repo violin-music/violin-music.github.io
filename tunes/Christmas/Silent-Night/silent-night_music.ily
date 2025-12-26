@@ -1,10 +1,9 @@
 \version "2.24.4"
 \language "english"
 
-% Base key for the original notation (B♭ major)
-targetKey = bf
+originalKey = bf % Original key for Silent Night (B♭ major)
 
-melodySource = {
+melody = {
   \time 6/8  
   \key bf \major 
   \tempo 4. = 50
@@ -24,9 +23,6 @@ melodySource = {
     bf4. ~ bf4 r8
     \bar "|."
 }
-
-% Transposed melody driven by targetKey
-melody = \transpose bf \targetKey \melodySource
 
 words = \lyricmode {
   Si -- _ lent night, ho- ly night,

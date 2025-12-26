@@ -13,12 +13,13 @@
 }
 
 targetKey = d
+octaveShift = c'
 
 \score {
   <<
     \new Staff {
       \key \targetKey \major
-      \melody
+      \transpose c \octaveShift { \transpose \originalKey \targetKey \melody }
     }
     \addlyrics { \words }
   >>

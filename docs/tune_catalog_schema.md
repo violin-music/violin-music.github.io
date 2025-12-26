@@ -124,7 +124,18 @@ Primary meter of the piece (4/4, 3/4, 6/8, 9/8…).
 
 ---
 
-## 9. Difficulty (Violin)
+## 9. Range
+**What it is:**  
+Lowest and highest pitch in the arrangement, in LilyPond pitch format (e.g., `g–e'''`).
+
+**Used for:**  
+- Quick sense of technical range demands  
+- Detecting when a key needs octave shifts  
+- Comparing difficulty between arrangements
+
+---
+
+## 10. Difficulty (Violin)
 **What it is:**  
 General violin difficulty level.
 
@@ -142,7 +153,7 @@ Levels:
 
 ---
 
-## 10. Ensemble Type
+## 11. Ensemble Type
 **What it is:**  
 How the piece is intended to be performed.
 
@@ -159,7 +170,7 @@ Examples:
 
 ---
 
-## 11. Country / Region of Origin
+## 12. Country / Region of Origin
 **What it is:**  
 Cultural/geographic background.
 
@@ -173,7 +184,7 @@ Ireland, Finland, Hungary/Roma, France, Israel, Russia, USA.
 
 ---
 
-## 12. Use Case
+## 13. Use Case
 **What it is:**  
 Real‑world scenario where this piece fits best.
 
@@ -195,7 +206,7 @@ Examples:
 
 ---
 
-## 13. Session Friendliness (Folk Only)
+## 14. Session Friendliness (Folk Only)
 **What it is:**  
 Likelihood that a tune appears in jam/session culture.
 
@@ -212,7 +223,7 @@ Values:
 
 ---
 
-## 14. Primary Tags
+## 15. Primary Tags
 **What it is:**  
 Readable high‑level classification string combining genre + mood.
 we may want to split the genre & mood.
@@ -229,7 +240,7 @@ Examples:
 
 ---
 
-## 15. Secondary Tags
+## 16. Secondary Tags
 **What it is:**  
 Extra descriptors that don’t fit in other columns.
 
@@ -247,7 +258,7 @@ Examples:
 
 ---
 
-## 16. Notes
+## 17. Notes
 **What it is:**  
 Free‑form field for anything unique.
 
@@ -278,4 +289,3 @@ This schema gives musicians multiple ways to find the right piece:
 - by technique  
 
 It is optimized for **practical music use**, not just bibliographic metadata.
-

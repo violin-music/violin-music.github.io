@@ -12,14 +12,14 @@
   country = "Austria"
 }
 
-% Drive transposition by targetKey (original in B♭)
 targetKey = e
+octaveShift = c'
 
 \score {
   <<
     \new Staff {
       \key \targetKey \major
-      \melody
+      \transpose c \octaveShift { \transpose \originalKey \targetKey \melody }
     }
     \addlyrics { \words }
   >>

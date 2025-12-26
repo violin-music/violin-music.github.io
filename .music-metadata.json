@@ -1,0 +1,26 @@
+{
+  "tunes/Christmas/Silent-Night/Silent-Night_(A).ly": {
+    "range": "a–d''"
+  },
+  "tunes/Christmas/Silent-Night/Silent-Night_(D).ly": {
+    "range": "d'–g''"
+  },
+  "tunes/Christmas/Silent-Night/Silent-Night_(E).ly": {
+    "range": "e'–a''"
+  },
+  "tunes/Christmas/Silent-Night/Silent-Night_(G).ly": {
+    "range": "g–c''"
+  },
+  "tunes/Folk_Italy/Bella-Ciao/bella-ciao.ly": {
+    "range": "a–bf'"
+  },
+  "tunes/Folk_Italy/Bella-Ciao/bella-ciao_(Am).ly": {
+    "range": "e'–f''"
+  },
+  "tunes/Folk_Italy/Bella-Ciao/bella-ciao_(Em).ly": {
+    "range": "b–c''"
+  },
+  "tunes/Folk_Italy/Bella-Ciao/bella-ciao_(Gm).ly": {
+    "range": "d'–ef''"
+  }
+}

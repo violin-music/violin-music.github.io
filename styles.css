@@ -267,6 +267,18 @@ td {
     font-size: 0.95rem;
 }
 
+.range-svg {
+    display: block;
+    height: 34px;
+    width: auto;
+}
+
+.range-text {
+    margin-top: 0.25rem;
+    font-size: 0.75rem;
+    color: var(--slate);
+}
+
 tbody tr {
     cursor: pointer;
     transition: all 0.2s ease;

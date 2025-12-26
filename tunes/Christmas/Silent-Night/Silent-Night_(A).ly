@@ -18,7 +18,7 @@ targetKey = a
   <<
     \new Staff {
       \key \targetKey \major
-      \melody
+      \transpose \originalKey \targetKey \melody
     }
     \addlyrics { \words }
   >>

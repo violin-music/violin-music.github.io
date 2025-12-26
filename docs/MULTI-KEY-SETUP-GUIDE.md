@@ -244,20 +244,68 @@ The script will:
 
 The key selector will sort keys chromatically: C, C#, D, D#, E, F, F#, G, G#, A, A#, B
 
-## Alternative: Header-Based Keys
+## Standardized `originalKey`/`targetKey` Pattern (per-key files)
 
-For simpler setups where you don't want separate files per key, you can specify the key in the header:
+When using transposition, keep the music in one include and create one wrapper per key. Define the original key once in the include, then set `targetKey` in each key file and transpose both melody and chords:
 
+**In the include (e.g., `Tune_music.ily`):**
 ```lilypond
-\header {
-  title = "My Tune"
-  composer = "Traditional"
-  key = "C"
+\version "2.24.4"
+\language "english"
+originalKey = bf  % original notation key
+
+melody = { \key bf \major \time 6/8 ... }
+chords = \chordmode { bf1 f:7 ... }
+```
+
+**In each key-specific file (e.g., `Tune_(D).ly`):**
+```lilypond
+\version "2.24.4"
+\include "../../common/common-header.ily"
+\include "Tune_music.ily"
+
+targetKey = d
+
+\score {
+  <<
+    \new ChordNames { \transpose \originalKey \targetKey \chords }
+    \new Staff {
+      \key \targetKey \major   % or \minor, etc.
+      \transpose \originalKey \targetKey \melody
+    }
+  >>
 }
 ```
 
-This is useful for:
-- **Single-key tunes**: Tunes that exist in only one key
+**Do not** leave multi-key transposition inside a single file; use one wrapper per key so the indexer can group them cleanly by folder + base filename.
+
+## Range Check (Violin)
+
+To decide whether a transposed key stays playable on violin, measure the range **after transposition**:
+
+```bash
+python3 scripts/range-check.py path/to/Tune_(Key).ly
+```
+
+This reports lowest/highest pitch and whether the range fits the violin range **G3–E7** (LilyPond: `g` to `e'''`).
+
+Example output:
+```
+RANGE: lowest=d highest=g' ok=yes
+```
+
+If `ok=no`, apply an octave shift in that specific key file (after transposition).
+If `ok=borderline`, the tune hits the low or high boundary exactly (e.g., lowest `g`) and is a candidate for octave shifting.
+
+To generate a compact range SVG for a key-specific file:
+```bash
+python3 scripts/range-check.py path/to/Tune_(Key).ly --write-svg
+```
+This writes `Tune_(Key)_range.svg` next to the score and uses `currentColor` for CSS theming.
+
+Store the resulting range in metadata as a string like `g–e'''`:
+- Per-file: `.music-metadata.json` entry for `Tune_(Key).ly`
+- Catalog: `tune_catalog_rich_schema.csv` → `Range` column
 - **Mixed multi-key setups**: Where some keys have filename suffixes and others use header keys
 
 ### Example: Mixed Setup (Kreutzer Etude)

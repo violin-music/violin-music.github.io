@@ -11,26 +11,6 @@
   genre = "Classical"
 }
 
-
-\markup \bold "PRACTICE Adagio Arpeggio"
-
-Adagio_Arpeggio_Cm_Fm = \relative c'' {
- g8-3    c  ef g
- ef   c  g  c
- ef-1   g-3  c-2  ef-4 
- c g ef c 
- \break
- c,-3    f  af c
- af   f  c  f
- af-1   c-3  f-2  af-4 
- f c af f 
-}
-\score {
-  \new Staff { \Adagio_Arpeggio_Cm_Fm }
-  \layout {indent=0 }
-}
-
-
 global = {
  \clef "treble"
  \key g \minor

@@ -127,6 +127,7 @@ def load_csv_metadata():
                         'primary_tags': primary_tags,
                         'secondary_tags': secondary_tags,
                         'notes': row.get('Notes', ''),
+                        'range': row.get('Range', ''),
                         'moods': moods,  # Extracted mood list
                     }
         print(f"  Loaded CSV metadata for {len(csv_data)} tunes")
@@ -485,6 +486,8 @@ def scan_repository():
         png_path = ly_file.parent / (ly_file.stem + '.png')
         thumbnail_path = svg_path if svg_path.exists() else png_path
         thumbnail_exists = svg_path.exists() or png_path.exists()
+        range_svg_path = ly_file.parent / (ly_file.stem + '_range.svg')
+        range_svg_exists = range_svg_path.exists()
 
         # Get category and auto-tags
         category, auto_tags = get_category_and_tags(rel_path)
@@ -497,6 +500,7 @@ def scan_repository():
 
         # Estimate difficulty
         difficulty = custom.get('difficulty', estimate_difficulty(ly_file))
+        custom_range = custom.get('range', '')
 
         # Extract dimensional tags
         dimensions = extract_dimensional_tags(
@@ -521,6 +525,7 @@ def scan_repository():
             'difficulty': difficulty,
             'tags': custom.get('tags', all_tags),
             'notes': custom.get('notes', ''),
+            'range': custom_range,
             'modified': modified,
             'ly_path': quote(str(rel_path)),
             'pdf_exists': pdf_path.exists(),
@@ -529,6 +534,8 @@ def scan_repository():
             'pdf_path': quote(str(rel_path.with_suffix('.pdf'))),
             'midi_path': quote(str(rel_path.with_suffix('.midi'))),
             'thumbnail_path': quote(str(rel_path.parent / thumbnail_path.name)),
+            'range_svg_exists': range_svg_exists,
+            'range_svg_path': quote(str(rel_path.parent / range_svg_path.name)),
             # Dimensional tags
             'dance_types': dimensions['dance_type'],
             'genres': dimensions['genre'],
@@ -552,6 +559,7 @@ def scan_repository():
             tune_info['csv_primary_tags'] = csv_data['primary_tags']
             tune_info['csv_secondary_tags'] = csv_data['secondary_tags']
             tune_info['csv_notes'] = csv_data['notes']
+            tune_info['csv_range'] = csv_data['range']
             tune_info['csv_moods'] = csv_data['moods']  # Extracted mood list
             # Override difficulty if CSV has it
             if csv_data['difficulty']:
@@ -569,6 +577,9 @@ def scan_repository():
                     if key in csv_diff_lower:
                         tune_info['difficulty'] = val
                         break
+
+        if not tune_info['range']:
+            tune_info['range'] = tune_info.get('csv_range', '')
 
         # Skip files without proper title or composer
         if not metadata['title'] or not metadata['composer']:
@@ -1034,7 +1045,8 @@ def generate_html(tunes):
                         <th onclick="sortTable(2)">Country</th>
                         <th onclick="sortTable(3)">Genre</th>
                         <th onclick="sortTable(4)">Key</th>
-                        <th onclick="sortTable(5)">Difficulty</th>
+                        <th onclick="sortTable(5)">Range</th>
+                        <th onclick="sortTable(6)">Difficulty</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -1104,6 +1116,20 @@ def generate_html(tunes):
         # Get moods as comma-separated string for data attribute
         moods_str = ','.join(tune.get('csv_moods', []))
 
+        range_value = tune.get('range', '')
+        range_display = range_value if range_value else '—'
+        range_display_html = html.escape(range_display)
+        range_display_attr = html.escape(range_display, quote=True)
+        if tune.get('range_svg_exists'):
+            range_cell = (
+                f'<img class="range-svg" src="{html.escape(tune["range_svg_path"])}" '
+                f'alt="Range {range_display_attr}" title="{range_display_attr}">'
+            )
+            if range_value:
+                range_cell += f'<div class="range-text">{range_display_html}</div>'
+        else:
+            range_cell = range_display_html
+
         html_output += f"""                <tr data-category="{html.escape(tune['category'])}" data-difficulty="{tune['difficulty']}" data-tags="{html.escape(','.join(tune['tags']))}" data-style="{html.escape(tune['style'])}" data-country="{html.escape(tune['country']) if tune['country'] else ''}" data-dance-types="{html.escape(','.join(tune['dance_types']))}" data-genres="{html.escape(','.join(tune['genres']))}" data-occasions="{html.escape(','.join(tune['occasions']))}" data-csv-genre="{html.escape(tune.get('csv_genre', ''))}" data-csv-subgenre="{html.escape(display_subgenre)}" data-csv-period="{html.escape(tune.get('csv_period', ''))}" data-csv-type="{html.escape(tune.get('csv_type', ''))}" data-csv-key="{html.escape(tune.get('csv_key', ''))}" data-csv-ensemble="{html.escape(tune.get('csv_ensemble', ''))}" data-csv-use-case="{html.escape(tune.get('csv_use_case', ''))}" data-csv-session="{html.escape(tune.get('csv_session', ''))}" data-csv-moods="{html.escape(moods_str)}" data-top10="{str(is_top10).lower()}" data-christmas="{str(is_christmas).lower()}" data-wedding="{str(is_wedding).lower()}" data-tune-slug="{tune_slug}" data-available-keys='{available_keys_json}' data-filename-keys='{filename_keys_json}' data-base-name="{base_name}" data-file-key="{file_key}" data-directory="{directory}" onclick="navigateToTune(event, '{tune_slug}')">
                     <td>
                         <strong>{html.escape(tune['title'])}</strong>"""
@@ -1114,6 +1140,7 @@ def generate_html(tunes):
                     <td>{get_country_display(tune['country'])}</td>
                     <td>{html.escape(display_genre.title())}{f'<br><small style="color: #7f8c8d;">{html.escape(display_subgenre)}</small>' if display_subgenre else ''}</td>
                     <td>{html.escape(tune['key']) if tune['key'] else '—'}</td>
+                    <td>{range_cell}</td>
                     <td><div class="difficulty">{stars}</div></td>
                 </tr>
 """
@@ -1434,7 +1461,7 @@ def generate_html(tunes):
                 let bVal = b.cells[columnIndex].textContent.trim();
 
                 // Handle difficulty stars specially
-                if (columnIndex === 5) {
+                if (columnIndex === 6) {
                     aVal = a.dataset.difficulty;
                     bVal = b.dataset.difficulty;
                     return parseInt(aVal) - parseInt(bVal);
