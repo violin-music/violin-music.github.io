@@ -31,15 +31,18 @@ extFourth  = \markup \circle \finger 4
 %%%%%%%%%%%%%%%%%%%
 % SLIDE
 %%%%%%%%%%%%%%%%%%%
-slide = #(define-music-function (startnote) (ly:pitch?)
-           #{
-             % the next two lines ensure the glissando is long enough
-             % to be visible
-             \once \override Glissando.springs-and-rods = #ly:spanner::set-spacing-rods
-             \once \override Glissando.minimum-length = #3.5
-             \once \hideNotes
-             \grace $startnote \glissando
-           #})
+% Accepts either a pitch or an integer step (0=C, 1=D, 2=E, 3=F, 4=G, 5=A, 6=B)
+slide = #(define-music-function (startnote) (scheme?)
+           (let* ((pitch (cond
+                           ((ly:pitch? startnote) startnote)
+                           ((number? startnote) (ly:make-pitch 0 startnote 0))
+                           (else #f))))
+             #{
+               \once \override Glissando.springs-and-rods = #ly:spanner::set-spacing-rods
+               \once \override Glissando.minimum-length = #3.5
+               \once \hideNotes
+               \grace $(or pitch (ly:make-pitch 0 0 0)) \glissando
+             #}))
 
 #(define-markup-command (sul layout props text) (markup?)
    "Draw a double box around text."

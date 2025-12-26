@@ -1,7 +1,6 @@
 \version "2.24.0"
 \language "english"
 %\paper{ ragged-right=##t }
-#(set-global-staff-size 20)
 
 \header {
   title    = "Eine Kleine Nachtmusik"

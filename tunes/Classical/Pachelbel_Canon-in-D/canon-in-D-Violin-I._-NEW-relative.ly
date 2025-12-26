@@ -1,4 +1,5 @@
 \include "../../common/violin-functions.ly"
+\include "../../common/common-header.ily"
 \language "english"
 %S#(set-global-staff-size 21	)
 
@@ -11,7 +12,7 @@
   composer = "J. Pachelbel (1653-1706)"
   instrument = "Violin I"
   % copyright = "Copyright"
-  tagline = ""
+  country = "Germany"
 }
 
 \score {

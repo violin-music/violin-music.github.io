@@ -10,7 +10,6 @@
 
 \include "../../common/common-header.ily"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 20)
 \paper {
     indent = 0.0
 }

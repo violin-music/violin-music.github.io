@@ -1,7 +1,6 @@
 \version "2.14.0"
 \language "english"
 %% 
-#(set-global-staff-size 22)
 \layout {
     indent = 0\in
 }

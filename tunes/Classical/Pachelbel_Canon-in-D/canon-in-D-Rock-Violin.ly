@@ -1,8 +1,6 @@
-%\include "../../common/violin-functions.ly"
-\include "..\common\violin-functions.ly"
+\include "../../common/violin-functions.ly"
+\include "../../common/common-header.ily"
 \language "english"
-#(set-global-staff-size 18	)
-%\paper {    indent = 0\cm} 
 
 %\version "2.14.0"
 \header {
@@ -11,7 +9,7 @@
   composer = "J. Pachelbel (1653-1706)"
   instrument = "Violin I"
   % copyright = "Copyright"
-  tagline = ""
+  country = "Germany"
 }
 
 \score {

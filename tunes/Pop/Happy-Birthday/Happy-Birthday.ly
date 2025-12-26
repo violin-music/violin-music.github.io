@@ -1,7 +1,6 @@
 \version "2.19.2"
 \language "english"
 
-#(set-global-staff-size 20)
 
 \header {
   title = "Happy Birthday"

@@ -1,11 +1,12 @@
 \version "2.19.38"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Latino Chords"
   composer = "Marc Mouries"
   style = "latin study"
-  tagline = ""
+  country = "Latin America"
 }
 
 \markup \huge "C minor"

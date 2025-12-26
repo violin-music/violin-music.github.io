@@ -3,8 +3,8 @@
 % ****************************************************************
 \version "2.14"
 \include "english.ly"
+\include "../../common/common-header.ily"
 
-#(set-global-staff-size 22)
 \paper {
   #(set-paper-size "letter")
 }
@@ -16,7 +16,7 @@
   %instrument = "Violin I"
   % copyright = "Copyright"
   arranger = "Arranged by Marc Mouries"
-  tagline = ""
+  country = "Germany"
 }
 
 global= { \time 4/4 \key d \major }

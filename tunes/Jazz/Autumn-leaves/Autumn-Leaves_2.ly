@@ -1,5 +1,6 @@
 \include "includes.ly"
 \include "markups.ly"
+\include "../../common/common-header.ily"
 % ****************************************************************
 % Autumn Leaves (Joseph Kosma)
 % ****************************************************************
@@ -8,7 +9,7 @@
  subtitle = "Joseph Kosma"
  composer = "Joseph Kosma"
  style = "jazz standard"
- tagline = ""
+ country = "France"
 }
 chordNames = \chordmode {
   \set majorSevenSymbol = \markup { maj7 }

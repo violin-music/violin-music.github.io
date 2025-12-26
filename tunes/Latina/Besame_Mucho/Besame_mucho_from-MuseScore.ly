@@ -1,4 +1,5 @@
 \language "english"
+\include "../../common/common-header.ily"
 %=============================================
 %   created by MuseScore Version: 1.3
 %          December 15, 2014
@@ -8,7 +9,7 @@
   title = "Besame mucho"
   composer = "Consuelo Velazquez"
   style = "bolero"
-  tagline = ""
+  country = "Mexico"
 }
 
 ASvoiceAA = \relative c'{

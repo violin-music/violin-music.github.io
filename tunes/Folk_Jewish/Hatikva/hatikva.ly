@@ -1,7 +1,6 @@
 \version "2.14.0"
 \include "english.ly"
 % large staff
-#(set-global-staff-size 22)
 
 \paper{
   paper-width   = 20\cm

@@ -1,7 +1,6 @@
 \language "english"
 \version "2.19.13"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 21)
 
 \paper {
   line-width    = 190\mm

@@ -7,7 +7,7 @@
   subtitle = "Aznavour"
   composer = "Charles Aznavour"
   style = "chanson"
-  tagline = ""
+  country = "France"
 }
 
 

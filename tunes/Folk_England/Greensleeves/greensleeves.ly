@@ -1,6 +1,5 @@
 \language "english"
 \version "2.19.11"
-#(set-global-staff-size 22)
 #(set-default-paper-size "letter")
 %=============================================
 %   created by MuseScore Version: 1.3

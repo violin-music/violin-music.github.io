@@ -3,7 +3,6 @@
 \include "english.ly"
 % english.ly     c   d   e   f   g   a   b   -s/-sharp   -f/-flat
 
-#(set-global-staff-size 24)
 
 \header {
         title = "Concerto in Sol Minore"

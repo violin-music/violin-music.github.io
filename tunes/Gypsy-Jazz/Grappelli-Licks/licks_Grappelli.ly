@@ -1,5 +1,6 @@
 \version "2.19.35"
 \language "english"
+\include "../../common/common-header.ily"
 \header {
   title = "Violin licks from Stephane Grappelli"
   country = "France"
@@ -8,7 +9,6 @@
   genre = "Jazz"
 
   subgenre = "Gypsy Jazz"
-  tagline = ""
 }
 
 global = {

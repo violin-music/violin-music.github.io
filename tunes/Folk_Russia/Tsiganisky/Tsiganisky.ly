@@ -1,11 +1,12 @@
 \version "2.19.15"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Tsiganisky"
   composer = "Traditional Russian"
   style = "folk"
-  tagline = ""
+  country = "Russia"
 }
 
 global = {

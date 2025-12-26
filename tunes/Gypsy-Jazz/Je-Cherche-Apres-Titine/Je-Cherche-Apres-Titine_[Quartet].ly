@@ -1,5 +1,6 @@
 \version "2.24.0"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
    title = "Je cherche après Titine"
@@ -7,7 +8,7 @@
    composer = "Leo Daniderff"
    style = "musette"
    copyright = "All Rights Reserved"
-   tagline = ""
+   country = "France"
 }
 
 AvoiceAA = \relative c''{
@@ -318,4 +319,3 @@ AvoiceDA = \relative c{
   \midi {\tempo 4 = 120}
 }%% end of score-block 
 
-#(set-global-staff-size 14)

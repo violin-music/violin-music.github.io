@@ -2,7 +2,6 @@
 \language "english"
 
 #(set-default-paper-size "letter")
-#(set-global-staff-size 23)
 
 \layout { indent = 0.0\cm }
 \paper {

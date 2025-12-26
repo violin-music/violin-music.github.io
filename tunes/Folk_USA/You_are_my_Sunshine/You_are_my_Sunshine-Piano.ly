@@ -12,7 +12,6 @@
   }
 }
 
-#(set-global-staff-size 18)
 
 \paper {
   #(set-paper-size "letter")

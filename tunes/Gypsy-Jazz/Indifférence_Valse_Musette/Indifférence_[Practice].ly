@@ -7,7 +7,7 @@
     title = "Indifférence (Practice)"
     composer = "Tony Murena and Joseph Colombo"
     style = "valse musette"
-    tagline = ""
+    country = "France"
 
   subtitle =  \markup \column {
     \line { "T Murena & Colombo"}

@@ -1,12 +1,13 @@
 \version "2.14.0"
 \include "english.ly"
+\include "../../../common/common-header.ily"
 
 \header {
   title = "Silent Night"
   subtitle = "Quartet debug"
   composer = "Franz Xaver Gruber"
   style = "christmas carol"
-  tagline = ""
+  country = "Austria"
 }
 
 global= {

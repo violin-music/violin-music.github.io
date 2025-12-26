@@ -1,11 +1,12 @@
 \pointAndClickOff
 \version "2.24.3"
+\include "../../common/common-header.ily"
 
 \header{
-  tagline = ""
   title = "1ere. Gymnopédie"
   composer = "Erik Satie"
   arranger = "arr. Toshihiko Kawano"
+  country = "France"
 }
 
 melody = {

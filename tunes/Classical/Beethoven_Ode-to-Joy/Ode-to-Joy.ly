@@ -1,7 +1,6 @@
 \version "2.24.0"
 \language "english"
 
-#(set-global-staff-size 22)
 
 \header {
   title = "Ode to Joy"

@@ -13,7 +13,6 @@
 
 \include "../../common/common-header.ily"
 
-#(set-global-staff-size 20)
 
 \paper{
   top-margin    = 2\cm

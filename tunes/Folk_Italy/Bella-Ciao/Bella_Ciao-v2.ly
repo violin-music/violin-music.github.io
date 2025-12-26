@@ -1,7 +1,6 @@
 \version "2.16.0"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 20)
 
 \header {
 title = "Bella ciao"

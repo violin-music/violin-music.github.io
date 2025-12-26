@@ -1,11 +1,13 @@
 \version "2.24.0"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Position Markup Styles Comparison"
   subtitle = "Kreutzer Etude №2 - Measures 4-6"
   composer = "Rodolphe Kreutzer"
   style = "violin etude"
+  country = "France"
   tagline = ##f
 }
 

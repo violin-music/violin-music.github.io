@@ -1,10 +1,11 @@
 \version "2.19"
 \language "english"
+\include "../../common/common-header.ily"
 \header {
   title = " Les yeux noirs - Dark eyes"
   subsubtitle = "Otchi chornye - Очи чёрные"
   composer = "Trad. Russia"
-  tagline = ""
+  country = "Russia"
 }
 
 theChords = \chordmode {

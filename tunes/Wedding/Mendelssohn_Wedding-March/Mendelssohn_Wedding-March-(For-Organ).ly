@@ -10,7 +10,6 @@
 
 %#(set-default-paper-size "a4")
 
-#(set-global-staff-size 19)
 
 \header {
   title = "Wedding March (For Organ)"

@@ -64,7 +64,7 @@ dropLyricsIV = {}
         \fill-line{\headerLine}
   }
 }
-#(set-global-staff-size 15) \paper{ #(define fonts (make-pango-font-tree "GoudyOlSt BT" "Garamond Premier Pro" "Garamond Premier Pro" (/ 15 20))) }
+\paper{ #(define fonts (make-pango-font-tree "GoudyOlSt BT" "Garamond Premier Pro" "Garamond Premier Pro" (/ 15 20))) }
 global = {
   \key d \major
   \time 3/4

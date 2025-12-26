@@ -1,8 +1,6 @@
 \version "2.16.2"
 \include "english.ly"
 
-#(set-global-staff-size 16)
-
 setStaffElements = {
   \override Staff.Clef #'font-size = #-2
   \override Staff.TimeSignature #'font-size = #-1

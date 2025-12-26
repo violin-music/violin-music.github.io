@@ -1,13 +1,13 @@
 \version "2.19.7"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title     = "Russian Music - Polyushko Pole, Plaine, ma plaine(French) - The Cossack Patrol"
 
-  source    = "Russian"
   composer  = "Composed in 1934 by Lev Knipper (1898-1974)"
   enteredby = "Marc"
-  tagline   = ""
+  country = "Russia"
 }
 melody = \relative d'' {
   \set Staff.midiInstrument = #"violin"

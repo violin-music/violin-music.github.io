@@ -5,7 +5,6 @@
 
 \version "2.19.2"
 %% #(set-global-staff-size 14)
-#(set-global-staff-size 24)
 
 
 

@@ -1,6 +1,7 @@
 \version "2.19.7"
 \language "english"
 \include "../../common/violin-functions.ly"
+\include "../../common/common-header.ily"
 \paper {   indent = 0\cm}
 %#(set-global-staff-size 22)
 
@@ -9,10 +10,10 @@
   subsubtitle = "Plaine, ma plaine (French); The Cossack Patrol (English)"
   source    = "Russian"
   enteredby = "Marc"
-  tagline   = ""
   composer  = "Lev Knipper (1898-1974)"
   arranger =  "Composed in 1934"
   style = "folk song"
+  country = "Russia"
 }
 
 chordNames_Gm = \chordmode {

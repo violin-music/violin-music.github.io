@@ -11,7 +11,6 @@
   genre = "Classical"
 }
 
-#(set-global-staff-size 20.0762645669)
 \paper {
   paper-width = 21.0\cm
   paper-height = 29.7\cm

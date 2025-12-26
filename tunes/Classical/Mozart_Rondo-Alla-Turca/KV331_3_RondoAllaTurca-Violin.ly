@@ -23,7 +23,6 @@
 }
 
 
-#(set-global-staff-size 22)
 
 
 

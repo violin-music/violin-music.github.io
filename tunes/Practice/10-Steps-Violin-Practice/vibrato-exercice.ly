@@ -9,7 +9,6 @@
 
 \include "../common/common-header.ily"
 
-#(set-global-staff-size 24)
 
 \score {
   \relative d'' {

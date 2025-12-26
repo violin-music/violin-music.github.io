@@ -1,6 +1,7 @@
 \version "2.19.53"
 \language "english"
 \include "../../common/bars-per-line-engraver.ly"
+\include "../../common/common-header.ily"
 
 
 
@@ -16,7 +17,6 @@
   genre = "Jazz"
 
   subgenre = "Gypsy Jazz"
-  tagline = ""
 }
 
 

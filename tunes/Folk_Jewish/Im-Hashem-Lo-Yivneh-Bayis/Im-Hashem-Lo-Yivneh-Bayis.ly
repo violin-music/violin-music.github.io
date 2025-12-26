@@ -1,7 +1,6 @@
 \version "2.24.4"
 \language "english"
 \layout { indent = 10\mm}
-#(set-global-staff-size 20)
 
 
 \header {

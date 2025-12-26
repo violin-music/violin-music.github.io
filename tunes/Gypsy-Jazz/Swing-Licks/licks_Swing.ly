@@ -1,5 +1,6 @@
 \version "2.24.0"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Swing Licks"
@@ -8,7 +9,7 @@
   genre = "Jazz"
 
   subgenre = "Gypsy Jazz"
-  tagline = ""
+  country = "France"
 }
 
 global = {
@@ -65,4 +66,3 @@ lick_B_melody = \relative c'' {
   \layout { }
   \midi { \tempo 4 = 150}
 }
-

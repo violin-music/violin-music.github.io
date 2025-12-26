@@ -562,4 +562,3 @@ AVlcsyBassvoiceDA = \relative c{
   \midi {}
 }%% end of score-block
 
-#(set-global-staff-size 14)

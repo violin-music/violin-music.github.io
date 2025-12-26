@@ -137,7 +137,6 @@ chJazz = #(append (sequential-music-to-chord-exceptions chJazzMusic #t))
 %-------------------------------
 
 
-#(set-global-staff-size 20)
 
 \paper {
 	indent = 0\mm

@@ -12,7 +12,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%
 %%%  STYLE SHEET
 %%%%%%%%%%%%%%%%%%%%%%%%
-#(set-global-staff-size 20)
 \paper {
   #(define fonts (set-global-fonts
                   #:roman "LilyJAZZ Text"

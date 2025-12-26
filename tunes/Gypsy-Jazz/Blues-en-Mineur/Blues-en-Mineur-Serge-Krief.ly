@@ -1,5 +1,6 @@
 \version "2.19.53"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Blues en Mineur"
@@ -9,7 +10,6 @@
   genre = "Jazz"
 
   subgenre = "Gypsy Jazz"
-  tagline = ""
 }
 
 global = {

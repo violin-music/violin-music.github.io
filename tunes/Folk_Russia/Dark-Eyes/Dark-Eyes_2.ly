@@ -1,8 +1,9 @@
+\version "2.24.4"
 \language "english"
 \include "../../common/violin-functions.ly"
+\include "../../common/common-header.ily"
 
 %% 
-#(set-global-staff-size 23)
 \layout {
     indent = 0\in
 }
@@ -12,6 +13,8 @@
   source = ""
   composer = "Russian Folk Song"
   enteredby = "Marc"
+  style = "folk song"
+  country = "Russia"
   copyright = "Public Domain"
   tag = ""
 }
@@ -50,8 +53,5 @@ Violin = \relative a' {
 %    \new Staff { \looksSlower {\time 4/4 \Violin  }}
 	\midi {}
 }
-
-
-
 
 

@@ -4,7 +4,7 @@
   title = "Dark eyes"
   subsubtitle = "Otchi chornye - Очи чёрные - Les yeux noirs"
   composer = "Trad. Russia"
-  tagline = ""
+  country = "Russia"
 }
 \include "../../common/common-header.ily"
 

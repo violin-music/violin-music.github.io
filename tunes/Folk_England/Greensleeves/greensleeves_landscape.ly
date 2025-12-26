@@ -1,12 +1,10 @@
 \version "2.24.0"
 \include "english.ly"
-#(set-global-staff-size 32)
 \header {
   title = "Greensleeves"
   country = "England"
   composer = "Traditional English"
   style = "folk"
-  tagline = ""
   % Enlever le pied de page par défaut
 }
 

@@ -2,11 +2,13 @@
 %---------------------------------
 %\include"./   "_/AccordsJazzDefs.ly"
 %----------------------------------
+\include "../../common/common-header.ily"
 
 \header {
   title = "All of Me"
   composer = "Gerald Marks and Seymour Simons"
   style = "jazz standard"
+  country = "USA"
 }
 
 muA = \relative c' {

@@ -445,4 +445,3 @@ ApartC =  <<
   \layout {\context {\Score \consists Span_bar_engraver}}
 }%% end of score-block 
 
-#(set-global-staff-size 14)

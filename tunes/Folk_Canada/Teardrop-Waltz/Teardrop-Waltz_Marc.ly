@@ -5,7 +5,6 @@
 %\include "stylesheet_fiddle.ly"
 
 #(set-default-paper-size "letter")
-#(set-global-staff-size 22)
 \header {
   title    = "Teardrop Waltz"
   composer = "Reg Bouvette"

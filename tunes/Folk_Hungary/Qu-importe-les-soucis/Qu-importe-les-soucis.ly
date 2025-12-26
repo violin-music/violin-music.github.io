@@ -8,7 +8,7 @@
   transcription = "Marc"
   composer = "Traditional Hungarian"
   style = "folk"
-  tagline = ""
+  country = "Hungary"
 }
 
 global = {

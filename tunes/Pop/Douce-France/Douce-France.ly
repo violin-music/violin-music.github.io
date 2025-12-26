@@ -1,11 +1,12 @@
 \include "../common/includes.ly"
+\include "../common/common-header.ily"
 
 
 \header {
   title = "Douce France"
   composer = "Charles Trenet and Leo Chauliac"
   style = "chanson"
-  tagline = ""
+  country = "France"
 }
 
 global = {
