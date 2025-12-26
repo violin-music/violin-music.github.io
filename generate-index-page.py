@@ -581,7 +581,8 @@ def scan_repository():
         #   - Let-It-Snow_(F).ly and Let-It-Snow_(G).ly -> counted as 1 tune with 2 keys
         #   - Gary-Owen_(G).ly, Gary-Owen_(D).ly, etc. -> counted as 1 tune with 4 keys
         #   - Korobeiniki_(Am).ly, Korobeiniki_(Dm).ly, etc. -> counted as 1 tune with 5 keys
-        group_key = f"{ly_file.parent}/{base_name}"
+        relative_dir = ly_file.parent.relative_to(REPO_ROOT)
+        group_key = f"{relative_dir}/{base_name}"
         # Determine the key to add to available_keys: use filename key if present, else header key
         key_to_add = file_key if file_key else tune_info.get('key', '')
         # Track if this is the "base" file (no key suffix in filename) - its key should be default

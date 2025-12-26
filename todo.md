@@ -1,6 +1,8 @@
 # TO DO
 
-if a tunes has multiple keys it should only be counted once. update the script and the documentation.
+- review the MULTI-KEY-SETUP-GUIDE.md documentation
+
+- if a tunes has multiple keys it should only be counted once. update the script and the documentation.
 
 - update the index generation script to count tunes with multiple keys only once, and then update the documentation.
 
@@ -8,9 +10,11 @@ if a tunes has multiple keys it should only be counted once. update the script a
 
 - Update script to count multi-key tunes only once
 
-- Update MULTI-KEY-SETUP-GUIDE.md documentation
+- Update MULTI-KEY-SETUP-GUIDE.md documentation if needed
 
 - Regenerate index with corrected counts
+
+- Fix `\slide` function to accept numeric arguments (e.g., #5) robustly and update dependent scores
 
 - update the tunes:
   - "Blue Lou"

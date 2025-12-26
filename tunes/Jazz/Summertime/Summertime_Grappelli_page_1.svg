@@ -1,0 +1,762 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(48.2957, 6.9166)">
+<text font-family="Optima" font-weight="bold" font-size="4.3999" text-anchor="start" fill="currentColor">
+<tspan>S</tspan>
+</text>
+</g>
+<g transform="translate(50.4809, 6.9166)">
+<text font-family="Optima" font-weight="bold" font-size="3.4923" text-anchor="start" fill="currentColor">
+<tspan>UMMERTIME</tspan>
+</text>
+</g>
+<g transform="translate(44.2839, 9.9166)">
+<text font-family="Optima" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>As played by Stephane Grappelli</tspan>
+</text>
+</g>
+<g transform="translate(101.7243, 6.9166)">
+<text font-family="Optima" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>G. Gershwin</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 16.0272)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>=> Add Chords</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 18.0881)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>=> Add Swing Tempo</tspan>
+</text>
+</g>
+<g transform="translate(11.3811, 38.5905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="102.3799" y2="0"/>
+</g>
+<g transform="translate(11.3811, 37.4905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="102.3799" y2="0"/>
+</g>
+<g transform="translate(11.3811, 36.3905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="102.3799" y2="0"/>
+</g>
+<g transform="translate(11.3811, 35.2905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="102.3799" y2="0"/>
+</g>
+<g transform="translate(11.3811, 34.1905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="102.3799" y2="0"/>
+</g>
+<g transform="translate(113.6210, 36.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(89.3022, 36.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(64.9833, 36.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(40.6644, 36.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:40:2:3">
+<g transform="translate(20.0811, 35.2905)">
+<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:40:4:5">
+<g transform="translate(20.0811, 33.5905)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Piano</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(12.1811, 37.4905)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:25:2:3">
+<g transform="translate(16.3811, 36.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
+c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:40:13:14">
+<g transform="translate(44.4000, 35.2905)">
+<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:40:16:17">
+<g transform="translate(68.7188, 35.2905)">
+<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:40:19:20">
+<g transform="translate(93.0377, 35.2905)">
+<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(5.6906, 55.6905)">
+<rect x="105.0247" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 55.6905)">
+<rect x="102.6235" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 55.6905)">
+<rect x="100.2224" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 55.6905)">
+<rect x="97.8212" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 55.6905)">
+<rect x="14.7888" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 55.6905)">
+<rect x="12.5618" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 54.5905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 53.4905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 52.3905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 51.2905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 50.1905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 52.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(83.5706, 52.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(55.0997, 52.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(38.6362, 52.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:46:21:22">
+<g transform="translate(111.0413, 52.3905)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 4.4000C1.7517 4.7334 2.1322 4.7334 2.3797 4.4000L2.3797 4.4000C2.1322 4.6134 1.7517 4.6134 1.5042 4.4000z"/>
+</g>
+</a>
+<g transform="translate(107.4132, 52.1765)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.8923 -0.0100 4.8923 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<g transform="translate(6.4906, 53.4905)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(4.8028, 49.1200)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+</g>
+<g transform="translate(99.1088, 52.1765)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.9932 -0.0100 5.9932 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:4:5">
+<g transform="translate(11.4906, 52.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:6:7">
+<g transform="translate(11.4906, 49.5905)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Violin</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:46:2:3">
+<g transform="translate(109.4355, 51.4965)">
+<text font-family="serif" font-style="italic" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:16:17">
+<g transform="translate(15.9330, 52.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:46:2:3">
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:19:20">
+<g transform="translate(18.5784, 56.2405)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(19.8177, 52.3905)">
+<rect x="-0.0650" y="0.0000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(86.3103, 50.4045)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.6889 0.4480 8.6889 0.8960 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:23:24">
+<g transform="translate(20.8054, 56.2405)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(22.0446, 52.3905)">
+<rect x="-0.0650" y="0.0000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:45:14:15">
+<g transform="translate(101.6816, 51.4970)">
+<text font-family="serif" font-style="italic" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:34:35">
+<g transform="translate(22.7069, 53.4905)">
+<path transform="scale(0.0028, -0.0028)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(23.5598, 52.3905)">
+<rect x="-0.0650" y="-1.9800" width="0.1300" height="2.9656" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(23.6248, 50.4505)">
+<path transform="scale(0.0028, -0.0028)" d="M0 -212v-213v213c0 -114 85 -201 146 -295c4 13 6 26 6 40c0 94 -87 188 -152 255zM115 -848c0 11 43 74 43 169s-90 188 -158 254v-75h-21v500h21c0 -177 201 -290 201 -467c0 -33 -9 -66 -23 -96c18 -36 29 -74 29 -116c0 -63 -15 -125 -41 -182
+c-5 -10 -14 -13 -23 -13c-14 0 -28 10 -28 26z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:45:14:15">
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:48:49">
+<g transform="translate(26.7069, 52.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.9461, 52.3905)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.1139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(73.0481, 49.0905)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.8739 -0.0100 3.8739 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:51:52">
+<g transform="translate(29.4065, 53.4905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(30.6457, 52.3905)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="4.2139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:54:55">
+<g transform="translate(32.6061, 52.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(33.8454, 52.3905)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.1139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:44:43:44">
+<g transform="translate(75.6577, 52.3905)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 1.3475C1.4349 1.9979 2.8189 1.9979 3.4017 1.3475L3.4017 1.3475C2.8189 1.8779 1.4349 1.8779 0.8521 1.3475z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:57:58">
+<g transform="translate(35.5558, 52.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(36.7950, 52.3905)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.1139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(57.8395, 49.9765)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.9389 -0.2240 8.9389 0.2240 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:44:23:24">
+<g transform="translate(5.6906, 52.3905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="63.5799" y1="0.4057" x2="64.4466" y2="0.1443"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:43:4:5">
+<g transform="translate(40.3012, 52.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.3662, 52.3905)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.4077" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:43:7:8">
+<g transform="translate(47.6391, 52.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M365 0h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:44:22:23">
+<g transform="translate(67.8739, 52.3905)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.4760 1.4674C1.5651 2.2667 3.6943 2.1481 4.6763 1.2334L4.6763 1.2334C3.6876 2.0283 1.5584 2.1469 0.4760 1.4674z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:44:4:5">
+<g transform="translate(56.6653, 52.9405)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(57.9045, 52.3905)">
+<rect x="-0.0650" y="-2.4140" width="0.1300" height="2.7779" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(27.8811, 49.0905)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.9389 -0.2240 8.9389 0.2240 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:44:7:8">
+<g transform="translate(59.6149, 53.4905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(60.8541, 52.3905)">
+<rect x="-0.0650" y="-2.4140" width="0.1300" height="3.3279" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:60:61">
+<g transform="translate(35.5558, 52.3905)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 0.2475C2.1418 0.9366 3.7679 0.9366 4.4054 0.2475L4.4054 0.2475C3.7679 0.8166 2.1418 0.8166 1.5042 0.2475z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:44:9:10">
+<g transform="translate(62.5645, 52.9405)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(63.8037, 52.3905)">
+<rect x="-0.0650" y="-2.4140" width="0.1300" height="2.7779" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(19.7527, 52.3905)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.3169 -0.2240 2.3169 0.2240 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<g transform="translate(19.7527, 53.2765)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.3169 -0.2240 2.3169 0.2240 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:44:11:12">
+<g transform="translate(65.5142, 53.4905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(66.7534, 52.3905)">
+<rect x="-0.0650" y="-2.4140" width="0.1300" height="3.3279" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:42:37:38">
+<g transform="translate(5.6906, 52.3905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="18.4051" y1="0.9319" x2="20.5454" y2="0.1681"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:44:20:21">
+<g transform="translate(67.8739, 52.9405)">
+<path transform="scale(0.0028, -0.0028)" d="M208 139c69 0 117 -40 117 -99c0 -91 -107 -179 -209 -179c-69 0 -116 40 -116 99c0 91 106 179 208 179z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(68.7267, 52.3905)">
+<rect x="-0.0650" y="-2.5300" width="0.1300" height="2.9656" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(68.7917, 49.9005)">
+<path transform="scale(0.0028, -0.0028)" d="M115 -723c0 12 43 85 43 193c0 101 -90 205 -158 280h-21v250h21c0 -196 207 -334 207 -530c0 -71 -15 -140 -41 -206c-5 -10 -14 -13 -23 -13c-14 0 -28 10 -28 26z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:44:34:35">
+<g transform="translate(71.8739, 52.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(73.1131, 52.3905)">
+<rect x="-0.0650" y="-3.2964" width="0.1300" height="3.1103" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(70.7239, 52.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:44:39:40">
+<g transform="translate(75.6577, 52.9405)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(76.8970, 52.3905)">
+<rect x="-0.0650" y="-3.0896" width="0.1300" height="3.4534" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(74.6235, 52.9405)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:44:45:46">
+<g transform="translate(78.6074, 52.9405)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(79.8466, 52.3905)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:45:4:5">
+<g transform="translate(85.1361, 53.4905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(86.3753, 52.3905)">
+<rect x="-0.0650" y="-1.9810" width="0.1300" height="2.8949" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:45:7:8">
+<g transform="translate(87.8357, 54.5905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(89.0749, 52.3905)">
+<rect x="-0.0650" y="-1.7732" width="0.1300" height="3.7871" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:45:10:11">
+<g transform="translate(90.7853, 54.5905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(92.0246, 52.3905)">
+<rect x="-0.0650" y="-1.5461" width="0.1300" height="3.5600" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:45:12:13">
+<g transform="translate(93.7350, 54.5905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(94.9742, 52.3905)">
+<rect x="-0.0650" y="-1.3190" width="0.1300" height="3.3329" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:45:27:28">
+<g transform="translate(97.9346, 55.1405)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(99.1738, 52.3905)">
+<rect x="-0.0650" y="-0.2117" width="0.1300" height="2.7756" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(96.4846, 55.1405)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:45:31:32">
+<g transform="translate(101.4367, 55.1405)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(102.6759, 52.3905)">
+<rect x="-0.0650" y="-0.0875" width="0.1300" height="2.6514" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(100.4024, 55.1405)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:45:33:34">
+<g transform="translate(103.8378, 55.6905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(105.0771, 52.3905)">
+<rect x="-0.0650" y="-0.0023" width="0.1300" height="3.1162" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:46:15:16">
+<g transform="translate(106.2390, 55.6905)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(107.4782, 52.3905)">
+<rect x="-0.0650" y="-0.2112" width="0.1300" height="3.3251" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:46:18:19">
+<g transform="translate(108.6401, 56.2405)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(109.8794, 52.3905)">
+<rect x="-0.0650" y="-0.1070" width="0.1300" height="3.7709" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:46:20:21">
+<g transform="translate(111.0413, 56.2405)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(112.2805, 52.3905)">
+<rect x="-0.0650" y="-0.0028" width="0.1300" height="3.6667" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 71.6905)">
+<rect x="5.4739" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 70.5905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 69.4905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 68.3905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 67.2905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 66.1905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 68.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(87.6830, 68.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(61.7450, 68.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(35.8070, 68.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:46:21:22">
+<g transform="translate(5.6906, 68.3905)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M3.5650 4.4000C4.0592 4.9799 5.1058 4.9799 5.6000 4.4000L5.6000 4.4000C5.1058 4.8599 4.0592 4.8599 3.5650 4.4000z"/>
+</g>
+</a>
+<g transform="translate(6.4906, 69.4905)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(4.8028, 65.1166)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>9</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:48:2:3">
+<g transform="translate(11.4906, 72.2405)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(12.7298, 68.3905)">
+<rect x="-0.0650" y="-0.0000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:48:5:6">
+<g transform="translate(17.8353, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:48:8:9">
+<g transform="translate(23.8259, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:48:11:12">
+<g transform="translate(29.8164, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:49:2:3">
+<g transform="translate(37.7828, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:49:5:6">
+<g transform="translate(43.7733, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:49:8:9">
+<g transform="translate(49.7639, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:49:11:12">
+<g transform="translate(55.7544, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:50:2:3">
+<g transform="translate(63.7208, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:50:5:6">
+<g transform="translate(69.7113, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:50:8:9">
+<g transform="translate(75.7019, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:50:11:12">
+<g transform="translate(81.6925, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:51:11:12">
+<g transform="translate(107.6305, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:51:2:3">
+<g transform="translate(89.6588, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:51:5:6">
+<g transform="translate(95.6494, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:51:8:9">
+<g transform="translate(101.6399, 68.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(5.6906, 86.5905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 85.4905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 84.3905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 83.2905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 82.1905)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 84.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(87.5931, 84.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(61.5651, 84.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(35.5371, 84.3905)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 85.4905)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(3.9151, 81.1200)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>13</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:53:2:3">
+<g transform="translate(11.4906, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:53:5:6">
+<g transform="translate(17.5022, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:53:8:9">
+<g transform="translate(23.5138, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:53:11:12">
+<g transform="translate(29.5255, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:54:2:3">
+<g transform="translate(37.5185, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:54:5:6">
+<g transform="translate(43.5302, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:54:8:9">
+<g transform="translate(49.5418, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:54:11:12">
+<g transform="translate(55.5534, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:55:2:3">
+<g transform="translate(63.5465, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:55:5:6">
+<g transform="translate(69.5581, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:55:8:9">
+<g transform="translate(75.5698, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:55:11:12">
+<g transform="translate(81.5814, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:56:11:12">
+<g transform="translate(107.6094, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:56:2:3">
+<g transform="translate(89.5744, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:56:5:6">
+<g transform="translate(95.5861, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Summertime/Summertime_Grappelli.ly:56:8:9">
+<g transform="translate(101.5977, 84.3905)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+</svg>

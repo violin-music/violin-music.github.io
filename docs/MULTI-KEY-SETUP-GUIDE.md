@@ -9,6 +9,31 @@ The multi-key pattern separates tunes into three types of files:
 2. **Preview wrapper** (`TuneName.ly`) - For editing with visual preview in your IDE
 3. **Key-specific files** (`TuneName_(Key).ly`) - For the website, one per key
 
+The index generator groups key-specific files by **directory + base filename**. Files named `Tune_(Key).ly` in the same folder are counted as a single tune with multiple available keys in `index.html`. Keep base names consistent so multi-key tunes aren’t double-counted.
+
+### Alternate: In-Place `targetKey` Pattern
+
+Some older tunes keep everything in a single file and drive key choice with a `targetKey` variable:
+
+```lilypond
+targetKey = c   % base key (e.g., D minor)
+
+melodySource = { \key d \minor \time 4/4 ... }  % original notation
+melody = \transpose d \targetKey \melodySource  % transposed on the fly
+
+chordsSource = \chordmode { d1:m g:m a:7 ... }
+chords = \transpose d \targetKey \chordsSource
+
+\score {
+  <<
+    \new ChordNames { \chords }
+    \new Staff { \key \targetKey \minor \melody }
+  >>
+}
+```
+
+To output another key, change `targetKey` and re-run LilyPond (or create `_Key` variants that set `targetKey` before `\score`). The indexer still counts the tune once because it groups by folder + base filename.
+
 ## When to Use This Pattern
 
 Use this pattern when a tune file contains multiple `\transpose` commands to show the same tune in different keys, such as:

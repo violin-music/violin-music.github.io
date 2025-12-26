@@ -1,5 +1,7 @@
-\version "2.14.2"
+\version "2.24.4"
 \include "italiano.ly"
+\language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Bella Ciao"
@@ -8,40 +10,44 @@
   style = "folk song"
 }
 
-\include "../../common/common-header.ily"
+% Base key (D minor)
+targetKey = d
 
-
-theMelody =  {
+melodySource =  {
   \time 2/4
-  \key re \minor		
-	r8 la re' mi' 
-	fa' re'~ re'4
-	r8 la re' mi' 
-	fa' re'~ re'4
-	r8 la re' mi' 
-	fa'4 mi'8 re' 
-	fa'4 mi'8 re' 
-	la'4  la'
-	la'8 la'[ sol' la'] 
-	sib'8 sib' ~ sib'4
-	r8 sib' la' sol' sib' la'~ la'4
-	r8 la' sol' fa' mi'4 la' fa' mi' re'2
+  \key d \minor		
+	r8 a d' e' 
+	f' d'~ d'4
+	r8 a d' e' 
+	f' d'~ d'4
+	r8 a d' e' 
+	f'4 e'8 d' 
+	f'4 e'8 d' 
+	a'4  a'
+	a'8 a'[ g' a'] 
+	bf'8 bf' ~ bf'4
+	r8 bf' a' g' bf' a'~ a'4
+	r8 a' g' f' e'4 a' f' e' d'2
 }
 
-theChords = \chordmode { 
-     re2:m re:m re:m re:m re:m re:m re:m 
-     la:7 la:7 sol:m sol:m re:m re:m la:7 re4:m la4:7 re:m 
-} 
-       
+% Transposed melody driven by targetKey
+melody = \transpose d \targetKey \melodySource
 
+chordsSource = \chordmode { 
+     d2:m d:m d:m d:m d:m d:m d:m 
+     a:7 a:7 g:m g:m d:m d:m a:7 d4:m a4:7 d:m 
+} 
+
+chords = \transpose d \targetKey \chordsSource
 
 \score { 
   << 
-    \context ChordNames { \theChords }
+    \context ChordNames { \chords }
     \new Staff {
-      \context Voice = "voiceMelody" { \theMelody }
+      \key \targetKey \minor
+      \context Voice = "voiceMelody" { \melody }
     }   
   >> 
-\midi {} 
-\layout {} 
+  \midi {} 
+  \layout {} 
 } 
