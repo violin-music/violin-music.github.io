@@ -1,16 +1,30 @@
-% Violin part for "The Mad Lover" by John Eccles
-% This file can be:
-%   1. Compiled standalone to produce a violin part PDF with chords
-
-targetKey = c
-
-%   2. Included in full scores (the \score block is skipped)
-
 \version "2.24.4"
 \language "english"
 
 \include "../../common/twoByTwoBeaming.ly"
 \include "../../common/bars-per-line-engraver.ly"
+\include "../../common/common-header.ily"
+
+% Violin part for "The Mad Lover" by John Eccles
+% This file can be:
+%   1. Compiled standalone to produce a violin part PDF with chords
+
+
+\header {
+  title = "The Mad Lover"
+  subtitle = "5. Air - Violin"
+  composer = "John Eccles (1668 – 1735)"
+  country = "England"
+  genre = "Classical"
+  video = "https://www.youtube.com/watch?v=6jtBoqPpw-g"
+}
+
+
+
+targetKey = c
+
+%   2. Included in full scores (the \score block is skipped)
+
 
 global = {
   \time 3/4
@@ -99,15 +113,7 @@ melody = \relative c'' {
 % Conditional compilation: only generate \score if compiled standalone
 % When included in another file with (ly:set-option 'included-as-part #t), skip the score
 
-\header {
-  title = "The Mad Lover"
-  subtitle = "5. Air - Violin"
-  composer = "John Eccles (1668 – 1735)"
-  country = "England"
-  genre = "Classical"
-}
 
-\include "../../common/common-header.ily"
 
 % Only generate score block if not included as part
 #(if (not (ly:get-option 'included-as-part))
