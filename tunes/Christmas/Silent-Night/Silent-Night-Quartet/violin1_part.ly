@@ -1,4 +1,11 @@
 \version "2.14.1"
+\header {
+  title = "Silent Night"
+  subtitle = "Violin 1 part"
+  composer = "Franz Xaver Gruber"
+  style = "christmas carol"
+  tagline = ""
+}
 
 violinOne = \relative f' {
 %1

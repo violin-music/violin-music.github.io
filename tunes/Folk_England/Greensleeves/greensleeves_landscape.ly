@@ -4,6 +4,9 @@
 \header {
   title = "Greensleeves"
   country = "England"
+  composer = "Traditional English"
+  style = "folk"
+  tagline = ""
   % Enlever le pied de page par défaut
 }
 

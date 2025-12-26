@@ -1,6 +1,14 @@
 \version "2.14.0"
 \include "english.ly"
 
+\header {
+  title = "Silent Night"
+  subtitle = "Quartet debug"
+  composer = "Franz Xaver Gruber"
+  style = "christmas carol"
+  tagline = ""
+}
+
 global= {
   \time 6/8
   \key d \major

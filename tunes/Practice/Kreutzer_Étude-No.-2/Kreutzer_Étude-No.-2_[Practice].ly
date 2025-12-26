@@ -1,6 +1,13 @@
 \version "2.19.26"
 \language "english"
 
+\header {
+  title = "Kreutzer Etude No. 2 (Practice)"
+  composer = "Rodolphe Kreutzer"
+  style = "violin etude"
+  tagline = ""
+}
+
 \relative c' {
   c8  e   g   f     e   f   d   e-4
   d8  fs  a   g     fs  g   e   fs-4

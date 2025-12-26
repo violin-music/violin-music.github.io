@@ -3,6 +3,9 @@
 
 \header {
   title = "Tsiganisky"
+  composer = "Traditional Russian"
+  style = "folk"
+  tagline = ""
 }
 
 global = {

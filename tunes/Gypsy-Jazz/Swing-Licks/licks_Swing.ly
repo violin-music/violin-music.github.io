@@ -2,10 +2,13 @@
 \language "english"
 
 \header {
-  title = ""
+  title = "Swing Licks"
+  composer = "Marc Mouries"
+  style = "gypsy jazz"
   genre = "Jazz"
 
   subgenre = "Gypsy Jazz"
+  tagline = ""
 }
 
 global = {
@@ -62,5 +65,4 @@ lick_B_melody = \relative c'' {
   \layout { }
   \midi { \tempo 4 = 150}
 }
-
 

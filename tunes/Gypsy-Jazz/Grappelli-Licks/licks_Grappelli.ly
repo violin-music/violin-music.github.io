@@ -3,9 +3,12 @@
 \header {
   title = "Violin licks from Stephane Grappelli"
   country = "France"
+  composer = "Stephane Grappelli"
+  style = "gypsy jazz"
   genre = "Jazz"
 
   subgenre = "Gypsy Jazz"
+  tagline = ""
 }
 
 global = {

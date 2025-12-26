@@ -3,6 +3,9 @@
 
 \header {
   title = "Douce France"
+  composer = "Charles Trenet and Leo Chauliac"
+  style = "chanson"
+  tagline = ""
 }
 
 global = {

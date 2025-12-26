@@ -4,9 +4,12 @@
 \header {
  title = "Si Tu Savais"
   country = "France"
+  composer = "Django Reinhardt"
+  style = "gypsy jazz"
   genre = "Jazz"
 
   subgenre = "Gypsy Jazz"
+  tagline = ""
 }
 
 global = {

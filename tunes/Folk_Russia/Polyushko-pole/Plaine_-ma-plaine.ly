@@ -6,18 +6,13 @@
 
 \header {
   title     = "Polyushko-polye"
-  subsubtitle = \markup{\center-column {
-"Plaine, ma plaine (French)"
-    "The Cossack Patrol (English)"                   }}
+  subsubtitle = "Plaine, ma plaine (French); The Cossack Patrol (English)"
   source    = "Russian"
-  %composer  = "Lev Knipper (1898-1974)"
   enteredby = "Marc"
   tagline   = ""
-
-  composer = \markup{
-    \line
-    {\italic "Lev Knipper (1898-1974)"}}
- arranger =  "Composed in 1934"
+  composer  = "Lev Knipper (1898-1974)"
+  arranger =  "Composed in 1934"
+  style = "folk song"
 }
 
 chordNames = \chordmode {

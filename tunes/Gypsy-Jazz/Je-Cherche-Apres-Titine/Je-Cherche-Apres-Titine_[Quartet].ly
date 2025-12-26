@@ -4,7 +4,10 @@
 \header {
    title = "Je cherche après Titine"
    subtitle = "Version 2"
+   composer = "Leo Daniderff"
+   style = "musette"
    copyright = "All Rights Reserved"
+   tagline = ""
 }
 
 AvoiceAA = \relative c''{

@@ -11,9 +11,12 @@
   title = "Blues en Mineur"
   country = "France"
   subtitle = "Chords & Arpgeggios"
+  composer = "Django Reinhardt"
+  style = "gypsy jazz"
   genre = "Jazz"
 
   subgenre = "Gypsy Jazz"
+  tagline = ""
 }
 
 

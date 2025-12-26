@@ -6,6 +6,9 @@
 \header {
  title = "Les Feuilles Mortes (Autumn Leaves)"
  subtitle = "Joseph Kosma"
+ composer = "Joseph Kosma"
+ style = "jazz standard"
+ tagline = ""
 }
 chordNames = \chordmode {
   \set majorSevenSymbol = \markup { maj7 }

@@ -6,6 +6,9 @@
   title = "Qu'importe les soucis"
   subtitle = "As played by Yoska Nemeth"
   transcription = "Marc"
+  composer = "Traditional Hungarian"
+  style = "folk"
+  tagline = ""
 }
 
 global = {

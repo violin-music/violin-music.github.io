@@ -4,9 +4,12 @@
 \header {
   title = "Practice Gypsy - Rythmes Gitans"
   country = "France"
+  composer = "Marc Mouries"
+  style = "gypsy jazz"
   genre = "Jazz"
 
   subgenre = "Gypsy Jazz"
+  tagline = ""
 }
 
 

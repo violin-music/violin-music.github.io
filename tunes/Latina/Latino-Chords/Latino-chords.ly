@@ -2,7 +2,10 @@
 \language "english"
 
 \header {
-  title = ""
+  title = "Latino Chords"
+  composer = "Marc Mouries"
+  style = "latin study"
+  tagline = ""
 }
 
 \markup \huge "C minor"

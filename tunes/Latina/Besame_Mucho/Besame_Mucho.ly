@@ -13,6 +13,9 @@
 
 \header {
   title = "Besame Mucho"
+  composer = "Consuelo Velazquez"
+  style = "bolero"
+  tagline = ""
 }
 
 global = {

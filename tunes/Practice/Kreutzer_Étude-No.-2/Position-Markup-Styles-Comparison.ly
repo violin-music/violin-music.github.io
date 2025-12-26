@@ -4,6 +4,8 @@
 \header {
   title = "Position Markup Styles Comparison"
   subtitle = "Kreutzer Etude №2 - Measures 4-6"
+  composer = "Rodolphe Kreutzer"
+  style = "violin etude"
   tagline = ##f
 }
 

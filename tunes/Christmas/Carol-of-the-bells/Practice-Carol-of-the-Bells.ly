@@ -3,6 +3,9 @@
 
 \header {
   title = "Practice Carol of the Bells"
+  composer = "Mykola Leontovych"
+  style = "christmas carol"
+  tagline = ""
 }
 
 

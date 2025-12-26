@@ -5,6 +5,9 @@
 
 \header {
     title = "Indifférence (Practice)"
+    composer = "Tony Murena and Joseph Colombo"
+    style = "valse musette"
+    tagline = ""
 
   subtitle =  \markup \column {
     \line { "T Murena & Colombo"}
@@ -32,4 +35,3 @@
   e  b  g  e	
 }
   
-

@@ -6,6 +6,9 @@
 \version "2.19.11"
 \header {
   title = "Besame mucho"
+  composer = "Consuelo Velazquez"
+  style = "bolero"
+  tagline = ""
 }
 
 ASvoiceAA = \relative c'{
