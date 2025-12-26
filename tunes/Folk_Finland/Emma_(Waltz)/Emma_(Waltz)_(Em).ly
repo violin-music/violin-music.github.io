@@ -1,8 +1,7 @@
 \version "2.24.4"
-\include "../../common/stylesheet_fiddle.ly"
 \language "english"
-
-\include "Emma_(Waltz)_music.ily"
+\include "../../common/common-header.ily"
+\include "../../common/stylesheet_fiddle.ly"
 
 \header {
   title    = "Emma's Waltz"
@@ -11,7 +10,7 @@
   genre = "Folk"
 }
 
-\include "../../common/common-header.ily"
+\include "Emma_(Waltz)_music.ily"
 
 
 targetKey = e
