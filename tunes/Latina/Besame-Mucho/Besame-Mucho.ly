@@ -1,6 +1,6 @@
 \version "2.19.15"
 \language "english"
-\include "../common/bars-per-line-engraver.ly"
+\include "../../common/bars-per-line-engraver.ly"
 \include "../../common/common-header.ily"
 
 \layout {

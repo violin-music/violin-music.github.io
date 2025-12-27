@@ -1,11 +1,11 @@
 \version "2.24.0"
 \language "english"
 
-\include "Besame_Mucho_music.ily"
+\include "Besame-Mucho_music.ily"
 
 \header {
   title = "Bésame Mucho"
-  subtitle = "Key: A minor"
+  subtitle = "Key: D minor"
   composer = "Consuelo Velázquez"
   country = "Mexico"
   style = "bolero"
@@ -19,12 +19,12 @@
 }
 
 
-targetKey = a
+targetKey = d
 
 \score {
   <<
-    \new ChordNames { \transpose d \targetKey, \chordNames }
-    \new Staff { \transpose d \targetKey, \melody }
+    \new ChordNames \chordNames
+    \new Staff { \transpose d \targetKey \melody }
   >>
   \layout { }
   \midi { \tempo 4 = 96 }
