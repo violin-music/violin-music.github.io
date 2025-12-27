@@ -15,7 +15,7 @@ targetKey = a
 
 \score {
   <<
-    \new ChordNames { \transpose \originalKey \targetKey \chords }
+    \new ChordNames { \transpose \originalKey \targetKey \chordChanges }
     \new Staff {
       \key \targetKey \minor
       \context Voice = "voiceMelody" { \transpose \originalKey \targetKey \melody }

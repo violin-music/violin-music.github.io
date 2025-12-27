@@ -20,7 +20,7 @@ melody = {
   r8 a' g' f' e'4 a' f' e' d'2
 }
 
-chords = \chordmode {
+chordChanges = \chordmode {
   d2:m d:m d:m d:m d:m d:m d:m
   a:7 a:7 g:m g:m d:m d:m a:7 d4:m a4:7 d:m
 }

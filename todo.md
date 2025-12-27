@@ -2,7 +2,9 @@
 
 - review the Gymnopedie tunes 
 
-- the filters in the index page
+- 
+
+- update the filters in the index page
 
 - Regenerate index with corrected counts
 
@@ -18,3 +20,12 @@
   - Indifférence
 
 Limit reached · resets Dec 31 at 7pm (America/New_York) · contact an admin to increase limits
+
+
+=> "Cokas Dance"
+
+=>   - Summertime
+
+there is a problem with the index page. when users open or refresh the index page, it loads very slowly and it starts showing a list of tunes and then seconds later it shows a list of tunes sorted alphabetically. 
+
+shouldn't the update-csv-keys-from-ly be part of a visitor pattern?

@@ -259,6 +259,22 @@ def convert_key_to_standard(note, mode):
         # For modal keys (dorian, mixolydian, etc.), include the mode
         return f"{note} {mode}"
 
+def normalize_key_for_csv(key_str):
+    """Normalize key label to CSV-friendly format (e.g., 'Gm' -> 'G minor')"""
+    key_str = (key_str or '').strip()
+    if not key_str:
+        return ''
+    key_str = key_str.replace('♭', 'b').replace('♯', '#')
+    if '/' in key_str:
+        return key_str
+    match_minor = re.match(r'^([A-G])([#b]?)(m)$', key_str)
+    if match_minor:
+        return f"{match_minor.group(1)}{match_minor.group(2)} minor"
+    match_major = re.match(r'^([A-G])([#b]?)$', key_str)
+    if match_major:
+        return f"{match_major.group(1)}{match_major.group(2)} major"
+    return key_str
+
 def extract_key_from_filename(filename):
     """Extract key from filename pattern: Tune-Name_(Key).ly
     Returns tuple: (base_name, key) or (filename, None) if no key pattern found
@@ -434,6 +450,9 @@ def scan_repository():
     custom_metadata = load_custom_metadata()
     csv_metadata = load_csv_metadata()  # Load CSV rich metadata
 
+    def normalize_key_label(key: str) -> str:
+        return key.replace('♭', 'b').replace('♯', '#')
+
     # Component files to exclude (not standalone pieces)
     EXCLUDE_FILENAMES = {'book.ly', 'book-1.ly', 'book-2.ly', 'guitar1.ly', 'guitar2.ly', 'guitar3.ly',
                          'guitar4.ly', 'dynamicsa.ly', 'dynamicsb.ly', 'dynamicsc.ly',
@@ -581,6 +600,12 @@ def scan_repository():
         if not tune_info['range']:
             tune_info['range'] = tune_info.get('csv_range', '')
 
+        csv_key = tune_info.get('csv_key', '')
+        if csv_key:
+            tune_info['csv_key'] = normalize_key_for_csv(csv_key)
+        else:
+            tune_info['csv_key'] = normalize_key_for_csv(tune_info.get('key', ''))
+
         # Skip files without proper title or composer
         if not metadata['title'] or not metadata['composer']:
             print(f"  Skipping (missing metadata): {rel_path}")
@@ -593,7 +618,7 @@ def scan_repository():
         #   - Gary-Owen_(G).ly, Gary-Owen_(D).ly, etc. -> counted as 1 tune with 4 keys
         #   - Korobeiniki_(Am).ly, Korobeiniki_(Dm).ly, etc. -> counted as 1 tune with 5 keys
         relative_dir = ly_file.parent.relative_to(REPO_ROOT)
-        group_key = f"{relative_dir}/{base_name}"
+        group_key = f"{relative_dir}/{base_name.lower()}"
         # Determine the key to add to available_keys: use filename key if present, else header key
         key_to_add = file_key if file_key else tune_info.get('key', '')
         # Track if this is the "base" file (no key suffix in filename) - its key should be default
@@ -605,21 +630,74 @@ def scan_repository():
             # Track which keys have filename suffixes (for preview lookup)
             tune_info['filename_keys'] = [file_key] if file_key else []
             tune_info['_has_base_key'] = is_base_file  # Track if we've seen the base file
+            if is_base_file and key_to_add:
+                tune_info['_base_key_value'] = key_to_add
             tunes_by_base[group_key] = tune_info
             tunes.append(tune_info)
         else:
             # We've seen this tune before - add the key to the existing entry
             # This ensures multi-key tunes are counted only once
+            existing = tunes_by_base[group_key]
+            base_name_case_mismatch = (
+                existing.get('base_name', '').lower() == base_name.lower()
+                and existing.get('base_name') != base_name
+            )
             if key_to_add and key_to_add not in tunes_by_base[group_key]['available_keys']:
                 # Base file key (no filename suffix) should be first as the default
                 if is_base_file:
-                    tunes_by_base[group_key]['available_keys'].insert(0, key_to_add)
-                    tunes_by_base[group_key]['_has_base_key'] = True
-                else:
+                    if base_name_case_mismatch:
+                        key_to_add = ''
+                    else:
+                        tunes_by_base[group_key]['available_keys'].insert(0, key_to_add)
+                        tunes_by_base[group_key]['_has_base_key'] = True
+                if key_to_add and not is_base_file:
                     tunes_by_base[group_key]['available_keys'].append(key_to_add)
             # Track filename keys separately
             if file_key and file_key not in tunes_by_base[group_key].get('filename_keys', []):
                 tunes_by_base[group_key].setdefault('filename_keys', []).append(file_key)
+
+            # Prefer a key-suffixed file for base_name casing and default paths
+            if file_key and not existing.get('file_key'):
+                existing['base_name'] = base_name
+                existing['file_key'] = file_key
+                existing['directory'] = tune_info['directory']
+                existing['ly_path'] = tune_info['ly_path']
+                existing['pdf_exists'] = tune_info['pdf_exists']
+                existing['midi_exists'] = tune_info['midi_exists']
+                existing['thumbnail_exists'] = tune_info['thumbnail_exists']
+                existing['pdf_path'] = tune_info['pdf_path']
+                existing['midi_path'] = tune_info['midi_path']
+                existing['thumbnail_path'] = tune_info['thumbnail_path']
+                existing['range_svg_exists'] = tune_info['range_svg_exists']
+                existing['range_svg_path'] = tune_info['range_svg_path']
+                if base_name_case_mismatch and existing.get('_base_key_value'):
+                    base_key = existing['_base_key_value']
+                    if base_key in existing.get('available_keys', []):
+                        existing['available_keys'].remove(base_key)
+                    existing['_has_base_key'] = False
+            elif file_key and existing.get('base_name', '').lower() == base_name.lower() and existing.get('base_name') != base_name:
+                existing['base_name'] = base_name
+                if existing.get('_base_key_value'):
+                    base_key = existing['_base_key_value']
+                    if base_key in existing.get('available_keys', []):
+                        existing['available_keys'].remove(base_key)
+                    existing['_has_base_key'] = False
+
+    for tune in tunes:
+        available_keys = tune.get('available_keys', [])
+        filename_keys = tune.get('filename_keys', [])
+        if available_keys:
+            preferred_by_norm = {normalize_key_label(k): k for k in filename_keys}
+            seen = set()
+            normalized_keys = []
+            for key in available_keys:
+                norm = normalize_key_label(key)
+                preferred = preferred_by_norm.get(norm, key)
+                if norm in seen:
+                    continue
+                seen.add(norm)
+                normalized_keys.append(preferred)
+            tune['available_keys'] = normalized_keys
 
     return sorted(tunes, key=lambda x: (x['category'], x['title']))
 
@@ -928,8 +1006,15 @@ def generate_html(tunes):
         ('Cb', 'Ab', -7)    # 7 flats
     ]
 
+    def split_key_variants(key_str):
+        return [part.strip() for part in key_str.split('/') if part.strip()]
+
     # Count tunes per key signature group
-    all_keys = [tune.get('csv_key', '') for tune in tunes if tune.get('csv_key') and tune.get('csv_key') not in ['N/A', 'Various', 'Varies', '']]
+    all_keys = []
+    for tune in tunes:
+        key_value = tune.get('csv_key', '')
+        if key_value and key_value not in ['N/A', 'Various', 'Varies', '']:
+            all_keys.extend(split_key_variants(key_value))
 
     def normalize_key_name(key_str):
         """Normalize key: 'F-sharp major' → 'F#', 'B-flat minor' → 'Bb'"""
@@ -1092,6 +1177,8 @@ def generate_html(tunes):
             if version_tag not in tune_slug:  # Don't add if already in slug
                 tune_slug = f"{tune_slug}-{version_tag}"
         elif subtitle:
+            if re.match(r'^Key:\s*[A-G][#b]?\s*(minor|major|m)?$', subtitle, re.IGNORECASE):
+                subtitle = ''
             # Use subtitle as version differentiator if no bracket tag
             # Take first few meaningful words (up to 3)
             subtitle_slug = subtitle.lower()
@@ -1118,17 +1205,14 @@ def generate_html(tunes):
 
         range_value = tune.get('range', '')
         range_display = range_value if range_value else '—'
-        range_display_html = html.escape(range_display)
         range_display_attr = html.escape(range_display, quote=True)
         if tune.get('range_svg_exists'):
             range_cell = (
                 f'<img class="range-svg" src="{html.escape(tune["range_svg_path"])}" '
                 f'alt="Range {range_display_attr}" title="{range_display_attr}">'
             )
-            if range_value:
-                range_cell += f'<div class="range-text">{range_display_html}</div>'
         else:
-            range_cell = range_display_html
+            range_cell = '—'
 
         html_output += f"""                <tr data-category="{html.escape(tune['category'])}" data-difficulty="{tune['difficulty']}" data-tags="{html.escape(','.join(tune['tags']))}" data-style="{html.escape(tune['style'])}" data-country="{html.escape(tune['country']) if tune['country'] else ''}" data-dance-types="{html.escape(','.join(tune['dance_types']))}" data-genres="{html.escape(','.join(tune['genres']))}" data-occasions="{html.escape(','.join(tune['occasions']))}" data-csv-genre="{html.escape(tune.get('csv_genre', ''))}" data-csv-subgenre="{html.escape(display_subgenre)}" data-csv-period="{html.escape(tune.get('csv_period', ''))}" data-csv-type="{html.escape(tune.get('csv_type', ''))}" data-csv-key="{html.escape(tune.get('csv_key', ''))}" data-csv-ensemble="{html.escape(tune.get('csv_ensemble', ''))}" data-csv-use-case="{html.escape(tune.get('csv_use_case', ''))}" data-csv-session="{html.escape(tune.get('csv_session', ''))}" data-csv-moods="{html.escape(moods_str)}" data-top10="{str(is_top10).lower()}" data-christmas="{str(is_christmas).lower()}" data-wedding="{str(is_wedding).lower()}" data-tune-slug="{tune_slug}" data-available-keys='{available_keys_json}' data-filename-keys='{filename_keys_json}' data-base-name="{base_name}" data-file-key="{file_key}" data-directory="{directory}" onclick="navigateToTune(event, '{tune_slug}')">
                     <td>
@@ -1409,7 +1493,9 @@ def generate_html(tunes):
                 const matchesSubgenre = !subgenreFilter || csvSubgenre === subgenreFilter;
                 const matchesPeriod = !periodFilter || csvPeriod === periodFilter;
                 const matchesType = !typeFilter || csvType === typeFilter;
-                const matchesKey = !keyFilter || csvKey === keyFilter;
+                const normalizedCsvKey = csvKey.toLowerCase();
+                const normalizedKeyFilter = keyFilter.toLowerCase();
+                const matchesKey = !keyFilter || normalizedCsvKey === normalizedKeyFilter || normalizedCsvKey.includes(normalizedKeyFilter);
                 const matchesEnsemble = !ensembleFilter || csvEnsemble === ensembleFilter;
                 const matchesUseCase = !useCaseFilter || csvUseCase === useCaseFilter;
                 const matchesMood = !moodFilter || csvMoods.includes(moodFilter);

@@ -1,13 +1,7 @@
-\version "2.19.25"
+\version "2.24.0"
 \language "english"
-\include "../common/violin-functions.ly"
-\include "../common/markups.ly"
-
-%#(set-global-staff-size 20)
-\paper{
- % ragged-bottom=##t
- % ragged-last-bottom=##t
-}
+\include "../../common/violin-functions.ly"
+\include "../../common/markups.ly"
 
 conPassione  = \markup {  \italic "con passione" }
 grazioso     = \markup {  \italic "grazioso" }
@@ -21,10 +15,9 @@ perdendosi         = \markup { \halign #-0.5 \italic "perdendosi" }
 
 \header {
   title = "Liebesleid"
-  subtitle = "Love's Sorrow"
-
-  instrument = "Violin"
   composer = "Fritz Kreisler"
+  subtitle = "Love's Sorrow"
+  instrument = "Violin"
   % Remove default LilyPond tagline
   tagline = ##f
 
@@ -34,7 +27,7 @@ perdendosi         = \markup { \halign #-0.5 \italic "perdendosi" }
     \override #'(baseline-skip . 2.2)
     \left-column {
       \abs-fontsize #8 \sans \bold
-      \with-url #"http://www.MutopiaProject.org" {
+      \with-url "http://www.MutopiaProject.org" {
 	"Violin"
 	"Scores"
       }
@@ -99,7 +92,7 @@ partA = \relative c' {
 violin = \relative c' {
 
   \override Score.RehearsalMark.break-align-symbols = #'(clef)
-  \override Score.RehearsalMark #'extra-offset = #'(-1 . 0)
+  \override Score.RehearsalMark.extra-offset = #'(-1 . 0)
 
 
   \set fingeringOrientations = #'(left)
@@ -237,7 +230,7 @@ g4) r8
     e8. fs16-.) e4..->( cs16-1)
   \tieNeutral
     d2.\open ~
-\override Fingering #'avoid-slur = #'inside
+\override Fingering.avoid-slur = #'inside
     d2 e,4-1 (
 \tieDown
     d'4..-2  e16-.)  d4~ (
@@ -247,7 +240,7 @@ g4) r8
     cs'4..-2^\sulD d16-.)  cs4\accent  ~
 \breakPDF
 
-\override Fingering #'avoid-slur = #'outside
+\override Fingering.avoid-slur = #'outside
 
     cs8. d16-.  cs4.._3->( as16-1)
     \tieDown
@@ -268,10 +261,10 @@ g4) r8
   e,4 -1(
 \pageBreak
 \tieDown
-\override Fingering #'avoid-slur = #'inside
+\override Fingering.avoid-slur = #'inside
 
   e'4..-2 fs16-.)  e4-> ~ (      | % 81
-  \override Fingering #'avoid-slur = #'outside
+  \override Fingering.avoid-slur = #'outside
 
   e8. fs16-. ) e4..->( cs16-1-.)      | % 82
 \tieNeutral
@@ -284,20 +277,20 @@ g4) r8
 
   e,4-1(      | % 84
 \tieDown
-\override Fingering #'avoid-slur = #'inside
+\override Fingering.avoid-slur = #'inside
   d'4..-2 e16-.)  d4-> ~ (
   d8. e16-.)
-  \override Fingering #'avoid-slur = #'outside
+  \override Fingering.avoid-slur = #'outside
 
   d4..\accent( b16-1-.)
 \tieNeutral
 cs4 r cs\ub ~ ->
 \breakPDF
   cs2 e,4(
-  \override Fingering #'avoid-slur = #'inside
+  \override Fingering.avoid-slur = #'inside
 
   cs'4..-2^\sulD d16-.)  cs4~\accent
-  \override Fingering #'avoid-slur = #'outside
+  \override Fingering.avoid-slur = #'outside
 
   cs8. d16-. cs4..\accent( as16-1)
   \tieDown
@@ -397,10 +390,10 @@ a2-2^\markup \bold "tempo I" e'4 ~
 % START %% PART D %%%%
 
 \key a \major
-  \override Fingering #'avoid-slur = #'inside
+  \override Fingering.avoid-slur = #'inside
     e'4..-2^\pocomenomosso\pp fs16-.) e4 ~ \accent (
 \tieDown
-  \override Fingering #'avoid-slur = #'outside
+  \override Fingering.avoid-slur = #'outside
 
     e8. fs16-.) e4..^>( cs16-1-.)
   \tieNeutral
@@ -411,20 +404,20 @@ a2-2^\markup \bold "tempo I" e'4 ~
               \shape #'((-0.2 . -0.3) (0 . 1.0) (0 . 1.0) (0 . 0)) Slur
 
     e,4-1 (
-  \override Fingering #'avoid-slur = #'inside
+  \override Fingering.avoid-slur = #'inside
 \tieDown
 d'4..-2 e16-.)  d4~ ^>(
-  \override Fingering #'avoid-slur = #'outside
+  \override Fingering.avoid-slur = #'outside
 
     d8. e16-. ) d4..^>( b16-1)
 \tieNeutral
     cs4 r
     cs4 ~ \ub ^>
     cs2 e,4(
-  \override Fingering #'avoid-slur = #'inside
+  \override Fingering.avoid-slur = #'inside
 
     cs'4..-2^\sulD d16-.)  cs4\accent  ~
-  \override Fingering #'avoid-slur = #'outside
+  \override Fingering.avoid-slur = #'outside
 
     cs8. d16-.  cs4..^>( as16-1)
 \breakPDF
@@ -438,17 +431,17 @@ d'4..-2 e16-.)  d4~ ^>(
   a4..( cs16-. ) e4\accent  ~
   e2 e,4 -1(
 \tieDown
-  \override Fingering #'avoid-slur = #'inside
+  \override Fingering.avoid-slur = #'inside
 
   e'4..-2 fs16-.)  e4^> ~ (      | %
-    \override Fingering #'avoid-slur = #'outside
+    \override Fingering.avoid-slur = #'outside
 
   e8. fs16 ) e4..^>( a16-0-.)      | %
 \tieNeutral
   d,4-0 r <d-3> ~->\ub
   d2 e,4-1(
 \tieDown
-    \override Fingering #'avoid-slur = #'inside
+    \override Fingering.avoid-slur = #'inside
 
   d'4..-1 e16-.)  d4^>~(
   d8. e16-.)  d4..\accent( gs16)
