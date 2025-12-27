@@ -320,7 +320,7 @@ def parse_lilypond_header(ly_file):
                     match = re.search(pattern, header)
                     if match:
                         # Unescape the string: replace \" with "
-                        value = match.group(1).replace('\\"', '"')
+                        value = match.group(1).replace('\\"', '"').strip()
                         metadata[field] = value
                     else:
                         # Try \markup format: field = \markup ... "value"
@@ -329,7 +329,7 @@ def parse_lilypond_header(ly_file):
                         markup_matches = re.findall(markup_pattern, header, re.DOTALL)
                         if markup_matches:
                             # Take the last match (usually the actual content)
-                            metadata[field] = markup_matches[-1]
+                            metadata[field] = markup_matches[-1].strip()
 
             # Extract key signature from \key in music notation (only if not already set in header)
             if not metadata['key']:
@@ -699,7 +699,7 @@ def scan_repository():
                 normalized_keys.append(preferred)
             tune['available_keys'] = normalized_keys
 
-    return sorted(tunes, key=lambda x: (x['category'], x['title']))
+    return sorted(tunes, key=lambda x: (x['title'].lower(), x['category'].lower()))
 
 def is_christmas_song(title, category, style, tags):
     """Smart Christmas song detection"""
@@ -814,10 +814,34 @@ def generate_html(tunes):
     <meta name="application-name" content="Mouries Music">
     <meta name="msapplication-TileColor" content="#2d8a9f">
     <meta name="format-detection" content="telephone=no">
+    <meta name="color-scheme" content="dark light">
     <title>Mouries' Music 🎵</title>
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='0.9em' font-size='90'%3E🎵%3C/text%3E%3C/svg%3E">
     <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect fill='%232d8a9f' width='100' height='100' rx='20'/%3E%3Ctext x='50' y='70' font-size='60' text-anchor='middle'%3E🎻%3C/text%3E%3C/svg%3E">
     <link rel="manifest" href="manifest.json">
+    <script>
+        (function() {
+            try {
+                const storageKey = 'theme-preference';
+                const autoKey = 'theme-auto';
+                const saved = localStorage.getItem(storageKey);
+                const isAuto = localStorage.getItem(autoKey) !== 'false';
+                let theme = 'light';
+
+                if (saved && !isAuto) {
+                    theme = saved;
+                } else {
+                    const hour = new Date().getHours();
+                    const isDarkTime = hour >= 19 || hour < 7;
+                    theme = isDarkTime ? 'dark' : 'light';
+                }
+
+                document.documentElement.setAttribute('data-theme', theme);
+            } catch (err) {
+                document.documentElement.setAttribute('data-theme', 'light');
+            }
+        })();
+    </script>
     <!-- Tone.js libraries for MIDI playback -->
     <script src="https://unpkg.com/tone"></script>
     <script src="https://unpkg.com/@tonejs/midi"></script>
@@ -1514,27 +1538,9 @@ def generate_html(tunes):
 
             if (currentView === 'table') {
                 document.getElementById('table-container').style.display = visibleCount === 0 ? 'none' : 'block';
-                // Sort visible rows alphabetically by title after filtering
-                sortVisibleRows();
             } else {
                 document.getElementById('cards-container').style.display = visibleCount === 0 ? 'none' : 'grid';
             }
-        }
-
-        function sortVisibleRows() {
-            const table = document.getElementById('music-table');
-            const tbody = table.tBodies[0];
-            const visibleRows = Array.from(tbody.rows).filter(row => row.style.display !== 'none');
-
-            // Sort visible rows by title (first column)
-            visibleRows.sort((a, b) => {
-                const titleA = a.cells[0].textContent.trim().toLowerCase();
-                const titleB = b.cells[0].textContent.trim().toLowerCase();
-                return titleA.localeCompare(titleB);
-            });
-
-            // Reorder rows in tbody
-            visibleRows.forEach(row => tbody.appendChild(row));
         }
 
         function sortTable(columnIndex) {

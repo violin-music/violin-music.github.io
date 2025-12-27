@@ -2,7 +2,7 @@
 \language "english"
 \include "../../common/common-header.ily"
 \header {
-  title = " Les yeux noirs - Dark eyes"
+  title = "Les yeux noirs - Dark eyes"
   subsubtitle = "Otchi chornye - Очи чёрные"
   composer = "Trad. Russia"
   country = "Russia"

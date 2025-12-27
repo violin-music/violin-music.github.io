@@ -1,6 +1,15 @@
 #!/usr/bin/env python3
 """
-Update Key Signature (common) in tune_catalog_rich_schema.csv based on LilyPond \\key statements.
+Sync CSV key signatures from LilyPond source files.
+
+What it does:
+- Scans .ly files for \\key statements (e.g., \\key g \\minor).
+- Uses the LilyPond key as the canonical key for the tune.
+- Updates the "Key Signature (common)" column in tune_catalog_rich_schema.csv.
+
+Notes:
+- By default, only missing/placeholder keys are filled (use --force to overwrite).
+- Prefers base (non-suffixed) files when multiple keys exist for the same title.
 """
 import argparse
 import csv
@@ -92,18 +101,18 @@ def parse_title_and_key(ly_file):
     except Exception:
         return "", ""
 
-    header_match = re.search(r"\\header\\s*\\{([^}]*)\\}", content, re.DOTALL)
+    header_match = re.search(r"\\header\s*\{([^}]*)\}", content, re.DOTALL)
     if not header_match:
         return "", ""
 
     header = header_match.group(1)
-    title_match = re.search(r'title\\s*=\\s*"((?:[^"\\\\]|\\\\.)*)"', header)
+    title_match = re.search(r'title\s*=\s*"((?:[^"\\]|\\.)*)"', header)
     if not title_match:
         return "", ""
     title = title_match.group(1).replace('\\"', '"').strip()
 
     key_match = re.search(
-        r"\\key\\s+([a-g][sf]*)\\s+\\\\(major|minor|dorian|mixolydian|lydian|phrygian|locrian|aeolian)",
+        r"\\key\s+([a-g][sf]*)\s+\\(major|minor|dorian|mixolydian|lydian|phrygian|locrian|aeolian)",
         content,
     )
     if key_match:
@@ -112,7 +121,7 @@ def parse_title_and_key(ly_file):
         key_value = ""
 
     if not key_value:
-        header_key_match = re.search(r'key\\s*=\\s*"([^"]+)"', header)
+        header_key_match = re.search(r'key\s*=\s*"([^"]+)"', header)
         if header_key_match:
             key_value = normalize_key_for_csv(header_key_match.group(1))
 
@@ -187,6 +196,8 @@ def update_csv(force):
 
     updates = 0
     for row in rows:
+        if None in row:
+            row.pop(None, None)
         title = row.get("Title", "").strip()
         if not title or title not in key_by_title:
             continue
@@ -198,7 +209,7 @@ def update_csv(force):
                 updates += 1
 
     with CSV_FILE.open("w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(rows)
 

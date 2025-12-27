@@ -1,47 +1,38 @@
 {
-  "tunes/Folk_Ireland/Darby-O-Gill_Fox-Chase/Darby-O-Gill-Fox-Chase.ly": {
+  "tunes/Jazz/On-the-Sunny-Side-of-the-Street/on_the_sunny_side_of_the_street.ly": {
     "difficulty": 3,
     "tags": [
-      "jig",
-      "traditional",
-      "celtic",
-      "irish"
+      "jazz"
     ],
     "notes": "Add your notes here"
   },
-  "tunes/Folk_Ireland/Darby-O-Gill_Fox-Chase/darby.ly": {
-    "difficulty": 3,
+  "tunes/Practice/10-Steps-Violin-Practice/10-Steps-Violin-Practice_v2.ly": {
+    "difficulty": 2,
     "tags": [
-      "traditional",
-      "celtic",
-      "irish"
+      "practice"
     ],
     "notes": "Add your notes here"
   },
-  "tunes/Folk_Ireland/DrGilbert/drGilbert_1.ly": {
-    "difficulty": 3,
+  "tunes/Practice/10-Steps-Violin-Practice/10-Steps-Violin-Practice.ly": {
+    "difficulty": 2,
     "tags": [
-      "traditional",
-      "celtic",
-      "irish"
+      "practice"
     ],
     "notes": "Add your notes here"
   },
-  "tunes/Folk_Ireland/DrGilbert/drGilbert_1-1.ly": {
+  "tunes/Classical/Erik_Satie_Gymnop%C3%A9die/gymnopedie_1_Violin.ly": {
     "difficulty": 3,
     "tags": [
-      "traditional",
-      "celtic",
-      "irish"
+      "waltz",
+      "classical"
     ],
     "notes": "Add your notes here"
   },
-  "tunes/Folk_Ireland/Gary-Owen/Gary-Owen_%28G%29.ly": {
+  "tunes/Classical/Erik_Satie_Gymnop%C3%A9die/gymnopedie.ly": {
     "difficulty": 3,
     "tags": [
-      "traditional",
-      "celtic",
-      "irish"
+      "waltz",
+      "classical"
     ],
     "notes": "Add your notes here"
   }
