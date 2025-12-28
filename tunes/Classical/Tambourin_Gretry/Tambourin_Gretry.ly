@@ -1,16 +1,16 @@
 \version "2.19.54"
 \include "english.ly"
-\include "violin-functions.ly"
-
-#(set-global-staff-size 23)
+\include "../../common/violin-functions.ly"
 
 \header {
   title = "Tambourin"
-  source = ""
-  composer = "Andre Gretry (1741 – 1813)"
-  enteredby = "Marc"
-  tag = ""
+  composer = "Andre Gretry (1741-1813)"
+  country = "France"
+  style = "classical"
+  key = "Am"
 }
+
+\include "../../common/common-header.ily"
 
 Violin = \relative a' {
     \key a \minor
@@ -121,6 +121,3 @@ Violin = \relative a' {
 %    \new Staff { \looksSlower {\time 4/4 \Violin  }}
 
  }
-\layout {
-    indent = 0\in
-}

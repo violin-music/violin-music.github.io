@@ -3,20 +3,21 @@
 \include "english.ly"
 % english.ly     c   d   e   f   g   a   b   -s/-sharp   -f/-flat
 
-#(set-global-staff-size 24)
-
 \header {
   title = "Concerto in Sol Minore"
   subtitle = "La Stravaganza - Concerto op.4 No.6 in G minor RV316a"
   piece = "1. Allegro"
-  composer = "Antonio Vivaldi (1678 – 1741)"
+  composer = "Antonio Vivaldi (1678-1741)"
+  country = "Italy"
+  style = "baroque"
+  key = "Gm"
   date = "1720"
-  style = "Baroque"
   maintainer = "Hajo Dezelski"
   maintainerEmail = "dl1sdz (at) gmail.com"
   footer = "Mutopia-2008/06/01-1429"
-  tagline = ""
 }
+
+\include "../../common/common-header.ily"
 
 ViolinoSolo =  	\relative g'' {
   \tempo 4=100
@@ -70,4 +71,3 @@ ViolinoSolo =  	\relative g'' {
   \midi {
   }
 }
-

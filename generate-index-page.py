@@ -457,8 +457,9 @@ def scan_repository():
     EXCLUDE_FILENAMES = {'book.ly', 'book-1.ly', 'book-2.ly', 'guitar1.ly', 'guitar2.ly', 'guitar3.ly',
                          'guitar4.ly', 'dynamicsa.ly', 'dynamicsb.ly', 'dynamicsc.ly',
                          'blank.ly', 'blank1.ly', 'copyright.ly', 'spacing.ly',
-                         'gymnopedie-2.ly', 'gymnopedie-3.ly', 'make-score-preview-lilypond-example.ly',
-                         'music.ily'}  # Exclude include files that contain only music definitions
+                         'gymnopedie-2.ly', 'gymnopedie-3.ly',
+                         'make-score-preview-lilypond-example.ly', 'music.ily'}
+    # Exclude include files and local tests that aren't standalone tunes.
 
     for ly_file in TUNES_DIR.rglob('*.ly'):
         # Skip excluded directories

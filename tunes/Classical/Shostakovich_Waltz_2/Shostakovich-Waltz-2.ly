@@ -2,11 +2,16 @@
 \language "english"
 
 \header {
-  title = "Shostakovich Waltz 2"
-  tagline = #f
+  title = "Waltz No. 2"
+  subtitle = "Suite for Variety Orchestra No. 1"
+  composer = "Dmitri Shostakovich (1906-1975)"
+  country = "Russia"
+  style = "classical"
+  key = "Cm"
 }
 
-\layout { indent=0}
+\include "../../common/common-header.ily"
+
 global = {
   \time 3/4
   \key c \minor
