@@ -1,5 +1,6 @@
 \version "2.24.0"
 \language "english"
+\include "../../common/common-header.ily"
 
 \include "Besame-Mucho_music.ily"
 
@@ -11,13 +12,6 @@
   style = "bolero"
   poet = "Consuelo Velázquez"
 }
-
-\include "../../common/common-header.ily"
-
-\paper {
-  #(set-paper-size "letter")
-}
-
 
 targetKey = d
 

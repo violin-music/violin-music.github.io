@@ -164,7 +164,7 @@ g4) r8
   <c,-2>8^\sulA\downbow c b bf2.
   \stemNeutral
   f'2.-3 e2. ~ e2.\>
-  d4_\grazioso \!
+  d4\flageolet_\grazioso \!
   r4
   \tieDown
   <d-2>4\db  (

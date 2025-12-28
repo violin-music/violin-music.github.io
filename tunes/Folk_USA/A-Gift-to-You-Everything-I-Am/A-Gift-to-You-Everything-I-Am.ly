@@ -1,7 +1,12 @@
 \version "2.19.64"
 \language "english"
+\include "../../common/common-header.ily"
 \header {
   title = "A Gift to You (Everything I Am)"
+  composer = "Kids Worship Songs Children Ministry (KWSCM)"
+  country = "USA"
+  style = "worship"
+  key = "E"
 }
 
 global = {

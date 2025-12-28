@@ -4,6 +4,10 @@
 
 - 
 
+good but when we open the tune Besame Mucho it shows the default key as "C" but the tune has the statement   "\key d \minor".
+
+i remember that for some of the tunes with multiple keys, we created a function in lilypond that allowed us to have one file with the music in the original key and files with other keys import that file but the score in the imported is not shown thanks to the function we implemented. can you search for tunes that folllow this pattern ?
+
 - update the filters in the index page
 
 - Regenerate index with corrected counts
@@ -18,17 +22,21 @@
   - J'attendrai
     - ./tunes/Classical/Vocalise_Rachmaninoff
   - Indifférence
+- Note: the Kreisler folder still has two full-score .ly files; they will both appear in the index. If you want one renamed/removed or a single canonical version, tell me which to keep.
 
 Limit reached · resets Dec 31 at 7pm (America/New_York) · contact an admin to increase limits
 
 
 => "Cokas Dance"
 
+=> comme une fleur
+
 =>   - Summertime
 
 
 
 shouldn't the update-csv-keys-from-ly be part of a visitor pattern?
+
 
 
 ## DONE 

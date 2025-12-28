@@ -1,4 +1,4 @@
-\version "2.19.15"
+\version "2.24.0"
 \language "english"
 \include "../../common/bars-per-line-engraver.ly"
 \include "../../common/common-header.ily"
@@ -21,13 +21,13 @@
 
 global = {
   \time 4/4
-  \key c \major
+  \key d \minor
   \tempo 4=100
 }
 
 chordNames = \chordmode {
   \global
-  d2:m    g2:m6           d1:m           g2:sus   g2:m g1:m
+  d2:m    g2:m6           d1:m           g2:5   g2:m g1:m
   g2:m    fs2:dim    g2:m    a2:7   d2:m   a:7  d1:m
   d1:7               d2:7    d2:7   g:m    g2:m g1:m
   d1:m               e1:7.9-        g1:m   g1:m  
@@ -36,8 +36,6 @@ chordNames = \chordmode {
 }
 
 melody = \relative c' {
-  \clef treble
-  \key f \major
   \time 4/4
 
   \repeat volta 2 {
