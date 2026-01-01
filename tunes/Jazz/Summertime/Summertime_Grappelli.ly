@@ -15,10 +15,7 @@ date = #(strftime "%B, %d %Y" (localtime (current-time)))
   genre = "Jazz"
   poet =  "Transcribed by Marc Mouries"
 }
-\markup \vspace #1
-\markup { "=> Add Chords"}
-\markup { "=> Add Swing Tempo"}
-\markup \vspace #1
+
 
 
 global = {
@@ -37,23 +34,24 @@ chordNames = \chordmode {
 
 music = \relative c' {
   \global
-  r1^"Piano" r1 r1 r1
+  %r1^"Piano" r1 r1 r1
   \break
   | r4^"Violin" r8 b16 b16 \grace g' \glissando b8 g8 b8 b8 ~
   | b2 r2
   | a8 g a g \grace a (\glissando bf)  a!8 ~ a4
-  | g8 e8 e e \tuplet 3/2 {ds8 d c}
-  \tuplet 3/2 {c8 b b~}
+  | g8 g8 e8 8 e4 ~
+  {e16( ds d) c }
+   c8 b8 b4
   \break
   b4 r4 r4 r4
   r4 r4 r4 r4
   r4 r4 r4 r4
   r4 r4 r4 r4
   \break
-  r4 r4 r4 r4
-  r4 r4 r4 r4
-  r4 r4 r4 r4
-  r4 r4 r4 r4
+ % r4 r4 r4 r4
+ % r4 r4 r4 r4
+ % r4 r4 r4 r4
+ % r4 r4 r4 r4
 }
 
 \score {

@@ -14,70 +14,48 @@
        #:typewriter "Optima"))
 }
 
-
 % ============================================================
 % Markup helpers (LilyPond 2.24.4-compatible)
-%   - \sectionTitle: bigger than examples
-%   - \exampleHeading: smaller
-%   - \heardInHeading: same size as examples
-%   - \hbullet: hanging bullets with \hspace + \wordwrap
+%   - \sectionHeading takes a LEVEL + TEXT:
+%       \markup { \sectionHeading #1 "..." }  % main section
+%       \markup { \sectionHeading #2 "..." }  % sub heading (Commonly heard in / Example)
+%   - \bulletItem: hanging bullets with consistent spacing
 % ============================================================
 
-#(define-markup-command (sectionTitle layout props txt) (string?)
-  (interpret-markup layout props
-    (markup
-      #:column (
-        #:vspace 0.6
-        #:fontsize 2 #:bold txt
-        #:vspace 0.2))))
-
-#(define-markup-command (exampleHeading layout props txt) (string?)
-  (interpret-markup layout props
-    (markup
-      #:column (
-        #:vspace 0.35
-        #:fontsize 0 #:bold #:italic txt))))
-
-#(define-markup-command (heardInHeading layout props txt) (string?)
-  (interpret-markup layout props
-    (markup
-      #:column (
-        #:vspace 0.15
-        #:fontsize 0 #:italic txt))))
-
-#(define-markup-command (hbullet layout props bullet txt) (string? string?)
-  (interpret-markup layout props
-    (markup
-      #:line (
-        #:hspace 0.5
-        #:concat (bullet #:hspace 0.6)
-        #:wordwrap-string txt)
-      )))
+#(define-markup-command (sectionHeading layout props level txt) (number? string?)
+  (let* (
+         (fs  (cond ((= level 1) 2)      ; main section heading
+                    ((= level 2) 0)      ; sub heading
+                    (else -1)))
+         (vsp (cond ((= level 1) 0.6)
+                    ((= level 2) 0.35)
+                    (else 0.2))))
+    (interpret-markup layout props
+      (markup
+        #:column (
+          #:vspace vsp
+          #:fontsize fs
+          #:bold txt
+          #:vspace 0.2)))))
 
 #(define-markup-command (bulletItem layout props txt) (string?)
   (interpret-markup layout props
     (markup
       #:column (
-        ;; the bullet line itself
         (#:line (
           #:hspace 1.2
           #:fontsize -1 "•"
           #:hspace 0.8
           #:wordwrap-string txt
         ))
-        (#:vspace 0.35) ;; consistent space AFTER each bullet
+        (#:vspace 0.6) ;; consistent space AFTER each bullet
       ))))
 
-
-
-
-
 % ============================================================
-% Intro text (wrapped + hanging bullets)
+% Intro text
 % ============================================================
 
-\markup    \vspace #0.8
-
+\markup \vspace #0.8
 
 \markup {
   \column {
@@ -98,19 +76,13 @@
   }
 }
 
-
-
-
-
-
-
 \markup \vspace #1.0
 
 % ============================================================
 % Section 1 — Double harmonic scale (major) / Byzantine scale
 % ============================================================
 
-\markup { \sectionTitle "1) Double harmonic scale (major) / Byzantine scale" }
+\markup { \sectionHeading #1 "1) Double harmonic scale (major) / Byzantine scale" }
 
 \markup {
   \column {
@@ -121,8 +93,11 @@
   }
 }
 
-\markup { \heardInHeading "Commonly heard in (placeholder): …" }
-\markup { \exampleHeading "Example (placeholder)" }
+\markup { \sectionHeading #2 "Commonly heard in:" }
+\markup { \wordwrap { (placeholder...) } }
+
+\markup { \sectionHeading #2 "Example" }
+\markup { \wordwrap { (placeholder...) } }
 
 \markup \vspace #0.4
 
@@ -142,7 +117,7 @@
 % Section 2 — Hungarian minor scale
 % ============================================================
 
-\markup { \sectionTitle "2) Hungarian minor scale" }
+\markup { \sectionHeading #1 "2) Hungarian minor scale" }
 
 \markup {
   \column {
@@ -153,8 +128,11 @@
   }
 }
 
-\markup { \heardInHeading "Commonly heard in (placeholder): …" }
-\markup { \exampleHeading "Example (placeholder)" }
+\markup { \sectionHeading #2 "Commonly heard in:" }
+\markup { \wordwrap { (placeholder...) } }
+
+\markup { \sectionHeading #2 "Example" }
+\markup { \wordwrap { (placeholder...) } }
 
 \markup \vspace #0.4
 
@@ -174,7 +152,7 @@
 % Section 3 — Phrygian Dominant (Spanish Gypsy / Freygish)
 % ============================================================
 
-\markup { \sectionTitle "3) Phrygian dominant scale (Spanish Gypsy / Freygish)" }
+\markup { \sectionHeading #1 "3) Phrygian dominant scale (Spanish Gypsy / Freygish)" }
 
 \markup {
   \column {
@@ -188,7 +166,8 @@
   }
 }
 
-\markup { \heardInHeading "Commonly heard in: Klezmer, Sephardic music, flamenco, and Romani/“gypsy jazz” colors." }
+\markup { \sectionHeading #2 "Commonly heard in:" }
+\markup { \wordwrap { Klezmer, Sephardic music, flamenco, and Romani/“gypsy jazz” colors. } }
 
 \markup \vspace #0.6
 
@@ -235,7 +214,7 @@ cPhrygianDominantSteps = \lyricmode {
   }
 }
 
-\markup { \exampleHeading "Example" }
+\markup { \sectionHeading #2 "Example" }
 
 % --- Your violin exercise example: B Phrygian Dominant (desc) + B major arpeggio ---
 

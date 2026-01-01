@@ -5,11 +5,6 @@
 \include "../../common/bars-per-line-engraver.ly"
 \include "../../common/common-header.ily"
 
-% Violin part for "The Mad Lover" by John Eccles
-% This file can be:
-%   1. Compiled standalone to produce a violin part PDF with chords
-
-
 \header {
   title = "The Mad Lover"
   subtitle = "5. Air - Violin"
@@ -17,8 +12,13 @@
   country = "England"
   genre = "Classical"
   video = "https://www.youtube.com/watch?v=6jtBoqPpw-g"
+  piece = "Transposed down to E minor"
+
 }
 
+% Violin part for "The Mad Lover" by John Eccles
+% This file can be:
+%   1. Compiled standalone to produce a violin part PDF with chords
 
 
 targetKey = c
@@ -53,7 +53,7 @@ chordNames = \chordmode {
   e2.:m            e2.:m
 }
 
-melody = \relative c'' {
+violin_music = \relative c'' {
   \global
   % === Phrase A  ===
   r8 b e g fs e
@@ -114,40 +114,34 @@ melody = \relative c'' {
 % When included in another file with (ly:set-option 'included-as-part #t), skip the score
 
 
+\layout {
+  \context {
+    \Score
+    \consists #(bars-per-line-engraver '(4 4 4 4 4 4 4 4 4 6))
+    % Fine-tune horizontal/vertical to be above the key to not overlap with chords:
+    \override RehearsalMark.X-offset = #4
+    \override RehearsalMark.Y-offset = #-2
+  }
+  \context {
+    \Voice
+    \twoByTwoBeaming
+  }
+}
 
 % Only generate score block if not included as part
 #(if (not (ly:get-option 'included-as-part))
-  (add-score
-    #{
-      \score {
-        <<
-          \new ChordNames {
-            \transpose c \targetKey { \chordNames }
-          }
-          \new Staff {
-            \transpose c \targetKey { \melody }
-          }
-        >>
-        \layout {
-          indent = 0
-          \context {
-            \Voice
-            \twoByTwoBeaming
-          }
-          \context {
-            \Score
-            % Align marks with the key signature at system starts
-            \override RehearsalMark.break-align-symbols = #'(key-signature)
-            % Slight left alignment is usually nicer above the key
-            \override RehearsalMark.self-alignment-X = #LEFT
-            % Fine-tune horizontal/vertical nudges if desired:
-            \override RehearsalMark.X-offset = #4
-            \override RehearsalMark.Y-offset = #-2
-            %use the line below to insist on your layout
-            %\override NonMusicalPaperColumn.line-break-permission = ##f
-            \consists #(bars-per-line-engraver '(4 4 4 4 4 4 4 4 4 6))
-          }
+     (add-score
+      #{
+        \score {
+          <<
+            \new ChordNames {
+              \transpose c \targetKey { \chordNames }
+            }
+            \new Staff {
+              \transpose c \targetKey { \violin_music }
+            }
+          >>
+          \layout {}
+          \midi { }
         }
-        \midi { }
-      }
-    #}))
+      #}))

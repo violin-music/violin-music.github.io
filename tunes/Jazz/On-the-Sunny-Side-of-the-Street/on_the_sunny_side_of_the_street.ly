@@ -1,13 +1,13 @@
 \version "2.24.4"
+\include "../../common/common-header.ily"
 
 \header {
-  title = "(On the) Sunny Side of the Street"
+  title = "On the Sunny Side of the Street"
   composer = "Jimmy McHugh"
   country = "USA"
   genre = "Jazz"
 }
 
-\include "../../common/common-header.ily"
 
 
 harmonies = \chordmode {

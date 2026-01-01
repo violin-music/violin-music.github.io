@@ -113,10 +113,6 @@ For each key, create a separate file named `TuneName_(Key).ly`:
 
 \include "../../common/common-header.ily"
 
-\paper {
-  #(set-paper-size "letter")
-}
-
 \score {
   \new Staff \with {
     midiInstrument = "violin"
@@ -132,6 +128,7 @@ For each key, create a separate file named `TuneName_(Key).ly`:
 ```
 
 **Key points:**
+
 - Include the master music file: `\include "TuneName_music.ily"`
 - Add `subtitle = "Key: X major/minor"` to the header
 - Use `\transpose` as needed for non-original keys

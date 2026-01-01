@@ -26,12 +26,12 @@
 \header {
   tagline = ##f
 }
-  \layout {
-    \override LyricText.font-size = #-2
-    \override LyricText.font-name = #"Optima"
+\layout {
+  \override LyricText.font-size = #-2
+  \override LyricText.font-name = #"Optima"
 
-    % Increase spacing between staff lines for better readability
-       \context {
+  % Increase spacing between staff lines for better readability
+  \context {
     \Score
     \override StaffSymbol.staff-space = #1.1  % Default is 1.0, increase to 1.1 for wider spacing
 
@@ -41,8 +41,8 @@
   }
 }
 
-    
-  
+
+
 
 %\paper{ #(define fonts
 %           (make-pango-font-tree
@@ -67,23 +67,24 @@
   indent = 10 \mm
 
   % Spacing between title/composer and music
-  markup-system-spacing.basic-distance = #16  % Space after header markup (title/composer) before first system
-  markup-system-spacing.padding = #2
-  
+  markup-system-spacing.basic-distance = #2  % Space after header markup (title/composer) before first system
+  markup-system-spacing.padding = #5
+
   %  between-system-space = 2.5\cm
-%  between-system-padding = 2\cm
+  %  between-system-padding = 2\cm
   %%set to ##t if your score is less than one page:
- % ragged-last-bottom = ##t
- % ragged-bottom = ##f
-  markup-system-spacing = #'((basic-distance . 0)
-                             (minimum-distance . 8)
-                             (padding . 10))
- % vertical spacing
- system-system-spacing =
-    #'((basic-distance . 16)
-       (minimum-distance . 12)
-       (padding . 1)
-       (stretchability . 60))
+  % ragged-last-bottom = ##t
+  % ragged-bottom = ##f
+ % markup-system-spacing = #'((basic-distance . 0)
+ %                            (minimum-distance . 8)
+ %                            (padding . 5))
+ 
+  % vertical spacing
+  system-system-spacing =
+  #'((basic-distance . 16)
+     (minimum-distance . 12)
+     (padding . 1)
+     (stretchability . 60))
 
 
 

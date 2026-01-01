@@ -5,13 +5,23 @@
 
 \version "2.24.3"
 \language "english"
+\include "../../common/common-header.ily"
+
+\header {
+  title = "The Mad Lover"
+  subtitle = "5. Air - Viola"
+  composer = "John Eccles (1668–1735)"
+  country = "England"
+  instrument = "Viola"
+  genre = "Classical"
+}
 
 global = {
   \time 3/4
   \key e \minor
 }
 
-viola = \relative c'' {
+viola_music = \relative c'' {
   \global
   % The viola line is an inner-voice ground mostly alternating notes
   % Bars 1–8
@@ -74,27 +84,15 @@ viola = \relative c'' {
 % Conditional compilation: only generate \score if compiled standalone
 % When included in another file with (ly:set-option 'included-as-part #t), skip the score
 
-\header {
-  title = "The Mad Lover"
-  subtitle = "5. Air - Viola"
-  composer = "John Eccles (1668–1735)"
-  country = "England"
-  instrument = "Viola"
-  genre = "Classical"
-}
-
-\include "../../common/common-header.ily"
-
 % Only generate score block if not included as part
 #(if (not (ly:get-option 'included-as-part))
   (add-score
     #{
       \score {
-        \new Staff \with {
-          instrumentName = "Viola"
-        } {
+        \new Staff \with { instrumentName = "Viola" }
+        {
           \clef alto
-          \viola
+          \viola_music
         }
         \layout { }
         \midi { }
