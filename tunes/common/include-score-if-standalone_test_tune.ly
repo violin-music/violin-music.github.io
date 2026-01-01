@@ -10,16 +10,18 @@
 % Set to true if you want to see filename matching in the console
 #(define debug #t)
 
+originalKey = a
+originalMode = #minor
 
 myMusic = \relative c' {
-   \key a \minor
+   \key \originalKey \originalMode
    | a4 b c d
    | e2 e
    | f4 e d b
    | a1 |
  }
 
-myChords = \chordmode { a2:m e:m }
+myChords = \chordmode { a1:m e1:m }
 myLyrics = \lyricmode { This is a test. }
 
 % This renders only when you compile tune.ly directly
@@ -27,16 +29,17 @@ myLyrics = \lyricmode { This is a test. }
 % --- OPTION A: Just the melody (no named arguments) ---
 \scoreIfStandalone \myMusic
 
-% --- OPTION B: Only one named argument ---
-\scoreIfStandalone 
-  #`((unit . "4")  % Simple string for duration
-     (bpm  . 80))   % 80 dotted quarters per minute
+% --- OPTION B: Named arguments for tempo only (dotted quarter = 80) ---
+\scoreIfStandalone
+  #`((unit . "4.")
+     (bpm  . 80))
   \myMusic
 
-% --- OPTION C: Using "Named Arguments" in any order ---
-\scoreIfStandalone 
-  #'((chords . #myChords) 
-     (lyrics . #myLyrics) 
-     (tempo  . #{\tempo 4=120 #}))
+% --- OPTION C: Using "Named Arguments" for chords and lyrics (quarter = 120) ---
+\scoreIfStandalone
+  #`((chords . ,myChords)
+     (lyrics . ,myLyrics)
+     (unit . "4")
+     (bpm  . 120))
   \myMusic
 

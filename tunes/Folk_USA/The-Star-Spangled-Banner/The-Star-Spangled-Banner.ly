@@ -1,5 +1,6 @@
-\version "2.24.0"
+\version "2.24.4"
 \include "english.ly"
+\include "../../common/common-header.ily"
 
 \header{
   title = "Star Spangled Banner"
@@ -8,13 +9,17 @@
   country = "USA"
   poet = "Francis Scott Key"
   style = "anthem"
+  genre = "Folk"
 }
 
-\include "../../common/common-header.ily"
+
+% Define original key
+originalKey = e
+originalMode = #major
 
 global = {
   \time 3/4
-  \key e \major
+  \key \originalKey \originalMode
   \autoBeamOff
 }
 
@@ -97,7 +102,7 @@ altoMusic = \relative c {
         a a cs |
         gs( fs) b8 b |
         b4. ds8 e[ fs] |
-        gs2 b,8 cs | %corrected typo in original: c2 should be d2
+        gs2 b,8 cs |
         b4. b8 a4 |
         gs2 \bar "|."
 }
@@ -171,43 +176,35 @@ homes and the war's des -- o -- la -- tion. Blest with vic -- tory and peace, ma
 heav'n -- res -- cued land Praise_the pow'r that has made and pre -- served us a na -- tion.
 Then con -- quer we must, when_our cause it is just, And this be our
 mot -- "to--" ''In God is our trust,'' And_the star -- span -- gled ban -- ner in
-tri -- umph shall wave O'er the land of the free, and the home of the brave! 
+tri -- umph shall wave O'er the land of the free, and the home of the brave!
 }
 
-\score {
-  \context ChoirStaff <<
-  \context Staff = women <<
-  \context Voice =
-    sopranos { \voiceOne << \global \sopMusic >> }
-  \context Voice =
-    altos { \voiceTwo << \global \altoMusic >> }
-
-  \context Lyrics = altos \lyricsto altos \verseone
-  \new Lyrics \lyricsto altos \versetwo
-  \new Lyrics \lyricsto altos \versethree
-  >>
-
-  \context Staff = men <<
-    \clef bass
-    \context Voice =
-      basses { << \global \bassMusic >> }
-  >>
->>
-
-\layout {
-   indent = 0.0\cm
-    \context {
-      \Score
-       \remove Bar_number_engraver
-    }
- }
-
-  \midi {
-    \tempo 4 = 100
-    }
-
-
-}
+% This score only renders when compiling THIS file directly
+% Use manual pattern for complex SATB ChoirStaff structure
+#(let* ((current-file (car (ly:input-file-line-char-column (*location*))))
+        (base-current (basename current-file ".ly"))
+        (base-output (basename (ly:parser-output-name) "")))
+   (if (string=? base-current base-output)
+       (add-score
+         #{
+           \score {
+             \context ChoirStaff <<
+               \context Staff = women <<
+                 \context Voice = sopranos { \voiceOne << \global \sopMusic >> }
+                 \context Voice = altos { \voiceTwo << \global \altoMusic >> }
+                 \context Lyrics = altos \lyricsto altos \verseone
+                 \new Lyrics \lyricsto altos \versetwo
+                 \new Lyrics \lyricsto altos \versethree
+               >>
+               \context Staff = men <<
+                 \clef bass
+                 \context Voice = basses { << \global \bassMusic >> }
+               >>
+             >>
+             \layout { indent = 0.0\cm }
+             \midi { \tempo 4 = 100 }
+           }
+         #})))
 
 %Note: Original has two eighth notes in small font (in addition to quarter note in normal font) to indicate two syllables in first bar of second verse. Midi plays all three notes.
 

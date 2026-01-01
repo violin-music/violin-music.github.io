@@ -4,7 +4,8 @@
 \include "../../common/bars-per-line-engraver.ly"
 \include "../../common/common-header.ily"
 \include "../../common/twoByTwoBeaming.ly"
-\include "../../common/inclusion-logic.ily"
+
+%\include "../../common/include-score-if-standalone.ily"
 
 \include "./The-Mad-Lover_header.ily"
 
@@ -33,10 +34,30 @@ global = {
   \key f \minor
 }
 
+
 chordNames = \chordmode {
   \global
-  f2.:m  c2.:m df  c:m f:m c df
+  \set majorSevenSymbol = \markup { maj7 }
+  \mark \markup \box "A"
+  f2.:m            ef2.               df2.              c2.:m
+  f2.:m            ef2.               df2.              c2.:m
+  \mark \markup \box "B"
+  f2.:m            ef2.               df2.              c2.:m
+  f2.:m            ef2.               df2.              c2.:m
+  \mark \markup \box "C"
+  f2.:m            ef2.               df2.              c2.:m
+  f2.:m            ef2.               df2.              c2.:m
+  \mark \markup \box "D"
+  f2.:m            ef2.               df2.              c2.:m
+  f2.:m            ef2.               df2.              c2.:m
+  \mark \markup \box "E"
+  f2.:m            ef2.               df2.              c2.:m
+  f2.:m            ef2.               df2.              c2.:m
+  f2.:m            f2.:m
 }
+
+
+
 
 originalKey  = f
 originalMode = #minor  % just # and the name
@@ -99,4 +120,17 @@ violin_music = \relative c'' {
 }
 
 
-\scoreIfStandalone \violin_music
+%\scoreIfStandalone \violin_music
+
+
+\score {
+  <<
+    \new ChordNames \chordNames
+    \new Staff { \violin_music }
+  >>
+  \layout { }
+  \midi { }
+}
+
+
+

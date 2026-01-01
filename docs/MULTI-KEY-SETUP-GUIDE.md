@@ -9,30 +9,38 @@ The multi-key pattern separates tunes into three types of files:
 2. **Preview wrapper** (`TuneName.ly`) - For editing with visual preview in your IDE
 3. **Key-specific files** (`TuneName_(Key).ly`) - For the website, one per key
 
-The index generator groups key-specific files by **directory + base filename**. Files named `Tune_(Key).ly` in the same folder are counted as a single tune with multiple available keys in `index.html`. Keep base names consistent so multi-key tunes aren’t double-counted.
+The index generator groups key-specific files by **directory + base filename**. Files named `Tune_(Key).ly` in the same folder are counted as a single tune with multiple available keys in `index.html`. Keep base names consistent so multi-key tunes aren't double-counted.
 
-### Alternate: In-Place `targetKey` Pattern
+### New Recommended Pattern: `\scoreIfStandalone` (2025)
 
-Some older tunes keep everything in a single file and drive key choice with a `targetKey` variable:
+The **`\scoreIfStandalone`** function provides the cleanest approach for multi-key setups. It automatically detects whether a file is being compiled directly or included in another file:
+
+**Advantages:**
+- Single file contains all music data (no separate `_music.ily` needed)
+- Automatic include guard - no manual `#(ly:set-option...)` required
+- Works with any number of key-specific wrapper files
+- Optional parameters for chords, lyrics, and tempo
+
+**See detailed examples below in** [Using \scoreIfStandalone Function](#using-scoreifstandalone-function)
+
+### Important: Deprecated Single-File Pattern
+
+**DO NOT USE THIS PATTERN** - It is deprecated and should not be used for new files:
 
 ```lilypond
-targetKey = c   % base key (e.g., D minor)
+% DEPRECATED - Don't use this!
+targetKey = c   % base key
 
-melodySource = { \key d \minor \time 4/4 ... }  % original notation
-melody = \transpose d \targetKey \melodySource  % transposed on the fly
+melodySource = { ... }
+melody = \transpose d \targetKey \melodySource
 
-chordsSource = \chordmode { d1:m g:m a:7 ... }
-chords = \transpose d \targetKey \chordsSource
-
-\score {
-  <<
-    \new ChordNames { \chords }
-    \new Staff { \key \targetKey \minor \melody }
-  >>
-}
+\score { ... }  % Changing targetKey and recompiling
 ```
 
-To output another key, change `targetKey` and re-run LilyPond (or create `_Key` variants that set `targetKey` before `\score`). The indexer still counts the tune once because it groups by folder + base filename.
+This old pattern kept everything in a single file and required manually changing `targetKey` and recompiling. All files should now use either:
+
+1. **`\scoreIfStandalone` pattern** (recommended for new files)
+2. **Separate files pattern** with `_music.ily` include files and key-specific wrappers
 
 ## When to Use This Pattern
 
@@ -329,7 +337,190 @@ The index generator will:
 - When opening the detail view, this key is selected by default
 - Example: `Kreutzer_Étude-No.-2.ly` with `key = "C"` → C is the default, even if `_(A)` version exists
 
-## Workflow for Editing
+## Using \scoreIfStandalone Function
+
+**New in 2025** - The recommended approach for multi-key files with automatic include guard.
+
+### What It Does
+
+The `\scoreIfStandalone` function automatically detects whether your file is being compiled directly or included in another file. It only generates a score when compiled standalone.
+
+### Basic Usage
+
+```lilypond
+% TuneName.ly - Base file with music content
+\version "2.24.4"
+\include "../../common/include-score-if-standalone.ily"
+
+\header {
+  title = "My Tune"
+  composer = "Composer Name"
+}
+
+originalKey = c
+originalMode = #major
+
+melody = \relative c' {
+  \key \originalKey \originalMode
+  c4 d e f | g2 g | ...
+}
+
+chords = \chordmode { c1 f g c }
+lyrics = \lyricmode { Do re mi fa sol sol }
+
+% This score only renders when compiling THIS file directly
+\scoreIfStandalone
+  #`((chords . ,chords)
+     (lyrics . ,lyrics)
+     (unit . "4")
+     (bpm  . 120))
+  \melody
+```
+
+### Creating Key-Specific Files
+
+```lilypond
+% TuneName_(G).ly - G major version
+\version "2.24.4"
+\include "./TuneName.ly"
+
+\header {
+  title = "My Tune"
+  subtitle = "Key: G major"
+}
+
+targetKey = g
+
+\score {
+  <<
+    \new ChordNames { \transpose \originalKey \targetKey \chords }
+    \new Staff { \transpose \originalKey \targetKey \melody }
+  >>
+  \layout { }
+  \midi { \tempo 4 = 120 }
+}
+```
+
+### Function Parameters
+
+The function signature: `\scoreIfStandalone [props] melody`
+
+**Parameters (all optional):**
+
+- `chords` - A `\chordmode` block for chord symbols
+- `lyrics` - A `\lyricmode` block for lyrics
+- `unit` - Tempo unit string: "1", "2", "4", "4.", "8", "8.", "16" (default: "4")
+- `bpm` - Beats per minute integer (default: 100)
+
+**Examples:**
+
+```lilypond
+% Minimal - just melody
+\scoreIfStandalone \melody
+
+% With tempo
+\scoreIfStandalone
+  #`((unit . "4.")
+     (bpm  . 80))
+  \melody
+
+% Full - chords, lyrics, and tempo
+\scoreIfStandalone
+  #`((chords . ,myChords)
+     (lyrics . ,myLyrics)
+     (unit . "4")
+     (bpm  . 120))
+  \melody
+```
+
+### Debug Mode
+
+Enable debug output to see how the include guard works:
+
+```lilypond
+#(define debug #t)
+```
+
+Output shows:
+```
+[DEBUG scoreIfStandalone]
+  Current file: MyTune.ly
+  Output name:  MyTune
+  Match: #t (will YES generate score)
+  Tempo: 4 = 120 BPM
+  Has chords: #t
+  Has lyrics: #t
+```
+
+### File Structure with \scoreIfStandalone
+
+```
+Tunes/MyTune/
+├── MyTune.ly              # Base file with music + \scoreIfStandalone
+├── MyTune.pdf             # Generated from base (original key)
+├── MyTune.midi
+├── MyTune_(A).ly          # A major version (includes MyTune.ly)
+├── MyTune_(A).pdf
+├── MyTune_(A).midi
+├── MyTune_(G).ly          # G major version (includes MyTune.ly)
+├── MyTune_(G).pdf
+└── MyTune_(G).midi
+```
+
+### Advantages Over Previous Patterns
+
+1. **No separate .ily file** - Music and score in one file
+2. **Automatic include guard** - No manual `#(ly:set-option...)`
+3. **Cleaner code** - Less boilerplate in key-specific files
+4. **Flexible** - Works with any number of transposed versions
+5. **Debug friendly** - Built-in debug mode shows decision logic
+
+### When NOT to Use \scoreIfStandalone
+
+For **complex choral arrangements** (SATB, ChoirStaff, multiple staves with lyrics), use the **manual include guard pattern** instead:
+
+```lilypond
+% Base file: Anthem.ly
+\version "2.24.4"
+\header { title = "Anthem" }
+
+originalKey = e
+originalMode = #major
+
+global = { \time 3/4 \key \originalKey \originalMode }
+sopMusic = \relative c' { ... }
+altoMusic = \relative c { ... }
+bassMusic = \relative c, { ... }
+verseone = \lyricmode { ... }
+
+% Manual include guard for complex structure
+#(let* ((current-file (car (ly:input-file-line-char-column (*location*))))
+        (base-current (basename current-file ".ly"))
+        (base-output (basename (ly:parser-output-name) "")))
+   (if (string=? base-current base-output)
+       (add-score
+         #{
+           \score {
+             \context ChoirStaff <<
+               \context Staff = women <<
+                 \context Voice = sopranos { \voiceOne << \global \sopMusic >> }
+                 \context Voice = altos { \voiceTwo << \global \altoMusic >> }
+                 \context Lyrics = altos \lyricsto altos \verseone
+               >>
+               \context Staff = men <<
+                 \clef bass
+                 \context Voice = basses { << \global \bassMusic >> }
+               >>
+             >>
+             \layout { }
+             \midi { \tempo 4 = 100 }
+           }
+         #})))
+```
+
+This gives you full control over the score structure without the function trying to wrap it in additional staff contexts.
+
+## Workflow for Editing (Traditional Pattern)
 
 When you need to edit the tune:
 

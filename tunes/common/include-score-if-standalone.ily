@@ -8,7 +8,7 @@ this function serves as a sophisticated Include Guard. It solves a common archit
 
   1. This file provides the \scoreIfStandalone command.
   2. Arguments: \scoreIfStandalone #'((key . value)) \melody
-  3. Possible Keys: 
+  3. Possible Keys:
      - chords: a \chordmode block
      - lyrics: a \lyricmode block
      - unit:   a string ("4", "4.", "2", "8")
@@ -16,44 +16,53 @@ this function serves as a sophisticated Include Guard. It solves a common archit
 %}
 
 scoreIfStandalone =
-#(define-void-function (props melody) (alist? ly:music?)
-  (let* ((current-file (car (ly:input-file-line-char-column (*location*))))
-         (base-current (basename current-file ".ly"))
-         (base-output (basename (ly:parser-output-name) ""))
-         (is-debug (if (defined? 'debug) debug #f))
-         
-         ;; Extract values
-         (chordNames (assoc-get 'chords props #{ { } #}))
-         (words      (assoc-get 'lyrics props #{ { } #}))
-         (bpm-val    (assoc-get 'bpm    props 100))
-         
-         ;; Handle the Unit string (e.g., "4.")
-         (unit-str   (assoc-get 'unit   props "4"))
-         ;; Convert string to a Duration object
-         (final-unit (ly:parse-string-expression (string-append "{\\tempo " unit-str " = 100}")))
-        )
+#(define-void-function (props melody) ((alist? '()) ly:music?)
+   (let* ((current-file (car (ly:input-file-line-char-column (*location*))))
+          (base-current (basename current-file ".ly"))
+          (base-output (basename (ly:parser-output-name) ""))
+          (is-debug (if (defined? 'debug) debug #f))
 
-    ;; Extraction of the duration from the temporary tempo object
-    (let ((tempo-duration (ly:prob-property (car (ly:music-property final-unit 'elements)) 'tempo-unit)))
+          ;; Extract values with empty defaults
+          (chordNames (assoc-get 'chords props (make-music 'SequentialMusic 'void #t)))
+          (words (assoc-get 'lyrics props (make-music 'SequentialMusic 'void #t)))
+          (bpm-val (assoc-get 'bpm props 100))
+          (unit-str (assoc-get 'unit props "4"))
 
-      (if is-debug
-          (ly:message "\n[DEBUG] File: ~a | Output: ~a | Match: ~a\n" 
-                      base-current base-output (string=? base-current base-output)))
+          ;; Parse tempo unit - use a simple duration map
+          (tempo-duration (cond
+                            ((string=? unit-str "1") (ly:make-duration 0 0))
+                            ((string=? unit-str "2") (ly:make-duration 1 0))
+                            ((string=? unit-str "4") (ly:make-duration 2 0))
+                            ((string=? unit-str "4.") (ly:make-duration 2 1))
+                            ((string=? unit-str "8") (ly:make-duration 3 0))
+                            ((string=? unit-str "8.") (ly:make-duration 3 1))
+                            ((string=? unit-str "16") (ly:make-duration 4 0))
+                            (else (ly:make-duration 2 0)))))
 
-      (if (string=? base-current base-output)
-          (add-score
+     (if is-debug
+         (begin
+           (ly:message "\n[DEBUG scoreIfStandalone]")
+           (ly:message "  Current file: ~a.ly" base-current)
+           (ly:message "  Output name:  ~a" base-output)
+           (ly:message "  Match: ~a (will ~a generate score)"
+                       (string=? base-current base-output)
+                       (if (string=? base-current base-output) "YES" "NO"))
+           (ly:message "  Tempo: ~a = ~a BPM" unit-str bpm-val)
+           (ly:message "  Has chords: ~a" (not (null? (ly:music-property chordNames 'elements))))
+           (ly:message "  Has lyrics: ~a\n" (not (null? (ly:music-property words 'elements))))))
+
+     (if (string=? base-current base-output)
+         (add-score
            #{
              \score {
                <<
-                 #(if (not (ly:music-empty? chordNames))
-                      #{ \new ChordNames #chordNames #})
-                 \new Staff { #melody }
-                 #(if (not (ly:music-empty? words))
-                      #{ \addlyrics { #words } #})
+                 \new ChordNames $chordNames
+                 \new Staff { $melody }
+                 \addlyrics $words
                >>
                \layout { }
-               \midi { 
-                 \tempo #tempo-duration = #bpm-val 
+               \midi {
+                 \tempo $tempo-duration = $bpm-val
                }
              }
            #}))))
