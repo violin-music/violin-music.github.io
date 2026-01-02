@@ -1327,8 +1327,10 @@ def generate_html(tunes):
 """
         # Add MIDI player
         if tune['midi_exists']:
-            safe_title = json.dumps(tune['title'])
-            html_output += f"""                    <button class="btn" onclick="playMidi('{tune['midi_path']}', {safe_title})">🎵 Play</button>
+            # Escape the title for use in JavaScript within an HTML attribute
+            # We need to escape: backslashes, single quotes, and handle special chars
+            safe_title = tune['title'].replace('\\', '\\\\').replace("'", "\\'")
+            html_output += f"""                    <button class="btn" onclick="playMidi('{tune['midi_path']}', '{safe_title}')">🎵 Play</button>
 """
         html_output += """                </div>
             </div>
