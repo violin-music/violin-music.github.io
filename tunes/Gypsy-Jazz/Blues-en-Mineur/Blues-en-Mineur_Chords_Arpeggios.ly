@@ -3,11 +3,6 @@
 \include "../../common/bars-per-line-engraver.ly"
 \include "../../common/common-header.ily"
 
-
-
-
-%% https://www.youtube.com/watch?v=EfnYL_lGSP0
-
 \header {
   title = "Blues en Mineur"
   country = "France"
@@ -15,8 +10,8 @@
   composer = "Django Reinhardt"
   style = "gypsy jazz"
   genre = "Jazz"
-
   subgenre = "Gypsy Jazz"
+  video = "https://www.youtube.com/watch?v=EfnYL_lGSP0"
 }
 
 
@@ -33,7 +28,7 @@ chordNames = \chordmode {
 }
 
 
-melody_ = \relative c'' {
+melody = \relative c'' {
   \global
   
   g,4 bf d e 

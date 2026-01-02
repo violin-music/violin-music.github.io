@@ -1,4 +1,4 @@
-\version "2.19.53"
+\version "2.24.0"
 \language "english"
 \include "../../common/violin-functions.ly"
 
@@ -26,7 +26,7 @@ chordNames = \chordmode {
 
 melody = \relative c''' {
   \global
-  \compressFullBarRests
+  \compressEmptyMeasures
   R2.*2
    r4. r4 cs8-3\ub 
   % \tieDown
@@ -45,7 +45,7 @@ melody = \relative c''' {
 
 melodySoprano = \relative c'' {
   \global
-  \compressFullBarRests
+  \compressEmptyMeasures
   R2.*2
    r4. r4 cs8-3\ub 
   % \tieDown
