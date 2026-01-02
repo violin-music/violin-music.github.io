@@ -2,26 +2,22 @@
 \include "./The-Star-Spangled-Banner.ly"
 
 \header {
-  title = "Star Spangled Banner"
+  title = "The Star-Spangled Banner"
   subtitle = "Key: G major"
 }
 
 targetKey = g
 
 \score {
-  \context ChoirStaff <<
-    \context Staff = women <<
-      \context Voice = sopranos { \voiceOne << \transpose \originalKey \targetKey' { \global \sopMusic } >> }
-      \context Voice = altos { \voiceTwo << \transpose \originalKey \targetKey' { \global \altoMusic } >> }
-      \context Lyrics = altos \lyricsto altos \verseone
-      \new Lyrics \lyricsto altos \versetwo
-      \new Lyrics \lyricsto altos \versethree
-    >>
-    \context Staff = men <<
-      \clef bass
-      \context Voice = basses { << \transpose \originalKey \targetKey' { \global \bassMusic } >> }
-    >>
+  <<
+    \new Staff {
+      \key g \major
+      \transpose \originalKey \targetKey \melody
+    }
+    \new Lyrics \lyricsto "" \verseone
+    \new Lyrics \lyricsto "" \versetwo
+    \new Lyrics \lyricsto "" \versethree
   >>
-  \layout { indent = 0.0\cm }
+  \layout { }
   \midi { \tempo 4 = 100 }
 }
