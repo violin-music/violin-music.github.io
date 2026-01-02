@@ -1,13 +1,16 @@
-\include "../common/includes.ly"
-\include "../common/common-header.ily"
-
+\version "2.24.4"
+\include "../../common/includes.ly"
+\include "../../common/include-score-if-standalone.ily"
 
 \header {
   title = "Douce France"
   composer = "Charles Trenet and Leo Chauliac"
-  style = "chanson"
+  style = "Chanson"
   country = "France"
+  genre = "Pop"
 }
+
+\include "../../common/common-header.ily"
 
 global = {
   \time 4/4
@@ -77,14 +80,20 @@ words = \lyricmode {
 
 }
 
-\include "../common/score.ly"
+% Define original key for transpositions
+originalKey = bf
+originalMode = #major
 
-
-\score {
+\scoreIfStandalone
+  #`((unit . "4")
+     (bpm  . 100))
   <<
-    \new ChordNames{\transpose d b,\chordNames}
-    \new Staff      {\transpose d b, \melody }
+    \new ChordNames \chordNames
+    \new Staff {
+      \global
+      \melody
+    }
   >>
-  \layout { }
-  \midi { }
-}
+
+% Additional transposed version (in B flat -> transpose to B)
+% You can create separate files like Douce-France_(B).ly for other keys
