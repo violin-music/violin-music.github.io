@@ -2,11 +2,9 @@
 
 - [] fix the  way to write music in multiple keys
 
-
 - [] generate a version of the tune /Users/Marc/Projects/violin-music.github.io/tunes/Folk_USA/The-Star-Spangled-Banner in the key of B major
 
-
-- review the Gymnopedie tunes 
+- review the Gymnopedie tunes
 
 - The Kreisler folder still has two full-score .ly files; they will both appear in the index. If you want one renamed/removed or a single canonical version, tell me which to keep.
 
@@ -27,10 +25,9 @@ i remember that for some of the tunes with multiple keys, we created a function 
   - Nuages
   - J'attendrai
     - ./tunes/Classical/Vocalise_Rachmaninoff
-  - Indifférence
+  - Indifférence
 
 Limit reached · resets Dec 31 at 7pm (America/New_York) · contact an admin to increase limits
-
 
 => "Cokas Dance"
 
@@ -38,13 +35,10 @@ Limit reached · resets Dec 31 at 7pm (America/New_York) · contact an admin to 
 
 =>   - Summertime
 
-
-
 shouldn't the update-csv-keys-from-ly be part of a visitor pattern?
 
+## DONE
 
-
-## DONE 
 - update the metadata, move it to the right folder and update the index
 
 ### loading slowness
