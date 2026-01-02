@@ -1,5 +1,6 @@
 \version "2.24.0"
 \language "english"
+\include "../../common/include-score-if-standalone.ily"
 \include "../../common/bars-per-line-engraver.ly"
 \include "../../common/common-header.ily"
 
@@ -13,15 +14,20 @@
   }
 
 \header {
-  title = "Besame Mucho"
-  composer = "Consuelo Velazquez"
+  title = "Bésame Mucho"
+  composer = "Consuelo Velázquez"
   style = "bolero"
   country = "Mexico"
+  poet = "Consuelo Velázquez"
 }
+
+% Define original key
+originalKey = d
+originalMode = #minor
 
 global = {
   \time 4/4
-  \key d \minor
+  \key \originalKey \originalMode
   \tempo 4=100
 }
 
@@ -75,14 +81,10 @@ melody = \relative c' {
 words = \lyricmode {
 }
 
-
-\score {
-  <<
-    \new ChordNames \chordNames
-    \new Staff {    \melody }
-    \addlyrics {    \words }
-  >>
-  \layout {}
-    \midi { \tempo 4 = 120 }
-
-}
+% This score only renders when compiling THIS file directly
+\scoreIfStandalone
+  #`((chords . ,chordNames)
+     (lyrics . ,words)
+     (unit . "4")
+     (bpm  . 100))
+  \melody

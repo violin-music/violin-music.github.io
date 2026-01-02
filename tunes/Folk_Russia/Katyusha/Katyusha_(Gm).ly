@@ -1,27 +1,21 @@
-\version "2.19.15"
-\include "../../common/stylesheet_fiddle.ly"
-\language "english"
-
-\include "Katyusha_music.ily"
+\version "2.24.4"
+\include "./Katyusha.ly"
 
 \header {
   title = "Katyusha"
-  subtitle = "Катюша"
-  composer = "Matvey Blanter"
-  country = "Russia"
-  genre = "Folk"
+  subtitle = "Key: G minor"
 }
-
-\include "../../common/common-header.ily"
-
 
 targetKey = g
 
 \score {
   <<
-    \new ChordNames \transpose e \targetKey \chordNames
-    \new Staff \with { midiInstrument = "violin" } { \transpose e \targetKey \melody }
+    \new ChordNames { \transpose \originalKey \targetKey \chordNames }
+    \new Staff {
+      \key g \minor
+      \transpose \originalKey \targetKey \melody
+    }
   >>
   \layout { }
-  \midi { }
+  \midi { \tempo 4 = 100 }
 }

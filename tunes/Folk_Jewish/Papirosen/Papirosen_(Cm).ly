@@ -1,30 +1,18 @@
-\version "2.24.0"
-\include "../../common/stylesheet_fiddle.ly"
-\language "english"
-
-\include "Papirosen_music.ily"
+\version "2.24.4"
+\include "./Papirosen.ly"
 
 \header {
   title = "Papirosen"
   subtitle = "Key: C minor"
-  instrument = "Violin"
-  genre = "Folk"
-
-  subgenre = "Klezmer"
-  composer = "Traditional"
-  country = "Jewish"
 }
 
-\include "../../common/common-header.ily"
-
-\paper {
-  #(set-paper-size "letter")
-}
+targetKey = c
 
 \score {
-  \new Staff \with {
-    midiInstrument = "violin"
-  } \melody
+  \new Staff {
+    \key c \minor
+    \transpose \originalKey \targetKey \melody
+  }
   \layout { }
-  \midi { }
+  \midi { \tempo 4 = 126 }
 }

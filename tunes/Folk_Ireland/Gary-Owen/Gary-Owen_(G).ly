@@ -1,35 +1,21 @@
-\version "2.24.0"
-\include "../../common/stylesheet_fiddle.ly"
-\language "english"
-
-\include "Gary-Owen_music.ily"
+\version "2.24.4"
+\include "./Gary-Owen.ly"
 
 \header {
   title = "Gary Owen"
   subtitle = "Key: G major"
-  instrument = "Violin"
-  composer = "Traditional Irish"
-  country = "Ireland"
-  genre = "Folk"
-
-  subgenre = "Irish"
 }
 
-\include "../../common/common-header.ily"
-
-\paper {
-  #(set-paper-size "letter")
-}
+targetKey = g
 
 \score {
-  \new Staff \with {
-    midiInstrument = "violin"
-  } {
-    <<
-      \new ChordNames \chordNames
-      \new Voice = "mel" \melody
-    >>
-  }
+  <<
+    \new ChordNames { \transpose \originalKey \targetKey \chordNames }
+    \new Staff {
+      \key g \major
+      \transpose \originalKey \targetKey \melody
+    }
+  >>
   \layout { }
   \midi { \tempo 4. = 120 }
 }

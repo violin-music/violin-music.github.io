@@ -1,38 +1,21 @@
-\version "2.19.32"
-\include "../../common/stylesheet_fiddle.ly"
-\include "italiano.ly"
-
-\include "korobeiniki_music.ily"
+\version "2.24.4"
+\include "./korobeiniki.ly"
 
 \header {
-	title = "Коробейники (Korobeiniki)"
-	subtitle = "Tetris Theme"
-	instrument = "Violin"
-	poet = "Nikolaï Alekseïevitch Nekrassov"
-	composer = "Traditional Russian"
-	country = "Russia"
-	arranger = ""
-	style = "russian traditional"
+  title = "Коробейники (Korobeiniki)"
+  subtitle = "Key: A minor"
 }
 
-\include "../../common/common-header.ily"
-
-\paper {
-  #(set-paper-size "letter")
-}
-
-
-targetKey = la
+targetKey = a
 
 \score {
-  \new Staff \with {
-    midiInstrument = "violin"
-  } {
-    <<
-      \new ChordNames { \transpose la \targetKey \chordNames }
-      \new Voice = "mel" { \transpose la \targetKey \melody }
-    >>
-  }
+  <<
+    \new ChordNames { \transpose \originalKey \targetKey \chordNames }
+    \new Staff {
+      \key a \minor
+      \transpose \originalKey \targetKey \melody
+    }
+  >>
   \layout { }
   \midi { \tempo 4 = 150 }
 }

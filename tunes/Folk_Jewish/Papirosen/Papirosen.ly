@@ -1,25 +1,23 @@
-\version "2.24.0"
-\include "../../common/stylesheet_fiddle.ly"
+\version "2.24.4"
 \language "english"
+\include "../../common/include-score-if-standalone.ily"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Papirosen"
   instrument = "Violin"
-    genre = "Folk"
-
-    subgenre = "Klezmer"
+  genre = "Folk"
+  subgenre = "Klezmer"
   composer = "Traditional"
-  country = "Jewish"  % Remove default LilyPond tagline
+  country = "Jewish"
 }
 
-\include "../../common/common-header.ily"
-
-\paper {
-  #(set-paper-size "letter")
-}
+% Define original key
+originalKey = c
+originalMode = #minor
 
 global = {
-  \key c \minor
+  \key \originalKey \originalMode
   \time 4/4
   \tempo 4=126
 }
@@ -50,37 +48,8 @@ melody = \relative c'' {
   ef2. r4
 }
 
-\markup "C minor"
-
-
-targetKey = c
-
-\score {
-  \new Staff \with {
-    midiInstrument = "violin"
-  } \melody
-  \layout { }
-  \midi { }
-}
-
-\markup "D minor"
-
-\score {
-  <<
-    % \new ChordNames { \transpose e \targetKey \chordNames}
-    \new Staff      { \transpose c d \melody }
-  >>
-  \layout {indent=0 }
-  % \midi { }
-}
-
-\markup "G minor"
-
-\score {
-  <<
-    % \new ChordNames { \transpose c b \chordNames}
-    \new Staff      { \transpose c g, \melody }
-  >>
-  \layout {indent=0 }
-  % \midi { }
-}
+% This score only renders when compiling THIS file directly
+\scoreIfStandalone
+  #`((unit . "4")
+     (bpm  . 126))
+  \melody

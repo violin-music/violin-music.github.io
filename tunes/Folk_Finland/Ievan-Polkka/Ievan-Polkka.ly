@@ -1,13 +1,7 @@
-\version "2.16"
+\version "2.24.0"
 \language "english"
-
-#(set-default-paper-size "letter")
-
-\layout { indent = 0.0\cm }
-\paper {
-  annotate-spacing = ##f
-  %top-margin = 10
-}
+\include "../../common/common-header.ily"
+%% 
 
 \header {
   title = "Ievan Polkka"

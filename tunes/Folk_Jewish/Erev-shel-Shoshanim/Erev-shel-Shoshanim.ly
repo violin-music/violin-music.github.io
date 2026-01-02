@@ -1,6 +1,7 @@
 \version "2.24.4"
-%\include "../../common/stylesheet_fiddle.ly"
 \language "english"
+\include "../../common/include-score-if-standalone.ily"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Erev shel Shoshanim"
@@ -8,13 +9,17 @@
   country = "Jewish"
   poet = "Moshe Dor"
   genre = "Folk"
-
   subgenre = "Klezmer"
 }
 
-\include "../../common/common-header.ily"
+% Define original key
+originalKey = e
+originalMode = #minor
 
-global = { \time 4/4 }
+global = {
+  \time 4/4
+  \key \originalKey \originalMode
+}
 
 % --- Chords ---
 songChords = \chordmode {
@@ -54,14 +59,14 @@ songMelody = \relative c' {
   }
 }
 
-% --- Lyrics stitched to match merged melody (A then B) ---
+% --- Lyrics ---
 verseOne = \lyricmode {
   E -- rev shel sho -- sha -- nim,
   ne -- tse na el ha -- bu -- stan;
   mor be -- sa -- mim u -- le -- vo -- na,
-  l’ -- ra -- g’ -- lech mif -- tan.
+  l' -- ra -- g' -- lech mif -- tan.
 
-  La -- la yo -- red le -- at,
+  Lai -- la yo -- red le -- at,
   ve -- ru -- ach sho -- shan nosh -- va;
   ha -- va el -- chash lach
   shir ba -- lat, ze -- mer shel a -- ha -- va.
@@ -69,7 +74,7 @@ verseOne = \lyricmode {
 
 verseTwo = \lyricmode {
   Sha -- char ho -- ma yo -- na,
-  ro -- shech ma __ ley l’ tla -- lim;
+  ro -- shech ma __ ley l' tla -- lim;
   Pich el ha -- bo -- ker
   sho -- sha -- na ek -- te __ fey -- nu li.
 
@@ -79,160 +84,17 @@ verseTwo = \lyricmode {
   shir ba -- lat, ze -- mer shel a -- ha -- va.
 }
 
-\book {
-  % -------- E minor --------
-  \bookpart {
-    \header { subtitle = "Key: E minor" }
-
-targetKey = fs
-
-    \score {
-      <<
-        \new ChordNames { \songChords }
-        \new Staff <<
-          \key e \minor
-          \new Voice = "mel" { \songMelody }
-          \new Lyrics \lyricsto "mel" { \set stanza = "1." \verseOne }
-          \new Lyrics \lyricsto "mel" { \set stanza = "2." \verseTwo }
-        >>
+% This score only renders when compiling THIS file directly
+\scoreIfStandalone
+  #`((chords . ,songChords)
+     (unit . "4")
+     (bpm  . 120))
+  {
+    <<
+      \new Staff <<
+        \new Voice = "mel" { \songMelody }
+        \new Lyrics \lyricsto "mel" { \set stanza = "1." \verseOne }
+        \new Lyrics \lyricsto "mel" { \set stanza = "2." \verseTwo }
       >>
-      \layout {
-        \override Lyrics.LyricText.font-size = #-2
-      }
-    \midi { \tempo 4 = 120 }
-    }
+    >>
   }
-
-  % -------- F# minor --------
-  \bookpart {
-    \header { subtitle = "Key: F# minor" }
-    \score {
-      <<
-        \new ChordNames { \transpose e \targetKey \songChords }
-        \new Staff <<
-          \key fs \minor
-          \new Voice = "mel" { \transpose e \targetKey \songMelody }
-          \new Lyrics \lyricsto "mel" { \set stanza = "1." \verseOne }
-          \new Lyrics \lyricsto "mel" { \set stanza = "2." \verseTwo }
-        >>
-      >>
-      \layout {
-        \override Lyrics.LyricText.font-size = #-2
-      }
-    }
-  }
-
-  % -------- F minor --------
-  \bookpart {
-    \header { subtitle = "Key: F minor" }
-    \score {
-      <<
-        \new ChordNames { \transpose e f \songChords }
-        \new Staff <<
-          \key f \minor
-          \new Voice = "mel" { \transpose e f \songMelody }
-          \new Lyrics \lyricsto "mel" { \set stanza = "1." \verseOne }
-          \new Lyrics \lyricsto "mel" { \set stanza = "2." \verseTwo }
-        >>
-      >>
-      \layout {
-        \override Lyrics.LyricText.font-size = #-2
-      }
-    }
-  }
-
-  % -------- C minor --------
-  \bookpart {
-    \header { subtitle = "Key: C minor" }
-    \score {
-      <<
-        \new ChordNames { \transpose e c \songChords }
-        \new Staff <<
-          \key c \minor
-          \new Voice = "mel" { \transpose e c \songMelody }
-          \new Lyrics \lyricsto "mel" { \set stanza = "1." \verseOne }
-          \new Lyrics \lyricsto "mel" { \set stanza = "2." \verseTwo }
-        >>
-      >>
-      \layout {
-        \override Lyrics.LyricText.font-size = #-2
-      }
-    }
-  }
-
-  % -------- G minor --------
-  \bookpart {
-    \header { subtitle = "Key: G minor" }
-    \score {
-      <<
-        \new ChordNames { \transpose e g \songChords }
-        \new Staff <<
-          \key g \minor
-          \new Voice = "mel" { \transpose e g \songMelody }
-          \new Lyrics \lyricsto "mel" { \set stanza = "1." \verseOne }
-          \new Lyrics \lyricsto "mel" { \set stanza = "2." \verseTwo }
-        >>
-      >>
-      \layout {
-        \override Lyrics.LyricText.font-size = #-2
-      }
-    }
-  }
-
-  % -------- D minor --------
-  \bookpart {
-    \header { subtitle = "Key: D minor" }
-    \score {
-      <<
-        \new ChordNames { \transpose e d \songChords }
-        \new Staff <<
-          \key d \minor
-          \new Voice = "mel" { \transpose e d \songMelody }
-          \new Lyrics \lyricsto "mel" { \set stanza = "1." \verseOne }
-          \new Lyrics \lyricsto "mel" { \set stanza = "2." \verseTwo }
-        >>
-      >>
-      \layout {
-        \override Lyrics.LyricText.font-size = #-2
-      }
-    }
-  }
-
-  % -------- A minor --------
-  \bookpart {
-    \header { subtitle = "Key: A minor" }
-    \score {
-      <<
-        \new ChordNames { \transpose e a \songChords }
-        \new Staff <<
-          \key a \minor
-          \new Voice = "mel" { \transpose e a \songMelody }
-          \new Lyrics \lyricsto "mel" { \set stanza = "1." \verseOne }
-          \new Lyrics \lyricsto "mel" { \set stanza = "2." \verseTwo }
-        >>
-      >>
-      \layout {
-        \override Lyrics.LyricText.font-size = #-2
-      }
-    }
-  }
-
-  % -------- B minor --------
-  \bookpart {
-    \header { subtitle = "Key: B minor" }
-    \score {
-      <<
-        \new ChordNames { \transpose e b \songChords }
-        \new Staff <<
-          \key b \minor
-          \new Voice = "mel" { \transpose e b \songMelody }
-          \new Lyrics \lyricsto "mel" { \set stanza = "1." \verseOne }
-          \new Lyrics \lyricsto "mel" { \set stanza = "2." \verseTwo }
-        >>
-      >>
-      \layout {
-        \override Lyrics.LyricText.font-size = #-2
-      }
-    }
-  }
-}

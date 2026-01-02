@@ -1,23 +1,21 @@
-\version "2.19.15"
-\include "../../common/stylesheet_fiddle.ly"
-\language "english"
-
-\include "Tsiganisky_music.ily"
+\version "2.24.4"
+\include "./Tsiganisky.ly"
 
 \header {
   title = "Tsiganisky"
-  composer = "Traditional Russian"
-  country = "Russia"
-  genre = "Folk"
+  subtitle = "Key: G minor"
 }
 
-\include "../../common/common-header.ily"
+targetKey = g
 
 \score {
   <<
-    \new ChordNames \chordNames
-    \new Staff \with { midiInstrument = "violin" } { \melody }
+    \new ChordNames { \transpose \originalKey \targetKey \chordNames }
+    \new Staff      { 
+      \key g \minor 
+      \transpose \originalKey \targetKey \melody
+    }
   >>
   \layout { }
-  \midi { }
+  \midi { \tempo 4 = 100 }
 }

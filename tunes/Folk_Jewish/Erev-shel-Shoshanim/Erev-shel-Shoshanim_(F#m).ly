@@ -1,30 +1,19 @@
 \version "2.24.4"
-\language "english"
-
-\include "Erev-shel-Shoshanim_music.ily"
+\include "./Erev-shel-Shoshanim.ly"
 
 \header {
   title = "Erev shel Shoshanim"
-  subtitle = "Key: F# minor"
-  composer = "Yosef Hadar"
-  country = "Jewish"
-  poet = "Moshe Dor"
-  genre = "Folk"
-
-  subgenre = "Klezmer"
+  subtitle = "Key: F♯ minor"
 }
-
-\include "../../common/common-header.ily"
-
 
 targetKey = fs
 
 \score {
   <<
-    \new ChordNames { \transpose e \targetKey \songChords }
+    \new ChordNames { \transpose \originalKey \targetKey \songChords }
     \new Staff <<
       \key fs \minor
-      \new Voice = "mel" { \transpose e \targetKey \songMelody }
+      \new Voice = "mel" { \transpose \originalKey \targetKey \songMelody }
       \new Lyrics \lyricsto "mel" { \set stanza = "1." \verseOne }
       \new Lyrics \lyricsto "mel" { \set stanza = "2." \verseTwo }
     >>

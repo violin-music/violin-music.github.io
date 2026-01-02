@@ -1,48 +1,62 @@
-\version "2.19.54"
-\include "../../common/stylesheet_fiddle.ly"
+\version "2.24.4"
 \language "english"
-
-% This file is the PREVIEW WRAPPER for editing
-% MASTER FILE for music content: Numi-numi-Hebrew-Lullaby_music.ily
-% Edit the .ily file to change the melody/chords
-
-\include "Numi-numi-Hebrew-Lullaby_music.ily"
+\include "../../common/include-score-if-standalone.ily"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Numi numi - Hebrew Lullaby"
   composer = "Traditional Hebrew"
   country = "Jewish"
-  style = "lullaby"
+  genre = "Folk"
+  subgenre = "Lullaby"
 }
 
-\include "../../common/common-header.ily"
+% Define original key
+originalKey = d
+originalMode = #minor
 
-
-targetKey = c
-
-\score {
-  <<
-    \new ChordNames \chordNames
-    \new Staff { \melody }
-    \addlyrics { \words }
-  >>
-  \layout {indent=0 }
-  \midi { }
-}
-\score {
-  <<
-    \new ChordNames \chordNames
-    \new Staff { \transpose d \targetKey' \melody }
-    \addlyrics { \words }
-  >>
-  \layout {indent=0 }
+global = {
+  \time 4/4
+  \key \originalKey \originalMode
+  \tempo 4=100
 }
 
-\score {
-  <<
-    \new ChordNames \chordNames
-    \new Staff { \transpose d b \melody }
-    \addlyrics { \words }
-  >>
-  \layout {indent=0 }
+chordNames = \chordmode {
+  \global
 }
+
+melody = \relative c' {
+  \global
+  d4 d a' a
+  g8( f) g( a)  g4( f)
+  d4 d g g
+  f2 r2
+
+  \break
+  d4 d a' a
+  g8( f) g( a)  g4( f)
+  c4 c f ef
+  d2 r2
+
+  \break
+  g4. d8 g d g a
+  g2. f4
+  g f bf a
+  g2. d4
+  \break
+  g4. d8 g a  bf a
+  g2. f4
+  g f c' bf
+  a1
+}
+
+words = \lyricmode {
+}
+
+% This score only renders when compiling THIS file directly
+\scoreIfStandalone
+  #`((chords . ,chordNames)
+     (lyrics . ,words)
+     (unit . "4")
+     (bpm  . 100))
+  \melody

@@ -1,14 +1,9 @@
 \version "2.24.4"
-\language "english"
-\include "../../common/common-header.ily"
-\include "bella-ciao_music.ily"
+\include "./bella-ciao.ly"
 
 \header {
   title = "Bella Ciao"
   subtitle = "Key: E minor"
-  composer = "Traditional Italian"
-  country = "Italy"
-  style = "folk song"
 }
 
 targetKey = e
@@ -17,10 +12,10 @@ targetKey = e
   <<
     \new ChordNames { \transpose \originalKey \targetKey \chordChanges }
     \new Staff {
-      \key \targetKey \minor
-      \context Voice = "voiceMelody" { \transpose \originalKey \targetKey \melody }
+      \key e \minor
+      \transpose \originalKey \targetKey \melody
     }
   >>
-  \midi {}
-  \layout {}
+  \layout { }
+  \midi { \tempo 4 = 100 }
 }

@@ -1,24 +1,18 @@
 \version "2.24.4"
-\language "english"
-\include "../../common/common-header.ily"
-\include "../../common/stylesheet_fiddle.ly"
+\include "./Emma_(Waltz).ly"
 
 \header {
   title    = "Emma's Waltz"
-  composer = "Traditional Finnish"
-  country = "Finland"
-  genre = "Folk"
+  subtitle = "Key: E minor"
 }
-
-\include "Emma_(Waltz)_music.ily"
-
 
 targetKey = e
 
 \score {
-  \new Staff \with {
-    midiInstrument = "violin"
-  } { \transpose d \targetKey \emmaMelody }
+  \new Staff {
+    \key e \minor
+    \transpose \originalKey \targetKey \emmaMelody
+  }
   \layout { }
   \midi { \tempo 4 = 120 }
 }

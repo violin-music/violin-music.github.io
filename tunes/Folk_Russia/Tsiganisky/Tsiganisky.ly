@@ -1,23 +1,28 @@
-\version "2.19.15"
+\version "2.24.4"
 \language "english"
+\include "../../common/include-score-if-standalone.ily"
 \include "../../common/common-header.ily"
 
 \header {
   title = "Tsiganisky"
   composer = "Traditional Russian"
-  style = "folk"
   country = "Russia"
+  genre = "Folk"
 }
+
+% Define original key
+originalKey = g
+originalMode = #minor
 
 global = {
   \time 4/4
-  \key g \minor
+  \key \originalKey \originalMode
   \tempo 4=100
 }
 
 chordNames = \chordmode {
   \global
-  c1
+  g1:m g1:m g1:m g1:m
 }
 
 melody = \relative bf' {
@@ -26,25 +31,12 @@ melody = \relative bf' {
   g'8 g g g4 ef8 c8 ~ c8
   g'8 g g g4 d8 bf8 ~ bf8
   g'8 g g g4 fs8 g a g f ef
-  d
+  d1
 }
 
-
-targetKey = a
-
-\score {
-  <<
-    \new ChordNames \chordNames
-    \new Staff { \melody }
-  >>
-  \layout { }
- % \midi { }
-}
-\score {
-  <<
-    \new ChordNames \chordNames
-    \new Staff { \transpose g \targetKey \melody }
-  >>
-  \layout { }
- % \midi { }
-}
+% This score only renders when compiling THIS file directly
+\scoreIfStandalone
+  #`((chords . ,chordNames)
+     (unit . "4")
+     (bpm  . 100))
+  \melody

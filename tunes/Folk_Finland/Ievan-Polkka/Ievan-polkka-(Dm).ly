@@ -1,9 +1,8 @@
-\version "2.14.0"
+\version "2.24.0"
 \language "english"
+\include "../../common/common-header.ily"
 %% 
-\layout {
-    indent = 0\in
-}
+
 
 \header {
     title = "Ievan polkka"
@@ -73,7 +72,6 @@ text = \lyricmode {
 \score {
   <<
     \new ChordNames { \harmonies }
-%    \new FretBoards { \harmonies }
     \new Staff  {  \context Voice = "vocal" { \melody } }
 %    \new Lyrics \lyricsto "vocal" \text
   >>

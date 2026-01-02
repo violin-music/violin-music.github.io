@@ -1,25 +1,19 @@
 \version "2.24.0"
-\language "english"
-\include "../../common/common-header.ily"
-
-\include "Besame-Mucho_music.ily"
+\include "./Besame-Mucho.ly"
 
 \header {
   title = "Bésame Mucho"
   subtitle = "Key: A minor"
-  composer = "Consuelo Velázquez"
-  country = "Mexico"
-  style = "bolero"
-  poet = "Consuelo Velázquez"
 }
 
 targetKey = a
 
 \score {
   <<
-    \new ChordNames { \transpose d \targetKey, \chordNames }
-    \new Staff { \transpose d \targetKey, \melody }
+    \new ChordNames { \transpose \originalKey \targetKey \chordNames }
+    \new Staff { \transpose \originalKey \targetKey \melody }
+    \addlyrics { \words }
   >>
   \layout { }
-  \midi { \tempo 4 = 96 }
+  \midi { \tempo 4 = 100 }
 }

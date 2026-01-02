@@ -359,6 +359,19 @@ def parse_lilypond_header(ly_file):
     except Exception as e:
         print(f"Warning: Could not parse {ly_file}: {e}")
 
+    # If this is a key-specific file missing composer, try base file
+    if not metadata['composer']:
+        base_name, file_key = extract_key_from_filename(ly_file.name)
+        if file_key:  # This is a key-specific file like "Gary-Owen_(D).ly"
+            base_file = ly_file.parent / f"{base_name}.ly"
+            if base_file.exists() and base_file != ly_file:
+                # Parse base file to get missing metadata
+                base_metadata = parse_lilypond_header(base_file)
+                # Fill in missing fields
+                for field in ['composer', 'country', 'style']:
+                    if not metadata[field] and base_metadata.get(field):
+                        metadata[field] = base_metadata[field]
+
     return metadata
 
 def get_category_and_tags(file_path):

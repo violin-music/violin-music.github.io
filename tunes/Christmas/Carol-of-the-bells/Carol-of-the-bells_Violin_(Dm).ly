@@ -1,5 +1,7 @@
 \version "2.24.0"
 \include "english.ly"
+\include "../../common/common-header.ily"
+
 
 \include "Carol-of-the-bells_Violin_music.ily"
 
@@ -12,7 +14,6 @@
   genre = "Christmas"
 }
 
-\include "../../common/common-header.ily"
 
 
 targetKey = d
