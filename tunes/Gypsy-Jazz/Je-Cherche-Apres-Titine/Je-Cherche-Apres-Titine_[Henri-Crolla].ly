@@ -1,24 +1,20 @@
 \version "2.19.21"
 \language "english"
-\include "../common/bars-per-line-engraver.ly"
+\include "../../common/bars-per-line-engraver.ly"
+\include "../../common/common-header.ily"
 
 \header {
   title    = "Je cherche après Titine"
   composer = "Léo Daniderff"
   country = "France"
   subtitle = "As played by Henri Crolla"
-  tagline  = ##f   % Remove default LilyPond tagline
+  transcriber = "Maxence Mouries"
 }
 
 global = {
   % \key af \major
   \time 4/4
   \tempo "Allegro" 2 = 120
-}
-
-
-\layout {
-  indent = 10\mm
 }
 
 
@@ -95,6 +91,15 @@ melody = \relative c'' {
 
 }
 
+  \layout {
+    \context {
+      \Score
+      %use the line below to insist on your layout
+      %\override NonMusicalPaperColumn.line-break-permission = ##f
+      \consists #(bars-per-line-engraver '(4))
+    }
+  }
+
 \score {
   <<
     \new ChordNames  {
@@ -106,22 +111,6 @@ melody = \relative c'' {
       \melody
     }
   >>
-  \layout { indent = 0}
+  \layout {}
   \midi {}
-}
-
-\score {
-  <<
-    \new ChordNames \chordNames
-    \new Staff {    \melody }
-  >>
-  \layout {
-    indent = 0\mm
-    \context {
-      \Score
-      %use the line below to insist on your layout
-      %\override NonMusicalPaperColumn.line-break-permission = ##f
-      \consists #(bars-per-line-engraver '(4))
-    }
-  }
 }
