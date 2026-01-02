@@ -1,16 +1,8 @@
 # TO DO
 
-- [] fix the  way to write music in multiple keys
-
-- [] generate a version of the tune /Users/Marc/Projects/violin-music.github.io/tunes/Folk_USA/The-Star-Spangled-Banner in the key of B major
-
 - review the Gymnopedie tunes
 
 - The Kreisler folder still has two full-score .ly files; they will both appear in the index. If you want one renamed/removed or a single canonical version, tell me which to keep.
-
-good but when we open the tune Besame Mucho it shows the default key as "C" but the tune has the statement   "\key d \minor".
-
-i remember that for some of the tunes with multiple keys, we created a function in lilypond that allowed us to have one file with the music in the original key and files with other keys import that file but the score in the imported is not shown thanks to the function we implemented. can you search for tunes that folllow this pattern ?
 
 - update the filters in the index page
 
@@ -24,10 +16,8 @@ i remember that for some of the tunes with multiple keys, we created a function 
   - Minor Swing
   - Nuages
   - J'attendrai
-    - ./tunes/Classical/Vocalise_Rachmaninoff
+  - ./tunes/Classical/Vocalise_Rachmaninoff
   - Indifférence
-
-Limit reached · resets Dec 31 at 7pm (America/New_York) · contact an admin to increase limits
 
 => "Cokas Dance"
 
@@ -39,8 +29,30 @@ shouldn't the update-csv-keys-from-ly be part of a visitor pattern?
 
 ## DONE
 
+### Star-Spangled Banner reorganization (2026-01-02)
+
+- Reorganized The Star-Spangled Banner to have one full SATB version in original key (E major) and simplified single-voice versions in multiple keys
+- Created new base file with single melody line using `\scoreIfStandalone` pattern
+- Updated all key-specific files (A, B, C, D, Eb, G) to use simplified single-voice version
+- Preserved full SATB version as `The-Star-Spangled-Banner_SATB.ly` in original key only
+- Added proper poet attribution: "Music by John Stafford Smith" and "Lyrics by Francis Scott Key"
+- Regenerated all PDFs and SVG preview files for all versions
+- The B major version already existed and is now confirmed complete
+
+### Multi-key file migration and index fixes (2026-01-01 to 2026-01-02)
+
+- Migrated 11 tunes to `\scoreIfStandalone` pattern: Besame-Mucho, Erev-shel-Shoshanim, Katyusha, Korobeiniki-Tetris, Polyushko-pole, Emma_(Waltz), Numi-numi, Papirosen, Bella-Ciao, Tsiganisky, Gary-Owen
+- Fixed generate-index-page.py to recognize key-specific files and inherit metadata from base files
+- Key-specific files now automatically inherit composer, country, and style from base files
+- Fixed special character handling in make-score-preview-svg.sh for filenames with brackets
+- Added timestamp checking to make-score-preview-svg.sh (only regenerates when .ly file is newer)
+- Added --force flag to make-score-preview-svg.sh for forcing regeneration
+- Enhanced update-all-previews.sh and make-score-preview-svg.sh with failure tracking and logging
+- Failed files are now logged to TODO-List_Fix-Failed-LilyPond-Files.md with error details
+- Scripts now provide summary statistics (processed, success, failed, skipped)
+
+### Earlier work
+
 - update the metadata, move it to the right folder and update the index
 
-### loading slowness
-
-there is a problem with the index page. when users open or refresh the index page, it loads very slowly and it starts showing a list of tunes and then seconds later it shows a list of tunes sorted alphabetically. another issue that might be related due to the slowness is that when it's night and when the page is loading, the page appears white and then when it's loaded it switches to dark mode. investigate and make sure that the page loads fast. the generate index should generate a sorted list of tunes.
+- fixed loading slowness issue on index page - page now loads with pre-sorted tunes and correct dark mode
