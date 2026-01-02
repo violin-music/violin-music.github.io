@@ -65,7 +65,7 @@ class PreviewGenerator:
         self.resolution = resolution
         self.force = force
         self.dry_run = dry_run
-        self.script_path = root_dir / "scripts" / "make-score-preview.sh"
+        self.script_path = root_dir / "scripts" / "make-score-preview-svg.sh"
 
         if not self.script_path.exists():
             raise FileNotFoundError(f"Preview script not found: {self.script_path}")

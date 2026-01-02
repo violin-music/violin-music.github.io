@@ -112,7 +112,9 @@ elif [ -f "${TEMP_BASE}-1.svg" ]; then
   echo "Multi-page score detected."
   for svg_file in "${TEMP_BASE}"-*.svg; do
     # Extract page number from filename (e.g., basename-1.svg -> 1)
-    PAGE_NUM=$(basename "$svg_file" .svg | sed "s/${BASENAME}-//")
+    # Use parameter expansion instead of sed to avoid regex issues with special chars
+    temp_name=$(basename "$svg_file" .svg)
+    PAGE_NUM="${temp_name#"${BASENAME}-"}"
     OUTPUT_FILE="${DIRNAME}/${BASENAME}_page_${PAGE_NUM}.svg"
     echo "Processing page ${PAGE_NUM}..."
     process_svg "$svg_file" "$OUTPUT_FILE"
