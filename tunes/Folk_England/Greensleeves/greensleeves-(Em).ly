@@ -1,4 +1,4 @@
-\version "2.16"
+\version "2.24.4"
 \include "italiano.ly"
 \header {
 	title = "Greensleeves"
@@ -20,7 +20,7 @@ words = \lyricmode {
 }
 melody =  {
  \time 6/8
- \key e \minor
+ \key mi \minor
  \partial 8
     mi'8
 |   sol'4    la'8    si'8. ( dod''16 )   si'8

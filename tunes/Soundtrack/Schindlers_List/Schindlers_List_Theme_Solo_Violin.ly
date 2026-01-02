@@ -1,28 +1,7 @@
+\version "2.24.0"
 \language "english"
-%=============================================
-%   created by MuseScore Version: 1.3
-%          July 15, 2013
-%=============================================
 
-\version "2.19.32"
-%% #(set-global-staff-size 14)
-%#(set-global-staff-size 24)
-#(set-default-paper-size "letter")
-
-
-\paper {
-%  line-width    = 190\mm
-%  left-margin   = 10\mm
-%  top-margin    = 10\mm
-%  bottom-margin = 20\mm
-  %%indent = 0 \mm
-  %%set to ##t if your score is less than one page:
-%  ragged-last-bottom = ##t
-%  ragged-bottom = ##f
-  %% in orchestral scores you probably want the two bold slashes
-  %% separating the systems: so uncomment the following line:
-  %% system-separator-markup = \slashSeparator
-  }
+\include "../../common/common-header.ily"
 
 \header {
     title = "Theme from Schindler's List"
@@ -34,12 +13,12 @@
 violinSolo = \relative c'{
 
     % Can be put in a stylesheet
-  \compressFullBarRests
+  \compressEmptyMeasures
   \override MultiMeasureRest.expand-limit = #3
 
 
-    \set Staff.instrumentName = #"Solo Violin"
-    \set Staff.shortInstrumentName = #"SVln."
+    \set Staff.instrumentName = #"Violin"
+    %\set Staff.shortInstrumentName = #"SVln."
     \clef treble
     \key d \minor
      \time 3/4

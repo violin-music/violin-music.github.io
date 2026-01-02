@@ -16,11 +16,14 @@
  mutopiasource = "Voice and guitar arranged from memory"
 
  footer = "Mutopia-2014/03/10-1943"
- copyright =  \markup { \override #'(baseline-skip . 0 ) \right-column { \sans \bold \with-url #"http://www.MutopiaProject.org" { \abs-fontsize #9  "Mutopia " \concat { \abs-fontsize #12 \with-color #white \char ##x01C0 \abs-fontsize #9 "Project " }
-
-\include "../../common/common-header.ily" } } \override #'(baseline-skip . 0 ) \center-column { \abs-fontsize #12 \with-color #grey \bold { \char ##x01C0 \char ##x01C0 } } \override #'(baseline-skip . 0 ) \column { \abs-fontsize #8 \sans \concat { " Typeset using " \with-url #"http://www.lilypond.org" "LilyPond " \char ##x00A9 " " 2014 " by " \maintainer " " \char ##x2014 " " \footer } \concat { \concat { \abs-fontsize #8 \sans{ " " \with-url #"http://creativecommons.org/licenses/by-sa/4.0/" "Creative Commons Attribution ShareAlike 4.0 International License " \char ##x2014 " free to distribute, modify, and perform" } } \abs-fontsize #13 \with-color #white \char ##x01C0 } } }
+ copyright =  \markup { \override #'(baseline-skip . 0 ) \right-column { \sans \bold \with-url #"http://www.MutopiaProject.org" { \abs-fontsize #9  "Mutopia " \concat { \abs-fontsize #12 \with-color #white \char ##x01C0 \abs-fontsize #9 "Project " } } } \override #'(baseline-skip . 0 ) \center-column { \abs-fontsize #12 \with-color #grey \bold { \char ##x01C0 \char ##x01C0 } } \override #'(baseline-skip . 0 ) \column { \abs-fontsize #8 \sans \concat { " Typeset using " \with-url #"http://www.lilypond.org" "LilyPond " \char ##x00A9 " " 2014 " by " \maintainer " " \char ##x2014 " " \footer } \concat { \concat { \abs-fontsize #8 \sans{ " " \with-url #"http://creativecommons.org/licenses/by-sa/4.0/" "Creative Commons Attribution ShareAlike 4.0 International License " \char ##x2014 " free to distribute, modify, and perform" } } \abs-fontsize #13 \with-color #white \char ##x01C0 } } }
 }
 
+\include "../../common/common-header.ily"
+
+% Custom function to indicate guitar position changes (e.g., \<X means "move to position X")
+% Creates a text spanner line showing where the guitarist should shift position on the fretboard
+% Used in the guitar part at line 148: f\3~\<X a\2~ indicates a position shift to position X
 "\\<" =
 #(define-event-function (parser location pos) (markup?)
   #{
@@ -33,6 +36,7 @@
      \startTextSpan
   #})
 
+% Ends the position indicator text spanner started by \<
 "\\>" = \stopTextSpan
 
 lyricsI = \lyricmode {
@@ -84,6 +88,12 @@ refrain = \lyricmode {
   and who but my la -- dy Green -- sleeves.
 }
 
+% Guitar accompaniment pattern generator used extensively throughout the piece (lines 100-147)
+% Creates a measure of guitar fingerstyle pattern with:
+%   - bass1: sustained bass note (dotted half note)
+%   - bass2: repeated bass note in upper voice (eighth notes)
+%   - chord1, chord2: chord tones played as double-stops alternating with bass2
+% Example: \pattern d a' d f generates a D chord arpeggio pattern in 3/4 time
 pattern =
 #(define-music-function (parser location bass1 bass2 chord1 chord2)
   (ly:pitch? ly:pitch? ly:pitch? ly:pitch?)

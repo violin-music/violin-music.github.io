@@ -23,12 +23,17 @@ echo "🎵 Finding LilyPond files to process..."
 
 # Get list of tune directories from index and save to temp file
 TEMP_LIST=$(mktemp)
+STATS_FILE=$(mktemp)
 python3 -c "
 import re
 from pathlib import Path
 
 index = open('index.html').read()
 dirs = set(re.findall(r'data-directory=\"([^\"]+)\"', index))
+
+total_files = 0
+needs_svg = 0
+has_svg = 0
 
 for d in sorted(dirs):
     dir_path = Path(d)
@@ -42,11 +47,30 @@ for d in sorted(dirs):
                 and 'PREVIEW WRAPPER' not in open(f).read(500)]
 
     for ly in ly_files:
+        total_files += 1
         # Check for new naming convention: basename_page_1.svg
         svg = ly.parent / (ly.stem + '_page_1.svg')
         if not svg.exists():
             print(str(ly))
+            needs_svg += 1
+        else:
+            has_svg += 1
+
+# Save stats for shell script to read
+with open('$STATS_FILE', 'w') as f:
+    f.write(f'{total_files}\n{needs_svg}\n{has_svg}\n')
 " > "$TEMP_LIST"
+
+# Read stats (read each line separately)
+TOTAL_LY_FILES=$(sed -n '1p' "$STATS_FILE")
+NEEDS_SVG=$(sed -n '2p' "$STATS_FILE")
+HAS_SVG=$(sed -n '3p' "$STATS_FILE")
+rm -f "$STATS_FILE"
+
+echo "  Found $TOTAL_LY_FILES .ly files total"
+echo "  $HAS_SVG already have SVG previews (skipping)"
+echo "  $NEEDS_SVG need SVG generation"
+echo ""
 
 # Process each file
 while read -r ly_file; do
@@ -76,9 +100,11 @@ echo "════════════════════════�
 echo "✓ Batch processing complete!"
 echo ""
 echo "Summary:"
-echo "  Total files processed: $TOTAL_PROCESSED"
+echo "  Total .ly files found: $TOTAL_LY_FILES"
+echo "  Already had SVG previews (skipped): $HAS_SVG"
+echo "  Files processed: $TOTAL_PROCESSED"
 echo "  Successfully generated: $TOTAL_SUCCESS"
-echo "  Already up to date: $TOTAL_SKIPPED"
+echo "  Up to date during processing: $TOTAL_SKIPPED"
 echo "  Failed: $TOTAL_FAILED"
 echo ""
 

@@ -2,27 +2,10 @@
 %   created by MuseScore Version: 1.3
 %          July 15, 2013
 %=============================================
+\version "2.24.0"
+\language "english"
 
-\version "2.19.2"
-%% #(set-global-staff-size 14)
-
-
-
-#(set-default-paper-size "letter")
-
-\paper {
-%  line-width    = 190\mm
-%  left-margin   = 10\mm
-%  top-margin    = 10\mm
-%  bottom-margin = 20\mm
-  %%indent = 0 \mm 
-  %%set to ##t if your score is less than one page: 
-%  ragged-last-bottom = ##t 
-%  ragged-bottom = ##f  
-  %% in orchestral scores you probably want the two bold slashes 
-  %% separating the systems: so uncomment the following line: 
-  %% system-separator-markup = \slashSeparator 
-  }
+\include "../../common/common-header.ily"
 
 \header {
     title = "Schindler's List"
@@ -35,11 +18,11 @@
 violinSolo = \relative c'{
   
     % Can be put in a stylesheet
-  \compressFullBarRests
+  \compressEmptyMeasures
   \override MultiMeasureRest.expand-limit = #3
 
   
-    \set Staff.instrumentName = #"Solo Violin"
+    \set Staff.instrumentName = #"Violin"
     \set Staff.shortInstrumentName = #"SVln."
     \clef treble
     %staffkeysig
@@ -52,34 +35,34 @@ violinSolo = \relative c'{
     |    R1
     | 
    %{   5 %}   r2 r4  a\mp      | % 5
-    a'8(  d, a' d,) bes'( a f a,)      | % 6
+    a'8(  d, a' d,) bf'( a f a,)      | % 6
     f' g, f' g a2      | % 7
-    a8 d, a' d, c' bes a g      | % 8
-    c, bes e g bes a g f      | % 9
-    g bes, g' bes, a' g f g      | % 10
+    a8 d, a' d, c' bf a g      | % 8
+    c, bf e g bf a g f      | % 9
+    g bf, g' bf, a' g f g      | % 10
     a2. a,4      | % 11
-    g'8 bes, g' bes, a' g f e      | % 12
+    g'8 bf, g' bf, a' g f e      | % 12
     d2 e      | % 13
     f8 g, f' g, a' g f e      | % 14
     d2. a'4      | % 15
-    a'8 d, a' d, bes' a f a,      | % 16
+    a'8 d, a' d, bf' a f a,      | % 16
     f' g, f' g a2      | % 17
-    a8 d, a' d, c' bes a g      | % 18
-    c, bes e g bes a g f      | % 19
-    g bes, g' bes, a' g f g      | % 20
+    a8 d, a' d, c' bf a g      | % 18
+    c, bf e g bf a g f      | % 19
+    g bf, g' bf, a' g f g      | % 20
     a2. a,4      | % 21
-    g'8 bes, g' bes, a' g f e      | % 22
+    g'8 bf, g' bf, a' g f e      | % 22
     d2 e      | % 23
     f8 g, f' g, a' g f e      | % 24
     d1      | % 25
-    r2 \mp bes,4~ bes8 a16 g      | % 26
+    r2 \mp bf,4~ bf8 a16 g      | % 26
     d'4 a a8. g16 a d f a      | % 27
-    d2~ d16 g e d bes g e d      | % 28
-    bes4 g'8 g, g'8. f16 e8 e'~      | % 29
+    d2~ d16 g e d bf g e d      | % 28
+    bf4 g'8 g, g'8. f16 e8 e'~      | % 29
     e \f e16 d f8 e b8. c16 d4~      | % 30
-    d8 c16 d b8 a16 gis b8 a4.      | % 31
+    d8 c16 d b8 a16 gs b8 a4.      | % 31
     r8 e'16 d g8 f b,8. c16 d4      | % 32
-    r8 d,16 \< e f8 f16 g a8 a16 b ees fis,32 b dis fis b dis      | % 33
+    r8 d,16 \< e f8 f16 g a8 a16 b ef fs,32 b ds fs b ds      | % 33
     e8 \! \f a, e' a, f' e c e,      | % 34
     c' d, c' d e2      | % 35
     e8 a, e' a, g' f e d      | % 36
@@ -93,7 +76,7 @@ violinSolo = \relative c'{
     e8 a, e' a, f' e c c,      | % 44
     g'' f e d c16 d c a g4 f64 \tuplet 3/2{e4 d c  } \tuplet 3/2{b a g  } f64 e4      | % 45
     d8 c b f' d' c b d,      | % 46
-    f' \> e d b' d f, e gis' \bar "|."     | % 47
+    f' \> e d b' d f, e gs' \bar "|."     | % 47
     a1 \! \mp \bar "|." 
 }% end of last bar in partorvoice
 
@@ -112,7 +95,7 @@ AVlnsvoiceBA = \relative c'{
     a4 a2.      | % 3
     e1~      | % 4
     e      | % 5
-    a2 bes4 a      | % 6
+    a2 bf4 a      | % 6
     f4. g8 a2      | % 7
     a f      | % 8
     e f      | % 9
@@ -130,12 +113,12 @@ AVlnsvoiceBA = \relative c'{
     f a,4 e'8 f      | % 21
     g2 a      | % 22
     a d4 e      | % 23
-    f2 e4 cis      | % 24
+    f2 e4 cs      | % 24
     d1      | % 25
-    r8 \mp a16 g bes8 a e8. f16 g4~      | % 26
-    g8 f16 g e8 d16 cis e8 d4.      | % 27
-    r8 \mf a'16 g c8 bes e,8. f16 g4      | % 28
-    r8 g,16 a bes8 bes16 c d8 e16 f aes4      | % 29
+    r8 \mp a16 g bf8 a e8. f16 g4~      | % 26
+    g8 f16 g e8 d16 cs e8 d4.      | % 27
+    r8 \mf a'16 g c8 bf e,8. f16 g4      | % 28
+    r8 g,16 a bf8 bf16 c d8 e16 f af4      | % 29
     r r16 d \mp c b a4~ a16 f e d      | % 30
     f,4. \mf e8~ e8. f16 e d' c b      | % 31
     a2. r4      | % 32
@@ -176,44 +159,44 @@ AVlnsvoiceCA = \relative c'{
     d4. e8 f2      | % 7
     f d      | % 8
     c c      | % 9
-    d d4 cis      | % 10
+    d d4 cs      | % 10
     e d e a,      | % 11
     d2 e      | % 12
-    bes d4 cis      | % 13
+    bf d4 cs      | % 13
     d2 e      | % 14
     f e      | % 15
-    f bes8 a4.      | % 16
-    bes2 a      | % 17
+    f bf8 a4.      | % 16
+    bf2 a      | % 17
     d d      | % 18
-    bes c      | % 19
-    bes c4 des      | % 20
+    bf c      | % 19
+    bf c4 df      | % 20
     d e f, a      | % 21
-    d2 cis      | % 22
+    d2 cs      | % 22
     d g      | % 23
-    bes a      | % 24
+    bf a      | % 24
     f1      | % 25
-    d,4 a d bes      | % 26
-    d bes d a      | % 27
-    f' d e16 cis e bes e cis e bes      | % 28
-    e d e d e d e bes e d e bes e d e8      | % 29
+    d,4 a d bf      | % 26
+    d bf d a      | % 27
+    f' d e16 cs e bf e cs e bf      | % 28
+    e d e d e d e bf e d e bf e d e8      | % 29
     c2 b      | % 30
     b c      | % 31
     r4 g'8 f a4 f'      | % 32
-    a,2 a4 fis      | % 33
+    a,2 a4 fs      | % 33
     a1      | % 34
     a4 a8 b b2      | % 35
     g f      | % 36
     f g      | % 37
     a4 f' e2      | % 38
     c' c,      | % 39
-    a a4 gis      | % 40
-    e8 e4 e8 a4 gis      | % 41
+    a a4 gs      | % 40
+    e8 e4 e8 a4 gs      | % 41
     a2 b      | % 42
     c1      | % 43
     a'      | % 44
     a,      | % 45
     a,      | % 46
-    f'2 a4 gis \bar "|."     | % 47
+    f'2 a4 gs \bar "|."     | % 47
     a1 \bar "|." 
 }% end of last bar in partorvoice
 
@@ -231,11 +214,11 @@ AVlasvoiceDA = \relative c'{
     f4 e c8 b d4      | % 2
     d8 c b d c4 b      | % 3
     d1      | % 4
-    cis      | % 5
+    cs      | % 5
     R1 *2  | % 
     r4 d,~ d8 e f4~      | % 8
     f8 d4 e c8 g' a      | % 9
-    r4 d, d' cis      | % 10
+    r4 d, d' cs      | % 10
     e d2.      | % 11
     R1  | % 
     f,4 f g~ g8 a      | % 13
@@ -243,12 +226,12 @@ AVlasvoiceDA = \relative c'{
     a1      | % 15
     d2 f      | % 16
     f g4 f      | % 17
-    a2 c8 bes a g      | % 18
-    f4 g bes a      | % 19
+    a2 c8 bf a g      | % 18
+    f4 g bf a      | % 19
     r d,~ d8 a g f'      | % 20
     a, g c e e f a d,      | % 21
     d4. d8 e4~ e8 e      | % 22
-    r4 a~ a8 g,16 bes a4      | % 23
+    r4 a~ a8 g,16 bf a4      | % 23
     g f' d a'      | % 24
     d,2 e4 f      | % 25
     f8 f4 f8 d d4 d8~      | % 26
@@ -258,7 +241,7 @@ AVlasvoiceDA = \relative c'{
     c16 b c a c b c a d c d b d c d b      | % 30
     d c d b d c d e, c' b c e, c' b c e,      | % 31
     a4 g8 a b2      | % 32
-    d2. ees4      | % 33
+    d2. ef4      | % 33
     c1      | % 34
     c4. d8 b2      | % 35
     c c      | % 36
@@ -358,8 +341,8 @@ AVlcsvoiceEA = \relative c{
     c f,      | % 9
     R1  | % 
     r8 a f' a e'4 f      | % 11
-    r bes, e, a,      | % 12
-    bes2 a      | % 13
+    r bf, e, a,      | % 12
+    bf2 a      | % 13
     g a      | % 14
     d1      | % 15
     r4 d,2.      | % 16
@@ -367,15 +350,15 @@ AVlcsvoiceEA = \relative c{
     d2 g,      | % 18
     c f,      | % 19
     e a      | % 20
-    bes'8 a4. a4 d,,      | % 21
-    g8 d' bes'4 e, a      | % 22
-    a2 d4 cis      | % 23
-    d2 e4 cis      | % 24
+    bf'8 a4. a4 d,,      | % 21
+    g8 d' bf'4 e, a      | % 22
+    a2 d4 cs      | % 23
+    d2 e4 cs      | % 24
     a' d,2.      | % 25
     R1  | % 
-    r8 bes4 g8 f f4 f8      | % 27
-    r2 bes8 bes4 bes8(      | % 28
-    b) bes4 bes bes4.      | % 29
+    r8 bf4 g8 f f4 f8      | % 27
+    r2 bf8 bf4 bf8(      | % 28
+    b) bf4 bf bf4.      | % 29
     a,8 e' r e a, f' r f      | % 30
     a, f' r d a e' a e      | % 31
     a,4 g'8 a b2      | % 32
@@ -384,16 +367,16 @@ AVlcsvoiceEA = \relative c{
     d g, g2      | % 35
     a8 c' e, a, d, a' f' c'      | % 36
     g, d' g b d4~ d8 g,      | % 37
-    a2 d8 d4 gis,8      | % 38
+    a2 d8 d4 gs,8      | % 38
     c2 c      | % 39
     b, e      | % 40
-    c a'4 gis      | % 41
-    a2 gis      | % 42
+    c a'4 gs      | % 41
+    a2 gs      | % 42
     e1      | % 43
     e'      | % 44
     d,      | % 45
     R1  | % 
-    a'4 aes f e \bar "|."     | % 47
+    a'4 af f e \bar "|."     | % 47
     a,1 \bar "|." 
 }% end of last bar in partorvoice
 
@@ -499,8 +482,8 @@ AVlcspartE =  <<
       \override Score.BarNumber.break-visibility = #end-of-line-invisible %%every bar is numbered.!!!
       %% remove previous line to get barnumbers only at beginning of system.
        \accidentalStyle modern-cautionary
-      \set Score.markFormatter = #format-mark-box-letters %%boxed rehearsal-marks
-       \override Score.TimeSignature.style = #'() %%makes timesigs always numerical
+      \set Score.rehearsalMarkFormatter = #format-mark-box-letters %%boxed rehearsal-marks
+       \override Score.TimeSignature.style = #'numbered %%makes timesigs always numerical
       %% remove previous line to get cut-time/alla breve or common time 
       \set Score.pedalSustainStyle = #'mixed 
        %% make spanners comprise the note it end on, so that there is no doubt that this note is included.
