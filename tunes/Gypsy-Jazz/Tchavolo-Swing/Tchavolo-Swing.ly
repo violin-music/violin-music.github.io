@@ -1,6 +1,8 @@
-\version "2.19.11"
-\include "../common/includes.ly"
-\include "../common/markups.ly"
+\version "2.24.0"
+\include "../../common/includes.ly"
+\include "../../common/markups.ly"
+
+\include "../../common/common-header.ily"
 
 \header {
   title = "Tchavolo Swing"
@@ -163,4 +165,4 @@ r1
 
 words = \lyricmode {}
 
-\include "../common/score.ly"
+\include "../../common/score.ly"

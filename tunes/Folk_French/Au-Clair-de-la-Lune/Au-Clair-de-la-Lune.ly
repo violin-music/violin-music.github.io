@@ -12,7 +12,7 @@
 \score {
 
    <<
-%{
+
       \chords {
          \frenchChords
          \repeat "unfold" 2 {
@@ -21,7 +21,7 @@
          d2:m a d g
          c1 c4 g4 c2
       }
-%}
+
       \relative c' {
 
          \clef treble
