@@ -3462,3 +3462,304 @@ fatal error: failed files: "tunes/Classical/Pachelbel_Canon-in-D/template-Duet.l
 ```
 
 ---
+
+## Failed: canon-in-D-Violin-I._-NEW-relative.ly - 2026-01-02 12:13:24
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/canon-in-D-Violin-I._-NEW-relative.ly`
+
+Error:
+```
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/canon-in-D-Violin-I._-NEW-relative.ly:26:2: warning: barcheck failed at: 1/4
+ 
+ | R1*2   % 1 & 2
+[8][16][24][32][40][48]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+fatal error: failed files: "tunes/Classical/Pachelbel_Canon-in-D/canon-in-D-Violin-I._-NEW-relative.ly"
+```
+
+---
+
+## Failed: Paganini-Concerto-4.ly - 2026-01-02 12:13:29
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Paganini_Concerto-4/Paganini-Concerto-4.ly`
+
+Error:
+```
+
+Interpreting music...[8][16]
+Preprocessing graphical objects...
+Interpreting music...
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Paganini_Concerto-4/Paganini-Concerto-4.ly:49:3: warning: barcheck failed at: 3/8
+  
+  R2.*2
+[8][16]
+Preprocessing graphical objects...
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Paganini_Concerto-4/Paganini-Concerto-4.ly:49:3: warning: barcheck failed at: 3/8
+  
+  R2.*2
+MIDI output to `Paganini-Concerto-4.midi'...
+MIDI output to `Paganini-Concerto-4-1.midi'...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+fatal error: failed files: "tunes/Classical/Paganini_Concerto-4/Paganini-Concerto-4.ly"
+```
+
+---
+
+## Failed: Passacaglia_double-stops.ly - 2026-01-02 12:13:35
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Passacaglia-for-Violin-and-Viola-(Halvorsen-Johan)/Passacaglia_double-stops.ly`
+
+Error:
+```
+  <<
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Passacaglia-for-Violin-and-Viola-(Halvorsen-Johan)/Passacaglia_double-stops.ly:65:3: warning: to suppress this, consider adding a spacer rest
+  
+  <<
+Interpreting music...
+Preprocessing graphical objects...
+Interpreting music...
+Preprocessing graphical objects...
+Interpreting music...
+Preprocessing graphical objects...
+Interpreting music...
+Preprocessing graphical objects...
+Interpreting music...
+Preprocessing graphical objects...
+Interpreting music...
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+fatal error: failed files: "tunes/Classical/Passacaglia-for-Violin-and-Viola-(Halvorsen-Johan)/Passacaglia_double-stops.ly"
+```
+
+---
+
+## Failed: Passacaglia_Arpegios.ly - 2026-01-02 12:13:41
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Passacaglia-for-Violin-and-Viola-(Halvorsen-Johan)/Passacaglia_Arpegios.ly`
+
+Error:
+```
+  <<
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Passacaglia-for-Violin-and-Viola-(Halvorsen-Johan)/Passacaglia_Arpegios.ly:58:3: warning: to suppress this, consider adding a spacer rest
+  
+  <<
+Interpreting music...
+Preprocessing graphical objects...
+Interpreting music...
+Preprocessing graphical objects...
+Interpreting music...
+Preprocessing graphical objects...
+Interpreting music...
+Preprocessing graphical objects...
+Interpreting music...
+Preprocessing graphical objects...
+Interpreting music...
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+fatal error: failed files: "tunes/Classical/Passacaglia-for-Violin-and-Viola-(Halvorsen-Johan)/Passacaglia_Arpegios.ly"
+```
+
+---
+
+## Failed: Portnoff_Russian-Fantasia-2.ly - 2026-01-02 12:13:42
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly`
+
+Error:
+```
+      \globalMovement$1 \violinMovement$
+                                        1Violin
+Unbound variable: #{1Violin}#
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:241:5: error: errors found, ignoring music expression
+    
+    \new Staff \with {
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:251:15: error: unknown escaped string: `\titleMovement'
+      piece = 
+              \titleMovement$1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:251:29: error: syntax error, unexpected NUMBER_IDENTIFIER
+      piece = \titleMovement
+                            $1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:257:3: error: syntax error, unexpected SYMBOL
+  
+  ViolinMovement(`I')
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:257:18: error: undefined character or shorthand: `
+  ViolinMovement(
+                 `I')
+ERROR: In procedure %resolve-variable:
+Unbound variable: fold
+```
+
+---
+
+## Failed: Bella_Ciao-v2.ly - 2026-01-02 12:13:43
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly`
+
+Error:
+```
+Note: compilation failed and \version outdated, did you
+update input syntax with convert-ly?
+
+  https://lilypond.org/doc/v2.24/Documentation/usage/updating-files-with-convert_002dly
+
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: skipping zero-duration score
+  
+  <<
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: to suppress this, consider adding a spacer rest
+  
+  <<
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: skipping zero-duration score
+  
+  <<
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: to suppress this, consider adding a spacer rest
+  
+  <<
+fatal error: failed files: "tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly"
+```
+
+---
+
+## Failed: Dark-Eyes_2.ly - 2026-01-02 12:13:43
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_2.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: Dark-Eyes_3.ly - 2026-01-02 12:13:46
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly`
+
+Error:
+```
+warning: no such internal option: no-midi
+Changing working directory to: `/var/folders/06/fvhzgnnx58gcmzzrq_lr_nyh0000gn/T/tmp.0PuenPB0'
+Processing `tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly'
+Parsing...
+error: version with third number omitted is only allowed for stable releases (when the second number is even)
+Interpreting music...[8][16][24][32]
+Preprocessing graphical objects...
+Interpreting music...
+MIDI output to `Dark-Eyes_3.midi'...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+fatal error: failed files: "tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly"
+```
+
+---
+
+## Failed: Blues-en-Mineur_Chords_Arpeggios.ly - 2026-01-02 12:13:48
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Gypsy-Jazz/Blues-en-Mineur/Blues-en-Mineur_Chords_Arpeggios.ly`
+
+Error:
+```
+/Users/Marc/Projects/violin-music.github.io/tunes/Gypsy-Jazz/Blues-en-Mineur/Blues-en-Mineur_Chords_Arpeggios.ly:60:21: error: unknown escaped string: `\melody'
+    \new Staff {    
+                    \melody }
+/Users/Marc/Projects/violin-music.github.io/tunes/Gypsy-Jazz/Blues-en-Mineur/Blues-en-Mineur_Chords_Arpeggios.ly:60:21: error: string outside of text script or \lyricmode
+    \new Staff {    
+                    \melody }
+
+Note: compilation failed and \version outdated, did you
+update input syntax with convert-ly?
+
+  https://lilypond.org/doc/v2.24/Documentation/usage/updating-files-with-convert_002dly
+
+Interpreting music...[8]
+Preprocessing graphical objects...
+Interpreting music...[8]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+fatal error: failed files: "tunes/Gypsy-Jazz/Blues-en-Mineur/Blues-en-Mineur_Chords_Arpeggios.ly"
+```
+
+---
+
+## Failed: Tchavolo-Swing.ly - 2026-01-02 12:13:49
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Gypsy-Jazz/Tchavolo-Swing/Tchavolo-Swing.ly`
+
+Error:
+```
+/Users/Marc/Projects/violin-music.github.io/tunes/Gypsy-Jazz/Tchavolo-Swing/Tchavolo-Swing.ly:158:1: error: unknown escaped string: `\sectionLetter'
+
+\sectionLetter "C"
+/Users/Marc/Projects/violin-music.github.io/tunes/Gypsy-Jazz/Tchavolo-Swing/Tchavolo-Swing.ly:158:1: error: string outside of text script or \lyricmode
+
+\sectionLetter "C"
+/Users/Marc/Projects/violin-music.github.io/tunes/Gypsy-Jazz/Tchavolo-Swing/Tchavolo-Swing.ly:158:18: error: string outside of text script or \lyricmode
+\sectionLetter "C
+                 "
+/Users/Marc/Projects/violin-music.github.io/tunes/Gypsy-Jazz/Tchavolo-Swing/Tchavolo-Swing.ly:166:10: error: cannot find file: `../common/score.ly'
+(search path: `/Users/Marc/Projects/violin-music.github.io/tunes/Gypsy-Jazz/Tchavolo-Swing:/Users/Marc/Projects/violin-music.github.io:/opt/local/share/lilypond/2.24.4/ly:/opt/local/share/lilypond/2.24.4/ps:/opt/local/share/lilypond/2.24.4/scm:/opt/local/share/lilypond/2.24.4/fonts/otf/:/opt/local/share/lilypond/2.24.4/fonts/svg/:')
+\include 
+         "../common/score.ly"
+
+Note: compilation failed and \version outdated, did you
+update input syntax with convert-ly?
+
+  https://lilypond.org/doc/v2.24/Documentation/usage/updating-files-with-convert_002dly
+
+fatal error: failed files: "tunes/Gypsy-Jazz/Tchavolo-Swing/Tchavolo-Swing.ly"
+```
+
+---
+
+## Failed: Misty_Piano.ly - 2026-01-02 12:13:50
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Misty/Misty_Piano.ly`
+
+Error:
+```
+  \layout {\context {\Score \consists Span_bar_engraver}}
+/Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Misty/Misty_Piano.ly:445:22: error: unknown escaped string: `\Score'
+  \layout {\context {
+                     \Score \consists Span_bar_engraver}}
+/Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Misty/Misty_Piano.ly:445:22: error: string outside of text script or \lyricmode
+  \layout {\context {
+                     \Score \consists Span_bar_engraver}}
+/Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Misty/Misty_Piano.ly:445:39: error: not a note name: Span_bar_engraver
+  \layout {\context {\Score \consists 
+                                      Span_bar_engraver}}
+/Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Misty/Misty_Piano.ly:446:1: error: syntax error, unexpected '}'
+
+}%% end of score-block 
+
+Note: compilation failed and \version outdated, did you
+update input syntax with convert-ly?
+
+  https://lilypond.org/doc/v2.24/Documentation/usage/updating-files-with-convert_002dly
+
+fatal error: failed files: "tunes/Jazz/Misty/Misty_Piano.ly"
+```
+
+---
