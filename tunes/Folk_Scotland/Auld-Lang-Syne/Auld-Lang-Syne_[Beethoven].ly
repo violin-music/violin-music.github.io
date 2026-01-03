@@ -1,5 +1,7 @@
 \version "2.24.4"
 \language "deutsch"
+\include "../../common/common-header.ily"
+
 date = #(strftime "%e. %m. %Y" (localtime (current-time)))
 
 \header {
@@ -13,19 +15,6 @@ date = #(strftime "%e. %m. %Y" (localtime (current-time)))
   copyright = \markup { "Copyright © " \date " by CPDL" }
 }
 
-\include "../../common/common-header.ily"
-#(set-global-staff-size 17.2)
-% #(set-global-staff-size 15.9)
-
-\paper {
-  #(set-paper-size "a4")
-  left-margin = 20\mm
-  right-margin = 18\mm
-  top-margin = 20\mm
-  bottom-margin = 20\mm
-
-  ragged-last-bottom = #f
-}
 
 global = {
   \key f \major
@@ -504,7 +493,7 @@ leftb =  {
     {s2}
   }
   s8. s16 s8 s
-  d'8.[ d16 d8] b,
+  d'8. d16 d8 b,
   R2
   s2*2
   s8. c16 c8 f,
@@ -517,7 +506,7 @@ violinPart = \new Staff \with {
   midiInstrument = "violin"
   printPartCombineTexts = ##f
 } <<
-  \new Voice \partcombine \violin \violinII
+  \new Voice \partCombine \violin \violinII
   \new Voice \violdyn
 >>
 
@@ -528,9 +517,9 @@ sopranoVoicePart = \new Staff = "soprStaff" \with {
   \new Voice = "sopr"    \sopranoVoice
   \new Lyrics \lyricsto "sopr" \verseSopranoVoice
   \new Lyrics \lyricsto "sopr"  \verseSopranoA
-  \new Lyrics \with { alignAboveContext = "soprStaff" \override VerticalAxisGroup #'staff-affinity = #CENTER }
+  \new Lyrics \with { alignAboveContext = "soprStaff" \override VerticalAxisGroup.staff-affinity = #CENTER }
   \lyricsto "sopr"   \verseSopranoB
-  \new Lyrics  \with { \override VerticalAxisGroup #'staff-affinity = #CENTER }
+  \new Lyrics  \with { \override VerticalAxisGroup.staff-affinity = #CENTER }
   \lyricsto "sopr"  \verseSopranoC
   % \new Lyrics \lyricsto "sopr"  \verseSopranoD
 >>
@@ -544,7 +533,7 @@ tenorVoicePart = \new Staff \with {
 %\addlyrics { \verseSopranoC}
 %% \addlyrics { \verseSopranoD}
 
-bassVoicePart = \new Staff \with {
+bassVoicePart = \new Staff = "bassStaff" \with {
   instrumentName = "Basso"
   midiInstrument = "choir aahs"
 } <<
@@ -553,7 +542,7 @@ bassVoicePart = \new Staff \with {
     %    \voiceTwo
     \clef "bass" \bassVoice
   }
-  \new Lyrics \with { alignBelowContext = "bass" } \lyricsto "sopr"   \verseSopranoD
+  \new Lyrics \with { alignBelowContext = "bassStaff" } \lyricsto "sopr"   \verseSopranoD
 >>
 % \addlyrics { \verseBassVoice }
 
@@ -571,13 +560,13 @@ pianoPart = \new PianoStaff \with {
   \new Staff = "right" \with {
     midiInstrument = "acoustic grand"
     printPartCombineTexts = ##f
-  } \partcombine \right \rightII
+  } \partCombine \right \rightII
   \new Dynamics \pianodyn
   \new Staff = "left" \with {
     midiInstrument = "acoustic grand"
     printPartCombineTexts = ##f
   } <<
-    \new Voice {   \clef bass \partcombine \left \leftb }
+    \new Voice {   \clef bass \partCombine \left \leftb }
     \new Voice { s8 s2*15 \clef "G"}
   >>
 >>
@@ -597,8 +586,8 @@ pianoPart = \new PianoStaff \with {
   >>
   \layout {
     \context {
-      \RemoveEmptyStaffContext
-      \override VerticalAxisGroup #'remove-first = ##t
+      \RemoveEmptyStaves
+      \override VerticalAxisGroup.remove-first = ##t
     }
   }
   \midi {
@@ -620,8 +609,8 @@ pianoPart = \new PianoStaff \with {
     \layout {
       #(layout-set-staff-size 18.2)
       \context {
-        \RemoveEmptyStaffContext
-        \override VerticalAxisGroup #'remove-first = ##t
+        \RemoveEmptyStaves
+        \override VerticalAxisGroup.remove-first = ##t
       }
     }
   }

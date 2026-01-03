@@ -1,6 +1,10 @@
-\version "2.19.80"
+\version "2.24.0"
 \language "english"
+\include "../../common/common-header.ily"
 \include "../../common/violin-functions.ly"
+
+% Define target key at the top so it can be used in transpose functions
+targetKey = c
 
 \header {
   title = "Rondo Alla Turca"
@@ -8,18 +12,8 @@
   composer = "W. A. Mozart"
   country = "Austria"
   piece = "Allegretto"
-  mutopiatitle = "Rondo Alla Turca"
-  mutopiacomposer = "MozartWA"
-  mutopiainstrument = "Piano"
   genre = "Classical"
-  copyright = "Public Domain"
-  source = "IMSLP"
 
-  maintainer = "Rune Zedeler and Chris Sawer"
-  maintainerEmail = "chris@mutopiaproject.org"
-
- footer = "Mutopia-2007/05/21-108"
- tagline = \markup { \override #'(box-padding . 1.0) \override #'(baseline-skip . 2.7) \box \center-column { \small \line { Sheet music from \with-url "http://www.MutopiaProject.org" \line { \teeny www. \hspace #-1.0 MutopiaProject \hspace #-1.0 \teeny .org \hspace #0.5 } • \hspace #0.5 \italic Free to download, with the \italic freedom to distribute, modify and perform. } \line { \small \line { Typeset using \with-url "http://www.LilyPond.org" \line { \teeny www. \hspace #-1.0 LilyPond \hspace #-1.0 \teeny .org } by \maintainer \hspace #-1.0 . \hspace #0.5 Reference: \footer } } \line { \teeny \line { This sheet music has been placed in the public domain by the typesetter, for details see: \hspace #-0.5 \with-url "http://creativecommons.org/licenses/publicdomain" http://creativecommons.org/licenses/publicdomain } } } }
 }
 
 
@@ -28,11 +22,11 @@
 
 righta = \transpose c \targetKey'' {
 
-  \partial 4 b,16-3\p^\sulD ( a, gs, a, |
-  c8)-.-4 r d16-3 ^\sulA( c b, c
-  e8)-.-4 r f16-4( e ds e )
- | b-3^\sulE (a gs a b a gs a |
-  c'4\accent) a8-.-2 c'-.-4 |
+  \partial 4 b,16-3\p^\sulD ( a, gs, a,
+  | c8)-.-4 r d16-3 ^\sulA( c b, c 
+  | e8)-.-4 r f16-4( e ds e )
+  | b-3^\sulE (a gs a b a gs a
+  | c'4\accent) a8-.-2 c'-.-4 |
   \grace { g!32[( a)] } b8-.-> <fs a>-.-2-4 <e g>-. <fs a>-. |
   \grace { g32[( a)] } b8-.-> <fs a>-.-2-4 <e g>-. <fs a>-. |
   \grace { g32[( a)] } b8-.-> <fs a>-.-1^"shift" <e g-4>-. <ds fs>-.-2-3 |
@@ -217,10 +211,6 @@ right = {
   \bar "|."
 }
 
-
-
-targetKey = c
-
 \score {
   \new PianoStaff
   <<
@@ -228,8 +218,7 @@ targetKey = c
       \time 2/4
       \right
     }
-  %  \new Staff {      \left  }
   >>
-  \layout {indent= 0.5\cm}
+  \layout {}
   %\midi {}
 }

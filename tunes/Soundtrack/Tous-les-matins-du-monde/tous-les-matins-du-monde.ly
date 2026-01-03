@@ -1,13 +1,15 @@
 \version "2.24.1"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Improvisations sur les folies d'Espagne"
   subtitle = "Du Film Tous Les Matins du Monde"
-  subsubtitle = "Transposed from D to G"
+  piece = "Transposed from D to G"
   composer = "Marin Marais"
   country = "France"
   genre = "Classical"
+  transcriber = "MM"
 }
 
 \include "../../common/common-header.ily"
@@ -51,24 +53,29 @@ cs8 a  e  cs a  cs'
 \break
 
 
-d8  a'  f  d   a'  f 
-cs  a'  e  cs  a'  e 
-d8  a'  f  d   a'  f 
-
-c2. 
-f2. 
-c2. 
-d2.  
-a2. 
-r 
-r
-  
+d 8  a'  f  d   a'  f 
+cs8  a'  e  cs  a'  e 
+d 8  a'  f  d   a'  f 
+e 8  c'  g  e   c'  g 
+f 8  c'  a  f   c'  a
+e 8  c'  g  e   c'  g 
+d 8  a'  f  d   a'  f 
+cs8  a'  e  cs  a'  e 
 }
 
 \score {
   <<
-    \new ChordNames \chordNames
-    \new Staff { \melody }
+    \new ChordNames  { \chordNames }
+    \new Staff       { \melody     }
+  >>
+  \layout { }
+  \midi { }
+}
+
+\score {
+  <<
+    \new ChordNames  { \transpose d g \chordNames }
+    \new Staff       { \transpose d g \melody     }
   >>
   \layout { }
   \midi { }

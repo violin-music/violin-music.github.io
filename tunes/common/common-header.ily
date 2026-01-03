@@ -23,6 +23,8 @@
 #(define (transcriber-exists layout props)
    (chain-assoc-get 'header:transcriber props))
 
+
+
 \header {
   tagline = ##f
 }
@@ -65,6 +67,9 @@
 
 \paper {
   indent = 10 \mm
+  
+  ragged-right = ##f   % ← stretches staff to the right margin
+
 
   % Spacing between title/composer and music
   markup-system-spacing.basic-distance = #2  % Space after header markup (title/composer) before first system

@@ -1,8 +1,8 @@
-\version "2.19.2"
-\include "english.ly"
+\version "2.24.0"
+\language "english"
+\include "../../common/common-header.ily"
+
 % english.ly     c   d   e   f   g   a   b   -s/-sharp   -f/-flat
-
-
 
 \header {
     title    = "Folia"
@@ -13,7 +13,6 @@
     enteredby = "Marc Mouries"
 }
 
-\include "../../common/common-header.ily"
 
 violin =  \relative g''
 {   \key g \minor

@@ -48,7 +48,7 @@ slide = #(define-music-function (startnote) (scheme?)
    "Draw a double box around text."
    (interpret-markup layout props
                      (markup #:translate '(-1.0 . 0)
-                             #:bold  text)))
+                             #:bold #:italic text)))
 
 sulE     = \markup { \sul "sul E"}
 sulA     = \markup { \sul "sul A"}

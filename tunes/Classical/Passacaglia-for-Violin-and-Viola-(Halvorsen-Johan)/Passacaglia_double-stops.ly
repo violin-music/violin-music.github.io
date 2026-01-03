@@ -1,5 +1,6 @@
 \version "2.24.4"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "Passacaglia - Double-stops"
@@ -9,20 +10,16 @@
   genre = "Classical"
 }
 
-\include "../../common/common-header.ily"
 
-\paper {
-  ragged-right = ##f   % ← stretches staff to the right margin
-  indent = 0
-}
+
 
 \markup \vspace #1
 
+targetKey = fs
 
 \book { 
 \bookOutputSuffix "C" 
 
-targetKey = fs
 
    \score { 
      %first arpeggio 
