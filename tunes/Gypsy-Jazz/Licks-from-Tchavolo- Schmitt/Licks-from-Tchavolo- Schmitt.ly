@@ -1,5 +1,6 @@
 \version "2.24.0"
 \language "english"
+\include "../../common/common-header.ily"
 
 %\include "profondo.ily"
 %\include "LilyJAZZ.ily"
@@ -9,15 +10,14 @@
 
 
 \header {
-  title = "from the Movie Swing (2002)"
-  composer = "Mandino Reinhardt & Tchavolo Schmitt"
+  title = "Lick from Tchavolo Schmitt"
+  subtitle = "from the Movie Swing (2002)"
+  composer = "Tchavolo Schmitt"
   country = "France"
   genre = "Jazz"
-
   subgenre = "Gypsy Jazz"
 }
 
-\include "../../common/common-header.ily"
 
 global = {
   \time 4/4
@@ -45,6 +45,7 @@ melody = \relative c'' {
   %\tuplet 3/2
   {b8 bf a} gs8  fs'4 cs8 d8~
   d2 cs8 r8 r4
+  r1
 }
 
 \markup \override #'(box-padding . 0.4) \box "In A"

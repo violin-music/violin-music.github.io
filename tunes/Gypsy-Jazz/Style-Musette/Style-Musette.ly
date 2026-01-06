@@ -6,7 +6,6 @@
   title = "Style Musette"
   subtitle = "Valse"
   composer = "André Verchuren"
-  tagline = ##f
 }
 
 % ---------- Global helpers ----------
