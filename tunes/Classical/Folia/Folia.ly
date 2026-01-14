@@ -1,6 +1,7 @@
 \version "2.24.0"
 \language "english"
 \include "../../common/common-header.ily"
+\include "../../common/include-score-if-standalone.ily"
 
 % english.ly     c   d   e   f   g   a   b   -s/-sharp   -f/-flat
 
@@ -13,9 +14,16 @@
     enteredby = "Marc Mouries"
 }
 
+% Define original key & mode
+originalKey = g
+originalMode = #minor
 
-violin =  \relative g''
-{   \key g \minor
+
+
+violin_music =  \relative g''
+{
+     \key g \minor
+       \time 3/4 
     g < g,, d' bf' g' >4. a''8
   | < d,, a' fs' >2  fs'4
   | g < g,, d' bf' g' >4. f''16(  g )
@@ -38,7 +46,10 @@ violin =  \relative g''
 }
 
 \score {
-  \new Staff { \time 3/4 \violin  }
+  \new Staff {
+  
+    \violin_music
+  }
   \layout {}
   \midi {}
 }

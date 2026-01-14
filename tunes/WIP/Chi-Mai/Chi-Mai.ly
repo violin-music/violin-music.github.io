@@ -38,7 +38,7 @@ violin_music = \relative c''' {
   cs4.  r4.  cs4.  cs4.
   \break  
   r4.  r8 b8 a8 b4. r4.
-  a4.  fs'4.  r4.  gs4 a8
+  a4.  fs'4.  r4.  gs,4 a8
   \break
   r4.  r4. r4. r4.
   

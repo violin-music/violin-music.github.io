@@ -20,9 +20,11 @@ chordNames = \chordmode {
   
 }
 
-violin_music = \relative c'' {
+violin_music = \relative c' {
   \global
 
+  \partial 4*3 d8 d8 d' d d c 
+  ef a a bf
   
 
 }

@@ -1,7 +1,7 @@
 \version "2.24.4"
 \language "english"
-\include "../../common/include-score-if-standalone.ily"
 \include "../../common/common-header.ily"
+\include "../../common/include-score-if-standalone.ily"
 
 \header {
   title = "Bella Ciao"
