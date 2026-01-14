@@ -1,43 +1,44 @@
 \version "2.24.4"
 \language "english"
+\include "../../tunes/common/markups.ly"
+
 
 \header {
-  title = "Violin Harmonics"
-  subtitle = "Natural Harmonics — touch point + sounding pitch"
+  title = "Harmonics on the Violin"  
   tagline = ""
+}
+\paper {
+  indent = 10
+  %ragged-right = ##f
+  %ragged-last = ##f
 }
 
 \paper {
-  indent = 0
-  ragged-right = ##f
-  ragged-last = ##f
+  #(define fonts
+     (set-global-fonts
+       #:roman      "Optima"
+       #:sans       "Optima"
+       #:typewriter "Optima"))
 }
-
-% =========================
-% Simple markup helper
-% =========================
-#(define-markup-command (para layout props txt) (string?)
-  (interpret-markup layout props
-    (markup #:wordwrap-string txt)))
 
 % =========================
 % Global (no meter, no barlines)
 % =========================
 global = {
   \cadenzaOn
-  \tempo 4 = 72
 }
+
 
 % =========================
 % Function: harmonic note + tiny parenthesized sounding pitch above
 %
 % Usage:
-%   \harmWithSounding <TOUCH-NOTE-MUSIC> <SOUNDING-NOTE-MUSIC>
+%   \harmWithPitch <TOUCH-NOTE-MUSIC> <SOUNDING-NOTE-MUSIC>
 %
 % Example:
-%   \harmWithSounding g'\harmonic4 \parenthesize g'4
+%   \harmWithPitch g'\harmonic4 \parenthesize g'4
 % =========================
-harmWithSounding =
+harmWithPitch =
 #(define-music-function (parser location touchMusic soundingMusic)
    (ly:music? ly:music?)
 #{
@@ -66,6 +67,32 @@ harmWithSounding =
   \revert Staff.NoteColumn.ignore-collision
 #})
 
+
+\markup \vspace #1
+\markup { \sectionHeading #1 "Harmonics" }          % main section
+\markup \paragraph 
+"Harmonics are flute-like sounds produced on stringed by lightly touching 
+a string at specific points (like the halfway or one-third mark) rather 
+than pressing it down." 
+\markup \paragraph  
+"There are two types of harmonics: natural Harmonics and artificial Harmonics"
+
+\markup { \sectionHeading #2 "Natural Harmonics" }  % sub heading
+\markup \paragraph  
+  "The most resonant and the easiest harmonic to play is the harmonic 
+played by lightly touching the point at the half of the string. "
+
+\markup "Example on the A string: "
+  \markup \writeMusic { { a'\flageolet } } \markup "sounds like " \markup \writeMusic {  { a''  }}
+
+
+
+\markup \paragraph  
+ "While an open string (marked with a '0') produces its fundamental 
+pitch, a flageolet uses the same open string but lightly touches its midpoint 
+(or another node) to produce a higher, ethereal harmonic (often an octave higher)."
+
+
 % =========================
 % Natural harmonic “ladder” per string
 % (2nd partial = octave, 3rd = 12th, 4th = 2 oct, 5th, 6th)
@@ -79,11 +106,11 @@ natGString =  {
   g4^\markup { \bold "G string" }
 
   % Touch point (diamond) + sounding (tiny parenthesized)
-  \harmWithSounding g'\harmonic4   \parenthesize g'4      % 2nd partial (octave)
-  \harmWithSounding d''\harmonic4  \parenthesize d''4     % 3rd partial (12th)
-  \harmWithSounding g''\harmonic4  \parenthesize g''4     % 4th partial (2 oct)
-  \harmWithSounding b''\harmonic4  \parenthesize b''4     % 5th partial
-  \harmWithSounding d'''\harmonic4 \parenthesize d'''4    % 6th partial
+  \harmWithPitch g'  \harmonic4  \parenthesize g'  4     % 2nd partial (octave)
+  \harmWithPitch d'' \harmonic4  \parenthesize d'' 4     % 3rd partial (12th)
+  \harmWithPitch g'' \harmonic4  \parenthesize g'' 4     % 4th partial (2 oct)
+  \harmWithPitch b'' \harmonic4  \parenthesize b'' 4     % 5th partial
+  \harmWithPitch d'''\harmonic4  \parenthesize d'''4     % 6th partial
 }
 
 natDString =  {
@@ -93,25 +120,23 @@ natDString =  {
 
   d4^\markup { \bold "D string" }
 
-  \harmWithSounding d'\harmonic4   \parenthesize d'4      % 2nd partial
-  \harmWithSounding a'\harmonic4   \parenthesize a'4      % 3rd partial
-  \harmWithSounding d''\harmonic4  \parenthesize d''4     % 4th partial
-  \harmWithSounding fs''\harmonic4 \parenthesize fs''4    % 5th partial
-  \harmWithSounding a''\harmonic4  \parenthesize a''4     % 6th partial
+  \harmWithPitch d'\harmonic4   \parenthesize d'4      % 2nd partial
+  \harmWithPitch a'\harmonic4   \parenthesize a'4      % 3rd partial
+  \harmWithPitch d''\harmonic4  \parenthesize d''4     % 4th partial
+  \harmWithPitch fs''\harmonic4 \parenthesize fs''4    % 5th partial
+  \harmWithPitch a''\harmonic4  \parenthesize a''4     % 6th partial
 }
 
 natAString =  {
   \global
-  \clef treble
-  \key a \major
 
   a4^\markup { \bold "A string" }
 
-  \harmWithSounding a'\harmonic4    \parenthesize a'4     % 2nd partial
-  \harmWithSounding e''\harmonic4   \parenthesize e''4    % 3rd partial
-  \harmWithSounding a''\harmonic4   \parenthesize a''4    % 4th partial
-  \harmWithSounding cs'''\harmonic4 \parenthesize cs'''4  % 5th partial
-  \harmWithSounding e'''\harmonic4  \parenthesize e'''4   % 6th partial
+  \harmWithPitch a'\harmonic4    \parenthesize a'4     % 2nd partial
+  \harmWithPitch e''\harmonic4   \parenthesize e''4    % 3rd partial
+  \harmWithPitch a''\harmonic4   \parenthesize a''4    % 4th partial
+  \harmWithPitch cs'''\harmonic4 \parenthesize cs'''4  % 5th partial
+  \harmWithPitch e'''\harmonic4  \parenthesize e'''4   % 6th partial
 }
 
 natEString =  {
@@ -120,19 +145,20 @@ natEString =  {
 
   e4^\markup { \bold "E string" }
 
-  \harmWithSounding e''\harmonic4    \parenthesize e''4     % 2nd partial (E6)
-  \harmWithSounding b''\harmonic4    \parenthesize b''4     % 3rd partial (B6)
-  \harmWithSounding e'''\harmonic4   \parenthesize e'''4    % 4th partial (E7)
-  \harmWithSounding gs'''\harmonic4  \parenthesize gs'''4   % 5th partial (G#7)
-  \harmWithSounding b'''\harmonic4   \parenthesize b'''4    % 6th partial (B7)
+  \harmWithPitch e''\harmonic4    \parenthesize e''4     % 2nd partial (E6)
+  \harmWithPitch b''\harmonic4    \parenthesize b''4     % 3rd partial (B6)
+  \harmWithPitch e'''\harmonic4   \parenthesize e'''4    % 4th partial (E7)
+  \harmWithPitch gs'''\harmonic4  \parenthesize gs'''4   % 5th partial (G#7)
+  \harmWithPitch b'''\harmonic4   \parenthesize b'''4    % 6th partial (B7)
 }
 
 % =========================
 % Article text + 4 separate scores
 % =========================
-\markup \large \bold "Natural Harmonics"
-\markup \para
-"Each diamond note shows the touch point (left-hand contact). The tiny parenthesized note above shows the sounding pitch. \
+
+
+\markup \paragraph 
+"Each diamond note shows the touch point (left-hand contact). The tiny parenthesized note above shows the sounding pitch. 
 Touch feather-light, then use faster bow speed and lighter bow pressure to make the harmonic speak."
 
 \score {
@@ -178,19 +204,24 @@ Touch feather-light, then use faster bow speed and lighter bow pressure to make 
 
 
 \markup \large \bold "A string"
+%   => the note with the normal note head indicates the stopped position
+%   => the note with the diamond note head indicates the harmonic position. 
+%   => the small note between parenthesis indicates the sounding pitch
 
 \relative c'' { 
   \override Staff.NoteColumn.ignore-collision = ##t 
   \override NoteHead.style = #'harmonic-mixed 
-  << { \oneVoice 
-       <a_0 e'_2 \harmonic>4 
+  << { 
+    \oneVoice 
+       <a_0 e'_2 \harmonic>4 % 
        <a_0 d_1 \harmonic>4 
      } 
      \\
      { %
        \oneVoice 
-       \tiny \override Stem.stencil = ##f 
+       \override Stem.stencil = ##f 
        \override Flag.stencil = ##f 
+       \tiny 
        <\parenthesize e''> 
        <\parenthesize e> } 
 >> }
@@ -200,13 +231,15 @@ Touch feather-light, then use faster bow speed and lighter bow pressure to make 
 % Function: harmonic event + tiny parenthesized sounding event
 %
 % Usage:
-%   \harmWithSound <HARMONIC_EVENT> <SOUNDING_EVENT>
+%   \harmWithPitch <HARMONIC_EVENT> <SOUNDING_EVENT>
 %
 % Example:
-%   \harmWithSound <a e'\harmonic>4 <\parenthesize e''>4
-%   \harmWithSound <a_0 d_1\harmonic>4 <\parenthesize a'>4
+%   \harmWithPitch <a e'\harmonic>4 <\parenthesize e''>4
+%   => the note with the normal note head indicates the stopped position
+%   => the note with the diamond note head indicates the harmonic position. 
+%   => the small note between parenthesis indicates the sounding pitch
 % ------------------------------------------------------------
-harmWithSound =
+harmWithPitch =
 #(define-music-function (parser location harmEvent soundEvent)
    (ly:music? ly:music?)
 #{
@@ -219,14 +252,11 @@ harmWithSound =
     }
     \\
     {
-      \tiny
       \override Stem.stencil = ##f
       \override Flag.stencil = ##f
+      \tiny
       \override Parentheses.font-size = #0
-      % optional: make the small note sit a touch higher
-      \override NoteHead.extra-offset = #'(0 . 1.2)
       $soundEvent
-      \revert NoteHead.extra-offset
       \revert Parentheses.font-size
       \revert Flag.stencil
       \revert Stem.stencil
@@ -242,67 +272,69 @@ harmWithSound =
 % preferred finger/position sequence later.)
 % ============================================================
 
-\markup \large \bold "G string"
-\score {
-  \new Staff {
-    \relative c'' {
-      \global
-      % Natural harmonic ladder on G string
-      % (touch pitch shown as harmonic; sounding in parentheses)
-      \harmWithSound <g,\harmonic>4   <\parenthesize g'>4
-      \harmWithSound <d\harmonic>4    <\parenthesize d''>4
-      \harmWithSound <g\harmonic>4    <\parenthesize g''>4
-      \harmWithSound <b\harmonic>4    <\parenthesize b''>4
-      \harmWithSound <d'\harmonic>4   <\parenthesize d'''>4
-    }
-  }
-  \layout { }
-}
-
-\markup \large \bold "D string"
-\score {
-  \new Staff {
-    \relative c'' {
-      \global
-      \key d \major
-      \harmWithSound <d,\harmonic>4   <\parenthesize d'>4
-      \harmWithSound <a\harmonic>4    <\parenthesize a'>4
-      \harmWithSound <d\harmonic>4    <\parenthesize d''>4
-      \harmWithSound <fs\harmonic>4   <\parenthesize fs''>4
-      \harmWithSound <a\harmonic>4    <\parenthesize a''>4
-    }
-  }
-  \layout { }
-}
+% \markup \large \bold "G string"
+% \score {
+%   \new Staff {
+%      {
+%       \global
+%       % Natural harmonic ladder on G string
+%       % (touch pitch shown as harmonic; sounding in parentheses)
+%       \harmWithPitch <g,\harmonic>4   <\parenthesize g'>4
+%       \harmWithPitch <d\harmonic>4    <\parenthesize d''>4
+%       \harmWithPitch <g\harmonic>4    <\parenthesize g''>4
+%       \harmWithPitch <b\harmonic>4    <\parenthesize b''>4
+%       \harmWithPitch <d'\harmonic>4   <\parenthesize d'''>4
+%     }
+%   }
+%   \layout { }
+% }
+% 
+% \markup \large \bold "D string"
+% \score {
+%   \new Staff {
+%      {
+%       \global
+%       \key d \major
+%       \harmWithPitch <d,\harmonic>4   <\parenthesize d'>4
+%       \harmWithPitch <a\harmonic>4    <\parenthesize a'>4
+%       \harmWithPitch <d\harmonic>4    <\parenthesize d''>4
+%       \harmWithPitch <fs\harmonic>4   <\parenthesize fs''>4
+%       \harmWithPitch <a\harmonic>4    <\parenthesize a''>4
+%     }
+%   }
+%   \layout { }
+% }
 
 \markup \large \bold "A string"
 \score {
   \new Staff {
-    \relative c'' {
+     {
       \global
       \key a \major
-      \harmWithSound <a,\harmonic>4     <\parenthesize a'>4
-      \harmWithSound <e\harmonic>4      <\parenthesize e''>4
-      \harmWithSound <a\harmonic>4      <\parenthesize a''>4
-      \harmWithSound <cs'\harmonic>4    <\parenthesize cs'''>4
-      \harmWithSound <e'\harmonic>4     <\parenthesize e'''>4
+      \harmWithPitch <a\harmonic>4     <\parenthesize a'>4
+      \harmWithPitch <e\harmonic>4      <\parenthesize e''>4
+      \harmWithPitch <a\harmonic>4      <\parenthesize a''>4
+      \harmWithPitch <cs'\harmonic>4    <\parenthesize cs'''>4
+      \harmWithPitch <e'\harmonic>4     <\parenthesize e'''>4
     }
   }
   \layout { }
 }
 
-\markup \large \bold "E string"
-\score {
-  \new Staff {
-    \relative c'' {
-      \global
-      \harmWithSound <e\harmonic>4      <\parenthesize e''>4
-      \harmWithSound <b\harmonic>4      <\parenthesize b''>4
-      \harmWithSound <e'\harmonic>4     <\parenthesize e'''>4
-      \harmWithSound <gs'\harmonic>4    <\parenthesize gs'''>4
-      \harmWithSound <b'\harmonic>4     <\parenthesize b'''>4
-    }
-  }
-  \layout { }
-}
-                                                                                                                   
+% \markup \large \bold "E string"
+% \score {
+%   \new Staff {
+%      {
+%       \global
+%       \harmWithPitch <e\harmonic>4      <\parenthesize e''>4
+%       \harmWithPitch <b\harmonic>4      <\parenthesize b''>4
+%       \harmWithPitch <e'\harmonic>4     <\parenthesize e'''>4
+%       \harmWithPitch <gs'\harmonic>4    <\parenthesize gs'''>4
+%       \harmWithPitch <b'\harmonic>4     <\parenthesize b'''>4
+%     }
+%   }
+%   \layout { }
+% }
+%                 
+
+\markup { \sectionHeading #2 "Artificial Harmonics" }  % sub heading

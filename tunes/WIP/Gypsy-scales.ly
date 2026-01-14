@@ -1,5 +1,6 @@
 \version "2.24.4"
 \language "english"
+\include "../../tunes/common/markups.ly"
 
 \header {
   title = "Gypsy scales"
@@ -14,42 +15,9 @@
        #:typewriter "Optima"))
 }
 
-% ============================================================
-% Markup helpers (LilyPond 2.24.4-compatible)
-%   - \sectionHeading takes a LEVEL + TEXT:
-%       \markup { \sectionHeading #1 "..." }  % main section
-%       \markup { \sectionHeading #2 "..." }  % sub heading (Commonly heard in / Example)
-%   - \bulletItem: hanging bullets with consistent spacing
-% ============================================================
 
-#(define-markup-command (sectionHeading layout props level txt) (number? string?)
-  (let* (
-         (fs  (cond ((= level 1) 2)      ; main section heading
-                    ((= level 2) 0)      ; sub heading
-                    (else -1)))
-         (vsp (cond ((= level 1) 0.6)
-                    ((= level 2) 0.35)
-                    (else 0.2))))
-    (interpret-markup layout props
-      (markup
-        #:column (
-          #:vspace vsp
-          #:fontsize fs
-          #:bold txt
-          #:vspace 0.2)))))
 
-#(define-markup-command (bulletItem layout props txt) (string?)
-  (interpret-markup layout props
-    (markup
-      #:column (
-        (#:line (
-          #:hspace 1.2
-          #:fontsize -1 "•"
-          #:hspace 0.8
-          #:wordwrap-string txt
-        ))
-        (#:vspace 0.6) ;; consistent space AFTER each bullet
-      ))))
+
 
 % ============================================================
 % Intro text

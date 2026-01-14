@@ -1,17 +1,66 @@
-\version "2.24.0"
+\version "2.24"
 
 %=============================================
 % PARAGRAPH
-% http://www.lilypond.org/doc/v2.19/Documentation/extending/new-markup-list-command-definition
+% http://www.lilypond.org/doc/v2.24/Documentation/extending/new-markup-list-command-definition
 %=============================================
 #(define-markup-list-command (paragraph layout props args) (markup-list?)
   (interpret-markup-list layout props
    (make-justified-lines-markup-list (cons (make-hspace-markup 2) args))))
 
 
+% =========================
+% Simple markup helper
+% =========================
+#(define-markup-command (paragraph layout props text) (string?)
+  (interpret-markup layout props
+    (markup 
+     #:vspace 0.7
+     #:wordwrap-string text 
+     #:vspace 0.7)
+    ))
+
+
+
+% ============================================================
+% Markup helpers (LilyPond 2.24.4-compatible)
+%   - \sectionHeading takes a LEVEL + TEXT:
+%       \markup { \sectionHeading #1 "..." }  % main section
+%       \markup { \sectionHeading #2 "..." }  % sub heading (Commonly heard in / Example)
+%   - \bulletItem: hanging bullets with consistent spacing
+% ============================================================
+
+#(define-markup-command (sectionHeading layout props level txt) (number? string?)
+  (let* (
+         (fontsize  (cond ((= level 1) 3)      ; main section heading
+                    ((= level 2) 1)      ; sub heading
+                    (else -1)))
+         (vspace (cond ((= level 1) 0.6)
+                    ((= level 2) 0.35)
+                    (else 0.2))))
+    (interpret-markup layout props
+      (markup
+        #:column (
+          #:vspace vspace
+          #:fontsize fontsize
+          #:bold txt
+          #:vspace 0.2)))))
+
+#(define-markup-command (bulletItem layout props txt) (string?)
+  (interpret-markup layout props
+    (markup
+      #:column (
+        (#:line (
+          #:hspace 1.2
+          #:fontsize -1 "•"
+          #:hspace 0.8
+          #:wordwrap-string txt
+        ))
+        (#:vspace 0.6) ;; consistent space AFTER each bullet
+      ))))
 
 %=============================================
-% WRITE SCORE
+% WRITE MUSIC inline 
 %
 %=============================================
 #(define-markup-command (writeMusic layout props music) (ly:music?)
@@ -24,6 +73,10 @@
      (interpret-markup layout props (markup  #:score score) )
      ))
 
+%=============================================
+% WRITE SCORE inline without the time signature
+%
+%=============================================
 #(define-markup-command (writeMusicNoTime layout props music) (ly:music?)
    (let ((score (ly:make-score    music))
          (score-layout (ly:output-def-clone $defaultlayout)))
