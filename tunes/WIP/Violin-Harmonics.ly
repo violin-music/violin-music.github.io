@@ -5,6 +5,7 @@
 
 \header {
   title = "Harmonics on the Violin"  
+  composer = "Marc Mouries"
   tagline = ""
 }
 \paper {
@@ -79,18 +80,15 @@ than pressing it down."
 
 \markup { \sectionHeading #2 "Natural Harmonics" }  % sub heading
 \markup \paragraph  
-  "The most resonant and the easiest harmonic to play is the harmonic 
-played by lightly touching the point at the half of the string. "
+"Natural Harmonics are the ones that are produced without pressing down on the 
+string. The most resonant and the easiest harmonic to play is to play an open 
+string and to lightly touch its midpoint.  This produces a higher, ethereal 
+harmonic with a pitch an octave higher." 
 
-\markup "Example on the A string: "
-  \markup \writeMusic { { a'\flageolet } } \markup "sounds like " \markup \writeMusic {  { a''  }}
-
-
-
-\markup \paragraph  
- "While an open string (marked with a '0') produces its fundamental 
-pitch, a flageolet uses the same open string but lightly touches its midpoint 
-(or another node) to produce a higher, ethereal harmonic (often an octave higher)."
+\markup \line { 
+  "Example on the A string: " 
+  \writeMusic { { a'\flageolet } } 
+  " sounds like " \writeMusic { { a'' } } }
 
 
 % =========================

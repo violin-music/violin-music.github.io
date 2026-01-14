@@ -60,33 +60,36 @@
       ))))
 
 %=============================================
-% WRITE MUSIC inline 
+% WRITE MUSIC inline
 %
+% Usage: \markup \line { "text " \writeMusic { { c'4 d' e' } } " more text" }
 %=============================================
 #(define-markup-command (writeMusic layout props music) (ly:music?)
-   (let ((score (ly:make-score music))
-         (score-layout (ly:output-def-clone $defaultlayout)))
-     ;; possibly, change some settings in the \layout block
+   (let* ((wrapped-music
+           #{ \new Staff \with {
+                \remove "Time_signature_engraver"
+                %\remove "Clef_engraver"
+              } {  $music }
+           #})
+          (score (ly:make-score wrapped-music))
+          (score-layout (ly:output-def-clone $defaultlayout)))
      (ly:output-def-set-variable! score-layout 'indent 0)
-     ;; add the \layout block to the score
      (ly:score-add-output-def! score score-layout)
-     (interpret-markup layout props (markup  #:score score) )
-     ))
+     (interpret-markup layout props (markup #:score score))))
+
+
 
 %=============================================
-% WRITE SCORE inline without the time signature
+% WRITE MUSIC inline - full staff with time signature
 %
+% Usage: \markup \writeMusicFull { { \time 4/4 c'4 d' e' f' } }
 %=============================================
-#(define-markup-command (writeMusicNoTime layout props music) (ly:music?)
-   (let ((score (ly:make-score    music))
-         (score-layout (ly:output-def-clone $defaultlayout)))
-     ;; change some settings in the \layout block
+#(define-markup-command (writeMusicFull layout props music) (ly:music?)
+   (let* ((score (ly:make-score music))
+          (score-layout (ly:output-def-clone $defaultlayout)))
      (ly:output-def-set-variable! score-layout 'indent 0)
-     ;; add the \layout block to the score
      (ly:score-add-output-def! score score-layout)
-     (interpret-markup layout props (markup  #:score score) )
-     )
-   )
+     (interpret-markup layout props (markup #:score score))))
 
 
 
