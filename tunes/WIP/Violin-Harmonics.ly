@@ -48,9 +48,9 @@ harmWithPitch =
     {
       \oneVoice
       % Diamond-ish harmonic noteheads for the touched note(s)
-      \override NoteHead.style = #'harmonic-mixed
+ %     \override NoteHead.style = #'harmonic-mixed
       $touchMusic
-      \revert NoteHead.style
+      %\revert NoteHead.style
     }
     \\
     {
@@ -67,6 +67,45 @@ harmWithPitch =
   >>
   \revert Staff.NoteColumn.ignore-collision
 #})
+
+
+% ------------------------------------------------------------
+% Function: harmonic event + tiny parenthesized sounding event
+%
+% Usage:
+%   \harmWithPitch <HARMONIC_EVENT> <SOUNDING_EVENT>
+%
+% Example:
+%   \harmWithPitch <a e'\harmonic>4 <\parenthesize e''>4
+% can we refactor this function to have the following arguments:
+%   => stop_note:  the note with the normal note head indicates the stopped position
+%   => harm_note:  the note with the diamond note head indicates the harmonic position. 
+%   => pitch_note: the small note between parenthesis indicates the sounding pitch
+%  let's make the pitch_note optional
+% ------------------------------------------------------------
+harmWithPitch_TWO =
+#(define-music-function (parser location harmEvent soundEvent)
+   (ly:music? ly:music?)
+#{
+  <<
+    {
+      \oneVoice
+      $harmEvent
+    }
+    \\
+    {
+      \override Stem.stencil = ##f
+      \override Flag.stencil = ##f
+      \tiny
+      \override Parentheses.font-size = #0
+      $soundEvent
+      \revert Parentheses.font-size
+      \revert Flag.stencil
+      \revert Stem.stencil
+    }
+  >>
+#})
+
 
 
 \markup \vspace #1
@@ -89,6 +128,55 @@ harmonic with a pitch an octave higher."
   "Example on the A string: " 
   \writeMusic { { a'\flageolet } } 
   " sounds like " \writeMusic { { a'' } } }
+
+\markup \line { 
+  "Other natural harmonics are: "
+
+  \writeMusic { { a'\flageolet } } 
+  " sounds like " \writeMusic { { a'' } } }
+
+\markup \large \bold "A string"
+%   => the note with the normal note head indicates the stopped position
+%   => the note with the diamond note head indicates the harmonic position. 
+%   => the small note between parenthesis indicates the sounding pitch
+
+{ 
+  \override Staff.NoteColumn.ignore-collision = ##t 
+  \override NoteHead.style = #'harmonic-mixed 
+  << { 
+    \oneVoice 
+       <a'_0 d'' _1 \harmonic>4 %
+       <a'_0 e'' _2 \harmonic>4 %
+       <a'_0 fs''_3 \harmonic>4 %
+     } 
+     \\
+     { %
+       \oneVoice 
+       \override Stem.stencil = ##f 
+       \override Flag.stencil = ##f 
+      \tiny
+      \override Parentheses.font-size = #0
+      <\parenthesize a''>
+       <\parenthesize e'''>
+       <\parenthesize cs'''>
+     } 
+>> }
+
+
+
+
+\markup \large \bold "A string"
+\score {
+  \new Staff {
+     {
+      %\cadenzaOn
+      \harmWithPitch <d''  \harmonic>4    <\parenthesize a''  >4
+      \harmWithPitch <e''  \harmonic>4    <\parenthesize e''' >4
+      \harmWithPitch <fs'' \harmonic>4    <\parenthesize cs'''>4
+    }
+  }
+  \layout { }
+}
 
 
 % =========================
@@ -201,68 +289,12 @@ Touch feather-light, then use faster bow speed and lighter bow pressure to make 
 
 
 
-\markup \large \bold "A string"
-%   => the note with the normal note head indicates the stopped position
-%   => the note with the diamond note head indicates the harmonic position. 
-%   => the small note between parenthesis indicates the sounding pitch
-
-\relative c'' { 
-  \override Staff.NoteColumn.ignore-collision = ##t 
-  \override NoteHead.style = #'harmonic-mixed 
-  << { 
-    \oneVoice 
-       <a_0 e'_2 \harmonic>4 % 
-       <a_0 d_1 \harmonic>4 
-     } 
-     \\
-     { %
-       \oneVoice 
-       \override Stem.stencil = ##f 
-       \override Flag.stencil = ##f 
-       \tiny 
-       <\parenthesize e''> 
-       <\parenthesize e> } 
->> }
 
 
-% ------------------------------------------------------------
-% Function: harmonic event + tiny parenthesized sounding event
-%
-% Usage:
-%   \harmWithPitch <HARMONIC_EVENT> <SOUNDING_EVENT>
-%
-% Example:
-%   \harmWithPitch <a e'\harmonic>4 <\parenthesize e''>4
-%   => the note with the normal note head indicates the stopped position
-%   => the note with the diamond note head indicates the harmonic position. 
-%   => the small note between parenthesis indicates the sounding pitch
-% ------------------------------------------------------------
-harmWithPitch =
-#(define-music-function (parser location harmEvent soundEvent)
-   (ly:music? ly:music?)
-#{
-  \override Staff.NoteColumn.ignore-collision = ##t
-  \override NoteHead.style = #'harmonic-mixed
-  <<
-    {
-      \oneVoice
-      $harmEvent
-    }
-    \\
-    {
-      \override Stem.stencil = ##f
-      \override Flag.stencil = ##f
-      \tiny
-      \override Parentheses.font-size = #0
-      $soundEvent
-      \revert Parentheses.font-size
-      \revert Flag.stencil
-      \revert Stem.stencil
-    }
-  >>
-  \revert NoteHead.style
-  \revert Staff.NoteColumn.ignore-collision
-#})
+
+
+
+
 
 % ============================================================
 % 4 separate scores — one per violin string
@@ -303,21 +335,7 @@ harmWithPitch =
 %   \layout { }
 % }
 
-\markup \large \bold "A string"
-\score {
-  \new Staff {
-     {
-      \global
-      \key a \major
-      \harmWithPitch <a\harmonic>4     <\parenthesize a'>4
-      \harmWithPitch <e\harmonic>4      <\parenthesize e''>4
-      \harmWithPitch <a\harmonic>4      <\parenthesize a''>4
-      \harmWithPitch <cs'\harmonic>4    <\parenthesize cs'''>4
-      \harmWithPitch <e'\harmonic>4     <\parenthesize e'''>4
-    }
-  }
-  \layout { }
-}
+
 
 % \markup \large \bold "E string"
 % \score {
