@@ -69,44 +69,6 @@ harmWithPitch =
 #})
 
 
-% ------------------------------------------------------------
-% Function: harmonic event + tiny parenthesized sounding event
-%
-% Usage:
-%   \harmWithPitch <HARMONIC_EVENT> <SOUNDING_EVENT>
-%
-% Example:
-%   \harmWithPitch <a e'\harmonic>4 <\parenthesize e''>4
-% can we refactor this function to have the following arguments:
-%   => stop_note:  the note with the normal note head indicates the stopped position
-%   => harm_note:  the note with the diamond note head indicates the harmonic position. 
-%   => pitch_note: the small note between parenthesis indicates the sounding pitch
-%  let's make the pitch_note optional
-% ------------------------------------------------------------
-harmWithPitch_TWO =
-#(define-music-function (parser location harmEvent soundEvent)
-   (ly:music? ly:music?)
-#{
-  <<
-    {
-      \oneVoice
-      $harmEvent
-    }
-    \\
-    {
-      \override Stem.stencil = ##f
-      \override Flag.stencil = ##f
-      \tiny
-      \override Parentheses.font-size = #0
-      $soundEvent
-      \revert Parentheses.font-size
-      \revert Flag.stencil
-      \revert Stem.stencil
-    }
-  >>
-#})
-
-
 
 \markup \vspace #1
 \markup { \sectionHeading #1 "Harmonics" }          % main section
@@ -164,7 +126,8 @@ harmonic with a pitch an octave higher."
 
 
 
-
+% this code is the same as above, but using the function defined earlier but it's 
+% not printing the  note with the normal note head that indicates the stopped position
 \markup \large \bold "A string"
 \score {
   \new Staff {
