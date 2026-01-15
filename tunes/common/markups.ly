@@ -10,15 +10,61 @@
 
 
 % =========================
-% Simple markup helper
+% Simple markup helper - accepts markup arguments in braces
+% Usage examples:
+%
+% Simple: \markup { \paragraph "text" }
+% With formatting: \markup { \paragraph \smaller \italic \bold "Note:" "more text" }
+% NOTE: This just adds vspace around wordwrap. For justified text, use \markuplist \paragraph instead
 % =========================
-#(define-markup-command (paragraph layout props text) (string?)
+#(define-markup-command (paragraph layout props . args) ()
   (interpret-markup layout props
-    (markup 
-     #:vspace 0.7
-     #:wordwrap-string text 
-     #:vspace 0.7)
-    ))
+    #{
+      \markup \column {
+        \vspace #0.7
+        \wordwrap #args
+        \vspace #0.7
+      }
+    #}))
+
+
+
+% ======================================================================
+% ORGINAL 
+% 
+%  "Convert an integer to its English ordinal form (e.g., 1st, 2nd, 3rd).
+%  
+%  This command automatically determines the correct suffix ('st', 'nd', 
+%  'rd', or 'th') based on the value of the integer provided. 
+%  It handles standard grammar exceptions for 11, 12, and 13."
+%
+% USAGE EXAMPLES
+% \markup {  "The" \ordinal #1 "movement" "and the" \ordinal #22 "measure." }
+% ======================================================================
+#(define-markup-command (ordinal layout props num) (integer?)
+  (let* ((n-mod-100 (remainder num 100))
+         (n-mod-10 (remainder num 10))
+         (suffix (cond
+                  ((member n-mod-100 '(11 12 13)) "th")
+                  ((= n-mod-10 1) "st")
+                  ((= n-mod-10 2) "nd")
+                  ((= n-mod-10 3) "rd")
+                  (else "th"))))
+    (interpret-markup layout props
+      (markup #:concat ((number->string num) #:super suffix)))))
+
+%=============================================
+% MY PARAGRAPH - markup list command with justified text
+%
+% Usage: \markuplist { \myParagraph \smaller \italic { \bold "Overview:" "text" } }
+%=============================================
+#(define-markup-list-command (myParagraph layout props args) (markup-list?)
+  (interpret-markup-list layout props
+   (make-justified-lines-markup-list (cons (make-hspace-markup 2) args))))
+
+
+
+
 
 
 
@@ -74,6 +120,7 @@
           (score (ly:make-score wrapped-music))
           (score-layout (ly:output-def-clone $defaultlayout)))
      (ly:output-def-set-variable! score-layout 'indent 0)
+     (ly:output-def-set-variable! score-layout 'ragged-last #t)
      (ly:score-add-output-def! score score-layout)
      (interpret-markup layout props (markup #:score score))))
 
