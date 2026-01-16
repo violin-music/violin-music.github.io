@@ -14,6 +14,7 @@
 }
 
 exampleStaccato = \relative c' {\addStaccato {e'8( d c b)} a4 }
+
  %       "Fingering preceded by a '"\char##x2012"' to indicate a shift."
 
 exampleBend = \relative c'' {
@@ -25,8 +26,9 @@ exampleBend = \relative c'' {
         
 %%%%%
 exampleFingeringShift = \relative c'' {
-        f4-1 g b4-\shift-2 _\shift-2 a4
-        f4-1 g b4-\shiftUp"2" -\shiftDown "2" \acciaccatura { a16[ b16] } a4
+  \time 3/4
+        fs4-1 g b4-\shift-2 _\shift-2
+        fs4-1 g b4-\shiftUp"2" -\shiftDown "2"
 	}
 
 exampleHarmonics = \relative c'' 

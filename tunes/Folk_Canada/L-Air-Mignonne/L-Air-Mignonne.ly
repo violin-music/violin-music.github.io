@@ -1,6 +1,6 @@
 \version "2.24.4"
-\include "../../common/stylesheet_fiddle.ly"
 \language "english"
+\include "../../common/common-header.ily"
 
 \header {
   title = "L'Air Mignonne"

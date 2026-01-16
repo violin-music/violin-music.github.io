@@ -159,8 +159,9 @@ shiftDown = #(define-music-function (text) (string?)
                   m)
      (else #f)))
 
+
 #(define (add-staccato m)
-   (add-script m "staccato"))
+         (add-script m 'staccato))
 
 addStaccato = #(define-music-function (music)
                  (ly:music?)

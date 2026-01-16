@@ -10,7 +10,7 @@
 }
 \paper {
   indent = 10
-  %ragged-right = ##f
+  ragged-right = ##f
   %ragged-last = ##f
 }
 
@@ -22,6 +22,7 @@
        #:typewriter "Optima"))
 }
 
+
 % =========================
 % Global (no meter, no barlines)
 % =========================
@@ -31,26 +32,74 @@ global = {
 
 
 % =========================
-% Function: harmonic note + tiny parenthesized sounding pitch above
+% Function: Artificial harmonic notation
 %
 % Usage:
-%   \harmWithPitch <TOUCH-NOTE-MUSIC> <SOUNDING-NOTE-MUSIC>
-%
-% Example:
-%   \harmWithPitch g'\harmonic4 \parenthesize g'4
+%   \artificialHarmWithPitch { a'4_0 d''_1 a'' }
+%     First note  = stopped position (normal notehead)
+%     Second note = touch point (becomes diamond notehead)
+%     Third note  = sounding pitch (tiny, parenthesized)
 % =========================
-harmWithPitch =
-#(define-music-function (parser location touchMusic soundingMusic)
+artificialHarmWithPitch =
+#(define-music-function (notes) (ly:music?)
+   (let* ((note-list (ly:music-property notes 'elements))
+          (stopNote (car note-list))
+          (touchNote (cadr note-list))
+          (pitchNote (caddr note-list))
+          ;; Create a deep copy of touchNote and apply harmonic style
+          (touch-copy (ly:music-deep-copy touchNote)))
+     ;; Apply harmonic style to the touch note copy
+     (ly:music-set-property! touch-copy 'tweaks
+       (acons 'style 'harmonic (ly:music-property touch-copy 'tweaks '())))
+     ;; Create a chord from stopNote and touch-copy
+     (let ((chord (make-music 'EventChord
+                    'elements (list stopNote touch-copy)
+                    'origin (ly:music-property stopNote 'origin))))
+       #{
+         \override Staff.NoteColumn.ignore-collision = ##t
+         \override NoteHead.style = #'harmonic-mixed
+         <<
+           { \oneVoice $chord }
+           \\
+           {
+             \oneVoice
+             \override Stem.stencil = ##f
+             \override Flag.stencil = ##f
+             \tiny
+             \override Parentheses.font-size = #0
+             \parenthesize $pitchNote
+             \revert Parentheses.font-size
+             \revert Stem.stencil
+             \revert Flag.stencil
+           }
+         >>
+         \revert NoteHead.style
+         \revert Staff.NoteColumn.ignore-collision
+       #})))
+
+% =========================
+% Function: Natural harmonic notation (2 arguments)
+%
+% For natural harmonics where you only touch an open string.
+%
+% Arguments:
+%   touchNote - diamond notehead: where to lightly touch the open string
+%   pitchNote - the resulting sounding pitch (automatically parenthesized)
+%
+% Usage:
+%   \naturalHarmonic g'4 g'
+% =========================
+naturalHarmonic =
+#(define-music-function (touchNote pitchNote)
    (ly:music? ly:music?)
 #{
   \override Staff.NoteColumn.ignore-collision = ##t
   <<
     {
       \oneVoice
-      % Diamond-ish harmonic noteheads for the touched note(s)
- %     \override NoteHead.style = #'harmonic-mixed
-      $touchMusic
-      %\revert NoteHead.style
+      \override NoteHead.style = #'harmonic
+      $touchNote
+      \revert NoteHead.style
     }
     \\
     {
@@ -59,7 +108,7 @@ harmWithPitch =
       \override Stem.stencil = ##f
       \override Flag.stencil = ##f
       \override Parentheses.font-size = #0
-      $soundingMusic
+      \parenthesize $pitchNote
       \revert Stem.stencil
       \revert Flag.stencil
       \revert Parentheses.font-size
@@ -70,37 +119,152 @@ harmWithPitch =
 
 
 
+
 \markup \vspace #1
 \markup { \sectionHeading #1 "Harmonics" }          % main section
-\markup \paragraph 
-"Harmonics are flute-like sounds produced on stringed by lightly touching 
-a string at specific points (like the halfway or one-third mark) rather 
-than pressing it down." 
-\markup \paragraph  
-"There are two types of harmonics: natural Harmonics and artificial Harmonics"
+
+\markuplist {
+  \paragraph {
+  Harmonics are flute-like sounds produced on stringed by lightly touching a string at specific points (like the halfway or one-third mark) rather than pressing it down.}}
+
+\markuplist {
+  \paragraph {
+  "There are two types of harmonics: natural Harmonics and artificial Harmonics"}}
+
 
 \markup { \sectionHeading #2 "Natural Harmonics" }  % sub heading
-\markup \paragraph  
-"Natural Harmonics are the ones that are produced without pressing down on the 
-string. The most resonant and the easiest harmonic to play is to play an open 
-string and to lightly touch its midpoint.  This produces a higher, ethereal 
-harmonic with a pitch an octave higher." 
+\markuplist {
+  \paragraph {
+  Natural Harmonics are the ones that are produced without pressing down on the string. The most resonant and the easiest harmonic to play is to play an open string and to lightly touch its midpoint.  This produces a higher, ethereal harmonic with a pitch an octave higher.}}
 
 \markup \line { 
-  "Example on the A string: " 
+  "Example on the A string: "
   \writeMusic { { a'\flageolet } } 
   " sounds like " \writeMusic { { a'' } } }
 
-\markup \line { 
-  "Other natural harmonics are: "
 
-  \writeMusic { { a'\flageolet } } 
-  " sounds like " \writeMusic { { a'' } } }
+\markup \vspace #.8
 
-\markup \large \bold "A string"
-%   => the note with the normal note head indicates the stopped position
-%   => the note with the diamond note head indicates the harmonic position. 
-%   => the small note between parenthesis indicates the sounding pitch
+\markup {
+  \column {
+    \wordwrap {
+      "Other harmonics occur at the lightly touched minor and major third, fourth, fifth,  and major sixth."
+    }
+
+    \bulletItem 
+    "the note with the normal note head indicates the stopped position"
+
+    \bulletItem 
+    "the note with the diamond note head indicates the harmonic position."
+
+    \bulletItem 
+    "the small note between parenthesis indicates the sounding pitch"
+  }
+}
+
+\markup  {
+"The easiest natural harmonics to play are the major third, the fourth, the fifth and the octave."}
+
+\markup \vspace #.8
+
+\markuplist { 
+  \paragraph \smaller \italic {
+    \bold { Note: } Each diamond note shows the touch point (left-hand contact).
+    The tiny parenthesized note above shows the sounding pitch. Touch feather-light,
+    then use faster bow speed and lighter bow pressure to make the harmonic speak.
+  }
+}
+
+\markup \vspace #.8
+
+
+\score {
+  \new Staff
+  \with {
+    instrumentName =\markup \bold "E string"
+    \remove "Time_signature_engraver"
+  }
+  
+  {
+    \cadenzaOn
+      r
+      \bar "|"    
+  }
+\layout { indent = 20}
+}
+
+    
+\markup \vspace #.8
+   
+% --------------------------------|
+% On the A string (A4), the       |
+% natural harmonics available are:|
+% --------------------------------|
+%                                 |
+%  INTERVAL    |  STOP  | PITCH   |
+% -------------|--------|---------|
+%  minor 3rd   |   c    |  E7     | 
+%  major 3rd   |   c#   |  C#7    | 
+%  fourth      |   d    |  A6     | 
+%  fifth       |   e    |  E6     | 
+%  major sixth |   f#   |  C#7    |  
+%
+% Using the artificialHarmWithPitch function with 3 arguments:
+%   stopNote (normal) | touchNote (diamond) | pitchNote (auto-parenthesized)
+
+\score {
+  \new Staff
+  \with {
+    instrumentName =\markup \bold "A string"
+    \remove "Time_signature_engraver"
+  }
+  
+  {
+    \cadenzaOn
+      \artificialHarmWithPitch { a'4_0  cs''_2   cs'''' }
+      \artificialHarmWithPitch { a'4_0  d'' _1   a'' }
+      \artificialHarmWithPitch { a'4_0  e'' _2   e''' }
+      \artificialHarmWithPitch { a'4_0  fs''_3   cs'''' }
+      \bar "|"    
+  }
+\layout { indent = 20}
+}
+
+
+\score {
+  \new Staff
+  \with {
+    instrumentName =\markup \bold "D string"
+    \remove "Time_signature_engraver"
+  }
+  
+  {
+    \cadenzaOn
+      r
+      \bar "|"    
+  }
+\layout { indent = 20}
+}
+
+\score {
+  \new Staff
+  \with {
+    instrumentName =\markup \bold "G string"
+    \remove "Time_signature_engraver"
+  }
+  
+  {
+    \cadenzaOn
+      r
+      \bar "|"    
+  }
+\layout { indent = 20}
+}
+
+
+
+
+
 
 { 
   \override Staff.NoteColumn.ignore-collision = ##t 
@@ -120,26 +284,13 @@ harmonic with a pitch an octave higher."
       \override Parentheses.font-size = #0
       <\parenthesize a''>
        <\parenthesize e'''>
-       <\parenthesize cs'''>
+       <\parenthesize cs''''>
      } 
 >> }
 
 
 
-% this code is the same as above, but using the function defined earlier but it's 
-% not printing the  note with the normal note head that indicates the stopped position
-\markup \large \bold "A string"
-\score {
-  \new Staff {
-     {
-      %\cadenzaOn
-      \harmWithPitch <d''  \harmonic>4    <\parenthesize a''  >4
-      \harmWithPitch <e''  \harmonic>4    <\parenthesize e''' >4
-      \harmWithPitch <fs'' \harmonic>4    <\parenthesize cs'''>4
-    }
-  }
-  \layout { }
-}
+
 
 
 % =========================
@@ -155,11 +306,11 @@ natGString =  {
   g4^\markup { \bold "G string" }
 
   % Touch point (diamond) + sounding (tiny parenthesized)
-  \harmWithPitch g'  \harmonic4  \parenthesize g'  4     % 2nd partial (octave)
-  \harmWithPitch d'' \harmonic4  \parenthesize d'' 4     % 3rd partial (12th)
-  \harmWithPitch g'' \harmonic4  \parenthesize g'' 4     % 4th partial (2 oct)
-  \harmWithPitch b'' \harmonic4  \parenthesize b'' 4     % 5th partial
-  \harmWithPitch d'''\harmonic4  \parenthesize d'''4     % 6th partial
+  \naturalHarmonic g'4   g''      % 2nd partial (octave)
+  \naturalHarmonic d''4  d'''     % 3rd partial (12th)
+  \naturalHarmonic g''4  g'''     % 4th partial (2 oct)
+  \naturalHarmonic b''4  b'''     % 5th partial
+  \naturalHarmonic d'''4 d''''    % 6th partial
 }
 
 natDString =  {
@@ -169,11 +320,11 @@ natDString =  {
 
   d4^\markup { \bold "D string" }
 
-  \harmWithPitch d'\harmonic4   \parenthesize d'4      % 2nd partial
-  \harmWithPitch a'\harmonic4   \parenthesize a'4      % 3rd partial
-  \harmWithPitch d''\harmonic4  \parenthesize d''4     % 4th partial
-  \harmWithPitch fs''\harmonic4 \parenthesize fs''4    % 5th partial
-  \harmWithPitch a''\harmonic4  \parenthesize a''4     % 6th partial
+  \naturalHarmonic d'4   d''     % 2nd partial
+  \naturalHarmonic a'4   a''     % 3rd partial
+  \naturalHarmonic d''4  d'''    % 4th partial
+  \naturalHarmonic fs''4 fs'''   % 5th partial
+  \naturalHarmonic a''4  a'''    % 6th partial
 }
 
 natAString =  {
@@ -181,11 +332,11 @@ natAString =  {
 
   a4^\markup { \bold "A string" }
 
-  \harmWithPitch a'\harmonic4    \parenthesize a'4     % 2nd partial
-  \harmWithPitch e''\harmonic4   \parenthesize e''4    % 3rd partial
-  \harmWithPitch a''\harmonic4   \parenthesize a''4    % 4th partial
-  \harmWithPitch cs'''\harmonic4 \parenthesize cs'''4  % 5th partial
-  \harmWithPitch e'''\harmonic4  \parenthesize e'''4   % 6th partial
+  \naturalHarmonic a'4    a''     % 2nd partial
+  \naturalHarmonic e''4   e'''    % 3rd partial
+  \naturalHarmonic a''4   a'''    % 4th partial
+  \naturalHarmonic cs'''4 cs''''  % 5th partial
+  \naturalHarmonic e'''4  e''''   % 6th partial
 }
 
 natEString =  {
@@ -194,11 +345,11 @@ natEString =  {
 
   e4^\markup { \bold "E string" }
 
-  \harmWithPitch e''\harmonic4    \parenthesize e''4     % 2nd partial (E6)
-  \harmWithPitch b''\harmonic4    \parenthesize b''4     % 3rd partial (B6)
-  \harmWithPitch e'''\harmonic4   \parenthesize e'''4    % 4th partial (E7)
-  \harmWithPitch gs'''\harmonic4  \parenthesize gs'''4   % 5th partial (G#7)
-  \harmWithPitch b'''\harmonic4   \parenthesize b'''4    % 6th partial (B7)
+  \naturalHarmonic e''4   e'''    % 2nd partial (E6)
+  \naturalHarmonic b''4   b'''    % 3rd partial (B6)
+  \naturalHarmonic e'''4  e''''   % 4th partial (E7)
+  \naturalHarmonic gs'''4 gs''''  % 5th partial (G#7)
+  \naturalHarmonic b'''4  b''''   % 6th partial (B7)
 }
 
 % =========================
@@ -206,9 +357,7 @@ natEString =  {
 % =========================
 
 
-\markup \paragraph 
-"Each diamond note shows the touch point (left-hand contact). The tiny parenthesized note above shows the sounding pitch. 
-Touch feather-light, then use faster bow speed and lighter bow pressure to make the harmonic speak."
+
 
 \score {
   \new Staff \with {

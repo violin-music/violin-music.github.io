@@ -1,10 +1,10 @@
 \version "2.24.0"
 \language "english"
 
+\include "../../common/common-header.ily"
 \include "../../common/includes.ly"
 %\include "stylesheet_fiddle.ly"
 
-#(set-default-paper-size "letter")
 \header {
   title    = "Teardrop Waltz"
   composer = "Reg Bouvette"
@@ -12,7 +12,6 @@
     genre = "Folk"
 }
 
-\include "../../common/common-header.ily"
 
 
 melody =  \relative c'' {

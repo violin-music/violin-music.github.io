@@ -27,13 +27,19 @@
 \markup { \ordinal #1 , \ordinal #2 , \ordinal #3 , \ordinal #4 , \ordinal #11 }
 
 
-
+% ======================================================================
+% ORGINAL 
+% 
+%  "Convert an integer to its English ordinal form (e.g., 1st, 2nd, 3rd).
+%  
+%  This command automatically determines the correct suffix ('st', 'nd', 
+%  'rd', or 'th') based on the value of the integer provided. 
+%  It handles standard grammar exceptions for 11, 12, and 13."
+%
+% USAGE EXAMPLES
+% \markup {  "In the \ordinal #22 "measure of the \ordinal #1 "movement" }
+% ======================================================================
 #(define-markup-command (ordinal layout props num) (integer?)
-  "Convert an integer to its English ordinal form (e.g., 1st, 2nd, 3rd).
-  
-  This command automatically determines the correct suffix ('st', 'nd', 
-  'rd', or 'th') based on the value of the integer provided. 
-  It handles standard grammar exceptions for 11, 12, and 13."
   (let* ((n-mod-100 (remainder num 100))
          (n-mod-10 (remainder num 10))
          (suffix (cond
@@ -45,15 +51,10 @@
     (interpret-markup layout props
       (markup #:concat ((number->string num) #:super suffix)))))
 
-% ======================================================================
-% USAGE EXAMPLES
-% ======================================================================
+
 
 % 1. Use inside a standard \markup block:
-\markup { 
-  "The" \ordinal #1 "movement" 
-  "and the" \ordinal #22 "measure." 
-}
+\markup {  "The" \ordinal #1 "movement" "and the" \ordinal #22 "measure." }
 
 % 2. Use as a rehearsal mark:
 {

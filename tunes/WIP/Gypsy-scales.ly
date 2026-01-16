@@ -124,10 +124,9 @@
 
 \markup {
   \column {
-    \override #'(line-width . 120)
+    \override #'(line-width . 110)
     \wordwrap {
-      The Phrygian dominant scale (a.k.a. Phrygian ♮3) is the 5th mode of the harmonic minor scale
-      (the 5th degree being the dominant). It is also called the harmonic dominant,
+      The Phrygian dominant scale (a.k.a. Phrygian ♮3) is the \ordinal #5 mode of the harmonic minor scale (the \ordinal #5  degree being the dominant). It is also called the harmonic dominant,
       altered Phrygian, dominant ♭2 ♭6 (in jazz), or Freygish.
       It resembles the Phrygian mode, but with a major third instead of a minor third.
     }

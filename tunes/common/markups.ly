@@ -5,27 +5,10 @@
 % http://www.lilypond.org/doc/v2.24/Documentation/extending/new-markup-list-command-definition
 %=============================================
 #(define-markup-list-command (paragraph layout props args) (markup-list?)
-  (interpret-markup-list layout props
-   (make-justified-lines-markup-list (cons (make-hspace-markup 2) args))))
+   #:properties ((par-indent 2))
+   (interpret-markup-list layout props
+     #{\markuplist \justified-lines { \hspace #par-indent #args } #}))
 
-
-% =========================
-% Simple markup helper - accepts markup arguments in braces
-% Usage examples:
-%
-% Simple: \markup { \paragraph "text" }
-% With formatting: \markup { \paragraph \smaller \italic \bold "Note:" "more text" }
-% NOTE: This just adds vspace around wordwrap. For justified text, use \markuplist \paragraph instead
-% =========================
-#(define-markup-command (paragraph layout props . args) ()
-  (interpret-markup layout props
-    #{
-      \markup \column {
-        \vspace #0.7
-        \wordwrap #args
-        \vspace #0.7
-      }
-    #}))
 
 
 
@@ -53,15 +36,6 @@
     (interpret-markup layout props
       (markup #:concat ((number->string num) #:super suffix)))))
 
-%=============================================
-% MY PARAGRAPH - markup list command with justified text
-%
-% Usage: \markuplist { \myParagraph \smaller \italic { \bold "Overview:" "text" } }
-%=============================================
-#(define-markup-list-command (myParagraph layout props args) (markup-list?)
-  (interpret-markup-list layout props
-   (make-justified-lines-markup-list (cons (make-hspace-markup 2) args))))
-
 
 
 
@@ -78,9 +52,10 @@
 
 #(define-markup-command (sectionHeading layout props level txt) (number? string?)
   (let* (
-         (fontsize  (cond ((= level 1) 3)      ; main section heading
-                    ((= level 2) 1)      ; sub heading
-                    (else -1)))
+         (fontsize  (cond 
+                     ((= level 1) 3)      ; main section heading
+                     ((= level 2) 1)      ; sub heading
+                     (else -1)))
          (vspace (cond ((= level 1) 0.6)
                     ((= level 2) 0.35)
                     (else 0.2))))
