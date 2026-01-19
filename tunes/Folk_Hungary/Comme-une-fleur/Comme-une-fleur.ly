@@ -1,19 +1,15 @@
 \version "2.24.0"
 \include "english.ly"
+\include "../../common/common-header.ily"
 
 \header{
   title = "Comme une Fleur"
   composer = "Traditional"
   country = "Hungary"
   genre = "Folk"
-  arranger = \markup { \small "arr. Marc Mouriès" \teeny "http://marcmouries.com/music" }
   instrument = "Violin"
   meter = "meter"
 }
-
-\include "../../common/common-header.ily"
-
-
 
 \score {
   \relative d' {

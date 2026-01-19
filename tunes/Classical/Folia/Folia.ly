@@ -14,17 +14,24 @@
     enteredby = "Marc Mouries"
 }
 
+
 % Define original key & mode
 originalKey = g
 originalMode = #minor
 
 
+chordNames = \chordmode {  
+    g 2.:m        d2.:7        g2.:m        f2.     
+    bf2.          f2.          g2.:m        d2.:7
+    g2.:m         d2.:7        g2.:m        f2.     
+    bf2.          f2.          g4:m  d2:7   g2.:m
+}
 
 violin_music =  \relative g''
 {
      \key g \minor
        \time 3/4 
-    g < g,, d' bf' g' >4. a''8
+    g4 < g,, d' bf' g' >4. a''8
   | < d,, a' fs' >2  fs'4
   | g < g,, d' bf' g' >4. f''16(  g )
   | <f, c' a'>2 a'4
@@ -45,11 +52,10 @@ violin_music =  \relative g''
   | g2.
 }
 
-\score {
-  \new Staff {
-  
-    \violin_music
-  }
-  \layout {}
-  \midi {}
-}
+
+% This score only renders when compiling THIS file directly
+\scoreIfStandalone
+  #`((chords . ,chordNames)
+     (unit . "4.")
+     (bpm  . 120))
+  \violin_music

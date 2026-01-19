@@ -1,0 +1,664 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(44.0278, 10.4209)">
+<text font-family="serif" font-weight="bold" font-size="3.4929" text-anchor="start" fill="currentColor">
+<tspan>Carmen Fantasy</tspan>
+</text>
+</g>
+<g transform="translate(40.2208, 13.9209)">
+<text font-family="serif" font-weight="bold" font-size="2.4697" text-anchor="start" fill="currentColor">
+<tspan>after Bizet's Opera, Opus 25</tspan>
+</text>
+</g>
+<g transform="translate(45.9398, 17.4209)">
+<text font-family="serif" font-weight="bold" font-size="2.4697" text-anchor="start" fill="currentColor">
+<tspan>for Violin and Piano</tspan>
+</text>
+</g>
+<g transform="translate(76.9135, 17.4209)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Pablo de Sarasate (1844–1908)</tspan>
+</text>
+</g>
+<g transform="translate(16.5026, 26.3062)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="94.9822" y2="0"/>
+</g>
+<g transform="translate(16.5026, 25.3062)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="94.9822" y2="0"/>
+</g>
+<g transform="translate(16.5026, 24.3062)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="94.9822" y2="0"/>
+</g>
+<g transform="translate(16.5026, 23.3062)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="94.9822" y2="0"/>
+</g>
+<g transform="translate(16.5026, 22.3062)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="94.9822" y2="0"/>
+</g>
+<g transform="translate(111.3448, 24.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(94.1703, 24.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(76.6885, 24.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(59.8673, 24.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(45.3365, 24.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(34.9825, 24.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0500" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:40:2:3">
+<g transform="translate(20.9226, 24.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:41:2:3">
+<g transform="translate(22.9409, 24.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M263 265c0 -33 70 -23 70 -125c0 -92 -79 -140 -179 -140c-79 0 -154 42 -154 113c0 36 30 66 66 66s65 -30 65 -66c0 -25 -40 -28 -40 -53c0 -27 32 -37 63 -37c49 0 63 61 63 117v16c0 54 -2 94 -50 94h-80c-10 0 -14 8 -14 15s4 14 14 14h80c49 0 50 43 50 99v8
+c0 54 -18 91 -67 91c-28 0 -57 -9 -57 -33c0 -22 35 -25 35 -47c0 -32 -25 -58 -57 -58s-58 26 -58 58c0 64 67 103 137 103c91 0 169 -33 169 -114c0 -122 -56 -80 -56 -121z" fill="currentColor"/>
+</g>
+<g transform="translate(22.8726, 26.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M261 287c25 30 44 64 44 103c0 54 -55 87 -114 87c-46 0 -73 -36 -73 -71c0 -21 10 -42 31 -54zM292 269c23 -13 80 -54 80 -125c0 -73 -66 -144 -189 -144c-94 0 -183 54 -183 140c0 50 36 87 72 123c-37 28 -55 66 -55 103c0 68 60 134 174 134c80 0 157 -39 157 -110
+c0 -46 -25 -86 -56 -121zM103 244c-31 -30 -59 -61 -59 -104c0 -69 66 -117 139 -117c54 0 86 42 86 83c0 24 -10 48 -35 62z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:76:4:5">
+<g transform="translate(25.6067, 29.9062)">
+<path transform="scale(0.0040, -0.0040)" d="M161 32c78 0 97 176 97 178c0 18 -7 33 -25 33c-61 0 -102 -124 -102 -173c0 -22 8 -38 30 -38zM-53 141c0 2 51 151 134 151c35 0 59 -21 66 -52c29 31 67 52 103 52c69 0 107 -49 107 -114c0 -118 -105 -186 -159 -186c-53 0 -70 20 -84 20c-7 0 -14 -3 -16 -9l-29 -86
+c-1 -2 -1 -5 -1 -7c0 -37 57 -18 57 -42c0 -7 -4 -14 -13 -14c-3 0 -50 5 -116 5s-112 -5 -115 -5c-9 0 -14 7 -14 14c0 31 87 -1 102 41l102 300c2 7 4 14 4 20c0 8 -2 14 -11 14c-33 0 -63 -60 -79 -97c-5 -12 -15 -17 -24 -17c-8 0 -14 4 -14 12z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:42:2:3">
+<g transform="translate(22.8726, 20.9363)">
+<rect x="1.0449" y="-2.6727" width="0.1158" height="2.5129" ry="0.0193" fill="currentColor"/>
+</g>
+<g transform="translate(22.8726, 20.9363)">
+<path transform="scale(0.0036, -0.0036)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(24.0333, 21.4250)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan> = 84</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:57:10:11">
+<g transform="translate(102.2188, 23.1162)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.7601 0.1800 6.7601 0.5800 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(107.8540, 24.2411)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.1250 -0.1349 1.1250 0.2651 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+</a>
+<g transform="translate(17.3026, 25.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:56:21:22">
+<g transform="translate(88.7145, 24.3062)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 2.0000C2.4136 2.8345 5.7649 2.8345 6.6743 2.0000L6.6743 2.0000C5.7649 2.7145 2.4136 2.7145 1.5042 2.0000z"/>
+</g>
+</a>
+<g transform="translate(67.6116, 21.3062)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.7601 -0.0100 6.7601 0.3900 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(73.2467, 22.2736)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.1250 -0.1674 1.1250 0.2326 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:55:24:25">
+<g transform="translate(66.4373, 24.3062)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6099 1.5450C1.8872 2.9079 5.7638 3.2857 7.2801 2.1950L7.2801 2.1950C5.7754 3.1662 1.8988 2.7885 0.6099 1.5450z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:55:4:5">
+<g transform="translate(61.2857, 24.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:55:6:7">
+<g transform="translate(61.2857, 20.6001)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>4eme corde.</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:55:21:22">
+<g transform="translate(66.4373, 24.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(68.1916, 24.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(67.6766, 24.3062)">
+<rect x="-0.0650" y="-2.9982" width="0.1300" height="3.3121" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:55:26:27">
+<g transform="translate(73.1075, 25.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(74.3467, 24.3062)">
+<rect x="-0.0650" y="-2.8118" width="0.1300" height="3.6257" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:57:11:12">
+<g transform="translate(101.0446, 24.3062)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6196 3.0450C1.9253 4.3778 5.8000 4.6682 7.2898 3.5450L7.2898 3.5450C5.8090 4.5485 1.9342 4.2581 0.6196 3.0450z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:56:4:5">
+<g transform="translate(78.1070, 25.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(79.3462, 24.3062)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(79.4112, 21.8462)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:56:7:8">
+<g transform="translate(83.5628, 24.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:56:10:11">
+<g transform="translate(88.7145, 25.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:56:12:13">
+<g transform="translate(89.3666, 22.0062)">
+<path transform="scale(0.0040, -0.0040)" d="M-178 333h356c6 0 10 -4 10 -10v-308c0 -8 -7 -15 -15 -15s-16 7 -16 15v185h-314v-185c0 -8 -7 -15 -15 -15s-16 7 -16 15v308c0 6 4 10 10 10z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(89.9537, 24.3062)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(90.0187, 22.3462)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:57:4:5">
+<g transform="translate(95.5888, 25.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(96.8280, 24.3062)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(96.8930, 22.3462)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:57:7:8">
+<g transform="translate(101.0446, 26.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(102.7988, 25.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(102.2838, 24.3062)">
+<rect x="-0.0650" y="-1.1864" width="0.1300" height="3.0003" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:57:13:14">
+<g transform="translate(107.7148, 26.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(108.9540, 24.3062)">
+<rect x="-0.0650" y="-0.8136" width="0.1300" height="3.1275" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="82.4960" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="77.7321" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="73.1192" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="68.2033" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="65.8214" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 40.3062)">
+<rect x="65.8214" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="63.4394" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="61.0574" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 40.3062)">
+<rect x="61.0574" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="58.8177" y="-0.1000" width="1.8141" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="55.8592" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 40.3062)">
+<rect x="55.8592" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="49.4992" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 40.3062)">
+<rect x="49.4992" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="43.9135" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="40.4538" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="36.9941" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="30.6341" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="18.5182" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 39.3062)">
+<rect x="14.1602" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(7.9668, 38.3062)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="103.5180" y2="0"/>
+</g>
+<g transform="translate(7.9668, 37.3062)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="103.5180" y2="0"/>
+</g>
+<g transform="translate(7.9668, 36.3062)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="103.5180" y2="0"/>
+</g>
+<g transform="translate(7.9668, 35.3062)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="103.5180" y2="0"/>
+</g>
+<g transform="translate(7.9668, 34.3062)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="103.5180" y2="0"/>
+</g>
+<g transform="translate(111.3448, 36.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(95.7671, 36.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(79.0210, 36.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(63.1028, 36.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(55.8447, 36.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(44.2377, 36.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(36.9795, 36.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(25.7617, 36.3062)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(8.7668, 37.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(12.3868, 36.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(6.8400, 33.2562)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+</g>
+<g transform="translate(82.4352, 35.4962)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="11.9998 -0.2000 11.9998 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(82.4352, 36.3062)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="11.9998 -0.2000 11.9998 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:59:4:5">
+<g transform="translate(15.6868, 38.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(16.9260, 36.3062)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(16.9910, 35.3462)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(65.3263, 36.3062)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="12.4341 -0.2000 12.4341 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(65.3263, 37.1162)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="12.4341 -0.2000 12.4341 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:59:7:8">
+<g transform="translate(19.1465, 36.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:59:10:11">
+<g transform="translate(22.3020, 39.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:59:13:14">
+<g transform="translate(22.9541, 34.0062)">
+<path transform="scale(0.0040, -0.0040)" d="M-178 333h356c6 0 10 -4 10 -10v-308c0 -8 -7 -15 -15 -15s-16 7 -16 15v185h-314v-185c0 -8 -7 -15 -15 -15s-16 7 -16 15v308c0 6 4 10 10 10z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(23.5412, 36.3062)">
+<rect x="-0.0650" y="-0.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(23.6062, 35.8462)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(20.8520, 39.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:63:9:10">
+<g transform="translate(57.7920, 36.3062)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 4.7500C1.8324 5.6124 5.8319 5.6124 6.8121 4.7500L6.8121 4.7500C5.8319 5.4924 1.8324 5.4924 0.8521 4.7500z"/>
+</g>
+</a>
+<g transform="translate(46.4611, 36.3062)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.0094 -0.2000 7.0094 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:60:4:5">
+<g transform="translate(26.8110, 39.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(28.0502, 36.3062)">
+<rect x="-0.0650" y="-0.1952" width="0.1300" height="3.0091" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:63:8:9">
+<g transform="translate(57.7920, 36.3062)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6637 5.0450C3.1146 6.7017 17.0090 6.3303 19.3678 4.5450L19.3678 4.5450C17.0058 6.2103 3.1114 6.5818 0.6637 5.0450z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:60:8:9">
+<g transform="translate(30.2707, 38.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(32.0249, 38.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(31.5099, 36.3062)">
+<rect x="-0.0650" y="-0.4746" width="0.1300" height="2.7884" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:62:10:11">
+<g transform="translate(48.7467, 36.3062)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.5899 4.0450C1.3424 4.9882 3.0609 5.2366 4.0496 4.5450L4.0496 4.5450C3.0781 5.1178 1.3596 4.8694 0.5899 4.0450z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:60:13:14">
+<g transform="translate(34.3609, 38.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(35.6001, 36.3062)">
+<rect x="-0.0650" y="-0.8048" width="0.1300" height="2.6186" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:61:9:10">
+<g transform="translate(38.9269, 36.3062)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 4.0000C2.3620 4.8120 5.3023 4.8120 6.1600 4.0000L6.1600 4.0000C5.3023 4.6920 2.3620 4.6920 1.5042 4.0000z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:61:4:5">
+<g transform="translate(38.9269, 39.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.9852, 36.1162)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.6399 -0.8200 7.6399 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(34.5001, 36.4002)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.1250 -0.2941 1.1250 0.1059 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(40.6811, 39.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(40.1661, 36.3062)">
+<rect x="-0.0650" y="-0.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:60:11:12">
+<g transform="translate(30.2707, 36.3062)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7049 3.5450C1.8076 4.3432 3.9171 4.0853 4.7950 3.0450L4.7950 3.0450C3.9025 3.9662 1.7930 4.2241 0.7049 3.5450z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:62:4:5">
+<g transform="translate(45.2869, 39.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(46.5261, 36.3062)">
+<rect x="-0.0650" y="0.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:59:22:23">
+<g transform="translate(22.3020, 36.3062)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 3.7500C1.6493 4.5328 4.1639 4.5328 4.9611 3.7500L4.9611 3.7500C4.1639 4.4128 1.6493 4.4128 0.8521 3.7500z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:62:8:9">
+<g transform="translate(48.7467, 39.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(49.9859, 36.3062)">
+<rect x="-0.0650" y="0.0000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:62:12:13">
+<g transform="translate(52.2064, 39.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(53.4456, 36.3062)">
+<rect x="-0.0650" y="0.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:63:4:5">
+<g transform="translate(57.7920, 40.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(59.5462, 39.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(59.0312, 36.3062)">
+<rect x="-0.0650" y="-0.0000" width="0.1300" height="3.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:64:4:5">
+<g transform="translate(64.1521, 40.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(65.3913, 36.3062)">
+<rect x="-0.0650" y="0.0000" width="0.1300" height="3.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(97.9905, 34.4962)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="11.9998 -0.2000 11.9998 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<g transform="translate(97.9905, 35.3062)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="11.9998 -0.2000 11.9998 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:64:9:10">
+<g transform="translate(66.9683, 39.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(68.2075, 36.3062)">
+<rect x="-0.0650" y="0.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(65.9340, 39.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:64:12:13">
+<g transform="translate(69.3503, 40.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(70.5895, 36.3062)">
+<rect x="-0.0650" y="0.0000" width="0.1300" height="3.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:64:15:16">
+<g transform="translate(71.7322, 39.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(72.9714, 36.3062)">
+<rect x="-0.0650" y="0.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:64:18:19">
+<g transform="translate(74.1142, 40.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(75.3534, 36.3062)">
+<rect x="-0.0650" y="0.0000" width="0.1300" height="3.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:64:21:22">
+<g transform="translate(76.4962, 39.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(77.7354, 36.3062)">
+<rect x="-0.0650" y="0.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:65:4:5">
+<g transform="translate(81.2610, 39.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(82.5002, 36.3062)">
+<rect x="-0.0650" y="-0.8100" width="0.1300" height="3.6239" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(79.8110, 39.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:65:9:10">
+<g transform="translate(83.6429, 38.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(84.8822, 36.3062)">
+<rect x="-0.0650" y="-0.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:65:12:13">
+<g transform="translate(86.0249, 39.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(87.2641, 36.3062)">
+<rect x="-0.0650" y="-0.8100" width="0.1300" height="3.6239" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:65:15:16">
+<g transform="translate(88.4069, 38.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(89.6461, 36.3062)">
+<rect x="-0.0650" y="-0.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:65:18:19">
+<g transform="translate(90.7888, 39.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(92.0281, 36.3062)">
+<rect x="-0.0650" y="-0.8100" width="0.1300" height="3.6239" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(109.9653, 36.3062)">
+<rect x="-0.0650" y="-1.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:65:21:22">
+<g transform="translate(93.1708, 38.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(94.4100, 36.3062)">
+<rect x="-0.0650" y="-0.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:66:21:22">
+<g transform="translate(108.7261, 37.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:66:4:5">
+<g transform="translate(96.8163, 38.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(98.0555, 36.3062)">
+<rect x="-0.0650" y="-1.8100" width="0.1300" height="3.6239" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:66:9:10">
+<g transform="translate(99.1983, 37.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(100.4375, 36.3062)">
+<rect x="-0.0650" y="-1.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:66:12:13">
+<g transform="translate(101.5802, 38.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(102.8194, 36.3062)">
+<rect x="-0.0650" y="-1.8100" width="0.1300" height="3.6239" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:66:15:16">
+<g transform="translate(103.9622, 37.8062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(105.2014, 36.3062)">
+<rect x="-0.0650" y="-1.8100" width="0.1300" height="3.1239" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(107.5834, 36.3062)">
+<rect x="-0.0650" y="-1.8100" width="0.1300" height="3.6239" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/Carmen-Fantasy_%5bPablo-de-Sarasate%5d/Carmen-Fantasy_%5bPablo-de-Sarasate%5d.ly:66:18:19">
+<g transform="translate(106.3442, 38.3062)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(28.8852, 161.6919)">
+<a xlink:href="https://lilypond.org/">
+<rect x="0.0000" y="-0.4888" width="61.7311" height="2.1603" fill="none" stroke="none" stroke-width="0.0"/>
+</a>
+</g>
+<g transform="translate(28.8852, 161.6919)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Music engraving by LilyPond 2.24.4—www.lilypond.org</tspan>
+</text>
+</g>
+</svg>

@@ -26,27 +26,16 @@ chordNames = \chordmode {
   d2.:m   a:7    d:m     c     f     c     d4:m   a2:7 d2.:m
 }
 
+variation =
+#(define-music-function (number) (number?)
+   #{ \mark \markup { 
+     \fontsize #-3 
+     \italic 
+     #(string-append "Variation " (number->string number)) } 
+   #})
 
-variation_II  = { \mark \markup {\italic \fontsize #-3 "Variation 2"} }
-variation_III = { \mark \markup {\italic \fontsize #-3 "Variation 3"}}
-
-#(define-markup-command (variation layout props number) (number? )
-   #:properties ((font-size -3))
-   "Prints Variation with a number."
-     (interpret-markup layout props
-                       (markup
-                                   #:fontsize fontsize
-                                   #:italic number
-                                   ))
-                       )
-     
-  
-
-
-folia_music = \relative c'' {
+folia_music = \relative d'' {
   \global
-  \clef treble
-%  \SectionI
   d4 d4.e8
   cs2 cs4
   d4 d4.(  c!16 d)
@@ -62,31 +51,29 @@ folia_music = \relative c'' {
   f4 f4. g8
   e4. e8 f4
   d4 d4. cs8
-  d2.
-  \bar "||" 
-  \break
-  \variation_II
+  d2. 
+  \bar "||" \break \variation #2
   d8 f a f d f
   e a cs, e a, cs
-  d f a f d f e g c g e g
+  d8 f a f d f e g c g e g
   a f a c a f
-  g c, e g a e
-  f a, d f e d
+  g8 c, e g a e
+  f8 a, d f e d
   cs2 cs4
   \break
   d8 f a f d f
   e a cs, e a, cs
-  d f a f d f e g c g e g
+  d f a f d f 
+  e g c g e g
   a f a c a f
   g e g bf a( g)
   f( e) e4. d8
   d2.
-  \break
-  \variation_III
+  \bar "||" \break \variation #2
 
 }
 
-
+    
 
 
 \score {

@@ -1,0 +1,2288 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(112.4111, 4.4782)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 12.2799)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 11.1799)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 10.0799)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 8.9799)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 7.8799)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 10.0799)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(86.3360, 10.0799)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(62.0932, 10.0799)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(38.1176, 10.0799)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 11.1799)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 10.0799)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 8.4299)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 10.6299)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(12.8706, 8.9799)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(3.4371, 6.8052)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>61</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:155:2:3">
+<g transform="translate(16.1706, 8.4299)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:16:17">
+<g transform="translate(15.9374, 15.5799)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>all</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(17.9979, 8.4299)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(16.2356, 10.0799)">
+<rect x="-0.0650" y="-1.3910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(77.1225, 13.1659)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.9050 -0.8960 4.9050 -0.4480 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:155:7:8">
+<g transform="translate(28.9877, 9.5299)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:20:21">
+<g transform="translate(28.9228, 15.5799)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>of</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(29.0527, 10.0799)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="2.7634" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:155:10:11">
+<g transform="translate(33.8027, 7.8799)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:23:24">
+<g transform="translate(33.8027, 15.5799)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>me</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(33.8677, 10.0799)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.3424" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:157:14:15">
+<g transform="translate(81.9375, 10.0799)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 0.2516C1.7644 1.0873 5.1399 1.0873 6.0522 0.2516L6.0522 0.2516C5.1399 0.9673 1.7644 0.9673 0.8521 0.2516z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:156:2:3">
+<g transform="translate(40.1856, 7.8799)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.2506, 10.0799)">
+<rect x="-0.0650" y="-1.9410" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:156:5:6">
+<g transform="translate(51.0953, 9.5299)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:26:27">
+<g transform="translate(49.8719, 15.5799)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>loves</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(51.1603, 10.0799)">
+<rect x="-0.0650" y="-0.2910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:157:2:3">
+<g transform="translate(64.0555, 10.0799)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:32:33">
+<g transform="translate(63.8223, 15.5799)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>all</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(65.8828, 10.6299)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(64.1205, 10.0799)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.4077" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.9877, 12.4939)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.9050 -1.3240 4.9050 -0.8760 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:157:7:8">
+<g transform="translate(77.1225, 10.6299)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:36:37">
+<g transform="translate(77.0576, 15.5799)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>of</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(77.1875, 10.0799)">
+<rect x="-0.0650" y="0.7361" width="0.1300" height="2.3411" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:157:11:12">
+<g transform="translate(81.9375, 9.5299)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:44:45">
+<g transform="translate(81.9375, 15.5799)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>you,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(82.0025, 10.0799)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="2.7867" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:155:13:14">
+<g transform="translate(33.8027, 10.0799)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 -1.9483C2.3495 -1.1420 5.1977 -1.1420 6.0430 -1.9483L6.0430 -1.9483C5.1977 -1.2620 2.3495 -1.2620 1.5042 -1.9483z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:158:2:3">
+<g transform="translate(88.3297, 9.5299)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(88.3947, 10.0799)">
+<rect x="-0.0650" y="-0.2910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:158:5:6">
+<g transform="translate(99.4894, 9.5299)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:46:47">
+<g transform="translate(98.3660, 15.5799)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>Love</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(99.5544, 10.0799)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(99.6194, 13.3399)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:158:8:9">
+<g transform="translate(104.0543, 9.5299)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:51:52">
+<g transform="translate(103.0334, 15.5799)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>your</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(105.8085, 9.5299)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(104.1193, 10.0799)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 33.3623)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 32.2623)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 31.1623)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 30.0623)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 28.9623)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 31.1623)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(91.7762, 31.1623)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(63.9972, 31.1623)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(42.2816, 31.1623)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 32.2623)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 31.1623)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 29.5123)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 31.7123)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(12.8706, 30.0623)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(3.4371, 27.8875)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>65</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:159:2:3">
+<g transform="translate(16.1706, 31.1623)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:56:57">
+<g transform="translate(14.4156, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>curves</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(16.2356, 31.1623)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(84.3684, 34.4623)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.8593 -0.4380 3.8593 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:159:6:7">
+<g transform="translate(22.4050, 31.1623)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:63:64">
+<g transform="translate(21.6572, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>and</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(22.4700, 31.1623)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:58:59">
+<g transform="translate(90.6854, 36.6623)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:159:10:11">
+<g transform="translate(28.6394, 31.1623)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:238:67:68">
+<g transform="translate(28.3696, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>all</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(28.7044, 31.1623)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:51:52">
+<g transform="translate(86.6178, 36.6623)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:159:14:15">
+<g transform="translate(34.8737, 31.7123)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:2:3">
+<g transform="translate(33.8528, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>your</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(34.9387, 31.1623)">
+<rect x="-0.0650" y="0.7361" width="0.1300" height="2.5603" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:44:45">
+<g transform="translate(81.4538, 36.6623)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:159:18:19">
+<g transform="translate(38.6430, 31.1623)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:7:8">
+<g transform="translate(38.3733, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>ed</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(38.7080, 31.1623)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.9035" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:33:34">
+<g transform="translate(69.0277, 36.6623)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:160:2:3">
+<g transform="translate(43.9454, 31.1623)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:18:19">
+<g transform="translate(43.1660, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>ges,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(44.0104, 31.1623)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.4077" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:160:6:7">
+<g transform="translate(52.7180, 30.6123)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:20:21">
+<g transform="translate(52.3117, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>All</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(52.7830, 31.1623)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(52.8480, 34.4223)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:160:9:10">
+<g transform="translate(56.4873, 30.6123)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:24:25">
+<g transform="translate(55.4664, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>your</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(58.2415, 30.6123)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(56.5523, 31.1623)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(34.8737, 34.4623)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.8593 -0.4380 3.8593 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:161:2:3">
+<g transform="translate(65.6653, 31.1623)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:29:30">
+<g transform="translate(65.1053, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>per</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(65.7303, 31.1623)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:10:11">
+<g transform="translate(41.3615, 36.6623)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:161:6:7">
+<g transform="translate(71.8996, 31.1623)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:36:37">
+<g transform="translate(71.1860, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>fect</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(71.9646, 31.1623)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:161:10:11">
+<g transform="translate(78.1340, 31.1623)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:41:42">
+<g transform="translate(77.8130, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>im</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(78.1990, 31.1623)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:161:14:15">
+<g transform="translate(84.3684, 31.7123)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:47:48">
+<g transform="translate(83.8084, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>per</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(84.4334, 31.1623)">
+<rect x="-0.0650" y="0.7361" width="0.1300" height="2.5603" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:161:18:19">
+<g transform="translate(88.1377, 31.1623)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:54:55">
+<g transform="translate(87.6631, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>fec</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(88.2027, 31.1623)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.9035" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:162:2:3">
+<g transform="translate(93.4401, 31.1623)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:239:68:69">
+<g transform="translate(92.1143, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>tions,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(93.5051, 31.1623)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.4077" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:162:6:7">
+<g transform="translate(102.2127, 30.6123)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:2:3">
+<g transform="translate(101.0893, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>Give</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(102.2777, 31.1623)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(102.3427, 34.4223)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:162:9:10">
+<g transform="translate(106.1112, 30.6123)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:7:8">
+<g transform="translate(105.0902, 36.6623)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>your</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(107.8654, 30.6123)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(106.1762, 31.1623)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 48.9446)">
+<rect x="46.0831" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 54.4446)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 53.3446)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 52.2446)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 51.1446)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 50.0446)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 52.2446)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(87.8946, 52.2446)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(65.3807, 52.2446)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(36.8670, 52.2446)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 53.3446)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 52.2446)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 50.5946)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 52.7946)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(12.8706, 51.1446)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(3.4371, 48.9699)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>69</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:163:2:3">
+<g transform="translate(16.1706, 50.5946)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:12:13">
+<g transform="translate(15.9374, 57.7446)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>all</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(17.9979, 50.5946)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(16.2356, 52.2446)">
+<rect x="-0.0650" y="-1.3910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(79.6290, 54.6586)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.1810 0.4480 4.1810 0.8960 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:163:7:8">
+<g transform="translate(28.1849, 51.6946)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:16:17">
+<g transform="translate(28.1200, 57.7446)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>to</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(28.2499, 52.2446)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="2.7627" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:163:10:11">
+<g transform="translate(32.7759, 50.0446)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:23:24">
+<g transform="translate(32.7759, 57.7446)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>me,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(32.8409, 52.2446)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.3430" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:165:13:14">
+<g transform="translate(83.7201, 52.2446)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 0.2556C1.7342 1.0785 4.8622 1.0785 5.7443 0.2556L5.7443 0.2556C4.8622 0.9585 1.7342 0.9585 0.8521 0.2556z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:164:2:3">
+<g transform="translate(38.8543, 50.0446)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.6085, 50.5946)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(38.9193, 52.2446)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:164:6:7">
+<g transform="translate(47.7586, 51.6946)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:30:31">
+<g transform="translate(47.4547, 57.7446)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>I'll</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(47.8236, 52.2446)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(47.8886, 55.5046)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:164:9:10">
+<g transform="translate(52.0997, 48.9446)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:32:33">
+<g transform="translate(51.2153, 57.7446)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>give</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(52.1647, 52.2446)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(52.2297, 52.7546)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:164:14:15">
+<g transform="translate(56.4407, 49.4946)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:37:38">
+<g transform="translate(55.9490, 57.7446)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>my</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(58.1949, 49.4946)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(56.5057, 52.2446)">
+<rect x="-0.0650" y="-2.5639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:165:2:3">
+<g transform="translate(67.3647, 50.0446)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:40:41">
+<g transform="translate(67.1316, 57.7446)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>all</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(69.1921, 50.5946)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(67.4297, 52.2446)">
+<rect x="-0.0650" y="-1.9410" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.1849, 54.6586)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.6810 -1.3240 4.6810 -0.8760 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:165:6:7">
+<g transform="translate(79.6290, 50.5946)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:44:45">
+<g transform="translate(79.5641, 57.7446)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>to</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(79.6940, 52.2446)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.8882" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:165:10:11">
+<g transform="translate(83.7201, 51.6946)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:52:53">
+<g transform="translate(83.7201, 57.7446)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>you,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(83.7851, 52.2446)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4395" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:163:13:14">
+<g transform="translate(32.7759, 52.2446)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 -1.9443C2.3158 -1.1543 4.9268 -1.1543 5.7384 -1.9443L5.7384 -1.9443C4.9268 -1.2743 2.3158 -1.2743 1.5042 -1.9443z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:166:2:3">
+<g transform="translate(89.8043, 51.6946)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(89.8693, 52.2446)">
+<rect x="-0.0650" y="-0.2910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:166:5:6">
+<g transform="translate(100.2922, 51.6946)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:61:62">
+<g transform="translate(98.5884, 57.7446)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>You're</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(100.3572, 52.2446)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(100.4222, 55.5046)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:166:8:9">
+<g transform="translate(104.6332, 51.6946)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:63:64">
+<g transform="translate(104.1415, 57.7446)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>my</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(106.3874, 51.6946)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(104.6982, 52.2446)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 70.0270)">
+<rect x="104.2879" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 75.5270)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 74.4270)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 73.3270)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 72.2270)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 71.1270)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 73.3270)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(87.0443, 73.3270)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(60.9636, 73.3270)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(40.6593, 73.3270)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:170:25:26">
+<g transform="translate(110.3045, 73.3270)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 -2.7500C1.9170 -2.2440 2.7038 -2.2440 3.1165 -2.7500L3.1165 -2.7500C2.7038 -2.3640 1.9170 -2.3640 1.5042 -2.7500z"/>
+</g>
+</a>
+<g transform="translate(99.3550, 75.7410)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="11.0395 -1.5380 11.0395 -1.0900 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<g transform="translate(6.4906, 74.4270)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 73.3270)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 71.6770)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 73.8770)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(12.8706, 72.2270)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(3.4371, 70.0522)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>73</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:167:2:3">
+<g transform="translate(16.1706, 73.3270)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:240:66:67">
+<g transform="translate(15.4228, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>end</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(16.2356, 73.3270)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:167:6:7">
+<g transform="translate(21.9994, 73.3270)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:241:2:3">
+<g transform="translate(21.2516, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>and</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(22.0644, 73.3270)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:167:10:11">
+<g transform="translate(27.8282, 73.3270)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:241:6:7">
+<g transform="translate(27.3365, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>my</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(27.8932, 73.3270)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:167:14:15">
+<g transform="translate(33.6570, 73.8770)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:241:9:10">
+<g transform="translate(33.3873, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>be</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(33.7220, 73.3270)">
+<rect x="-0.0650" y="0.7361" width="0.1300" height="2.5601" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:167:18:19">
+<g transform="translate(37.2236, 73.3270)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:241:15:16">
+<g transform="translate(36.7148, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>gin</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(37.2886, 73.3270)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.9037" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(80.0420, 76.6270)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.6565 -0.4380 3.6565 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:242:33:34">
+<g transform="translate(86.2055, 78.8270)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:168:2:3">
+<g transform="translate(42.2471, 73.3270)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:241:28:29">
+<g transform="translate(41.0579, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>ning,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(42.3121, 73.3270)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.4077" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:168:6:7">
+<g transform="translate(50.4114, 72.7770)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:242:2:3">
+<g transform="translate(50.6196, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(50.4764, 73.3270)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(50.5414, 76.5870)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:168:9:10">
+<g transform="translate(53.9779, 72.7770)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:242:7:8">
+<g transform="translate(53.2984, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>ven</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(55.7321, 72.7770)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(54.0429, 73.3270)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:169:2:3">
+<g transform="translate(62.5556, 73.3270)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:242:11:12">
+<g transform="translate(61.1420, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>when</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(62.6206, 73.3270)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:169:6:7">
+<g transform="translate(68.3844, 73.3270)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:242:16:17">
+<g transform="translate(68.7975, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>I</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(68.4494, 73.3270)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:242:4:5">
+<g transform="translate(52.0729, 78.8270)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:169:10:11">
+<g transform="translate(74.2132, 73.3270)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:242:18:19">
+<g transform="translate(73.3630, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>lose</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(74.2782, 73.3270)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:169:14:15">
+<g transform="translate(80.0420, 73.8770)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:242:27:28">
+<g transform="translate(79.4820, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>I'm</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(80.1070, 73.3270)">
+<rect x="-0.0650" y="0.7361" width="0.1300" height="2.5601" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(33.6570, 76.6270)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.6565 -0.4380 3.6565 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:169:18:19">
+<g transform="translate(83.6085, 73.3270)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:242:29:30">
+<g transform="translate(82.8608, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>win</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(83.6735, 73.3270)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.9037" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:241:19:20">
+<g transform="translate(39.7172, 78.8270)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:241:12:13">
+<g transform="translate(35.6429, 78.8270)">
+<rect x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:170:2:3">
+<g transform="translate(88.6363, 73.3270)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:243:8:9">
+<g transform="translate(87.4105, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>ning.</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(90.3905, 73.8770)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(88.7013, 73.3270)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:170:7:8">
+<g transform="translate(95.7885, 72.7770)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:2:3">
+<g transform="translate(94.1530, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>Cause</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(95.8535, 73.3270)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(95.9185, 76.5870)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:170:10:11">
+<g transform="translate(99.3550, 72.7770)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:8:9">
+<g transform="translate(99.7681, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>I</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(99.4200, 73.3270)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="2.7702" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:170:13:14">
+<g transform="translate(102.9215, 72.2270)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:10:11">
+<g transform="translate(102.0371, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>give</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(102.9865, 73.3270)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="2.8972" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:170:17:18">
+<g transform="translate(106.4880, 71.6770)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:15:16">
+<g transform="translate(105.7573, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>you</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(106.5530, 73.3270)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.0242" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:170:21:22">
+<g transform="translate(110.3045, 70.0270)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:19:20">
+<g transform="translate(110.3045, 78.8270)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>all</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(110.3695, 73.3270)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="4.2216" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 91.1093)">
+<rect x="103.6746" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 91.1093)">
+<rect x="10.1540" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 96.6093)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 95.5093)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 94.4093)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 93.3093)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 92.2093)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 94.4093)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(82.6202, 94.4093)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(66.4374, 94.4093)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(39.0922, 94.4093)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:170:25:26">
+<g transform="translate(5.6906, 94.4093)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M8.1801 -2.7500C8.6604 -2.1821 9.6597 -2.1821 10.1401 -2.7500L10.1401 -2.7500C9.6597 -2.3021 8.6604 -2.3021 8.1801 -2.7500z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:174:24:25">
+<g transform="translate(109.6912, 94.4093)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 -2.7500C2.0325 -2.1418 3.2015 -2.1418 3.7298 -2.7500L3.7298 -2.7500C3.2015 -2.2618 2.0325 -2.2618 1.5042 -2.7500z"/>
+</g>
+</a>
+<g transform="translate(96.9017, 96.8233)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="12.8795 -1.5380 12.8795 -1.0900 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<g transform="translate(6.4906, 95.5093)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 94.4093)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 92.7593)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 94.9593)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(12.8706, 93.3093)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(3.4371, 91.1593)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>77</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:171:2:3">
+<g transform="translate(16.1706, 91.1093)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(17.9248, 91.6593)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(16.2356, 94.4093)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:171:9:10">
+<g transform="translate(24.9082, 91.6593)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(24.9732, 94.4093)">
+<rect x="-0.0650" y="-2.4910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:171:14:15">
+<g transform="translate(34.9124, 92.2093)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(34.9774, 94.4093)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.0424, 96.0193)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:172:2:3">
+<g transform="translate(41.0191, 92.2093)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(42.7733, 92.7593)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(41.0841, 94.4093)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(58.2442, 97.4953)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.2698 -0.2240 4.2698 0.2240 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:172:8:9">
+<g transform="translate(49.7567, 92.7593)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.5109, 92.7593)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(49.8217, 94.4093)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:172:15:16">
+<g transform="translate(58.2442, 93.8593)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:30:31">
+<g transform="translate(58.1793, 99.9093)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>of</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(58.3092, 94.4093)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4499" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:172:21:22">
+<g transform="translate(62.4241, 94.4093)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 0.2381C1.8879 1.1202 6.4769 1.1202 7.5127 0.2381L7.5127 0.2381C6.4769 1.0002 1.8879 1.0002 0.8521 0.2381z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:172:18:19">
+<g transform="translate(62.4241, 93.8593)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:37:38">
+<g transform="translate(62.4241, 99.9093)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>me,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(62.4891, 94.4093)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4499" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:173:2:3">
+<g transform="translate(69.1557, 93.8593)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:172:6:7">
+<g transform="translate(41.0191, 94.4093)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.4300 -0.9216C1.9894 0.6314 6.7432 0.8600 8.4376 -0.5366L8.4376 -0.5366C6.7489 0.7401 1.9951 0.5115 0.4300 -0.9216z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:171:17:18">
+<g transform="translate(34.9124, 94.4093)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 -1.9447C2.3190 -1.1531 4.9519 -1.1531 5.7668 -1.9447L5.7668 -1.9447C4.9519 -1.2731 2.3190 -1.2731 1.5042 -1.9447z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:174:2:3">
+<g transform="translate(84.3386, 96.6093)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(85.7385, 96.0593)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:171:7:8">
+<g transform="translate(16.1706, 94.4093)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.4300 -2.0216C1.9894 -0.4686 6.7432 -0.2400 8.4376 -1.6366L8.4376 -1.6366C6.7489 -0.3599 1.9951 -0.5885 0.4300 -2.0216z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:174:6:7">
+<g transform="translate(92.7219, 93.8593)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:39:40">
+<g transform="translate(91.8376, 99.9093)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>And</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(92.7869, 94.4093)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(92.8519, 97.6693)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:174:9:10">
+<g transform="translate(96.9017, 93.8593)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:43:44">
+<g transform="translate(96.1710, 99.9093)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>you</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(96.9667, 94.4093)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="2.7713" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:174:12:13">
+<g transform="translate(101.0815, 93.3093)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:47:48">
+<g transform="translate(100.1972, 99.9093)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>give</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(101.1465, 94.4093)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="2.8962" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:174:16:17">
+<g transform="translate(105.2614, 92.7593)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:52:53">
+<g transform="translate(104.7355, 99.9093)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>me</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(105.3264, 94.4093)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.0210" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:174:20:21">
+<g transform="translate(109.6912, 91.1093)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:244:55:56">
+<g transform="translate(109.6912, 99.9093)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>all</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(109.7562, 94.4093)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="4.2205" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.1916)">
+<rect x="103.5805" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.1916)">
+<rect x="10.1540" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 117.6916)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 116.5916)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 115.4916)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 114.3916)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 113.2916)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 115.4916)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(84.3623, 115.4916)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(67.7676, 115.4916)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(39.7121, 115.4916)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:174:24:25">
+<g transform="translate(5.6906, 115.4916)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M8.1801 -2.7500C8.6604 -2.1821 9.6597 -2.1821 10.1401 -2.7500L10.1401 -2.7500C9.6597 -2.3021 8.6604 -2.3021 8.1801 -2.7500z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:178:20:21">
+<g transform="translate(109.5971, 115.4916)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 -2.7500C2.0488 -2.1288 3.2794 -2.1288 3.8240 -2.7500L3.8240 -2.7500C3.2794 -2.2488 2.0488 -2.2488 1.5042 -2.7500z"/>
+</g>
+</a>
+<g transform="translate(6.4906, 116.5916)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 115.4916)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 113.8416)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 116.0416)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(12.8706, 114.3916)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(3.4371, 112.2169)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>81</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:175:2:3">
+<g transform="translate(16.1706, 112.1916)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(17.9248, 112.7416)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(16.2356, 115.4916)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:175:9:10">
+<g transform="translate(25.1515, 112.7416)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(25.2165, 115.4916)">
+<rect x="-0.0650" y="-2.4910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:175:14:15">
+<g transform="translate(35.4381, 113.2916)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(35.5031, 115.4916)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.5681, 117.1016)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(59.3861, 118.5776)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.3640 -0.2240 4.3640 0.2240 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:176:2:3">
+<g transform="translate(41.6743, 113.2916)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(43.4285, 113.8416)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(41.7393, 115.4916)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:176:17:18">
+<g transform="translate(63.6601, 115.4916)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 0.2370C1.8975 1.1223 6.5967 1.1223 7.6421 0.2370L7.6421 0.2370C6.5967 1.0023 1.8975 1.0023 0.8521 0.2370z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:176:6:7">
+<g transform="translate(50.6552, 113.8416)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(52.4094, 113.8416)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(50.7202, 115.4916)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:176:11:12">
+<g transform="translate(59.3861, 114.9416)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:245:16:17">
+<g transform="translate(59.3212, 120.9916)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>of</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(59.4511, 115.4916)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4499" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:176:14:15">
+<g transform="translate(63.6601, 114.9416)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:245:24:25">
+<g transform="translate(63.6601, 120.9916)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>you,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(63.7251, 115.4916)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4499" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:175:17:18">
+<g transform="translate(35.4381, 115.4916)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 -1.9464C2.3335 -1.1477 5.0669 -1.1477 5.8962 -1.9464L5.8962 -1.9464C5.0669 -1.2677 2.3335 -1.2677 1.5042 -1.9464z"/>
+</g>
+</a>
+<g transform="translate(96.5252, 117.9056)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="13.1619 -1.5380 13.1619 -1.0900 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:177:2:3">
+<g transform="translate(70.5212, 114.9416)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:175:7:8">
+<g transform="translate(16.1706, 115.4916)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.4300 -2.0254C2.0213 -0.4682 6.9568 -0.2379 8.6809 -1.6404L8.6809 -1.6404C6.9623 -0.3578 2.0269 -0.5881 0.4300 -2.0254z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:178:2:3">
+<g transform="translate(86.1159, 117.6916)">
+<path transform="scale(0.0040, -0.0040)" d="M365 0h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:178:5:6">
+<g transform="translate(96.5252, 114.9416)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:245:26:27">
+<g transform="translate(96.9383, 120.9916)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>I</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(96.5902, 115.4916)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="2.7714" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:178:8:9">
+<g transform="translate(100.7991, 114.3916)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:245:28:29">
+<g transform="translate(99.9148, 120.9916)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>give</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(100.8641, 115.4916)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="2.8960" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:178:12:13">
+<g transform="translate(105.0731, 113.8416)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:245:33:34">
+<g transform="translate(104.3424, 120.9916)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>you</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(105.1381, 115.4916)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.0206" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:178:16:17">
+<g transform="translate(109.5971, 112.1916)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:245:37:38">
+<g transform="translate(109.5971, 120.9916)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>all</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(109.6621, 115.4916)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="4.2204" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 133.2740)">
+<rect x="103.8538" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 133.2740)">
+<rect x="29.1257" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 133.2740)">
+<rect x="16.8509" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 133.2740)">
+<rect x="10.1540" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 138.7740)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 137.6740)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 136.5740)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 135.4740)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 134.3740)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 136.5740)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(84.0470, 136.5740)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(68.6484, 136.5740)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(42.6556, 136.5740)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:178:20:21">
+<g transform="translate(5.6906, 136.5740)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M8.1801 -2.7500C8.6604 -2.1821 9.6597 -2.1821 10.1401 -2.7500L10.1401 -2.7500C9.6597 -2.3021 8.6604 -2.3021 8.1801 -2.7500z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:182:24:25">
+<g transform="translate(109.8704, 136.5740)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 -2.7500C2.0005 -2.1684 3.0543 -2.1684 3.5506 -2.7500L3.5506 -2.7500C3.0543 -2.2884 2.0005 -2.2884 1.5042 -2.7500z"/>
+</g>
+</a>
+<g transform="translate(6.4906, 137.6740)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 136.5740)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 134.9240)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 137.1240)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(12.8706, 135.4740)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(3.4371, 133.2992)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>85</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:179:2:3">
+<g transform="translate(16.1706, 133.2740)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(16.2356, 136.5740)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:179:8:9">
+<g transform="translate(22.8676, 132.7240)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(22.9326, 136.5740)">
+<rect x="-0.0650" y="-3.6639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(22.9976, 136.5340)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:179:14:15">
+<g transform="translate(26.8681, 133.8240)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(28.6223, 133.8240)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(26.9331, 136.5740)">
+<rect x="-0.0650" y="-2.5639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:179:18:19">
+<g transform="translate(35.1423, 133.2740)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(35.2073, 136.5740)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="3.3392" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(60.8137, 139.6600)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.0906 -0.2240 4.0906 0.2240 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:179:22:23">
+<g transform="translate(38.8929, 134.3740)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(38.9579, 136.5740)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="2.8886" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:180:21:22">
+<g transform="translate(64.8143, 136.5740)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 0.2403C1.8691 1.1159 6.2493 1.1159 7.2662 0.2403L7.2662 0.2403C6.2493 0.9959 1.8691 0.9959 0.8521 0.2403z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:180:2:3">
+<g transform="translate(44.5153, 134.3740)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(46.2695, 134.9240)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(44.5803, 136.5740)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:180:8:9">
+<g transform="translate(52.7895, 134.9240)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(54.5437, 134.9240)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(52.8545, 136.5740)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:180:15:16">
+<g transform="translate(60.8137, 136.0240)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:245:62:63">
+<g transform="translate(60.7488, 142.0740)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>of</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(60.8787, 136.5740)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4499" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.1423, 136.7880)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.8406 0.4480 3.8406 0.8960 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:180:18:19">
+<g transform="translate(64.8143, 136.0240)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:245:69:70">
+<g transform="translate(64.8143, 142.0740)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>me,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(64.8793, 136.5740)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4499" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(97.6187, 138.9880)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="12.3417 -1.5380 12.3417 -1.0900 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:180:6:7">
+<g transform="translate(44.5153, 136.5740)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.4300 -0.9139C1.9266 0.6306 6.3384 0.8558 7.9742 -0.5289L7.9742 -0.5289C6.3445 0.7359 1.9327 0.5108 0.4300 -0.9139z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:181:2:3">
+<g transform="translate(71.2995, 136.0240)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:179:25:26">
+<g transform="translate(38.8929, 136.5740)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 -1.9375C2.2615 -1.1757 4.5251 -1.1757 5.2824 -1.9375L5.2824 -1.9375C4.5251 -1.2957 2.2615 -1.2957 1.5042 -1.9375z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:179:6:7">
+<g transform="translate(16.1706, 136.5740)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.4300 -2.0400C1.9100 -0.9996 5.2047 -1.3944 6.3969 -2.7550L6.3969 -2.7550C5.1904 -1.5135 1.8957 -1.1187 0.4300 -2.0400z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:182:2:3">
+<g transform="translate(85.6981, 138.7740)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(87.0981, 138.2240)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:182:6:7">
+<g transform="translate(93.6181, 136.0240)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:246:2:3">
+<g transform="translate(92.7338, 142.0740)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>And</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(93.6831, 136.5740)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(93.7481, 139.8340)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:182:9:10">
+<g transform="translate(97.6187, 136.0240)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:246:6:7">
+<g transform="translate(96.8880, 142.0740)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>you</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(97.6837, 136.5740)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="2.7710" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:182:12:13">
+<g transform="translate(101.6193, 135.4740)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:246:10:11">
+<g transform="translate(100.7349, 142.0740)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>give</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(101.6843, 136.5740)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="2.8964" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:182:16:17">
+<g transform="translate(105.6199, 134.9240)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:246:15:16">
+<g transform="translate(105.0940, 142.0740)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>me</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(105.6849, 136.5740)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.0219" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:182:20:21">
+<g transform="translate(109.8704, 133.2740)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:246:18:19">
+<g transform="translate(109.8704, 142.0740)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>all</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(109.9354, 136.5740)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="4.2208" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 154.3563)">
+<rect x="10.1540" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 159.8563)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 158.7563)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 157.6563)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 156.5563)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 155.4563)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.2110, 157.6563)">
+<rect x="0.0000" y="-2.2000" width="0.6000" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(112.7210, 157.6563)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(95.0474, 157.6563)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(71.2521, 157.6563)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(41.3360, 157.6563)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:182:24:25">
+<g transform="translate(5.6906, 157.6563)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M8.1801 -2.7500C8.6604 -2.1821 9.6597 -2.1821 10.1401 -2.7500L10.1401 -2.7500C9.6597 -2.3021 8.6604 -2.3021 8.1801 -2.7500z"/>
+</g>
+</a>
+<g transform="translate(6.4906, 158.7563)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 157.6563)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 156.0063)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 158.2063)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(12.8706, 156.5563)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(3.4371, 154.3816)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>89</tspan>
+</text>
+</g>
+<g transform="translate(86.1371, 160.7423)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.6106 -0.0100 4.6106 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:183:2:3">
+<g transform="translate(16.1706, 154.3563)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(17.9248, 154.9063)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(16.2356, 157.6563)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:185:17:18">
+<g transform="translate(90.6576, 157.6563)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 0.2341C2.4472 1.0823 6.0929 1.0823 7.0359 0.2341L7.0359 0.2341C6.0929 0.9623 2.4472 0.9623 1.5042 0.2341z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:183:9:10">
+<g transform="translate(25.7890, 154.9063)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(25.8540, 157.6563)">
+<rect x="-0.0650" y="-2.4910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:185:9:10">
+<g transform="translate(86.1371, 157.6563)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.0450 3.9030C1.0935 4.9639 3.4241 5.0712 4.5656 4.1110L4.5656 4.1110C3.4296 4.9513 1.0990 4.8441 0.0450 3.9030z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:183:14:15">
+<g transform="translate(36.8154, 155.4563)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(36.8804, 157.6563)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(36.9454, 159.2663)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(62.3775, 160.7423)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.6106 -0.2240 4.6106 0.2240 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:184:2:3">
+<g transform="translate(43.3907, 155.4563)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(45.1449, 156.0063)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(43.4557, 157.6563)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:184:6:7">
+<g transform="translate(53.0091, 156.0063)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(54.7633, 156.0063)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(53.0741, 157.6563)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:184:17:18">
+<g transform="translate(66.8980, 157.6563)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 0.2524C1.7585 1.0857 5.0847 1.0857 5.9911 0.2524L5.9911 0.2524C5.0847 0.9657 1.7585 0.9657 0.8521 0.2524z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:184:11:12">
+<g transform="translate(62.3775, 157.1063)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:246:36:37">
+<g transform="translate(62.3126, 164.1323)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>of</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(62.4425, 157.6563)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4499" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:184:14:15">
+<g transform="translate(66.8980, 157.1063)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:246:44:45">
+<g transform="translate(66.8980, 164.1323)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>you,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(66.9630, 157.6563)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4499" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:183:17:18">
+<g transform="translate(36.8154, 157.6563)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 -1.9506C2.3698 -1.1351 5.3697 -1.1351 6.2353 -1.9506L6.2353 -1.9506C5.3697 -1.2551 2.3698 -1.2551 1.5042 -1.9506z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:185:2:3">
+<g transform="translate(73.2292, 157.1063)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(75.0565, 157.1063)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(73.2942, 157.6563)">
+<rect x="-0.0650" y="-0.2910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:183:7:8">
+<g transform="translate(16.1706, 157.6563)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.4300 -2.0347C2.1016 -0.4674 7.5193 -0.2327 9.3184 -1.6497L9.3184 -1.6497C7.5245 -0.3526 2.1068 -0.5873 0.4300 -2.0347z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:185:6:7">
+<g transform="translate(86.1371, 157.1063)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:246:50:51">
+<g transform="translate(86.1371, 164.1323)">
+<text font-family="Optima" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>oh,</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(86.2021, 157.6563)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4529" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:185:11:12">
+<g transform="translate(90.6576, 157.6563)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(90.7226, 157.6563)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1109" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/WIP/All-of-Me_%28John-Legend%29/All_of_me%20%28%20Piano%2bVoice%29.ly:186:2:3">
+<g transform="translate(97.8936, 157.6563)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+</svg>

@@ -14,16 +14,7 @@
     enteredby = "Marc Mouries"
 }
 
-
 targetKey = d
-
-chordNames = \chordmode {  
-  % Dm    - A7  -  Dm   -  C  -  F  -  C  -  Dm   -  A7
-    d2.:m   a:7    d:m     c     f     c     d2.:m   a:7
-    d2.:m   a:7    d:m     c     f     c     d4:m   a2:7 d2.:m
-  %  d2.:m   a:7    d:m    c   f   c     g:m/d    a
-  %  d2.:m   a:7    d:m    c   f   a:7/e  d:m/a  d:m
-}
 
 \score {
   <<

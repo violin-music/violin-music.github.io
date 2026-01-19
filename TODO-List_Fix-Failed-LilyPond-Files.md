@@ -7436,3 +7436,202 @@ fatal error: failed files: "tunes/Jazz/Misty/Misty_Piano.ly"
 ```
 
 ---
+
+## Failed: template-Duet.ly - 2026-01-19 11:42:15
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly`
+
+Error:
+```
+Processing `tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly'
+Parsing...
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly:5:17: error: syntax error, unexpected STRING, expecting '.' or '='
+version "2.10.10
+                "
+tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly:1: warning: no \version statement found, please add
+
+\version "2.24.4"
+
+for future compatibility
+Interpreting music...
+warning: cannot find property type-check for `instrument' (translation-type?).  perhaps a typing error?
+warning: skipping assignment
+warning: cannot find property type-check for `instrument' (translation-type?).  perhaps a typing error?
+warning: skipping assignment
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+fatal error: failed files: "tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly"
+```
+
+---
+
+## Failed: canon-in-D-Violin-I._-NEW-relative.ly - 2026-01-19 11:42:17
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/canon-in-D-Violin-I._-NEW-relative.ly`
+
+Error:
+```
+    \compressFullBarRests
+
+Note: compilation failed and \version outdated, did you
+update input syntax with convert-ly?
+
+  https://lilypond.org/doc/v2.24/Documentation/usage/updating-files-with-convert_002dly
+
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/canon-in-D-Violin-I._-NEW-relative.ly:26:2: warning: barcheck failed at: 1/4
+ 
+ | R1*2   % 1 & 2
+[8][16][24][32][40][48]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+/opt/local/share/lilypond/2.24.4/ly/init.ly:65:2: error: Guile signaled an error for the expression beginning here
+#
+ (let ((book-handler (if (defined? 'default-toplevel-book-handler)
+In procedure vector-ref: Wrong type argument in position 1 (expecting vector): #f
+```
+
+---
+
+## Failed: Portnoff_Fantasia-2.ly - 2026-01-19 11:42:18
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly`
+
+Error:
+```
+      \globalMovement$1 \violinMovement$
+                                        1Violin
+Unbound variable: #{1Violin}#
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:241:5: error: errors found, ignoring music expression
+    
+    \new Staff \with {
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:251:15: error: unknown escaped string: `\titleMovement'
+      piece = 
+              \titleMovement$1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:251:29: error: syntax error, unexpected NUMBER_IDENTIFIER
+      piece = \titleMovement
+                            $1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:257:3: error: syntax error, unexpected SYMBOL
+  
+  ViolinMovement(`I')
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:257:18: error: undefined character or shorthand: `
+  ViolinMovement(
+                 `I')
+ERROR: In procedure %resolve-variable:
+Unbound variable: fold
+```
+
+---
+
+## Failed: Portnoff_Russian-Fantasia-2.ly - 2026-01-19 11:42:19
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly`
+
+Error:
+```
+      \globalMovement$1 \violinMovement$
+                                        1Violin
+Unbound variable: #{1Violin}#
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:241:5: error: errors found, ignoring music expression
+    
+    \new Staff \with {
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:251:15: error: unknown escaped string: `\titleMovement'
+      piece = 
+              \titleMovement$1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:251:29: error: syntax error, unexpected NUMBER_IDENTIFIER
+      piece = \titleMovement
+                            $1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:257:3: error: syntax error, unexpected SYMBOL
+  
+  ViolinMovement(`I')
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:257:18: error: undefined character or shorthand: `
+  ViolinMovement(
+                 `I')
+ERROR: In procedure %resolve-variable:
+Unbound variable: fold
+```
+
+---
+
+## Failed: Bella_Ciao-v2.ly - 2026-01-19 11:42:22
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly`
+
+Error:
+```
+Note: compilation failed and \version outdated, did you
+update input syntax with convert-ly?
+
+  https://lilypond.org/doc/v2.24/Documentation/usage/updating-files-with-convert_002dly
+
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: skipping zero-duration score
+  
+  <<
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: to suppress this, consider adding a spacer rest
+  
+  <<
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: skipping zero-duration score
+  
+  <<
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: to suppress this, consider adding a spacer rest
+  
+  <<
+fatal error: failed files: "tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly"
+```
+
+---
+
+## Failed: Dark-Eyes_2.ly - 2026-01-19 11:42:22
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_2.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: Dark-Eyes_3.ly - 2026-01-19 11:42:25
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly`
+
+Error:
+```
+warning: no such internal option: no-midi
+Changing working directory to: `/var/folders/06/fvhzgnnx58gcmzzrq_lr_nyh0000gn/T/tmp.PTogsN5a'
+Processing `tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly'
+Parsing...
+error: version with third number omitted is only allowed for stable releases (when the second number is even)
+Interpreting music...[8][16][24][32]
+Preprocessing graphical objects...
+Interpreting music...
+MIDI output to `Dark-Eyes_3.midi'...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+fatal error: failed files: "tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly"
+```
+
+---
+
+## Failed: Misty_Piano.ly - 2026-01-19 11:42:32
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Misty/Misty_Piano.ly`
+
+Error:
+```
+warning: no such internal option: no-midi
+Changing working directory to: `/var/folders/06/fvhzgnnx58gcmzzrq_lr_nyh0000gn/T/tmp.Nxlb8Sv7'
+Processing `tunes/Jazz/Misty/Misty_Piano.ly'
+Parsing...
+/Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Misty/Misty_Piano.ly:488:3: error: syntax error, unexpected '}'
+  
+  }%% end of score-block
+fatal error: failed files: "tunes/Jazz/Misty/Misty_Piano.ly"
+```
+
+---
