@@ -36,10 +36,10 @@ chordNames = \chordmode {
 
 melody = \relative c'' {
   \global
-  d16   a   d   a    f'   d   f   a
+  d16-1   a-0   d   a    f'   d   f   a
   d16   a   d   a    f    d   f   a,
   
-  bf16  g   bf  g    d'   bf  d   g
+  bf16  g   bf  g    d'-1   bf-1  d   g
   bf16  g   bf  g    d    bf  g   g
   \break
   a16   e   a   e    cs'  a   cs  e

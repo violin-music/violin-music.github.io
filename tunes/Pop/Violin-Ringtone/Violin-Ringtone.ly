@@ -1,4 +1,6 @@
 \version "2.19.38"
+\include "../../common/common-header.ily"
+
 
 \header {
   title = "Violin Ringtone"
@@ -7,7 +9,6 @@
   subtitle = "Transcribed by Marc Mouries, December 24, 2016"
 }
 
-\include "../../common/common-header.ily"
 
 global = {
   \key c \major
@@ -46,6 +47,6 @@ violin = \relative c'' {
   } \violin
   \layout { }
   \midi {
-    \tempo 4=120
+    \tempo 4=220
   }
 }

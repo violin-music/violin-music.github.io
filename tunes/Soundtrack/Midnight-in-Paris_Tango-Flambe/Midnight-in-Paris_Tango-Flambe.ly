@@ -1,5 +1,6 @@
-\version "2.19.53"
+\version "2.24"
 \language "english"
+\include "../../common/common-header.ily"
 \include "../../common/bars-per-line-engraver.ly"
 
 \header {
@@ -9,9 +10,6 @@
   country = "France"
   style = "tango"
 }
-
-\include "../../common/common-header.ily"
-
 
 \relative c' {
   g16 a b d_0   g16 a b d   g16 d b a   g16 d b a  

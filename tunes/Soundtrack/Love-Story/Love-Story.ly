@@ -24,7 +24,7 @@ chordNames = \chordmode {
   a1:m  
 }
 
-melody = \relative c'' {
+melody = \relative c' {
   \global
   c'8 e,8 e8 c' c2 
   r8 e,8 e8 c' c8 e, f e 
