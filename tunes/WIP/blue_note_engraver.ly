@@ -117,3 +117,6 @@ COMMON_Blues_Intervals = \lyricmode {
     \addlyrics { \COMMON_Blues_Intervals }
   >>
 }
+
+
+

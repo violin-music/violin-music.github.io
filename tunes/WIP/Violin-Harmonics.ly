@@ -214,11 +214,10 @@ naturalHarmonic =
 
 \score {
   \new Staff
-  \with {
-    instrumentName =\markup \bold "A string"
-    \remove "Time_signature_engraver"
-  }
-  
+      \with {
+        instrumentName =\markup \bold "A string"
+        \remove "Time_signature_engraver"
+      }  
   {
     \cadenzaOn
       \artificialHarmWithPitch { a'4_0  cs''_2   cs'''' }
