@@ -4,6 +4,12 @@
 \include "summer-header.ily"
 
 \header {
+  title = "Summer (Solo Violin)"
+  piece = "3. Presto"
+  composer = "Antonio Vivaldi (1678-1741)"
+  opus = "Op. 8, No. 2"
+  style = "Baroque"
+  country = "Italy"
   tags = "presto"
 }
 
@@ -25,5 +31,4 @@
       %\remove Mark_engraver
     }
   }
-  \header { piece = "Presto" }
 }
