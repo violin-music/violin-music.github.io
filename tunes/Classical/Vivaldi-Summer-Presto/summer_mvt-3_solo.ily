@@ -6,7 +6,6 @@ ViolinoPrincipaleSummerThree =  {
 
 %% _" "_" "_"Presto"^"Tempo impettuoso d' Estate"
 
-\mark "G"
 \relative g' {
 g16 g, g g	g g g g 	g g g g |
 f' g, g g 	g g g g 	g g g g |
