@@ -15,7 +15,6 @@
 
 \header {
   title = "Sonata I"
-  %subtitle = "\"Sechs Sonaten fur Violine\""
   piece = "4. Presto"
   composer = "Johann Sebastian Bach (1685-1750)"
   opus = "BWV 1001"
@@ -23,6 +22,7 @@
   style = "Baroque"
   source = "Bach-Gefellschaft Edition 1879 Band 27.1"
   tagline =""
+  country = "Germany"
 }
 
 divisioMaior = { 
