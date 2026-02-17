@@ -759,8 +759,8 @@ function showTuneDetailView(tuneSlug, selectedKey = null) {
                      onclick="openLightbox(scorePageState.pages[scorePageState.currentPage - 1], '${escapedTitle}')">
                 <!-- Keyboard shortcuts hint for pages -->
                 <div id="page-nav-hint" style="display: none; margin-top: 10px; text-align: center; font-size: 12px; color: var(--text-secondary, #7f8c8d);">
-                    <kbd style="padding: 2px 6px; background: var(--bg-input, white); border: 1px solid var(--border-color, #ccc); border-radius: 3px; font-family: monospace;">→</kbd> Next page
-                    <kbd style="padding: 2px 6px; background: var(--bg-input, white); border: 1px solid var(--border-color, #ccc); border-radius: 3px; font-family: monospace; margin-left: 15px;">←</kbd> Prev page
+                    <kbd style="padding: 2px 6px; background: var(--bg-input, white); border: 1px solid var(--border-color, #ccc); border-radius: 3px; font-family: monospace;">←</kbd> Prev page
+                    <kbd style="padding: 2px 6px; background: var(--bg-input, white); border: 1px solid var(--border-color, #ccc); border-radius: 3px; font-family: monospace; margin-left: 15px;">→</kbd> Next page
                 </div>
             </div>
         `;
