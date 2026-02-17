@@ -112,26 +112,26 @@ shift =
      (set! (ly:music-property music 'tweaks)
            (acons 'stencil
                   (lambda (grob)
-                    (let ((dash-ext (ly:stencil-extent
-                                     (grob-interpret-markup grob "—")
-                                     X)))
-                      (ly:grob-translate-axis! grob (/ (interval-length dash-ext) -2) X)
-                      (grob-interpret-markup grob (string-append "—" (number->string finger)))))
+                    (grob-interpret-markup grob
+                      (markup #:finger
+                        #:concat (#:raise 0.55 #:draw-line '(0.9 . 0) #:hspace 0.15
+                                  (number->string finger)))))
                   (ly:music-property music 'tweaks)))
      music))
 
 %% Print a finger number preceded by a dash to indicate a shift
+%% Uses draw-line for compatibility with both PDF and SVG output
 shiftUp = #(define-music-function (text) (string?)
              (make-music 'TextScriptEvent
                          'direction UP
                          'text (markup #:center-align #:finger
-                                (string-append "—" text))))
+                                #:concat (#:raise 0.55 #:draw-line '(0.9 . 0) #:hspace 0.15 text))))
 %% Print a finger number preceded by a dash to indicate a shift
 shiftDown = #(define-music-function (text) (string?)
                (make-music 'TextScriptEvent
                            'direction DOWN
                            'text (markup #:center-align #:finger
-                                  (string-append "—" text))))
+                                  #:concat (#:raise 0.55 #:draw-line '(0.9 . 0) #:hspace 0.15 text))))
 
 
 %% staccato %%%%%%%%%%%%%%%%%
