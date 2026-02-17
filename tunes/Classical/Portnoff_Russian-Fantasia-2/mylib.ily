@@ -30,7 +30,6 @@ rall = \markup{\italic "rall."}
 aTempo = \markup{\italic "a tempo"}
 molto = \markup{\italic "molto"}
 rf = #(make-dynamic-script "rf")
-rit = \markup { \italic "rit. " }
 rall = \markup {\italic "rall. "}
 ritSpan = {
   \override TextSpanner.bound-details.left.text = \rit

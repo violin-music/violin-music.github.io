@@ -1,8 +1,10 @@
 \version "2.24.0"
 \language "english"
 
-\include "mylib.ily"
+%\include "mylib.ily"
 \include "../../common/common-header.ily"
+
+rit = \markup { \italic "rit. " }
 
 
 \header {
@@ -29,10 +31,13 @@ globalMovementI = {
 }
 
 violinMovementI = \relative g {
-  a4_\espressivoTxt\glissando( cs8-1 d) e4( cs8\glissando a-1) |
-  d4-4 d8-0( e) f4 e8( d) | e4 e8( f) g4 f8( e) | a8-2( d,-0) d-- d-- d2
-  
+  | a4_\espressivoTxt\glissando( cs8-1 d) e4( cs8\glissando a-1)
+  | d4-4 d8-0( e) f4 e8( d)
+  | e4 e8( f) g4 f8( e)
   \break
+  | a8-2( d,-0) d-- d-- d2
+  
+  
   
   \repeat volta 2 {
     g4 g8( bf) d4 c8( bf) | d-1( a-0) a-2 a a4 g8 f-2 |
