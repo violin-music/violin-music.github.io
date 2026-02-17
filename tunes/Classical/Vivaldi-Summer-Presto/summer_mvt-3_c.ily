@@ -3,10 +3,10 @@ AltoViolaSummerThree =  {
 \clef alto
 \key g \minor
 \time 3/4
-
+%_"Presto"^"Tempo impettuoso d' Estate"
 \mark "G"
 \relative g' {
-g16_"Presto"^"Tempo impettuoso d' Estate" g, g g	g g g g 	g g g g |
+g16 g, g g	g g g g 	g g g g |
 f' g, g g 	g g g g 	g g g g |
 ees' g, g g 	g g g g 	g g g g |
 d' g, g g 	g g g g 	g8 r |
