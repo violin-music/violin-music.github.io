@@ -4,7 +4,7 @@ A browsable collection of violin sheet music with LilyPond source files, MIDI pl
 
 ## Folder Structure
 
-```
+```shell
 /
 ├── tunes/              # All sheet music organized by genre/category
 │   ├── Christmas/
@@ -67,6 +67,7 @@ python3 generate-index-page.py
 ```
 
 This script:
+
 - Scans all tune directories listed in `index.html`
 - Finds `.ly` files that don't have a corresponding `_page_1.svg`
 - Generates SVG pages for each missing file
@@ -77,11 +78,13 @@ This script:
 ## Tune File Structure
 
 Each tune folder typically contains:
+
 - `TuneName.ly` - LilyPond source file
 - `TuneName.midi` - MIDI file for playback
 - `TuneName_page_1.svg` - First page of score (SVG)
 - `TuneName_page_2.svg` - Second page (if multi-page)
 
 For tunes with multiple keys:
+
 - `TuneName_(Am).ly`, `TuneName_(Dm).ly`, etc.
 - `TuneName_(Am)_page_1.svg`, `TuneName_(Dm)_page_1.svg`, etc.

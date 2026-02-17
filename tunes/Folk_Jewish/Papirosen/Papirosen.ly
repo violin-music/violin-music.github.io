@@ -8,7 +8,7 @@
   instrument = "Violin"
   genre = "Folk"
   subgenre = "Klezmer"
-  composer = "Traditional"
+  composer = "Herman Yablokoff"
   country = "Jewish"
 }
 

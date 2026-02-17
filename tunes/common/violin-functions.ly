@@ -113,33 +113,25 @@ shift =
            (acons 'stencil
                   (lambda (grob)
                     (let ((dash-ext (ly:stencil-extent
-                                     (grob-interpret-markup grob (make-char-markup #x2012))
+                                     (grob-interpret-markup grob "—")
                                      X)))
                       (ly:grob-translate-axis! grob (/ (interval-length dash-ext) -2) X)
-                      (grob-interpret-markup grob (make-concat-markup
-                                                   (list (make-char-markup #x2012)
-                                                         (number->string finger))))))
+                      (grob-interpret-markup grob (string-append "—" (number->string finger)))))
                   (ly:music-property music 'tweaks)))
      music))
 
-%% Print a finger number preceded by a \"-\" to indicate a shift"
+%% Print a finger number preceded by a dash to indicate a shift
 shiftUp = #(define-music-function (text) (string?)
-             (set! text (make-concat-markup
-                         (list (make-char-markup #x2012) text)))
              (make-music 'TextScriptEvent
                          'direction UP
-                         'text (markup #:center-align #:finger text)
-                         )
-             )
-%% Print a finger number preceded by a \"-\" to indicate a shift"
+                         'text (markup #:center-align #:finger
+                                (string-append "—" text))))
+%% Print a finger number preceded by a dash to indicate a shift
 shiftDown = #(define-music-function (text) (string?)
-               (set! text (make-concat-markup
-                           (list (make-char-markup #x2012) text)))
                (make-music 'TextScriptEvent
                            'direction DOWN
-                           'text (markup #:center-align #:finger text)
-                           )
-               )
+                           'text (markup #:center-align #:finger
+                                  (string-append "—" text))))
 
 
 %% staccato %%%%%%%%%%%%%%%%%

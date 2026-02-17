@@ -7635,3 +7635,778 @@ fatal error: failed files: "tunes/Jazz/Misty/Misty_Piano.ly"
 ```
 
 ---
+
+## Failed: bach_Sonata-1_Presto.ly - 2026-02-16 21:09:11
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Bach_Sonata_#1_(bwv-1001)_4_Presto/bach_Sonata-1_Presto.ly`
+
+Error:
+```
+warning: no such internal option: no-midi
+Changing working directory to: `/var/folders/06/fvhzgnnx58gcmzzrq_lr_nyh0000gn/T/tmp.uGzGRjpY'
+Processing `tunes/Classical/Bach_Sonata_#1_(bwv-1001)_4_Presto/bach_Sonata-1_Presto.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56][64][72][80][88][96][104][112][120][128][136]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+/opt/local/share/lilypond/2.24.4/ly/init.ly:65:2: error: Guile signaled an error for the expression beginning here
+#
+ (let ((book-handler (if (defined? 'default-toplevel-book-handler)
+In procedure vector-ref: Wrong type argument in position 1 (expecting vector): #f
+```
+
+---
+
+## Failed: template-Duet.ly - 2026-02-16 21:09:12
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly`
+
+Error:
+```
+Processing `tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly'
+Parsing...
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly:5:17: error: syntax error, unexpected STRING, expecting '.' or '='
+version "2.10.10
+                "
+tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly:1: warning: no \version statement found, please add
+
+\version "2.24.4"
+
+for future compatibility
+Interpreting music...
+warning: cannot find property type-check for `instrument' (translation-type?).  perhaps a typing error?
+warning: skipping assignment
+warning: cannot find property type-check for `instrument' (translation-type?).  perhaps a typing error?
+warning: skipping assignment
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+fatal error: failed files: "tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly"
+```
+
+---
+
+## Failed: canon-in-D-Violin-I._-NEW-relative.ly - 2026-02-16 21:09:14
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/canon-in-D-Violin-I._-NEW-relative.ly`
+
+Error:
+```
+    \compressFullBarRests
+
+Note: compilation failed and \version outdated, did you
+update input syntax with convert-ly?
+
+  https://lilypond.org/doc/v2.24/Documentation/usage/updating-files-with-convert_002dly
+
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/canon-in-D-Violin-I._-NEW-relative.ly:26:2: warning: barcheck failed at: 1/4
+ 
+ | R1*2   % 1 & 2
+[8][16][24][32][40][48]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+/opt/local/share/lilypond/2.24.4/ly/init.ly:65:2: error: Guile signaled an error for the expression beginning here
+#
+ (let ((book-handler (if (defined? 'default-toplevel-book-handler)
+In procedure vector-ref: Wrong type argument in position 1 (expecting vector): #f
+```
+
+---
+
+## Failed: Portnoff_Fantasia-2.ly - 2026-02-16 21:09:15
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly`
+
+Error:
+```
+      \globalMovement$1 \violinMovement$
+                                        1Violin
+Unbound variable: #{1Violin}#
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:241:5: error: errors found, ignoring music expression
+    
+    \new Staff \with {
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:251:15: error: unknown escaped string: `\titleMovement'
+      piece = 
+              \titleMovement$1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:251:29: error: syntax error, unexpected NUMBER_IDENTIFIER
+      piece = \titleMovement
+                            $1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:257:3: error: syntax error, unexpected SYMBOL
+  
+  ViolinMovement(`I')
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:257:18: error: undefined character or shorthand: `
+  ViolinMovement(
+                 `I')
+ERROR: In procedure %resolve-variable:
+Unbound variable: fold
+```
+
+---
+
+## Failed: Portnoff_Russian-Fantasia-2.ly - 2026-02-16 21:09:15
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly`
+
+Error:
+```
+      \globalMovement$1 \violinMovement$
+                                        1Violin
+Unbound variable: #{1Violin}#
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:241:5: error: errors found, ignoring music expression
+    
+    \new Staff \with {
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:251:15: error: unknown escaped string: `\titleMovement'
+      piece = 
+              \titleMovement$1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:251:29: error: syntax error, unexpected NUMBER_IDENTIFIER
+      piece = \titleMovement
+                            $1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:257:3: error: syntax error, unexpected SYMBOL
+  
+  ViolinMovement(`I')
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:257:18: error: undefined character or shorthand: `
+  ViolinMovement(
+                 `I')
+ERROR: In procedure %resolve-variable:
+Unbound variable: fold
+```
+
+---
+
+## Failed: summer3d.ly - 2026-02-16 21:09:19
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3d.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer2d.ly - 2026-02-16 21:09:20
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer2d.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer2.ly - 2026-02-16 21:09:48
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer2.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1d.ly - 2026-02-16 21:09:48
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1d.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer3a.ly - 2026-02-16 21:09:49
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3a.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer-header.ly - 2026-02-16 21:09:49
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer-header.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer3.ly - 2026-02-16 21:09:50
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer2a.ly - 2026-02-16 21:09:50
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer2a.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1a.ly - 2026-02-16 21:10:10
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1a.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer3b.ly - 2026-02-16 21:10:11
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3b.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer-sonnet.ly - 2026-02-16 21:10:11
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer-sonnet.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer2b.ly - 2026-02-16 21:10:12
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer2b.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1f.ly - 2026-02-16 21:10:12
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1f.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer3f.ly - 2026-02-16 21:12:33
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3f.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1b.ly - 2026-02-16 21:12:33
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1b.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1c.ly - 2026-02-16 21:12:59
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1c.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer3c.ly - 2026-02-16 21:12:59
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3c.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1.ly - 2026-02-16 21:13:29
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer2c.ly - 2026-02-16 21:13:29
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer2c.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: Bella_Ciao-v2.ly - 2026-02-16 21:14:09
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly`
+
+Error:
+```
+Note: compilation failed and \version outdated, did you
+update input syntax with convert-ly?
+
+  https://lilypond.org/doc/v2.24/Documentation/usage/updating-files-with-convert_002dly
+
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: skipping zero-duration score
+  
+  <<
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: to suppress this, consider adding a spacer rest
+  
+  <<
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: skipping zero-duration score
+  
+  <<
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: to suppress this, consider adding a spacer rest
+  
+  <<
+fatal error: failed files: "tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly"
+```
+
+---
+
+## Failed: Dark-Eyes_2.ly - 2026-02-16 21:14:12
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_2.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: Dark-Eyes_3.ly - 2026-02-16 21:14:14
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly`
+
+Error:
+```
+warning: no such internal option: no-midi
+Changing working directory to: `/var/folders/06/fvhzgnnx58gcmzzrq_lr_nyh0000gn/T/tmp.X9uzyniD'
+Processing `tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly'
+Parsing...
+error: version with third number omitted is only allowed for stable releases (when the second number is even)
+Interpreting music...[8][16][24][32]
+Preprocessing graphical objects...
+Interpreting music...
+MIDI output to `Dark-Eyes_3.midi'...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+fatal error: failed files: "tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly"
+```
+
+---
+
+## Failed: Misty_Piano.ly - 2026-02-16 21:14:25
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Misty/Misty_Piano.ly`
+
+Error:
+```
+warning: no such internal option: no-midi
+Changing working directory to: `/var/folders/06/fvhzgnnx58gcmzzrq_lr_nyh0000gn/T/tmp.Cfqkfe0P'
+Processing `tunes/Jazz/Misty/Misty_Piano.ly'
+Parsing...
+/Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Misty/Misty_Piano.ly:488:3: error: syntax error, unexpected '}'
+  
+  }%% end of score-block
+fatal error: failed files: "tunes/Jazz/Misty/Misty_Piano.ly"
+```
+
+---
+
+## Failed: bach_Sonata-1_Presto.ly - 2026-02-16 21:18:23
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Bach_Sonata_#1_(bwv-1001)_4_Presto/bach_Sonata-1_Presto.ly`
+
+Error:
+```
+warning: no such internal option: no-midi
+Changing working directory to: `/var/folders/06/fvhzgnnx58gcmzzrq_lr_nyh0000gn/T/tmp.aJnTZqUt'
+Processing `tunes/Classical/Bach_Sonata_#1_(bwv-1001)_4_Presto/bach_Sonata-1_Presto.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56][64][72][80][88][96][104][112][120][128][136]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+/opt/local/share/lilypond/2.24.4/ly/init.ly:65:2: error: Guile signaled an error for the expression beginning here
+#
+ (let ((book-handler (if (defined? 'default-toplevel-book-handler)
+In procedure vector-ref: Wrong type argument in position 1 (expecting vector): #f
+```
+
+---
+
+## Failed: bach_Sonata-1_Presto.ly - 2026-02-16 21:25:34
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Bach_Sonata_#1_(bwv-1001)_4_Presto/bach_Sonata-1_Presto.ly`
+
+Error:
+```
+warning: no such internal option: no-midi
+Changing working directory to: `/var/folders/06/fvhzgnnx58gcmzzrq_lr_nyh0000gn/T/tmp.kdchJuMp'
+Processing `tunes/Classical/Bach_Sonata_#1_(bwv-1001)_4_Presto/bach_Sonata-1_Presto.ly'
+Parsing...
+Interpreting music...[8][16][24][32][40][48][56][64][72][80][88][96][104][112][120][128][136]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+/opt/local/share/lilypond/2.24.4/ly/init.ly:65:2: error: Guile signaled an error for the expression beginning here
+#
+ (let ((book-handler (if (defined? 'default-toplevel-book-handler)
+In procedure vector-ref: Wrong type argument in position 1 (expecting vector): #f
+```
+
+---
+
+## Failed: template-Duet.ly - 2026-02-16 21:28:06
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly`
+
+Error:
+```
+Processing `tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly'
+Parsing...
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly:5:17: error: syntax error, unexpected STRING, expecting '.' or '='
+version "2.10.10
+                "
+tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly:1: warning: no \version statement found, please add
+
+\version "2.24.4"
+
+for future compatibility
+Interpreting music...
+warning: cannot find property type-check for `instrument' (translation-type?).  perhaps a typing error?
+warning: skipping assignment
+warning: cannot find property type-check for `instrument' (translation-type?).  perhaps a typing error?
+warning: skipping assignment
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+fatal error: failed files: "tunes/Classical/Pachelbel_Canon-in-D/template-Duet.ly"
+```
+
+---
+
+## Failed: canon-in-D-Violin-I._-NEW-relative.ly - 2026-02-16 21:28:17
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/canon-in-D-Violin-I._-NEW-relative.ly`
+
+Error:
+```
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Pachelbel_Canon-in-D/canon-in-D-Violin-I._-NEW-relative.ly:26:2: warning: barcheck failed at: 1/4
+ 
+ | R1*2   % 1 & 2
+[8][16][24][32][40][48]
+Preprocessing graphical objects...
+Finding the ideal number of pages...
+Fitting music on 1 or 2 pages...
+Drawing systems...
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+warning: cannot find SVG font #f
+fatal error: failed files: "tunes/Classical/Pachelbel_Canon-in-D/canon-in-D-Violin-I._-NEW-relative.ly"
+```
+
+---
+
+## Failed: Portnoff_Fantasia-2.ly - 2026-02-16 21:28:18
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly`
+
+Error:
+```
+      \globalMovement$1 \violinMovement$
+                                        1Violin
+Unbound variable: #{1Violin}#
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:241:5: error: errors found, ignoring music expression
+    
+    \new Staff \with {
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:251:15: error: unknown escaped string: `\titleMovement'
+      piece = 
+              \titleMovement$1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:251:29: error: syntax error, unexpected NUMBER_IDENTIFIER
+      piece = \titleMovement
+                            $1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:257:3: error: syntax error, unexpected SYMBOL
+  
+  ViolinMovement(`I')
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Fantasia-2.ly:257:18: error: undefined character or shorthand: `
+  ViolinMovement(
+                 `I')
+ERROR: In procedure %resolve-variable:
+Unbound variable: fold
+```
+
+---
+
+## Failed: Portnoff_Russian-Fantasia-2.ly - 2026-02-16 21:28:19
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly`
+
+Error:
+```
+      \globalMovement$1 \violinMovement$
+                                        1Violin
+Unbound variable: #{1Violin}#
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:241:5: error: errors found, ignoring music expression
+    
+    \new Staff \with {
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:251:15: error: unknown escaped string: `\titleMovement'
+      piece = 
+              \titleMovement$1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:251:29: error: syntax error, unexpected NUMBER_IDENTIFIER
+      piece = \titleMovement
+                            $1
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:257:3: error: syntax error, unexpected SYMBOL
+  
+  ViolinMovement(`I')
+/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Portnoff_Russian-Fantasia-2/Portnoff_Russian-Fantasia-2.ly:257:18: error: undefined character or shorthand: `
+  ViolinMovement(
+                 `I')
+ERROR: In procedure %resolve-variable:
+Unbound variable: fold
+```
+
+---
+
+## Failed: summer3d.ly - 2026-02-16 21:28:19
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3d.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer2d.ly - 2026-02-16 21:28:20
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer2d.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer2.ly - 2026-02-16 21:28:20
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer2.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1d.ly - 2026-02-16 21:28:21
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1d.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer3a.ly - 2026-02-16 21:28:21
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3a.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer-header.ly - 2026-02-16 21:28:22
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer-header.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer3.ly - 2026-02-16 21:28:23
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer2a.ly - 2026-02-16 21:28:23
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer2a.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1a.ly - 2026-02-16 21:28:24
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1a.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer3b.ly - 2026-02-16 21:28:24
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3b.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer-sonnet.ly - 2026-02-16 21:28:25
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer-sonnet.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer2b.ly - 2026-02-16 21:28:26
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer2b.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1f.ly - 2026-02-16 21:28:26
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1f.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer3f.ly - 2026-02-16 21:28:27
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3f.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1b.ly - 2026-02-16 21:28:27
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1b.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1c.ly - 2026-02-16 21:28:28
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1c.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer3c.ly - 2026-02-16 21:28:29
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer3c.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer1.ly - 2026-02-16 21:28:29
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer1.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: summer2c.ly - 2026-02-16 21:28:30
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Classical/Vivaldi-Summer-Presto/summer2c.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: Bella_Ciao-v2.ly - 2026-02-16 21:28:30
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly`
+
+Error:
+```
+Note: compilation failed and \version outdated, did you
+update input syntax with convert-ly?
+
+  https://lilypond.org/doc/v2.24/Documentation/usage/updating-files-with-convert_002dly
+
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: skipping zero-duration score
+  
+  <<
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: to suppress this, consider adding a spacer rest
+  
+  <<
+Interpreting music...
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: skipping zero-duration score
+  
+  <<
+/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly:54:3: warning: to suppress this, consider adding a spacer rest
+  
+  <<
+fatal error: failed files: "tunes/Folk_Italy/Bella-Ciao/Bella_Ciao-v2.ly"
+```
+
+---
+
+## Failed: Dark-Eyes_2.ly - 2026-02-16 21:28:31
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_2.ly`
+
+Error: No SVG output generated by LilyPond (compilation may have succeeded but produced no output files)
+
+---
+
+## Failed: Dark-Eyes_3.ly - 2026-02-16 21:28:33
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly`
+
+Error:
+```
+warning: no such internal option: no-midi
+Changing working directory to: `/var/folders/06/fvhzgnnx58gcmzzrq_lr_nyh0000gn/T/tmp.4uZdjMHE'
+Processing `tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly'
+Parsing...
+error: version with third number omitted is only allowed for stable releases (when the second number is even)
+Interpreting music...[8][16][24][32]
+Preprocessing graphical objects...
+Interpreting music...
+MIDI output to `Dark-Eyes_3.midi'...
+Finding the ideal number of pages...
+Fitting music on 1 page...
+Drawing systems...
+fatal error: failed files: "tunes/Folk_Russia/Dark-Eyes/Dark-Eyes_3.ly"
+```
+
+---
+
+## Failed: Misty_Piano.ly - 2026-02-16 21:28:34
+
+File: `/Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Misty/Misty_Piano.ly`
+
+Error:
+```
+warning: no such internal option: no-midi
+Changing working directory to: `/var/folders/06/fvhzgnnx58gcmzzrq_lr_nyh0000gn/T/tmp.Hg0Cw9Dz'
+Processing `tunes/Jazz/Misty/Misty_Piano.ly'
+Parsing...
+/Users/Marc/Projects/violin-music.github.io/tunes/Jazz/Misty/Misty_Piano.ly:488:3: error: syntax error, unexpected '}'
+  
+  }%% end of score-block
+fatal error: failed files: "tunes/Jazz/Misty/Misty_Piano.ly"
+```
+
+---
