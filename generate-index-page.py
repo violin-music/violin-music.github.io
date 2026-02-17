@@ -313,7 +313,7 @@ def parse_lilypond_header(ly_file):
                 header = header_match.group(1)
 
                 # Extract fields - try both simple string and \markup formats
-                for field in ['title', 'composer', 'country', 'style', 'subtitle', 'video', 'key']:
+                for field in ['title', 'composer', 'country', 'style', 'subtitle', 'video', 'key', 'tags']:
                     # Try simple string format first: field = "value"
                     # Pattern handles escaped quotes: allows \" inside the string
                     pattern = rf'{field}\s*=\s*"((?:[^"\\]|\\.)*)"'
@@ -321,7 +321,11 @@ def parse_lilypond_header(ly_file):
                     if match:
                         # Unescape the string: replace \" with "
                         value = match.group(1).replace('\\"', '"').strip()
-                        metadata[field] = value
+                        if field == 'tags':
+                            # Parse comma-separated tags into a list
+                            metadata['tags'].extend([t.strip() for t in value.split(',') if t.strip()])
+                        else:
+                            metadata[field] = value
                     else:
                         # Try \markup format: field = \markup ... "value"
                         # Find the last quoted string in the markup (handles complex nested markup)

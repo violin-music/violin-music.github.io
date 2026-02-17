@@ -14,8 +14,9 @@
 
 
 \header {
-  title = "Sonata I"
+  title = "Sonata No. 1 - Violin Solo - Mvt. 4"
   piece = "4. Presto"
+  tags = "presto"
   composer = "Johann Sebastian Bach (1685-1750)"
   opus = "BWV 1001"
   date = "1720"
