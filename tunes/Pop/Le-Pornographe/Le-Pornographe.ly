@@ -7,6 +7,9 @@
 
 \header {
   title = "Le Pornographe"
+  composer = "Georges Brassens"
+  style = "Chanson"
+  country = "France"
 }
 
 % Define original key & mode

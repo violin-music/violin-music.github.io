@@ -1,9 +1,10 @@
 % ****************************************************************
 % Canon in D
 % ****************************************************************
-\version "2.14"
+\version "2.24"
 \include "english.ly"
 \include "../../common/common-header.ily"
+\include "../../common/bars-per-line-engraver.ly"
 
 \paper {
   #(set-paper-size "letter")
@@ -13,8 +14,6 @@
   title = "Canon in D"
   subtitle = "Duet for 2 violins"
   composer = "J. Pachelbel (1653-1706)"
-  %instrument = "Violin I"
-  % copyright = "Copyright"
   arranger = "Arranged by Marc Mouries"
   country = "Germany"
 }
@@ -64,12 +63,15 @@ cello = \new Voice { \relative c' {
       % \new Staff << \global \viola >>
       % \new Staff << \global \cello >>
    >>
-   \layout {
-    \context {
-      \Score
-      \override SpacingSpanner
-                #'base-shortest-duration = #(ly:make-moment 1 16)
+       \layout {
+      \context {
+        \Score
+        \consists #(bars-per-line-engraver '(4 4 4 4 5))
+      }
     }
-  }
    \midi { }
 }
+
+
+
+

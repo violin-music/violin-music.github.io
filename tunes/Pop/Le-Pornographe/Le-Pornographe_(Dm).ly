@@ -6,17 +6,21 @@
 
 \header {
   title = "Le Pornographe"
-  subtitle = "Key: A minor (Original)"
+  subtitle = "Key: D minor"
   composer = "Georges Brassens"
   style = "Chanson"
   country = "France"
 }
 
-% No transposition needed - this is the original key
+targetKey = d
+
 \score {
   <<
-    \new ChordNames { \chordNames }
-    \new Staff { \melody }
+    \new ChordNames { \transpose \originalKey \targetKey \chordNames }
+    \new Staff {
+      \key d \minor
+      \transpose \originalKey \targetKey \melody
+    }
     \addlyrics { \words }
   >>
   \layout { indent = 0 }

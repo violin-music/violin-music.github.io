@@ -3,8 +3,10 @@
 
 
 \header {
-  title = "I can't help falling in love"
-  composer = ""
+  title = "Can't Help Falling in Love"
+  composer = "Elvis Presley"
+  style = "Pop"
+  country = "USA"
 }
 
 global = {

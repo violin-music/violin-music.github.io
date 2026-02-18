@@ -4,6 +4,9 @@
 \header {
   title = "The Devil Went Down to Georgia"
   subtitle = "Personal transcription"
+  composer = "Charlie Daniels"
+  style = "Country"
+  country = "USA"
   tagline = ""
 }
 
