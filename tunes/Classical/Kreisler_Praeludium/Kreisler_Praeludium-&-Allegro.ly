@@ -10,24 +10,17 @@
   style = "classical"
 }
 
-global = {
-  \key e \minor
-  \numericTimeSignature
-  \time 3/4
-  \partial 8
-  \tempo "Allegro molto moderato"
-}
-
 \paper{
-  ragged-last-bottom = ##f % permet de remplir la dernière page
+  %ragged-last-bottom = ##f % permet de remplir la dernière page
   % #(define page-breaking ly:page-turn-breaking)
 }
 
 
-flute = \relative c'' {
-
-  %Prelude
-  \key e \minor
+Prelude = \relative c'' {
+  % ==================
+  % == Prelude
+  % ==================
+  
   \time 4/4
   \tempo "Allegro"
 
@@ -38,25 +31,75 @@ flute = \relative c'' {
   e'' e, b' b,
   e e, b'-3 b,
   \break
-  c'' e, g c, fs a, c d, b'' d, fs b, e g, b c,
-  a'' c, e a, b fs' g e \grace {e16 [(fs)]}
-  e4 ds e fs b, b' e d c d e g fs e d a b d g, fs e g c, b as cs
-  fs cs' ds b e e, c'! a, a' e' b' e,, b' b,,
-  \bar "|."
+  c''-3 e, g c,
+  fs a, c d,
+  b''-2 d, fs b,-1
+  e-4 g,-1 b c,
+  a''\flageolet c, e a,
+  b fs'-3 g e
 
+  \break
+
+  \grace {e16 [(fs)]} e4-2 ds e fs
+  b,-2 b'-1 e d!
+  c d e g
+  fs e d a-1
+  b d g,-2 fs
+  e-0 g c, b
+  as cs fs cs'
+
+  \break
+
+  ds b e e,-0
+  c'!-3 a,-0 a'-1 e'-1
+  b'-3 e,,-0 b'-4 b,,-2 \bar "|."
+}
+
+
+Andante = \relative c' {
+  % ==================
+  % == Andante
+  % ==================
   \time 3/4
   \tempo "Andante"
-  e~\fp e16 (b) e-- fs-- g-- e-- g-- a--
+  e-3~\fp e16 ( b-2 ) e-- fs-- g-- e-- g-- a--
   b-- g-- b-- ds-- e-- b-- e-- fs-- g-- e-- g-- a--
 
+  \break
 
+  b4 ~  b16 gs( f e)   d fs d c
+  b16 d b a   gs16( b gs) f   e16( f e d)
+  c4\downbow(  c16 a) c e     f16 c f g   
+  a16 f a b   c16 a c f       a16( f a c)
+  \break
+  e4 e16^"Missing music" e e e r4  
+  r4 r4 r4
+  r4 r4 r4
+  r4 r4 r4
+  \break
+  r4 r4 r4
+  r4 r4 r4
+  r4 r4 r4
+  r4 r4 r4
+  r4 r4 r4
+  r4 r4 fs16 b g fs
+  b2.\fermata
+}
 
+Allegro = \relative c'' {
+  % ==================
+  % == Allegro molto moderato
+  % ==================
+  \numericTimeSignature
+  \time 3/4
+  \tempo "Allegro molto moderato"
+  \partial 8
 
-  \global
-  b'8\p (e-.) d16 c b8-. a-. g-. fs-.
-  e16-- fs-- e-- fs-- g-- a-- g-- a-- b-- g'-- fs-- e--
-  ds fs a, c b a g fs a g fs e ds fs b, as b cs ds e fs g a b
-  g,-.\p  b-. e-. b-. a-. c-. e-. c-. g-. b-. e-. b-.
+  b8\p (e-.) d16 c b8-. a-. g-. fs-.
+  e16-- fs-- e-- fs-- g-- a_4-- g-- a-- b-- g'-- fs-- e--
+  ds fs a, c b a g fs a g fs e
+  ds_1 fs b, as b cs ds_4 e fs g a b
+  g-.\p  b-. e-. b-. a-. c-. e-. c-. g-. b-. e-. b-.
   a\f (g') c-- g-- e'-- g,-- c-- g-- (e g e c)
   d,-.\f c'-. fs-. c-. d,-. d'-. fs-. d-. d,-. c'-. fs-. c-.
   g (fs') b fs d' fs, b fs d (fs d b)
@@ -142,8 +185,28 @@ flute = \relative c'' {
 
 }
 
+
+music =  {
+  \override Fingering.color = "grey"
+
+  \key e \minor
+
+  \Prelude
+
+  \Andante
+
+  \Prelude
+
+  \break
+
+  \Allegro
+
+}
+
 \score {
   \new Staff \with {
-  } \flute
-  \layout {page-count = 2 }
+  } \music
+  \layout {
+    %  page-count = 2
+  }
 }
