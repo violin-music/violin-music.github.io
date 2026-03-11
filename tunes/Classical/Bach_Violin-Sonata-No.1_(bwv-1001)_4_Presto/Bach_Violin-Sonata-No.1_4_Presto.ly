@@ -5,8 +5,6 @@
 
 
 \paper {
-  obsolete-page-top-space = #0.0  
-  top-system-spacing.basic-distance = #(/ obsolete-page-top-space staff-space)
   indent = 0.0
   ragged-bottom = ##f
   ragged-last-bottom = ##f
@@ -92,11 +90,17 @@ Melody = \relative g'' {
                    { s8 a8 [ <a, g'>8 ] } >> | 
     %{ 54 %} 	<d fs d'>4.  | 
   } %end of repeated section
-  \break 
-  \repeat volta 2 { %begin repeated section
+
+%\break 
+
+
+\repeat volta 2 { %begin repeated section
     %{ 55 %}	d16   [ a     d     fs     d     fs  ] 
     %{ 56 %}	a16   [ fs    a     d      a     d   ]  
     %{ 57 %} 	fs16  [ d     fs    a      fs    a   ]  
+    
+\break    
+    
     %{ 58 %} 	d16   [ a     fs    d      a     fs  ]  
     %{ 59 %} 	d16   [(e     fs    g      a     bf  ]  
     %{ 60 %} 	c16 ) [ ef    c     a      c     a   ]  
@@ -105,6 +109,9 @@ Melody = \relative g'' {
     %{ 63 %} 	g16   [(a     bf    c      d     ef  ]  
     %{ 64 %} 	f16)  [ gs    f     d      f     d   ]  
     %{ 65 %} 	b16   [ g     b     d      g     f   ] 
+    
+    \break
+    
     %{ 66 %} 	ef16  [ c     ef    g      c     d   ]  
     %{ 67 %} 	ef16  [ c     gs    f      gs    c   ] 
     %{ 68 %} 	d16   [ bf    g     ef     g     bf  ]  
@@ -113,6 +120,9 @@ Melody = \relative g'' {
     %{ 71 %} 	c16   [ f'   (ef    f      g)    bf, ]  
     %{  2 %} 	f16   [ bf   (gs    bf     c)    ef, ]  
     %{  3 %} 	bf16  [ ef'  (d     ef     f)    af, ]  
+    
+    \break
+    
     %{  4 %} 	ef16  [ af   (g     af     bf)   df, ] 
     %{ 75 %} 	af16  [(c     f     af     g     f)  ] 
     %{  6 %} 	b,16  [(d     f     af     g     f)  ]  
@@ -121,15 +131,20 @@ Melody = \relative g'' {
     %{  9 %} 	ef16  [(g     c     d      ef    c)  ]  
     %{ 80 %}	af'16 [(g     f     ef     d     c)  ]  
     %{  1 %} 	g'16  [ d     ef    c      g     b   ] 
+    \break
     %{  2 %} 	c,16  [ f    (ef    d      c     bf) ] 
+    
     %{  3 %} 	a16   [ c     f     c      f     a   ]
     %{  4 %} 	f16   [ a     c     a      c     ef  ]
     %{ 85 %} 	c16   [(ef    a     g      f     ef) ]
-    %{  6 %} 	d16   [(c     bf    c      d     e)  ] 
+    %{  6 %} 	d16   [(c     bf    c      d     e!) ] 
     %{  7 %} 	fs16  [ a     c     a      fs    a   ]
     %{  8 %} 	fs16  [ c     fs    c      a     c   ] 
     %{  9 %} 	a16   [ fs    a     fs     d     c'  ]  
     %{ 90 %} 	bf16  [ g     bf    g      e     d'  ]  
+    
+    
+    \break
     %{  1 %} 	c16   [ a     c     a      fs    ef' ]  
     %{  2 %} 	d16   [ bf    d     bf     g     f'  ]  
     %{  3 %} 	ef16  [ c     ef    c      a     g'  ]  
@@ -139,7 +154,7 @@ Melody = \relative g'' {
     %{  7 %} 	g16   [ bf,   ef    g      a,    c   ]  
     %{  8 %} 	f16   [ d     bf    g      bf    d   ]   
     %{  9 %} 	ef16  [ g,    c     ef     f,    a   ]   
-    %{100 %} 	d16   [ bf    g     e      g     bf  ]  
+    %{100 %} 	d16   [ bf    g     e!     g     bf  ]  
     %{  1 %} 	c16   [(a    )bf (  g)     fs    a ] |  
     %{  2 %} 	d,16  [(e     fs    g      a     bf )]   
     %{  3 %} 	c16   [(ef   )d  (  g)     fs (  bf) ]   
@@ -184,7 +199,7 @@ Melody = \relative g'' {
   \new Staff {
     % Layout Settings
     \override Score.BarNumber.break-visibility = #all-visible
-    \set Score.barNumberVisibility = #(every-nth-bar-number-visible 2)		% Print a bar number every second measure
+   % \set Score.barNumberVisibility = #(every-nth-bar-number-visible 2)		% Print a bar number every second measure
     \override Score.BarNumber.font-size = #-5
     \override Score.BarNumber.self-alignment-X = #CENTER
     %\override Score.BarNumber.direction = #DOWN

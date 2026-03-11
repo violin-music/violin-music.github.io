@@ -4,7 +4,7 @@
 
 SVG files are generated from LilyPond source files for web display. The naming convention is:
 
-```
+```text
 <basename>_page_1.svg    # First page
 <basename>_page_2.svg    # Second page (if multi-page)
 <basename>_page_3.svg    # Third page, etc.
@@ -13,14 +13,16 @@ SVG files are generated from LilyPond source files for web display. The naming c
 ### Examples
 
 **Single-page score:**
-```
+
+```text
 Tune-Name.ly           # Source file
 Tune-Name.midi         # MIDI for playback
 Tune-Name_page_1.svg   # SVG page
 ```
 
 **Multi-page score:**
-```
+
+```text
 Tune-Name.ly           # Source file
 Tune-Name.midi         # MIDI for playback
 Tune-Name_page_1.svg   # Page 1
@@ -29,7 +31,8 @@ Tune-Name_page_3.svg   # Page 3
 ```
 
 **With key suffix:**
-```
+
+```text
 Tune-Name_(Am).ly           # Source (A minor)
 Tune-Name_(Am).midi         # MIDI
 Tune-Name_(Am)_page_1.svg   # SVG page 1
@@ -48,13 +51,15 @@ Tune-Name_(Dm)_page_1.svg   # SVG page 1
 
 Use version suffixes when you have multiple arrangements or variations of the same tune:
 
-### Good Reasons for Versions:
+### Good Reasons for Versions
+
 - Different keys (e.g., D major vs G major)
 - Different arrangements (solo vs duet)
 - Simplified vs complete versions
 - Different styles (classical vs jazz arrangement)
 
-### Bad Reasons (Don't Create Versions):
+### Bad Reasons (Don't Create Versions)
+
 - Work in progress (just overwrite the file)
 - Temporary experiments (use a separate scratch folder)
 - Backup copies (use git for version control)
@@ -62,9 +67,10 @@ Use version suffixes when you have multiple arrangements or variations of the sa
 ## Naming Patterns
 
 ### Pattern 1: By Characteristic (Preferred)
+
 Use descriptive suffixes that indicate the difference:
 
-```
+```text
 Tune-Name-D.ly          (in D major)
 Tune-Name-G.ly          (in G major)
 Tune-Name-solo.ly       (solo arrangement)
@@ -76,7 +82,8 @@ Tune-Name-classical.ly  (classical arrangement)
 ```
 
 **Example:**
-```
+
+```text
 Auld-Lang-Syne/
   ├── Auld-Lang-Syne-D.ly       (in D major)
   ├── Auld-Lang-Syne-D.pdf
@@ -85,9 +92,10 @@ Auld-Lang-Syne/
 ```
 
 ### Pattern 2: By Iteration
+
 When you have sequential improvements without other distinguishing features:
 
-```
+```text
 Tune-Name-v1.ly
 Tune-Name-v2.ly
 Tune-Name-v3.ly
@@ -96,9 +104,10 @@ Tune-Name-v3.ly
 **Use sparingly** - descriptive names are better!
 
 ### Pattern 3: Combined
+
 When both characteristics and versions exist:
 
-```
+```text
 Tune-Name-solo-v1.ly
 Tune-Name-solo-v2.ly
 Tune-Name-duet-v1.ly
@@ -108,7 +117,7 @@ Tune-Name-duet-v1.ly
 
 Each tune should have ONE folder, with all versions inside:
 
-```
+```text
 The-Butterfly/
   ├── TheButterfly-v1.ly
   ├── TheButterfly-v1.pdf
@@ -123,7 +132,8 @@ The-Butterfly/
 
 Update the header to reflect the version:
 
-### Version 1 (Original):
+### Version 1 (Original)
+
 ```lilypond
 \header {
   title = "The Butterfly"
@@ -133,7 +143,8 @@ Update the header to reflect the version:
 }
 ```
 
-### Version 2 (Different Key):
+### Version 2 (Different Key)
+
 ```lilypond
 \header {
   title = "The Butterfly"
@@ -144,7 +155,8 @@ Update the header to reflect the version:
 }
 ```
 
-### Version 3 (Simplified):
+### Version 3 (Simplified)
+
 ```lilypond
 \header {
   title = "The Butterfly"
@@ -157,8 +169,9 @@ Update the header to reflect the version:
 
 ## What NOT to Do
 
-### ❌ Bad Examples:
-```
+### ❌ Bad Examples
+
+```text
 Tune-1.ly               % What's "1"? Use descriptive name
 Tune-2.ly
 Tune-copy.ly            % Don't use "copy"
@@ -169,8 +182,9 @@ Tune-20241125.ly        % Don't use dates
 Tune-backup.ly          % Use git, not manual backups
 ```
 
-### ❌ Multiple Folders:
-```
+### ❌ Multiple Folders
+
+```text
 The-Butterfly/          % Don't create separate folders
 The-Butterfly-v2/       % Keep all versions together
 The-Butterfly-simple/
@@ -178,7 +192,7 @@ The-Butterfly-simple/
 
 ## Renaming Existing Files
 
-### Current Files to Rename:
+### Current Files to Rename
 
 ```bash
 # Folk_Ireland/Up Sligo
@@ -199,7 +213,8 @@ gymnopedie.ly → Gymnopedie-v1.ly
 gymnopedie_v2.ly → Gymnopedie-v2.ly
 ```
 
-### How to Rename:
+### How to Rename
+
 ```bash
 # Navigate to folder
 cd "Folk_Ireland/Up Sligo"
@@ -220,7 +235,8 @@ mv up_sligo.midi Up-Sligo-v1.midi
 The enhanced index will show versions grouped together:
 
 **Table View:**
-```
+
+```text
 Title              Composer           Category        Files
 ─────────────────────────────────────────────────────────
 The Butterfly v1   Traditional Irish  Folk/Ireland    📝 PDF 🎵
@@ -240,15 +256,17 @@ Each version appears as a separate card with its own play button.
 
 ## Examples from Your Collection
 
-### Good Organization:
-```
+### Good Organization
+
+```text
 Folk_Scotland/Auld-Lang-Syne/
   ├── Auld-Lang-Syne_(in D).ly      ✅ Key specified
   ├── Auld-Lang-Syne_Jig.ly         ✅ Style specified
 ```
 
-### Needs Improvement:
-```
+### Needs Improvement
+
+```text
 Classical/Erik_Satie_Gymnopédie/
   ├── gymnopedie.ly                 ❌ No version indicator
   ├── gymnopedie_v2.ly              ❌ What's the difference?
@@ -262,7 +280,7 @@ SHOULD BE:
 ## Quick Reference
 
 | Situation | Suffix | Example |
-|-----------|--------|---------|
+| --------- | ------ | ------- |
 | Different key | `-D`, `-G`, etc. | `Tune-D.ly` |
 | Solo/duet | `-solo`, `-duet` | `Tune-solo.ly` |
 | Skill level | `-simple`, `-advanced` | `Tune-simple.ly` |

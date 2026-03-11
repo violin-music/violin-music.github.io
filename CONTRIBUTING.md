@@ -115,6 +115,7 @@ targetKey = g
 ## Directory Structure
 
 Place tunes in the appropriate directory:
+
 - `tunes/Classical/` - Classical music
 - `tunes/Folk_[Country]/` - Folk music by country (e.g., `Folk_Ireland`, `Folk_France`)
 - `tunes/Jazz/` - Jazz standards
