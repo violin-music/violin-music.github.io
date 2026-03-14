@@ -27,8 +27,14 @@
           "stem": "Bach_Bourrée-in-E-minor"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Bach_Bourrée-in-E-minor.svg"
+      ],
+      "midi_files": [
+        "Bach_Bourrée-in-E-minor.midi"
+      ],
+      "svg": "tunes/Classical/Bach_Bourr%C3%A9e-in-E-minor/Bach_Bourr%C3%A9e-in-E-minor.svg",
+      "midi": "tunes/Classical/Bach_Bourr%C3%A9e-in-E-minor/Bach_Bourr%C3%A9e-in-E-minor.midi"
     },
     {
       "title": "Darby O'Gill Fox Chase",
@@ -56,16 +62,25 @@
       "folder_path": "tunes/Folk_Ireland/Darby-O-Gill_Fox-Chase",
       "variants": [
         {
-          "filename": "Darby-O-Gill-Fox-Chase.ly",
-          "stem": "Darby-O-Gill-Fox-Chase"
-        },
-        {
           "filename": "darby.ly",
           "stem": "darby"
+        },
+        {
+          "filename": "Darby-O-Gill-Fox-Chase.ly",
+          "stem": "Darby-O-Gill-Fox-Chase"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Darby-O-Gill-Fox-Chase-1.svg",
+        "darby.svg",
+        "Darby-O-Gill-Fox-Chase-2.svg"
+      ],
+      "midi_files": [
+        "Darby-O-Gill-Fox-Chase.midi",
+        "darby.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Darby-O-Gill_Fox-Chase/Darby-O-Gill-Fox-Chase-1.svg",
+      "midi": "tunes/Folk_Ireland/Darby-O-Gill_Fox-Chase/Darby-O-Gill-Fox-Chase.midi"
     },
     {
       "title": "Dr. Gilbert's Reel",
@@ -101,8 +116,16 @@
           "stem": "drGilbert_1-1"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "drGilbert_1.svg",
+        "drGilbert_1-1.svg"
+      ],
+      "midi_files": [
+        "drGilbert_1-1.midi",
+        "drGilbert_1.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Dr-Gilbert/drGilbert_1.svg",
+      "midi": "tunes/Folk_Ireland/Dr-Gilbert/drGilbert_1-1.midi"
     },
     {
       "title": "Gary Owen",
@@ -130,14 +153,9 @@
       "folder_path": "tunes/Folk_Ireland/Gary-Owen",
       "variants": [
         {
-          "filename": "Gary-Owen_(G).ly",
-          "stem": "Gary-Owen_(G)",
-          "key_variant": "G"
-        },
-        {
-          "filename": "Gary-Owen_(D).ly",
-          "stem": "Gary-Owen_(D)",
-          "key_variant": "D"
+          "filename": "Gary-Owen_(Bb).ly",
+          "stem": "Gary-Owen_(Bb)",
+          "key_variant": "Bb"
         },
         {
           "filename": "Gary-Owen_(A).ly",
@@ -145,17 +163,35 @@
           "key_variant": "A"
         },
         {
+          "filename": "Gary-Owen_(D).ly",
+          "stem": "Gary-Owen_(D)",
+          "key_variant": "D"
+        },
+        {
           "filename": "Gary-Owen.ly",
           "stem": "Gary-Owen"
         },
         {
-          "filename": "Gary-Owen_(Bb).ly",
-          "stem": "Gary-Owen_(Bb)",
-          "key_variant": "Bb"
+          "filename": "Gary-Owen_(G).ly",
+          "stem": "Gary-Owen_(G)",
+          "key_variant": "G"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Gary-Owen_(G).svg",
+        "Gary-Owen_(Bb).svg",
+        "Gary-Owen_(A).svg",
+        "Gary-Owen_(D).svg",
+        "Gary-Owen.svg"
+      ],
+      "midi_files": [
+        "Gary-Owen_(G).midi",
+        "Gary-Owen_(A).midi",
+        "Gary-Owen_(Bb).midi",
+        "Gary-Owen_(D).midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Gary-Owen/Gary-Owen_%28G%29.svg",
+      "midi": "tunes/Folk_Ireland/Gary-Owen/Gary-Owen_%28G%29.midi"
     },
     {
       "title": "Martin Hayes Medley",
@@ -188,8 +224,14 @@
           "stem": "Irish-Martin-Hayes_Medley"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Irish-Martin-Hayes_Medley.svg"
+      ],
+      "midi_files": [
+        "Irish-Martin-Hayes_Medley.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Martin-Hayes-Unknown/Irish-Martin-Hayes_Medley.svg",
+      "midi": "tunes/Folk_Ireland/Martin-Hayes-Unknown/Irish-Martin-Hayes_Medley.midi"
     },
     {
       "title": "Molly Ban",
@@ -222,8 +264,15 @@
           "stem": "Molly-Ban"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Molly-Ban.svg"
+      ],
+      "midi_files": [
+        "Molly-Ban-1.midi",
+        "Molly-Ban.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Molly-Ban/Molly-Ban.svg",
+      "midi": "tunes/Folk_Ireland/Molly-Ban/Molly-Ban-1.midi"
     },
     {
       "title": "Paddy Fahey's Jig",
@@ -255,8 +304,14 @@
           "stem": "Paddy-Fahy-s-Jig"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Paddy-Fahy-s-Jig.svg"
+      ],
+      "midi_files": [
+        "Paddy-Fahy-s-Jig.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Paddy-Fahey%27s-Jig/Paddy-Fahy-s-Jig.svg",
+      "midi": "tunes/Folk_Ireland/Paddy-Fahey%27s-Jig/Paddy-Fahy-s-Jig.midi"
     },
     {
       "title": "Swallowtail Jig",
@@ -289,22 +344,29 @@
           "stem": "Swallowtail-Jig"
         },
         {
+          "filename": "Swallowtail-Jig_[Easy].ly",
+          "stem": "Swallowtail-Jig_[Easy]",
+          "arrangement": "Easy"
+        },
+        {
           "filename": "Swallowtail-Jig_[Easy]_(G).ly",
           "stem": "Swallowtail-Jig_[Easy]_(G)",
           "key_variant": "G",
           "arrangement": "Easy"
-        },
-        {
-          "filename": "Swallowtail-Jig_[Easy].ly",
-          "stem": "Swallowtail-Jig_[Easy]",
-          "arrangement": "Easy"
         }
       ],
-      "svg_files": [],
-      "midi_files": [
-        "Swallowtail-Jig.midi"
+      "svg_files": [
+        "Swallowtail-Jig.svg",
+        "Swallowtail-Jig_[Easy]_(G).svg",
+        "Swallowtail-Jig_[Easy].svg"
       ],
-      "midi": "tunes/Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig.midi"
+      "midi_files": [
+        "Swallowtail-Jig_[Easy].midi",
+        "Swallowtail-Jig.midi",
+        "Swallowtail-Jig_[Easy]_(G).midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig.svg",
+      "midi": "tunes/Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig_%5BEasy%5D.midi"
     },
     {
       "title": "Tam Lin",
@@ -337,8 +399,14 @@
           "stem": "tam-lin"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "tam-lin.svg"
+      ],
+      "midi_files": [
+        "tam-lin.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Tam-Lin/tam-lin.svg",
+      "midi": "tunes/Folk_Ireland/Tam-Lin/tam-lin.midi"
     },
     {
       "title": "The Britches Full of Stitches",
@@ -370,8 +438,15 @@
           "stem": "The-Britches-Full-of-Stitches"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Britches-Full-of-Stitches-2.svg",
+        "The-Britches-Full-of-Stitches-1.svg"
+      ],
+      "midi_files": [
+        "The-Britches-Full-of-Stitches.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Britches-Full-of-Stitches/The-Britches-Full-of-Stitches-2.svg",
+      "midi": "tunes/Folk_Ireland/The-Britches-Full-of-Stitches/The-Britches-Full-of-Stitches.midi"
     },
     {
       "title": "The Butterfly",
@@ -403,8 +478,14 @@
           "stem": "The-Butterfly"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Butterfly.svg"
+      ],
+      "midi_files": [
+        "The-Butterfly.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Butterfly/The-Butterfly.svg",
+      "midi": "tunes/Folk_Ireland/The-Butterfly/The-Butterfly.midi"
     },
     {
       "title": "The Connaughtman's Rambles",
@@ -436,8 +517,14 @@
           "stem": "The-Connaughtman's-Rambles"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Connaughtman's-Rambles.svg"
+      ],
+      "midi_files": [
+        "The-Connaughtman's-Rambles.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Connaughtman%27s-Rambles/The-Connaughtman%27s-Rambles.svg",
+      "midi": "tunes/Folk_Ireland/The-Connaughtman%27s-Rambles/The-Connaughtman%27s-Rambles.midi"
     },
     {
       "title": "The Gift of Falling",
@@ -470,8 +557,14 @@
           "stem": "The-Gift-of-Falling"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Gift-of-Falling.svg"
+      ],
+      "midi_files": [
+        "The-Gift-of-Falling.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Gift-of-Falling/The-Gift-of-Falling.svg",
+      "midi": "tunes/Folk_Ireland/The-Gift-of-Falling/The-Gift-of-Falling.midi"
     },
     {
       "title": "The Musical Priest",
@@ -503,8 +596,14 @@
           "stem": "The-Musical-Priest"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Musical-Priest.svg"
+      ],
+      "midi_files": [
+        "The-Musical-Priest.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Musical-Priest/The-Musical-Priest.svg",
+      "midi": "tunes/Folk_Ireland/The-Musical-Priest/The-Musical-Priest.midi"
     },
     {
       "title": "The Trip to Sligo",
@@ -536,8 +635,14 @@
           "stem": "The-Trip-To-Sligo-(Jig)"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Trip-To-Sligo-(Jig).svg"
+      ],
+      "midi_files": [
+        "The-Trip-To-Sligo-(Jig).midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Trip-To-Sligo-%28Jig%29/The-Trip-To-Sligo-%28Jig%29.svg",
+      "midi": "tunes/Folk_Ireland/The-Trip-To-Sligo-%28Jig%29/The-Trip-To-Sligo-%28Jig%29.midi"
     },
     {
       "title": "Trip to Pakistan",
@@ -569,8 +674,14 @@
           "stem": "trip-to-pakistan"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "trip-to-pakistan.svg"
+      ],
+      "midi_files": [
+        "trip-to-pakistan.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Trip-to-Pakistan/trip-to-pakistan.svg",
+      "midi": "tunes/Folk_Ireland/Trip-to-Pakistan/trip-to-pakistan.midi"
     },
     {
       "title": "Up Sligo",
@@ -604,7 +715,10 @@
         }
       ],
       "svg_files": [],
-      "midi_files": []
+      "midi_files": [
+        "Up-Sligo.midi"
+      ],
+      "midi": "tunes/Folk_Ireland/Up-Sligo/Up-Sligo.midi"
     },
     {
       "title": "Whiskey in the Jar",
@@ -637,8 +751,14 @@
           "stem": "Whiskey-in-the-Jar"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Whiskey-in-the-Jar.svg"
+      ],
+      "midi_files": [
+        "Whiskey-in-the-Jar.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Whiskey-in-the-Jar/Whiskey-in-the-Jar.svg",
+      "midi": "tunes/Folk_Ireland/Whiskey-in-the-Jar/Whiskey-in-the-Jar.midi"
     }
   ]
 }
