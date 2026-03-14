@@ -1,0 +1,644 @@
+{
+  "version": "1.0",
+  "generated": true,
+  "tune_count": 18,
+  "tunes": [
+    {
+      "title": "Bourrée in E minor",
+      "composer": "Johann Sebastian Bach (1685–1750)",
+      "country": "Germany",
+      "country_flag": "🇩🇪",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "folder_path": "tunes/Classical/Bach_Bourrée-in-E-minor",
+      "variants": [
+        {
+          "filename": "Bach_Bourrée-in-E-minor.ly",
+          "stem": "Bach_Bourrée-in-E-minor"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Darby O'Gill Fox Chase",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Character piece",
+      "key": "G major",
+      "time_sig": "2/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "character piece",
+        "programmatic"
+      ],
+      "moods": [
+        "playful",
+        "energetic"
+      ],
+      "session_friendliness": "Occasional",
+      "notes": "Programmatic piece depicting a fox hunt. Featured in the film Darby O'Gill and the Little People.",
+      "folder_path": "tunes/Folk_Ireland/Darby-O-Gill_Fox-Chase",
+      "variants": [
+        {
+          "filename": "Darby-O-Gill-Fox-Chase.ly",
+          "stem": "Darby-O-Gill-Fox-Chase"
+        },
+        {
+          "filename": "darby.ly",
+          "stem": "darby"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Dr. Gilbert's Reel",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish reel",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Reel",
+      "key": "D major",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "reel",
+        "session tune"
+      ],
+      "moods": [
+        "energetic",
+        "driving"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Classic Irish reel. Famous recording by Michael Coleman (1929).",
+      "folder_path": "tunes/Folk_Ireland/Dr-Gilbert",
+      "variants": [
+        {
+          "filename": "drGilbert_1.ly",
+          "stem": "drGilbert_1"
+        },
+        {
+          "filename": "drGilbert_1-1.ly",
+          "stem": "drGilbert_1-1"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Gary Owen",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish march",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "March",
+      "key": "D major",
+      "time_sig": "6/8",
+      "difficulty": "Intermediate",
+      "tags": [
+        "march",
+        "historical"
+      ],
+      "moods": [
+        "martial",
+        "upbeat"
+      ],
+      "session_friendliness": "Moderately common",
+      "notes": "Strong accents, simple patterns in D. Known as a cavalry march tune in US history.",
+      "folder_path": "tunes/Folk_Ireland/Gary-Owen",
+      "variants": [
+        {
+          "filename": "Gary-Owen_(G).ly",
+          "stem": "Gary-Owen_(G)",
+          "key_variant": "G"
+        },
+        {
+          "filename": "Gary-Owen_(D).ly",
+          "stem": "Gary-Owen_(D)",
+          "key_variant": "D"
+        },
+        {
+          "filename": "Gary-Owen_(A).ly",
+          "stem": "Gary-Owen_(A)",
+          "key_variant": "A"
+        },
+        {
+          "filename": "Gary-Owen.ly",
+          "stem": "Gary-Owen"
+        },
+        {
+          "filename": "Gary-Owen_(Bb).ly",
+          "stem": "Gary-Owen_(Bb)",
+          "key_variant": "Bb"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Martin Hayes Medley",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Medley",
+      "key": "Various",
+      "time_sig": "Various",
+      "difficulty": "Advanced",
+      "tags": [
+        "medley",
+        "slow air",
+        "reel"
+      ],
+      "moods": [
+        "expressive",
+        "contemplative"
+      ],
+      "session_friendliness": "Performance piece",
+      "notes": "Transcription/arrangement in the style of Martin Hayes. Expressive, rubato playing.",
+      "folder_path": "tunes/Folk_Ireland/Martin-Hayes-Unknown",
+      "variants": [
+        {
+          "filename": "Irish-Martin-Hayes_Medley.ly",
+          "stem": "Irish-Martin-Hayes_Medley"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Molly Ban",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish slow air",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Slow air / ballad",
+      "key": "E dorian",
+      "time_sig": "3/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "slow air",
+        "ballad",
+        "song"
+      ],
+      "moods": [
+        "tragic",
+        "mournful"
+      ],
+      "session_friendliness": "Moderately common",
+      "notes": "Requires flexible timing, strong expressive control, ornamentation. Also known as 'Molly Bawn'.",
+      "folder_path": "tunes/Folk_Ireland/Molly-Ban",
+      "variants": [
+        {
+          "filename": "Molly-Ban.ly",
+          "stem": "Molly-Ban"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Paddy Fahey's Jig",
+      "composer": "Paddy Fahey",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish jig",
+      "category": "Celtic/Irish",
+      "period": "20th century",
+      "type": "Jig",
+      "key": "D major",
+      "time_sig": "6/8",
+      "difficulty": "Intermediate",
+      "tags": [
+        "jig",
+        "session tune"
+      ],
+      "moods": [
+        "lively",
+        "traditional"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Composed by the legendary East Galway fiddler Paddy Fahey.",
+      "folder_path": "tunes/Folk_Ireland/Paddy-Fahey's-Jig",
+      "variants": [
+        {
+          "filename": "Paddy-Fahy-s-Jig.ly",
+          "stem": "Paddy-Fahy-s-Jig"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Swallowtail Jig",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish jig",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Jig",
+      "key": "E minor / D major",
+      "time_sig": "6/8",
+      "difficulty": "Early Intermediate",
+      "tags": [
+        "jig",
+        "session tune",
+        "beginner-friendly"
+      ],
+      "moods": [
+        "energetic",
+        "bright"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Classic jig bowing, repeated AABB form. Played widely in Em; considered beginner-friendly but can be ornamented.",
+      "folder_path": "tunes/Folk_Ireland/Swallowtail-Jig",
+      "variants": [
+        {
+          "filename": "Swallowtail-Jig.ly",
+          "stem": "Swallowtail-Jig"
+        },
+        {
+          "filename": "Swallowtail-Jig_[Easy]_(G).ly",
+          "stem": "Swallowtail-Jig_[Easy]_(G)",
+          "key_variant": "G",
+          "arrangement": "Easy"
+        },
+        {
+          "filename": "Swallowtail-Jig_[Easy].ly",
+          "stem": "Swallowtail-Jig_[Easy]",
+          "arrangement": "Easy"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": [
+        "Swallowtail-Jig.midi"
+      ],
+      "midi": "tunes/Folk_Ireland/Swallowtail-Jig/Swallowtail-Jig.midi"
+    },
+    {
+      "title": "Tam Lin",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Celtic ballad",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Reel / Song",
+      "key": "A minor",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "reel",
+        "ballad",
+        "celtic"
+      ],
+      "moods": [
+        "mysterious",
+        "dramatic"
+      ],
+      "session_friendliness": "Moderately common",
+      "notes": "Based on a Scottish/Irish border ballad. Also known as a reel version.",
+      "folder_path": "tunes/Folk_Ireland/Tam-Lin",
+      "variants": [
+        {
+          "filename": "tam-lin.ly",
+          "stem": "tam-lin"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "The Britches Full of Stitches",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish jig",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Jig",
+      "key": "G major",
+      "time_sig": "6/8",
+      "difficulty": "Early Intermediate",
+      "tags": [
+        "jig",
+        "session tune"
+      ],
+      "moods": [
+        "playful",
+        "lively"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Popular session jig with a memorable title.",
+      "folder_path": "tunes/Folk_Ireland/The-Britches-Full-of-Stitches",
+      "variants": [
+        {
+          "filename": "The-Britches-Full-of-Stitches.ly",
+          "stem": "The-Britches-Full-of-Stitches"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "The Butterfly",
+      "composer": "Tommy Potts",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish slip jig",
+      "category": "Celtic/Irish",
+      "period": "20th century",
+      "type": "Slip jig",
+      "key": "E minor",
+      "time_sig": "9/8",
+      "difficulty": "Intermediate-Advanced",
+      "tags": [
+        "slip jig",
+        "session tune"
+      ],
+      "moods": [
+        "dreamy",
+        "bittersweet"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Complex phrasing, ornaments, 9/8 groove. Many players treat it more as air-like slip jig.",
+      "folder_path": "tunes/Folk_Ireland/The-Butterfly",
+      "variants": [
+        {
+          "filename": "The-Butterfly.ly",
+          "stem": "The-Butterfly"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "The Connaughtman's Rambles",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish jig",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Jig",
+      "key": "G major",
+      "time_sig": "6/8",
+      "difficulty": "Intermediate",
+      "tags": [
+        "jig",
+        "session tune"
+      ],
+      "moods": [
+        "cheerful",
+        "energetic"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Classic session jig from Connacht region.",
+      "folder_path": "tunes/Folk_Ireland/The-Connaughtman's-Rambles",
+      "variants": [
+        {
+          "filename": "The-Connaughtman's-Rambles.ly",
+          "stem": "The-Connaughtman's-Rambles"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "The Gift of Falling",
+      "composer": "Contemporary",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Celtic contemporary",
+      "category": "Celtic/Irish",
+      "period": "Contemporary",
+      "type": "Air / Waltz",
+      "key": "D major",
+      "time_sig": "3/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "waltz",
+        "contemporary",
+        "lyrical"
+      ],
+      "moods": [
+        "contemplative",
+        "flowing"
+      ],
+      "session_friendliness": "Occasional",
+      "notes": "Contemporary Celtic piece with lyrical phrasing.",
+      "folder_path": "tunes/Folk_Ireland/The-Gift-of-Falling",
+      "variants": [
+        {
+          "filename": "The-Gift-of-Falling.ly",
+          "stem": "The-Gift-of-Falling"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "The Musical Priest",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish reel",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Reel",
+      "key": "B minor",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "reel",
+        "session tune"
+      ],
+      "moods": [
+        "driving",
+        "energetic"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Popular session reel, often paired with other reels in a set.",
+      "folder_path": "tunes/Folk_Ireland/The-Musical-Priest",
+      "variants": [
+        {
+          "filename": "The-Musical-Priest.ly",
+          "stem": "The-Musical-Priest"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "The Trip to Sligo",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish jig",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Jig",
+      "key": "D major",
+      "time_sig": "6/8",
+      "difficulty": "Intermediate",
+      "tags": [
+        "jig",
+        "session tune"
+      ],
+      "moods": [
+        "lively",
+        "cheerful"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Classic Irish jig named after County Sligo.",
+      "folder_path": "tunes/Folk_Ireland/The-Trip-To-Sligo-(Jig)",
+      "variants": [
+        {
+          "filename": "The-Trip-To-Sligo-(Jig).ly",
+          "stem": "The-Trip-To-Sligo-(Jig)"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Trip to Pakistan",
+      "composer": "Martin Hayes",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish reel",
+      "category": "Celtic/Irish",
+      "period": "Contemporary",
+      "type": "Reel",
+      "key": "A minor",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate-Advanced",
+      "tags": [
+        "reel",
+        "contemporary"
+      ],
+      "moods": [
+        "driving",
+        "modal"
+      ],
+      "session_friendliness": "Moderately common",
+      "notes": "Modern reel with modal character. Associated with Martin Hayes.",
+      "folder_path": "tunes/Folk_Ireland/Trip-to-Pakistan",
+      "variants": [
+        {
+          "filename": "trip-to-pakistan.ly",
+          "stem": "trip-to-pakistan"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Up Sligo",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish reel",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Reel",
+      "key": "D major",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "reel",
+        "session tune",
+        "sligo style"
+      ],
+      "moods": [
+        "energetic",
+        "driving"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Reel associated with the Sligo fiddle tradition.",
+      "folder_path": "tunes/Folk_Ireland/Up-Sligo",
+      "variants": [
+        {
+          "filename": "Up-Sligo.ly",
+          "stem": "Up-Sligo"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Whiskey in the Jar",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish ballad",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Song",
+      "key": "C major",
+      "time_sig": "4/4",
+      "difficulty": "Early Intermediate",
+      "tags": [
+        "song",
+        "ballad",
+        "pub song"
+      ],
+      "moods": [
+        "rowdy",
+        "storytelling"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Simple repetitive melody; great for group singing. Many lyric and melodic variants.",
+      "folder_path": "tunes/Folk_Ireland/Whiskey-in-the-Jar",
+      "variants": [
+        {
+          "filename": "Whiskey-in-the-Jar.ly",
+          "stem": "Whiskey-in-the-Jar"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    }
+  ]
+}

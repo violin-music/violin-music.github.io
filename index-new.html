@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <meta name="theme-color" content="#2d8a9f">
+    <title>Mouries' Music 🎵 (New)</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='0.9em' font-size='90'%3E🎵%3C/text%3E%3C/svg%3E">
+    <link rel="manifest" href="manifest.json">
+    <!-- Tone.js libraries for MIDI playback -->
+    <script src="https://unpkg.com/tone"></script>
+    <script src="https://unpkg.com/@tonejs/midi"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Additional styles for the new index */
+        .loading { text-align: center; padding: 2rem; color: #666; }
+        .error { text-align: center; padding: 2rem; color: #c00; }
+        .tune-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+            padding: 1rem 0;
+        }
+        .tune-card {
+            background: var(--card-bg, #fff);
+            border-radius: 12px;
+            padding: 1.25rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            cursor: pointer;
+        }
+        .tune-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+        }
+        .tune-card h3 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.1rem;
+            color: var(--text-color, #333);
+        }
+        .tune-card .composer {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+        .tune-card .meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 0.75rem;
+        }
+        .tune-card .tag {
+            background: var(--tag-bg, #e8f4f6);
+            color: var(--tag-color, #2d8a9f);
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+        }
+        .tune-card .actions {
+            display: flex;
+            gap: 0.5rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+        .tune-card .btn {
+            padding: 0.4rem 0.8rem;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.3rem;
+        }
+        .tune-card .btn-primary {
+            background: #2d8a9f;
+            color: white;
+        }
+        .tune-card .btn-secondary {
+            background: #e8f4f6;
+            color: #2d8a9f;
+        }
+        .tune-card .thumbnail {
+            width: 100%;
+            max-height: 150px;
+            object-fit: contain;
+            margin-bottom: 0.75rem;
+            border-radius: 8px;
+            background: #f5f5f5;
+        }
+        .filters-bar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            margin-bottom: 1.5rem;
+            padding: 1rem;
+            background: var(--filter-bg, #f8f9fa);
+            border-radius: 8px;
+        }
+        .filters-bar input, .filters-bar select {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 0.9rem;
+        }
+        .filters-bar input[type="search"] {
+            flex: 1;
+            min-width: 200px;
+        }
+        .stats-bar {
+            display: flex;
+            gap: 2rem;
+            margin-bottom: 1rem;
+            color: #666;
+        }
+        .stats-bar span {
+            font-size: 0.9rem;
+        }
+        .stats-bar strong {
+            color: #2d8a9f;
+        }
+        .difficulty-stars {
+            color: #f5a623;
+        }
+        .difficulty-stars .empty {
+            color: #ddd;
+        }
+        /* Dark mode */
+        [data-theme="dark"] {
+            --card-bg: #2a2a2a;
+            --text-color: #eee;
+            --filter-bg: #333;
+            --tag-bg: #3a5a6a;
+            --tag-color: #8fd4e8;
+        }
+        [data-theme="dark"] .tune-card .composer { color: #aaa; }
+        [data-theme="dark"] .filters-bar input,
+        [data-theme="dark"] .filters-bar select {
+            background: #444;
+            border-color: #555;
+            color: #eee;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mouries' Music 🎵</h1>
+        <p style="color: #666; margin-bottom: 1rem;">New JSON-driven index (testing)</p>
+
+        <div class="stats-bar" id="stats-bar">
+            <span>Loading...</span>
+        </div>
+
+        <div class="filters-bar">
+            <input type="search" id="search" placeholder="🔍 Search tunes..." oninput="filterTunes()">
+            <select id="category-filter" onchange="filterTunes()">
+                <option value="">All Categories</option>
+            </select>
+            <select id="country-filter" onchange="filterTunes()">
+                <option value="">All Countries</option>
+            </select>
+            <select id="difficulty-filter" onchange="filterTunes()">
+                <option value="">All Difficulties</option>
+                <option value="Beginner">Beginner</option>
+                <option value="Early Intermediate">Early Intermediate</option>
+                <option value="Intermediate">Intermediate</option>
+                <option value="Intermediate-Advanced">Intermediate-Advanced</option>
+                <option value="Advanced">Advanced</option>
+            </select>
+            <select id="mood-filter" onchange="filterTunes()">
+                <option value="">All Moods</option>
+            </select>
+            <button onclick="clearFilters()" style="padding: 0.5rem 1rem; cursor: pointer;">Clear</button>
+        </div>
+
+        <div id="content">
+            <div class="loading">Loading tunes catalog...</div>
+        </div>
+    </div>
+
+    <!-- MIDI Controls -->
+    <div id="midi-controls" class="midi-controls">
+        <h3 id="midi-title">🎵 Now Playing</h3>
+        <div class="midi-controls-buttons">
+            <button onclick="stopMidi()">⏹ Stop</button>
+        </div>
+    </div>
+
+    <script>
+        // Global state
+        let allTunes = [];
+        let filteredTunes = [];
+
+        // Load catalog on page load
+        document.addEventListener('DOMContentLoaded', loadCatalog);
+
+        async function loadCatalog() {
+            try {
+                const response = await fetch('tunes-catalog.json');
+                if (!response.ok) throw new Error('Failed to load catalog');
+
+                const catalog = await response.json();
+                allTunes = catalog.tunes || [];
+                filteredTunes = [...allTunes];
+
+                populateFilters();
+                updateStats();
+                renderTunes();
+
+            } catch (err) {
+                console.error('Error loading catalog:', err);
+                document.getElementById('content').innerHTML =
+                    `<div class="error">Error loading tunes catalog: ${err.message}<br>
+                    <small>Make sure tunes-catalog.json exists.</small></div>`;
+            }
+        }
+
+        function populateFilters() {
+            // Categories
+            const categories = [...new Set(allTunes.map(t => t.category).filter(Boolean))].sort();
+            const categorySelect = document.getElementById('category-filter');
+            categories.forEach(cat => {
+                const opt = document.createElement('option');
+                opt.value = cat;
+                opt.textContent = cat;
+                categorySelect.appendChild(opt);
+            });
+
+            // Countries
+            const countries = [...new Set(allTunes.map(t => t.country).filter(Boolean))].sort();
+            const countrySelect = document.getElementById('country-filter');
+            countries.forEach(country => {
+                const opt = document.createElement('option');
+                opt.value = country;
+                const flag = allTunes.find(t => t.country === country)?.country_flag || '🌍';
+                opt.textContent = `${flag} ${country}`;
+                countrySelect.appendChild(opt);
+            });
+
+            // Moods
+            const moods = [...new Set(allTunes.flatMap(t => t.moods || []))].sort();
+            const moodSelect = document.getElementById('mood-filter');
+            moods.forEach(mood => {
+                const opt = document.createElement('option');
+                opt.value = mood;
+                opt.textContent = mood;
+                moodSelect.appendChild(opt);
+            });
+        }
+
+        function filterTunes() {
+            const search = document.getElementById('search').value.toLowerCase();
+            const category = document.getElementById('category-filter').value;
+            const country = document.getElementById('country-filter').value;
+            const difficulty = document.getElementById('difficulty-filter').value;
+            const mood = document.getElementById('mood-filter').value;
+
+            filteredTunes = allTunes.filter(tune => {
+                // Search
+                if (search) {
+                    const searchFields = [
+                        tune.title,
+                        tune.composer,
+                        tune.country,
+                        tune.genre,
+                        tune.subgenre,
+                        ...(tune.tags || []),
+                        ...(tune.moods || [])
+                    ].join(' ').toLowerCase();
+                    if (!searchFields.includes(search)) return false;
+                }
+
+                // Category
+                if (category && tune.category !== category) return false;
+
+                // Country
+                if (country && tune.country !== country) return false;
+
+                // Difficulty
+                if (difficulty && !tune.difficulty?.includes(difficulty)) return false;
+
+                // Mood
+                if (mood && !(tune.moods || []).includes(mood)) return false;
+
+                return true;
+            });
+
+            updateStats();
+            renderTunes();
+        }
+
+        function clearFilters() {
+            document.getElementById('search').value = '';
+            document.getElementById('category-filter').value = '';
+            document.getElementById('country-filter').value = '';
+            document.getElementById('difficulty-filter').value = '';
+            document.getElementById('mood-filter').value = '';
+            filteredTunes = [...allTunes];
+            updateStats();
+            renderTunes();
+        }
+
+        function updateStats() {
+            const statsBar = document.getElementById('stats-bar');
+            const total = allTunes.length;
+            const showing = filteredTunes.length;
+            const withMidi = filteredTunes.filter(t => t.midi).length;
+            const withSvg = filteredTunes.filter(t => t.svg).length;
+
+            statsBar.innerHTML = `
+                <span><strong>${showing}</strong> of ${total} tunes</span>
+                <span><strong>${withSvg}</strong> with previews</span>
+                <span><strong>${withMidi}</strong> with MIDI</span>
+            `;
+        }
+
+        function renderTunes() {
+            const content = document.getElementById('content');
+
+            if (filteredTunes.length === 0) {
+                content.innerHTML = '<div class="loading">No tunes match your filters.</div>';
+                return;
+            }
+
+            const html = `
+                <div class="tune-grid">
+                    ${filteredTunes.map(tune => renderTuneCard(tune)).join('')}
+                </div>
+            `;
+            content.innerHTML = html;
+        }
+
+        function renderTuneCard(tune) {
+            const difficultyStars = renderDifficulty(tune.difficulty);
+            const tags = [
+                tune.type,
+                tune.subgenre,
+                ...(tune.tags || []).slice(0, 3)
+            ].filter(Boolean).slice(0, 4);
+
+            const thumbnail = tune.svg
+                ? `<img class="thumbnail" src="${tune.svg}" alt="${tune.title}" loading="lazy">`
+                : '';
+
+            const actions = [];
+            if (tune.midi) {
+                actions.push(`<button class="btn btn-primary" onclick="playMidi('${tune.midi}', '${escapeHtml(tune.title)}')">🎵 Play</button>`);
+            }
+            if (tune.svg) {
+                actions.push(`<a class="btn btn-secondary" href="${tune.svg}" target="_blank">📄 View</a>`);
+            }
+
+            return `
+                <div class="tune-card">
+                    ${thumbnail}
+                    <h3>${escapeHtml(tune.title)}</h3>
+                    <div class="composer">${escapeHtml(tune.composer)} ${tune.country_flag || ''}</div>
+                    <div class="meta">
+                        <span class="tag">${tune.category}</span>
+                        ${tune.key ? `<span class="tag">🎹 ${tune.key}</span>` : ''}
+                        ${tune.time_sig ? `<span class="tag">⏱ ${tune.time_sig}</span>` : ''}
+                        ${difficultyStars ? `<span class="tag">${difficultyStars}</span>` : ''}
+                    </div>
+                    ${tags.length ? `<div class="meta">${tags.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>` : ''}
+                    ${tune.notes ? `<p style="font-size: 0.8rem; color: #888; margin-top: 0.5rem;">${escapeHtml(tune.notes).substring(0, 100)}...</p>` : ''}
+                    <div class="actions">
+                        ${actions.join('')}
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderDifficulty(difficulty) {
+            if (!difficulty) return '';
+            const levels = {
+                'Beginner': 1,
+                'Early Intermediate': 2,
+                'Intermediate': 3,
+                'Intermediate-Advanced': 4,
+                'Advanced': 5
+            };
+            const level = levels[difficulty] || 3;
+            let stars = '';
+            for (let i = 1; i <= 5; i++) {
+                stars += i <= level ? '★' : '<span class="empty">★</span>';
+            }
+            return `<span class="difficulty-stars">${stars}</span>`;
+        }
+
+        function escapeHtml(str) {
+            if (!str) return '';
+            return str.replace(/&/g, '&amp;')
+                      .replace(/</g, '&lt;')
+                      .replace(/>/g, '&gt;')
+                      .replace(/"/g, '&quot;')
+                      .replace(/'/g, '&#039;');
+        }
+
+        // MIDI Player
+        let midiPlayer = {
+            part: null,
+            synth: null,
+            isPlaying: false,
+            currentFile: null
+        };
+
+        async function playMidi(midiPath, title) {
+            try {
+                await Tone.start();
+
+                if (midiPlayer.isPlaying) {
+                    Tone.Transport.stop();
+                    Tone.Transport.position = "0:0:0";
+                    midiPlayer.isPlaying = false;
+                }
+
+                if (midiPlayer.currentFile !== midiPath) {
+                    const midi = await Midi.fromUrl(midiPath);
+
+                    if (!midiPlayer.synth) {
+                        midiPlayer.synth = new Tone.PolySynth(Tone.Synth, {
+                            volume: -8,
+                            oscillator: { type: 'sine' },
+                            envelope: { attack: 0.005, decay: 0.1, sustain: 0.3, release: 1 }
+                        }).toDestination();
+                    }
+
+                    const notes = midi.tracks[0]?.notes || [];
+                    if (notes.length === 0) {
+                        alert('No notes found in MIDI file');
+                        return;
+                    }
+
+                    if (midiPlayer.part) midiPlayer.part.dispose();
+
+                    midiPlayer.part = new Tone.Part((time, note) => {
+                        midiPlayer.synth.triggerAttackRelease(note.name, note.duration, time, note.velocity);
+                    }, notes);
+
+                    midiPlayer.part.loop = false;
+                    midiPlayer.part.start(0);
+                    midiPlayer.currentFile = midiPath;
+                }
+
+                Tone.Transport.bpm.value = 120;
+                Tone.Transport.start();
+                midiPlayer.isPlaying = true;
+
+                document.getElementById('midi-title').textContent = '🎵 ' + title;
+                document.getElementById('midi-controls').classList.add('active');
+
+            } catch (err) {
+                console.error('MIDI error:', err);
+                alert('Error playing MIDI: ' + err.message);
+            }
+        }
+
+        function stopMidi() {
+            if (midiPlayer.isPlaying) {
+                Tone.Transport.stop();
+                Tone.Transport.position = "0:0:0";
+                midiPlayer.isPlaying = false;
+            }
+            document.getElementById('midi-controls').classList.remove('active');
+        }
+
+        // Theme toggle (basic)
+        function toggleTheme() {
+            const current = document.documentElement.getAttribute('data-theme');
+            document.documentElement.setAttribute('data-theme', current === 'dark' ? 'light' : 'dark');
+        }
+    </script>
+</body>
+</html>
