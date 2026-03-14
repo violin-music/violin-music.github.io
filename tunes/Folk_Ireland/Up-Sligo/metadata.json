@@ -1,0 +1,16 @@
+{
+  "title": "Up Sligo",
+  "composer": "Traditional",
+  "country": "Ireland",
+  "genre": "Folk",
+  "subgenre": "Irish reel",
+  "period": "Traditional",
+  "type": "Reel",
+  "key": "D major",
+  "time_sig": "4/4",
+  "difficulty": "Intermediate",
+  "tags": ["reel", "session tune", "sligo style"],
+  "moods": ["energetic", "driving"],
+  "session_friendliness": "Common",
+  "notes": "Reel associated with the Sligo fiddle tradition."
+}

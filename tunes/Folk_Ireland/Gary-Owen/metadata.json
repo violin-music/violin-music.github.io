@@ -1,0 +1,16 @@
+{
+  "title": "Gary Owen",
+  "composer": "Traditional",
+  "country": "Ireland",
+  "genre": "Folk",
+  "subgenre": "Irish march",
+  "period": "Traditional",
+  "type": "March",
+  "key": "D major",
+  "time_sig": "6/8",
+  "difficulty": "Intermediate",
+  "tags": ["march", "historical"],
+  "moods": ["martial", "upbeat"],
+  "session_friendliness": "Moderately common",
+  "notes": "Strong accents, simple patterns in D. Known as a cavalry march tune in US history."
+}

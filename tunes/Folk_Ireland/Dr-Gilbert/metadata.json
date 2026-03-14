@@ -1,0 +1,16 @@
+{
+  "title": "Dr. Gilbert's Reel",
+  "composer": "Traditional",
+  "country": "Ireland",
+  "genre": "Folk",
+  "subgenre": "Irish reel",
+  "period": "Traditional",
+  "type": "Reel",
+  "key": "D major",
+  "time_sig": "4/4",
+  "difficulty": "Intermediate",
+  "tags": ["reel", "session tune"],
+  "moods": ["energetic", "driving"],
+  "session_friendliness": "Common",
+  "notes": "Classic Irish reel. Famous recording by Michael Coleman (1929)."
+}

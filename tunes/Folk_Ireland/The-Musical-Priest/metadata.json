@@ -1,0 +1,16 @@
+{
+  "title": "The Musical Priest",
+  "composer": "Traditional",
+  "country": "Ireland",
+  "genre": "Folk",
+  "subgenre": "Irish reel",
+  "period": "Traditional",
+  "type": "Reel",
+  "key": "B minor",
+  "time_sig": "4/4",
+  "difficulty": "Intermediate",
+  "tags": ["reel", "session tune"],
+  "moods": ["driving", "energetic"],
+  "session_friendliness": "Very common",
+  "notes": "Popular session reel, often paired with other reels in a set."
+}
