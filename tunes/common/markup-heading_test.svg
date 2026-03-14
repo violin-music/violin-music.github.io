@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(5.6906, 8.8989)">
+<text font-family="serif" font-weight="bold" font-size="3.4929" text-anchor="start" fill="currentColor">
+<tspan>Heading 1</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 15.8808)">
+<text font-family="serif" font-weight="bold" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>Heading 2</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 20.4682)">
+<text font-family="serif" font-weight="bold" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Heading 3</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 27.1105)">
+<text font-family="serif" font-weight="bold" font-size="3.4929" text-anchor="start" fill="currentColor">
+<tspan>My Section 1</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 34.0925)">
+<text font-family="serif" font-weight="bold" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>My Section 2</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 38.6798)">
+<text font-family="serif" font-weight="bold" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>My Section 3</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 41.9014)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Line 1</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 44.9014)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Line 2</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 47.9014)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Line 3</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 50.0654)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Line 1</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 51.7294)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Line 2</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 53.3934)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Line 3</tspan>
+</text>
+</g>
+<g transform="translate(28.8852, 165.1063)">
+<a xlink:href="https://lilypond.org/">
+<rect x="0.0000" y="-0.4888" width="61.7311" height="2.1603" fill="none" stroke="none" stroke-width="0.0"/>
+</a>
+</g>
+<g transform="translate(28.8852, 165.1063)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Music engraving by LilyPond 2.24.3—www.lilypond.org</tspan>
+</text>
+</g>
+</svg>

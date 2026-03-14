@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(5.6906, 13.2280)">
+<rect x="16.7453" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(54.7561, 10.2280)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(46.4560, 10.2280)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(38.1903, 10.2280)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(28.9864, 10.2280)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(14.2264, 12.2280)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="40.6697" y2="0"/>
+</g>
+<g transform="translate(14.2264, 11.2280)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="40.6697" y2="0"/>
+</g>
+<g transform="translate(14.2264, 10.2280)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="40.6697" y2="0"/>
+</g>
+<g transform="translate(14.2264, 9.2280)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="40.6697" y2="0"/>
+</g>
+<g transform="translate(14.2264, 8.2280)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="40.6697" y2="0"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/lilypond_fonts/LilyJAZZ/jazz_chord_test.ly:20:10:33">
+<g transform="translate(48.6960, 11.7280)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/lilypond_fonts/LilyJAZZ/jazz_chord_test.ly:16:42:50">
+<g transform="translate(48.6960, 6.5943)">
+<text font-family="lilyjazzchord" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+<g transform="translate(50.3008, 5.9943)">
+<path transform="scale(0.0045, -0.0045)" d="M0 120c0 8 5 14 12 17l47 17v160c0 10 8 18 18 18s18 -8 18 -18v-148l85 31v160c0 10 8 18 18 18s18 -8 18 -18v-148l35 13c2 1 4 1 6 1c9 0 18 -8 18 -18v-62c0 -8 -5 -14 -12 -17l-47 -17v-162l35 13c2 1 4 1 6 1c9 0 18 -8 18 -18v-63c0 -8 -5 -14 -12 -17l-47 -17
+v-160c0 -10 -8 -18 -18 -18s-18 8 -18 18v148l-85 -31v-160c0 -10 -8 -18 -18 -18s-18 8 -18 18v148l-35 -13c-2 -1 -4 -1 -6 -1c-9 0 -18 8 -18 18v62c0 8 5 14 12 17l47 17v162l-35 -13c-2 -1 -4 -1 -6 -1c-9 0 -18 8 -18 18v63zM180 96l-85 -30v-162l85 30v162z" fill="currentColor"/>
+</g>
+<g transform="translate(51.5355, 5.3344)">
+<text font-family="lilyjazzchord" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>5></tspan>
+</text>
+</g>
+</a>
+<g transform="translate(47.2460, 11.7280)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/lilypond_fonts/LilyJAZZ/jazz_chord_test.ly:20:4:17">
+<g transform="translate(31.0764, 12.7280)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/lilypond_fonts/LilyJAZZ/jazz_chord_test.ly:16:14:22">
+<g transform="translate(31.0764, 6.5943)">
+<text font-family="lilyjazzchord" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+<g transform="translate(33.4472, 6.2943)">
+<path transform="scale(0.0045, -0.0045)" d="M26 43l-1 -68v-11c0 -22 0 -44 3 -66c46 38 95 80 95 139c0 34 -14 68 -44 68c-31 0 -52 -29 -53 -62zM-14 -137l-12 598c8 5 17 6 26 6s18 -1 26 -6l-7 -348c25 20 57 32 90 32c52 0 91 -47 91 -101c0 -81 -88 -118 -150 -169c-15 -12 -22 -35 -42 -35
+c-12 0 -22 10 -22 23z" fill="currentColor"/>
+</g>
+<g transform="translate(34.3452, 5.3344)">
+<text font-family="lilyjazzchord" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>7dim</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(19.2264, 10.2280)">
+<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
+c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
+</g>
+<g transform="translate(15.0264, 11.2280)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/lilypond_fonts/LilyJAZZ/jazz_chord_test.ly:20:1:9">
+<g transform="translate(22.9264, 13.2280)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/lilypond_fonts/LilyJAZZ/jazz_chord_test.ly:16:1:9">
+<g transform="translate(22.9264, 6.5943)">
+<text font-family="lilyjazzchord" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+<g transform="translate(24.8725, 5.3344)">
+<text font-family="lilyjazzchord" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>dim.</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/lilypond_fonts/LilyJAZZ/jazz_chord_test.ly:20:8:25">
+<g transform="translate(40.3960, 12.2280)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/lilypond_fonts/LilyJAZZ/jazz_chord_test.ly:16:31:39">
+<g transform="translate(40.3960, 6.5943)">
+<text font-family="lilyjazzchord" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+<g transform="translate(42.1373, 5.3344)">
+<text font-family="lilyjazzchord" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>aug.</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(29.9264, 12.7280)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(28.8852, 165.1063)">
+<a xlink:href="https://lilypond.org/">
+<rect x="0.0000" y="-0.4888" width="61.7311" height="2.1603" fill="none" stroke="none" stroke-width="0.0"/>
+</a>
+</g>
+<g transform="translate(28.8852, 165.1063)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Music engraving by LilyPond 2.24.3—www.lilypond.org</tspan>
+</text>
+</g>
+</svg>

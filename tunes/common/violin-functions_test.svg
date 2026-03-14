@@ -1,0 +1,1209 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(19.7348, 6.4989)">
+<text font-family="serif" font-weight="bold" font-size="3.4929" text-anchor="start" fill="currentColor">
+<tspan>Violin &amp; Common Functions for Lilypond</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 9.4464)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Presents</tspan>
+</text>
+</g>
+<g transform="translate(15.9873, 9.4464)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>using</tspan>
+</text>
+</g>
+<g transform="translate(22.6989, 9.4464)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>lilypond</tspan>
+</text>
+</g>
+<g transform="translate(32.2444, 9.4464)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>as</tspan>
+</text>
+</g>
+<g transform="translate(35.2686, 9.4464)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>a</tspan>
+</text>
+</g>
+<g transform="translate(37.1661, 9.4464)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>string</tspan>
+</text>
+</g>
+<g transform="translate(44.3899, 9.4464)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>player.</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 12.4351)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Description</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 12.4351)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0000" y1="0.2000" x2="12.9745" y2="0.2000"/>
+</g>
+<g transform="translate(39.4241, 12.4351)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Example</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 12.4351)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0000" y1="0.2000" x2="9.6284" y2="0.2000"/>
+</g>
+<g transform="translate(65.8820, 12.4351)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Syntax</tspan>
+</text>
+</g>
+<g transform="translate(65.8820, 12.4351)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0000" y1="0.2000" x2="7.5798" y2="0.2000"/>
+</g>
+<g transform="translate(5.6906, 18.4801)">
+<text font-family="serif" font-weight="bold" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Fingering: The '-' a shift.</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 20.4801)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="23.9601" y2="0"/>
+</g>
+<g transform="translate(39.4241, 19.4801)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="23.9601" y2="0"/>
+</g>
+<g transform="translate(39.4241, 18.4801)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="23.9601" y2="0"/>
+</g>
+<g transform="translate(39.4241, 17.4801)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="23.9601" y2="0"/>
+</g>
+<g transform="translate(39.4241, 16.4801)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="23.9601" y2="0"/>
+</g>
+<g transform="translate(39.4241, 14.4801)">
+<rect x="19.3433" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 15.4801)">
+<rect x="19.3433" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 14.4801)">
+<rect x="15.0679" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 15.4801)">
+<rect x="15.0679" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 15.4801)">
+<rect x="9.7311" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 15.4801)">
+<rect x="5.4557" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(53.6321, 18.4801)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(63.2443, 18.4801)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(54.9013, 18.4801)">
+<rect x="-0.0650" y="-3.7410" width="0.1300" height="3.7410" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:53:21:22">
+<g transform="translate(59.1117, 13.9801)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(59.1767, 18.4801)">
+<rect x="-0.0650" y="-4.2410" width="0.1300" height="4.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:53:21:22">
+<g transform="translate(45.2241, 15.4801)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.2241, 19.4801)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(45.2891, 18.4801)">
+<rect x="-0.0650" y="-2.7410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:53:21:22">
+<g transform="translate(49.4995, 14.9801)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(49.5645, 18.4801)">
+<rect x="-0.0650" y="-3.2410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:53:21:22">
+<g transform="translate(54.8363, 14.4801)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(65.8820, 18.4801)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>\restez {music}</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 26.5301)">
+<text font-family="serif" font-weight="bold" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Bend/Slide</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 28.5301)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="16.9941" y2="0"/>
+</g>
+<g transform="translate(39.4241, 27.5301)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="16.9941" y2="0"/>
+</g>
+<g transform="translate(39.4241, 26.5301)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="16.9941" y2="0"/>
+</g>
+<g transform="translate(39.4241, 25.5301)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="16.9941" y2="0"/>
+</g>
+<g transform="translate(39.4241, 24.5301)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="16.9941" y2="0"/>
+</g>
+<g transform="translate(47.6291, 26.5301)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:22:9:10">
+<g transform="translate(39.4241, 26.5301)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="11.8920" y1="-2.2488" x2="13.6095" y2="-1.2512"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:22:18:19">
+<g transform="translate(53.4659, 25.5301)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(53.5309, 26.5301)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:21:9:10">
+<g transform="translate(39.4241, 26.5301)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="5.9902" y1="-1.2512" x2="7.7077" y2="-2.2488"/>
+</g>
+</a>
+<g transform="translate(40.2241, 27.5301)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:21:18:19">
+<g transform="translate(47.5641, 24.0301)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(65.8820, 26.5301)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>\slide{&lt;start note> &lt;target note>}</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 34.0311)">
+<text font-family="serif" font-weight="bold" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Bowing</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 36.0311)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="14.5450" y2="0"/>
+</g>
+<g transform="translate(39.4241, 35.0311)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="14.5450" y2="0"/>
+</g>
+<g transform="translate(39.4241, 34.0311)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="14.5450" y2="0"/>
+</g>
+<g transform="translate(39.4241, 33.0311)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="14.5450" y2="0"/>
+</g>
+<g transform="translate(39.4241, 32.0311)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="14.5450" y2="0"/>
+</g>
+<g transform="translate(53.8291, 34.0311)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:61:21:22">
+<g transform="translate(49.7495, 33.0311)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:61:21:22">
+<g transform="translate(50.4382, 31.7311)">
+<path transform="scale(0.0032, -0.0032)" d="M122 505c3 9 11 15 20 15c11 0 20 -9 20 -20c0 -2 1 -4 0 -6l-142 -479c-3 -9 -11 -15 -20 -15s-17 6 -20 15l-142 479c-1 2 0 4 0 6c0 11 9 20 20 20c9 0 17 -6 20 -15l85 -287l37 -161l37 161z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(49.8145, 34.0311)">
+<rect x="-0.0650" y="-0.7410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(45.2891, 34.0311)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.0743" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:61:21:22">
+<g transform="translate(45.2241, 34.0311)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:61:21:22">
+<g transform="translate(45.9128, 31.7311)">
+<path transform="scale(0.0040, -0.0040)" d="M-178 333h356c6 0 10 -4 10 -10v-308c0 -8 -7 -15 -15 -15s-16 7 -16 15v185h-314v-185c0 -8 -7 -15 -15 -15s-16 7 -16 15v308c0 6 4 10 10 10z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.2241, 35.0311)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(65.8820, 34.0311)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>\b2\db  d2\ub</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 41.3811)">
+<text font-family="serif" font-weight="bold" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Glissando</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 44.3811)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>The default glissando is too short. </tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 47.3811)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>The glissSize function allows to set </tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 50.3811)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>a custom length. Ex. \glissSize #5 a e </tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 43.3811)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="18.1318" y2="0"/>
+</g>
+<g transform="translate(39.4241, 42.3811)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="18.1318" y2="0"/>
+</g>
+<g transform="translate(39.4241, 41.3811)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="18.1318" y2="0"/>
+</g>
+<g transform="translate(39.4241, 40.3811)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="18.1318" y2="0"/>
+</g>
+<g transform="translate(39.4241, 39.3811)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="18.1318" y2="0"/>
+</g>
+<g transform="translate(57.4159, 41.3811)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:73:21:22">
+<g transform="translate(51.2104, 41.8811)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:73:21:22">
+<g transform="translate(39.4241, 41.3811)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="7.5839" y1="-0.3588" x2="8.3226" y2="-0.1412"/>
+</g>
+</a>
+<g transform="translate(52.4496, 41.3811)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:73:21:22">
+<g transform="translate(54.2127, 42.3811)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(55.4519, 41.3811)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:73:21:22">
+<g transform="translate(45.2241, 40.8811)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.2241, 42.3811)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(45.2891, 41.3811)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:73:21:22">
+<g transform="translate(48.2264, 41.3811)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(48.2914, 41.3811)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(65.8820, 41.3811)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>c4^\rit  b a g</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 54.5690)">
+<text font-family="serif" font-weight="bold" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Harmonics</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 56.5690)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="11.3380" y2="0"/>
+</g>
+<g transform="translate(39.4241, 55.5690)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="11.3380" y2="0"/>
+</g>
+<g transform="translate(39.4241, 54.5690)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="11.3380" y2="0"/>
+</g>
+<g transform="translate(39.4241, 53.5690)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="11.3380" y2="0"/>
+</g>
+<g transform="translate(39.4241, 52.5690)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="11.3380" y2="0"/>
+</g>
+<g transform="translate(50.6222, 54.5690)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(40.2241, 55.5690)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:36:15:30">
+<g transform="translate(45.8741, 51.9190)">
+<path transform="scale(0.0040, -0.0040)" d="M0 100c55 0 100 -45 100 -100s-45 -100 -100 -100s-100 45 -100 100s45 100 100 100zM0 75c-41 0 -75 -34 -75 -75s34 -75 75 -75s75 34 75 75s-34 75 -75 75z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:36:3:18">
+<g transform="translate(45.2241, 53.5690)">
+<path transform="scale(0.0040, -0.0040)" d="M87 51c-2 -2 -3 -4 -3 -6s1 -5 3 -7l109 -120c2 -2 4 -4 7 -4s5 2 7 4l28 31c2 2 3 4 3 6s-1 5 -3 7l-109 120c-2 2 -4 4 -7 4s-5 -2 -7 -4zM0 0c0 11 65 55 155 175c2 2 5 4 8 4c12 0 46 -67 159 -172c2 -2 3 -4 3 -7c0 -11 -65 -55 -155 -175c-2 -2 -4 -4 -7 -4
+c-12 0 -47 67 -160 172c-2 2 -3 4 -3 7z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(65.8820, 54.5690)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>d,\harmonic></tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 63.7865)">
+<text font-family="serif" font-weight="bold" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Fingering with shift</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 66.7865)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>Print a finger number preceded by </tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 69.7865)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>'‒' to indicate a shift.</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 65.7865)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="26.4078" y2="0"/>
+</g>
+<g transform="translate(39.4241, 64.7865)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="26.4078" y2="0"/>
+</g>
+<g transform="translate(39.4241, 63.7865)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="26.4078" y2="0"/>
+</g>
+<g transform="translate(39.4241, 62.7865)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="26.4078" y2="0"/>
+</g>
+<g transform="translate(39.4241, 61.7865)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="26.4078" y2="0"/>
+</g>
+<g transform="translate(65.6920, 63.7865)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(54.3381, 63.7865)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 60.7865)">
+<rect x="23.0824" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 60.7865)">
+<rect x="11.7285" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(59.6453, 63.7865)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:31:14:15">
+<g transform="translate(59.5803, 61.2865)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(55.1281, 61.7865)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(56.6431, 63.7865)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(62.8976, 63.7865)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:31:31:32">
+<g transform="translate(61.8808, 66.8691)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0" y1="0" x2="0.9000" y2="0"/>
+</g>
+<g transform="translate(62.9808, 67.4191)">
+<path transform="scale(0.0022, -0.0022)" d="M94 66c-60 0 -39 -66 -72 -66c-11 0 -22 7 -22 21c0 154 232 162 232 334c0 50 -17 102 -61 102c-33 0 -66 -14 -66 -44c0 -24 31 -37 31 -61c0 -34 -27 -61 -61 -61s-61 27 -61 61c0 84 72 148 157 148c98 0 190 -55 190 -145c0 -140 -131 -154 -225 -205
+c85 -2 113 -61 165 -61c45 0 28 41 57 41c11 0 22 -8 22 -21c0 -29 -48 -109 -144 -109c-92 0 -96 66 -142 66z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:31:18:19">
+<g transform="translate(61.8808, 58.7315)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0" y1="0" x2="0.9000" y2="0"/>
+</g>
+<g transform="translate(62.9808, 59.2815)">
+<path transform="scale(0.0022, -0.0022)" d="M94 66c-60 0 -39 -66 -72 -66c-11 0 -22 7 -22 21c0 154 232 162 232 334c0 50 -17 102 -61 102c-33 0 -66 -14 -66 -44c0 -24 31 -37 31 -61c0 -34 -27 -61 -61 -61s-61 27 -61 61c0 84 72 148 157 148c98 0 190 -55 190 -145c0 -140 -131 -154 -225 -205
+c85 -2 113 -61 165 -61c45 0 28 41 57 41c11 0 22 -8 22 -21c0 -29 -48 -109 -144 -109c-92 0 -96 66 -142 66z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:31:16:17">
+<g transform="translate(62.8326, 60.2865)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(48.2914, 63.7865)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(43.7741, 61.7865)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:30:14:15">
+<g transform="translate(48.2264, 61.2865)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(45.2891, 63.7865)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(40.2241, 64.7865)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:30:11:12">
+<g transform="translate(45.4665, 60.7415)">
+<path transform="scale(0.0022, -0.0022)" d="M194 486c16 0 29 15 41 15c13 0 24 -13 24 -31v-341c0 -47 35 -86 81 -86c14 0 21 -10 21 -21s-7 -22 -21 -22c-49 0 -97 14 -146 14s-96 -14 -145 -14c-14 0 -22 11 -22 22s8 21 22 21c46 0 80 39 80 86v137c0 23 -16 35 -30 35c-7 0 -13 -4 -17 -11l-34 -65
+c-5 -10 -14 -15 -23 -15c-14 0 -28 12 -28 27c0 4 1 8 3 13l129 250c2 4 7 6 11 6c18 0 37 -20 54 -20z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:30:8:9">
+<g transform="translate(45.2241, 61.7865)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:31:11:12">
+<g transform="translate(56.8204, 60.7415)">
+<path transform="scale(0.0022, -0.0022)" d="M194 486c16 0 29 15 41 15c13 0 24 -13 24 -31v-341c0 -47 35 -86 81 -86c14 0 21 -10 21 -21s-7 -22 -21 -22c-49 0 -97 14 -146 14s-96 -14 -145 -14c-14 0 -22 11 -22 22s8 21 22 21c46 0 80 39 80 86v137c0 23 -16 35 -30 35c-7 0 -13 -4 -17 -11l-34 -65
+c-5 -10 -14 -15 -23 -15c-14 0 -28 12 -28 27c0 4 1 8 3 13l129 250c2 4 7 6 11 6c18 0 37 -20 54 -20z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:31:8:9">
+<g transform="translate(56.5781, 61.7865)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.5437, 63.7865)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:30:18:19">
+<g transform="translate(51.1790, 58.6915)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0" y1="0" x2="0.9000" y2="0"/>
+</g>
+<g transform="translate(52.2790, 59.2415)">
+<path transform="scale(0.0022, -0.0022)" d="M94 66c-60 0 -39 -66 -72 -66c-11 0 -22 7 -22 21c0 154 232 162 232 334c0 50 -17 102 -61 102c-33 0 -66 -14 -66 -44c0 -24 31 -37 31 -61c0 -34 -27 -61 -61 -61s-61 27 -61 61c0 84 72 148 157 148c98 0 190 -55 190 -145c0 -140 -131 -154 -225 -205
+c85 -2 113 -61 165 -61c45 0 28 41 57 41c11 0 22 -8 22 -21c0 -29 -48 -109 -144 -109c-92 0 -96 66 -142 66z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:30:28:29">
+<g transform="translate(51.1790, 66.9090)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0" y1="0" x2="0.9000" y2="0"/>
+</g>
+<g transform="translate(52.2790, 67.4590)">
+<path transform="scale(0.0022, -0.0022)" d="M94 66c-60 0 -39 -66 -72 -66c-11 0 -22 7 -22 21c0 154 232 162 232 334c0 50 -17 102 -61 102c-33 0 -66 -14 -66 -44c0 -24 31 -37 31 -61c0 -34 -27 -61 -61 -61s-61 27 -61 61c0 84 72 148 157 148c98 0 190 -55 190 -145c0 -140 -131 -154 -225 -205
+c85 -2 113 -61 165 -61c45 0 28 41 57 41c11 0 22 -8 22 -21c0 -29 -48 -109 -144 -109c-92 0 -96 66 -142 66z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:30:16:17">
+<g transform="translate(51.4787, 60.2865)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(65.8820, 63.7865)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>f4-1 g b4-\shift-2 _\shift-2 a4</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 77.4810)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Restez</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 79.4810)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="22.8734" y2="0"/>
+</g>
+<g transform="translate(39.4241, 78.4810)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="22.8734" y2="0"/>
+</g>
+<g transform="translate(39.4241, 77.4810)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="22.8734" y2="0"/>
+</g>
+<g transform="translate(39.4241, 76.4810)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="22.8734" y2="0"/>
+</g>
+<g transform="translate(39.4241, 75.4810)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="22.8734" y2="0"/>
+</g>
+<g transform="translate(39.4241, 74.4810)">
+<rect x="12.1343" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 73.4810)">
+<rect x="9.6301" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 74.4810)">
+<rect x="9.6301" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 72.4810)">
+<rect x="5.6250" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 73.4810)">
+<rect x="5.4739" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 74.4810)">
+<rect x="5.4739" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(62.1575, 77.4810)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:96:21:22">
+<g transform="translate(59.7472, 77.9810)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(57.5579, 77.4810)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.0436" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:96:21:22">
+<g transform="translate(57.4929, 76.4810)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(53.7887, 75.4810)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(55.3037, 77.4810)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.4795" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:96:21:22">
+<g transform="translate(55.2387, 75.4810)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.8845, 78.2910)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.9526 1.8000 7.9526 2.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:96:21:22">
+<g transform="translate(51.8845, 77.4810)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8289 -4.0450C2.8872 -4.6390 7.7554 -2.4719 8.6915 -0.5450L8.6915 -0.5450C7.7066 -2.3623 2.8384 -4.5293 0.8289 -4.0450z"/>
+</g>
+</a>
+<g transform="translate(39.4241, 72.2868)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="18.5132" y1="-0.0000" x2="20.7483" y2="-0.0000"/>
+</g>
+<g transform="translate(60.2225, 72.2868)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0" y1="0" x2="0" y2="0.5000"/>
+</g>
+<g transform="translate(52.7134, 72.2868)">
+<text font-family="serif" font-style="italic" font-size="1.5552" text-anchor="start" fill="currentColor">
+<tspan>Restez</tspan>
+</text>
+</g>
+<g transform="translate(59.8122, 77.4810)">
+<rect x="-0.0650" y="0.6861" width="0.1300" height="2.1076" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(45.2891, 77.4810)">
+<rect x="-0.0650" y="-5.3139" width="0.1300" height="5.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(43.7741, 71.9810)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(46.9783, 71.9810)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(40.2241, 78.4810)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:96:21:22">
+<g transform="translate(45.4153, 70.9360)">
+<path transform="scale(0.0022, -0.0022)" d="M148 501c10 0 41 -15 72 -15c32 0 63 15 76 15c15 0 26 -11 26 -21c0 -4 -1 -7 -4 -10l-264 -291h134v4c0 60 50 41 75 85c7 11 8 24 14 36c3 7 10 10 17 10c11 0 24 -8 24 -25v-110h70c18 0 27 -14 27 -27s-9 -27 -27 -27h-70c2 -45 36 -82 80 -82c14 0 22 -10 22 -21
+s-8 -22 -22 -22c-49 0 -96 14 -145 14s-97 -14 -146 -14c-14 0 -21 11 -21 22s7 21 21 21c44 0 79 37 81 82h-134c-43 0 -57 25 -57 42c0 5 1 10 3 12c73 81 123 182 123 291c0 17 11 31 25 31z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:96:21:22">
+<g transform="translate(45.2241, 71.9810)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(49.5103, 77.4410)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(51.9495, 77.4810)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.6402" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:96:21:22">
+<g transform="translate(51.8845, 74.4810)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(49.4453, 77.4810)">
+<rect x="-0.0650" y="-4.3139" width="0.1300" height="4.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:96:21:22">
+<g transform="translate(49.3803, 72.9810)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(65.8820, 77.4810)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>\restez {music}</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 87.1538)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Restez: finger</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 89.1538)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="15.5168" y2="0"/>
+</g>
+<g transform="translate(39.4241, 88.1538)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="15.5168" y2="0"/>
+</g>
+<g transform="translate(39.4241, 87.1538)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="15.5168" y2="0"/>
+</g>
+<g transform="translate(39.4241, 86.1538)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="15.5168" y2="0"/>
+</g>
+<g transform="translate(39.4241, 85.1538)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="15.5168" y2="0"/>
+</g>
+<g transform="translate(48.7176, 87.1538)">
+<rect x="-0.0650" y="-4.0000" width="0.1300" height="5.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(46.3984, 83.1538)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.3526 -0.2000 7.3526 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:101:21:22">
+<g transform="translate(50.2326, 85.6538)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.4718, 87.1538)">
+<rect x="-0.0650" y="-4.0000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:101:21:22">
+<g transform="translate(52.4868, 87.1538)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(53.7260, 87.1538)">
+<rect x="-0.0650" y="-4.0000" width="0.1300" height="3.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 81.7424)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="7.1376" y1="-0.0000" x2="11.2838" y2="-0.0000"/>
+</g>
+<g transform="translate(45.4009, 82.4538)">
+<path transform="scale(0.0028, -0.0028)" d="M222 487c38 0 73 14 81 14c9 0 15 -7 15 -14c0 -2 0 -4 -2 -6l-282 -322h157v107c0 38 36 30 72 77c23 31 23 58 38 58c7 0 15 -6 15 -16v-226h77c11 0 17 -9 17 -17s-6 -17 -17 -17h-77c0 -51 31 -98 78 -98c9 0 14 -7 14 -14s-5 -13 -14 -13c-47 0 -94 13 -141 13
+s-94 -13 -141 -13c-9 0 -13 6 -13 13s4 14 13 14c47 0 79 47 79 98h-157c-27 0 -36 17 -36 27c0 12 130 132 130 329c0 12 9 22 19 19c25 -7 50 -13 75 -13z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:101:21:22">
+<g transform="translate(45.2241, 85.6538)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.2241, 88.1538)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(46.4634, 87.1538)">
+<rect x="-0.0650" y="-4.0000" width="0.1300" height="2.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:101:21:22">
+<g transform="translate(47.4784, 89.1538)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(65.8820, 87.1538)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>\restezFinger {music}</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 95.6574)">
+<text font-family="serif" font-weight="bold" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Restez: position</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 97.6574)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="20.4356" y2="0"/>
+</g>
+<g transform="translate(39.4241, 96.6574)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="20.4356" y2="0"/>
+</g>
+<g transform="translate(39.4241, 95.6574)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="20.4356" y2="0"/>
+</g>
+<g transform="translate(39.4241, 94.6574)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="20.4356" y2="0"/>
+</g>
+<g transform="translate(39.4241, 93.6574)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="20.4356" y2="0"/>
+</g>
+<g transform="translate(50.2976, 95.6574)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3102" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(45.2241, 96.4674)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.3526 0.8000 7.3526 1.2000 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:108:21:22">
+<g transform="translate(52.4868, 95.1574)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(52.5518, 95.6574)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="2.1151" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:108:21:22">
+<g transform="translate(54.9013, 96.1574)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(56.1405, 95.6574)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(56.2055, 92.6974)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:108:21:22">
+<g transform="translate(57.4055, 97.1574)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(58.6447, 95.6574)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(58.7097, 93.6974)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:108:21:22">
+<g transform="translate(47.7284, 95.6574)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8521 -2.7500C1.3589 -3.3405 2.4495 -3.3405 2.9563 -2.7500L2.9563 -2.7500C2.4495 -3.2205 1.3589 -3.2205 0.8521 -2.7500z"/>
+</g>
+</a>
+<g transform="translate(39.4241, 91.8377)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="15.7653" y1="-0.0000" x2="18.8383" y2="-0.0000"/>
+</g>
+<g transform="translate(50.4093, 91.8377)">
+<text font-family="serif" font-style="italic" font-size="1.5552" text-anchor="start" fill="currentColor">
+<tspan>V pos.</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:108:21:22">
+<g transform="translate(45.2241, 93.1574)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.2241, 96.6574)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(45.2891, 95.6574)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.1327" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:108:21:22">
+<g transform="translate(50.2326, 93.6574)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:108:21:22">
+<g transform="translate(47.7284, 93.6574)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(47.7934, 95.6574)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="2.9714" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(65.8820, 95.6574)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>\restezPos {music}</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 103.3763)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Ritardo</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 105.3763)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="18.1318" y2="0"/>
+</g>
+<g transform="translate(39.4241, 104.3763)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="18.1318" y2="0"/>
+</g>
+<g transform="translate(39.4241, 103.3763)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="18.1318" y2="0"/>
+</g>
+<g transform="translate(39.4241, 102.3763)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="18.1318" y2="0"/>
+</g>
+<g transform="translate(39.4241, 101.3763)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="18.1318" y2="0"/>
+</g>
+<g transform="translate(57.4159, 103.3763)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:115:21:22">
+<g transform="translate(51.2104, 103.8763)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(52.4496, 103.3763)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:115:21:22">
+<g transform="translate(54.2127, 104.3763)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(55.4519, 103.3763)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:115:21:22">
+<g transform="translate(45.2241, 102.8763)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:115:21:22">
+<g transform="translate(45.2241, 100.8263)">
+<text font-family="serif" font-style="italic" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>rit.</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(40.2241, 104.3763)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(45.2891, 103.3763)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:115:21:22">
+<g transform="translate(48.2264, 103.3763)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(48.2914, 103.3763)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(65.8820, 103.3763)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>c4^\rit  b a g</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 110.7263)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Staccato</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 112.7263)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="19.4528" y2="0"/>
+</g>
+<g transform="translate(39.4241, 111.7263)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="19.4528" y2="0"/>
+</g>
+<g transform="translate(39.4241, 110.7263)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="19.4528" y2="0"/>
+</g>
+<g transform="translate(39.4241, 109.7263)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="19.4528" y2="0"/>
+</g>
+<g transform="translate(39.4241, 108.7263)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="19.4528" y2="0"/>
+</g>
+<g transform="translate(45.2241, 112.7263)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.6026 0.6100 7.6026 1.0100 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:16:53:54">
+<g transform="translate(50.2326, 110.2263)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(50.8847, 109.2263)">
+<path transform="scale(0.0040, -0.0040)" d="M-50 0c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50z" fill="currentColor"/>
+</g>
+<g transform="translate(50.2976, 110.7263)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="2.8516" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:16:55:56">
+<g transform="translate(52.7368, 110.7263)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(53.3889, 109.2263)">
+<path transform="scale(0.0040, -0.0040)" d="M-50 0c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50z" fill="currentColor"/>
+</g>
+<g transform="translate(52.8018, 110.7263)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.6170" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:16:59:60">
+<g transform="translate(55.2227, 111.2263)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(56.4619, 110.7263)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:16:49:50">
+<g transform="translate(45.2241, 110.7263)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7010 -3.0450C2.3532 -4.1716 6.8549 -3.6623 8.2136 -2.1950L8.2136 -2.1950C6.8414 -3.5430 2.3397 -4.0524 0.7010 -3.0450z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:16:46:47">
+<g transform="translate(45.2241, 109.2263)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(45.8762, 108.2263)">
+<path transform="scale(0.0040, -0.0040)" d="M-50 0c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50z" fill="currentColor"/>
+</g>
+<g transform="translate(40.2241, 111.7263)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(45.2891, 110.7263)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3208" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:16:51:52">
+<g transform="translate(47.7284, 109.7263)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(48.3805, 108.2263)">
+<path transform="scale(0.0040, -0.0040)" d="M-50 0c0 28 22 50 50 50s50 -22 50 -50s-22 -50 -50 -50s-50 22 -50 50z" fill="currentColor"/>
+</g>
+<g transform="translate(47.7934, 110.7263)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.0862" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(65.8820, 110.7263)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>\addStaccato {e'8( d c b)} a4</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 119.4173)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Shift</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 121.4173)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="16.0413" y2="0"/>
+</g>
+<g transform="translate(39.4241, 120.4173)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="16.0413" y2="0"/>
+</g>
+<g transform="translate(39.4241, 119.4173)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="16.0413" y2="0"/>
+</g>
+<g transform="translate(39.4241, 118.4173)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="16.0413" y2="0"/>
+</g>
+<g transform="translate(39.4241, 117.4173)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="16.0413" y2="0"/>
+</g>
+<g transform="translate(55.3255, 119.4173)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(39.4241, 116.4173)">
+<rect x="11.4602" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:45:10:24">
+<g transform="translate(51.2287, 116.4173)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:45:12:26">
+<g transform="translate(50.2939, 114.8623)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0" y1="0" x2="0.9000" y2="0"/>
+</g>
+<g transform="translate(51.3939, 115.4123)">
+<path transform="scale(0.0022, -0.0022)" d="M194 486c16 0 29 15 41 15c13 0 24 -13 24 -31v-341c0 -47 35 -86 81 -86c14 0 21 -10 21 -21s-7 -22 -21 -22c-49 0 -97 14 -146 14s-96 -14 -145 -14c-14 0 -22 11 -22 22s8 21 22 21c46 0 80 39 80 86v137c0 23 -16 35 -30 35c-7 0 -13 -4 -17 -11l-34 -65
+c-5 -10 -14 -15 -23 -15c-14 0 -28 12 -28 27c0 4 1 8 3 13l129 250c2 4 7 6 11 6c18 0 37 -20 54 -20z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:45:25:39">
+<g transform="translate(50.2939, 122.5133)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0" y1="0" x2="0.9000" y2="0"/>
+</g>
+<g transform="translate(51.3939, 123.0633)">
+<path transform="scale(0.0022, -0.0022)" d="M194 486c16 0 29 15 41 15c13 0 24 -13 24 -31v-341c0 -47 35 -86 81 -86c14 0 21 -10 21 -21s-7 -22 -21 -22c-49 0 -97 14 -146 14s-96 -14 -145 -14c-14 0 -22 11 -22 22s8 21 22 21c46 0 80 39 80 86v137c0 23 -16 35 -30 35c-7 0 -13 -4 -17 -11l-34 -65
+c-5 -10 -14 -15 -23 -15c-14 0 -28 12 -28 27c0 4 1 8 3 13l129 250c2 4 7 6 11 6c18 0 37 -20 54 -20z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.2937, 119.4173)">
+<rect x="-0.0650" y="-2.7410" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(48.2914, 119.4173)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:45:3:17">
+<g transform="translate(45.2241, 117.4173)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:45:5:19">
+<g transform="translate(45.4665, 116.3723)">
+<path transform="scale(0.0022, -0.0022)" d="M194 486c16 0 29 15 41 15c13 0 24 -13 24 -31v-341c0 -47 35 -86 81 -86c14 0 21 -10 21 -21s-7 -22 -21 -22c-49 0 -97 14 -146 14s-96 -14 -145 -14c-14 0 -22 11 -22 22s8 21 22 21c46 0 80 39 80 86v137c0 23 -16 35 -30 35c-7 0 -13 -4 -17 -11l-34 -65
+c-5 -10 -14 -15 -23 -15c-14 0 -28 12 -28 27c0 4 1 8 3 13l129 250c2 4 7 6 11 6c18 0 37 -20 54 -20z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.2241, 120.4173)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(45.2891, 119.4173)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:45:8:22">
+<g transform="translate(48.2264, 116.9173)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(65.8820, 119.4173)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>\shift </tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 127.5713)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Tuplet</tspan>
+</text>
+</g>
+<g transform="translate(39.4241, 129.5713)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="13.2626" y2="0"/>
+</g>
+<g transform="translate(39.4241, 128.5713)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="13.2626" y2="0"/>
+</g>
+<g transform="translate(39.4241, 127.5713)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="13.2626" y2="0"/>
+</g>
+<g transform="translate(39.4241, 126.5713)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="13.2626" y2="0"/>
+</g>
+<g transform="translate(39.4241, 125.5713)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="13.2626" y2="0"/>
+</g>
+<g transform="translate(46.3984, 125.3813)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.0984 -0.8200 5.0984 -0.4200 0.0400 0.2000 0.0400 -0.2000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:127:21:22">
+<g transform="translate(47.7284, 128.0713)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(48.9676, 127.5713)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="2.8139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:127:21:22">
+<g transform="translate(50.2326, 127.5713)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.4718, 127.5713)">
+<rect x="-0.0650" y="-2.8022" width="0.1300" height="2.6161" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:127:21:22">
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:127:21:22">
+<g transform="translate(48.4042, 124.3592)">
+<text font-family="serif" font-style="italic" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(46.4634, 127.5713)">
+<rect x="-0.0650" y="-2.1978" width="0.1300" height="3.0117" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/common/violin-functions_test.ly:127:21:22">
+<g transform="translate(45.2241, 128.5713)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.2241, 128.5713)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(65.8820, 127.5713)">
+<text font-family="monospace" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>\tuplet 3/2 {g8 a b}</tspan>
+</text>
+</g>
+<g transform="translate(28.8852, 165.1063)">
+<a xlink:href="https://lilypond.org/">
+<rect x="0.0000" y="-0.4888" width="61.7311" height="2.1603" fill="none" stroke="none" stroke-width="0.0"/>
+</a>
+</g>
+<g transform="translate(28.8852, 165.1063)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Music engraving by LilyPond 2.24.3—www.lilypond.org</tspan>
+</text>
+</g>
+</svg>

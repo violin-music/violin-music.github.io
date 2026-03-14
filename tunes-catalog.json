@@ -185,13 +185,14 @@
         "Gary-Owen.svg"
       ],
       "midi_files": [
+        "Gary-Owen.midi",
         "Gary-Owen_(G).midi",
         "Gary-Owen_(A).midi",
         "Gary-Owen_(Bb).midi",
         "Gary-Owen_(D).midi"
       ],
       "svg": "tunes/Folk_Ireland/Gary-Owen/Gary-Owen_%28G%29.svg",
-      "midi": "tunes/Folk_Ireland/Gary-Owen/Gary-Owen_%28G%29.midi"
+      "midi": "tunes/Folk_Ireland/Gary-Owen/Gary-Owen.midi"
     },
     {
       "title": "Martin Hayes Medley",
