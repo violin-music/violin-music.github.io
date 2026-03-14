@@ -634,9 +634,6 @@
             if (tune.midi) {
                 actions.push(`<button class="btn btn-primary" onclick="playMidi('${tune.midi}', '${escapeHtml(tune.title)}')">🎵 Play MIDI</button>`);
             }
-            if (tune.svg) {
-                actions.push(`<a class="btn btn-secondary" href="${tune.svg}" target="_blank" download>📥 Download SVG</a>`);
-            }
             document.getElementById('modal-actions').innerHTML = actions.join('');
 
             // Info section
