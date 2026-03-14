@@ -127,6 +127,102 @@
         .difficulty-stars .empty {
             color: #ddd;
         }
+        /* Tune detail modal */
+        .tune-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.85);
+            z-index: 1000;
+            overflow-y: auto;
+        }
+        .tune-modal.active {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem;
+        }
+        .tune-modal-header {
+            width: 100%;
+            max-width: 900px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 1rem;
+            color: white;
+        }
+        .tune-modal-header h2 {
+            margin: 0;
+            font-size: 1.5rem;
+        }
+        .tune-modal-header .subtitle {
+            color: #aaa;
+            font-size: 0.9rem;
+        }
+        .tune-modal-close {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 2rem;
+            cursor: pointer;
+            padding: 0.5rem;
+        }
+        .tune-modal-score {
+            max-width: 900px;
+            width: 100%;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .tune-modal-score img {
+            width: 100%;
+            display: block;
+        }
+        .tune-modal-actions {
+            margin-top: 1rem;
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+        .tune-modal-actions .btn {
+            padding: 0.75rem 1.5rem;
+            font-size: 1rem;
+        }
+        .tune-modal-info {
+            max-width: 900px;
+            width: 100%;
+            margin-top: 1.5rem;
+            color: #ccc;
+            font-size: 0.9rem;
+        }
+        .tune-modal-info .meta-row {
+            display: flex;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-bottom: 0.5rem;
+        }
+        .page-nav {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-top: 1rem;
+            color: white;
+        }
+        .page-nav button {
+            padding: 0.5rem 1rem;
+            border: none;
+            background: #2d8a9f;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .page-nav button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
         /* Dark mode */
         [data-theme="dark"] {
             --card-bg: #2a2a2a;
@@ -186,6 +282,27 @@
         <div class="midi-controls-buttons">
             <button onclick="stopMidi()">⏹ Stop</button>
         </div>
+    </div>
+
+    <!-- Tune Detail Modal -->
+    <div id="tune-modal" class="tune-modal">
+        <div class="tune-modal-header">
+            <div>
+                <h2 id="modal-title"></h2>
+                <div class="subtitle" id="modal-subtitle"></div>
+            </div>
+            <button class="tune-modal-close" onclick="closeTuneDetail()">&times;</button>
+        </div>
+        <div class="tune-modal-score" id="modal-score-container">
+            <img id="modal-score-img" src="" alt="Score">
+        </div>
+        <div class="page-nav" id="modal-page-nav" style="display: none;">
+            <button id="modal-prev-btn" onclick="prevModalPage()">← Prev</button>
+            <span id="modal-page-indicator">Page 1 of 1</span>
+            <button id="modal-next-btn" onclick="nextModalPage()">Next →</button>
+        </div>
+        <div class="tune-modal-actions" id="modal-actions"></div>
+        <div class="tune-modal-info" id="modal-info"></div>
     </div>
 
     <script>
@@ -342,18 +459,21 @@
 
             const thumbnail = tune.svg
                 ? `<img class="thumbnail" src="${tune.svg}" alt="${tune.title}" loading="lazy">`
-                : '';
+                : '<div class="thumbnail" style="height: 100px; display: flex; align-items: center; justify-content: center; color: #999;">No preview</div>';
 
             const actions = [];
             if (tune.midi) {
-                actions.push(`<button class="btn btn-primary" onclick="playMidi('${tune.midi}', '${escapeHtml(tune.title)}')">🎵 Play</button>`);
+                actions.push(`<button class="btn btn-primary" onclick="event.stopPropagation(); playMidi('${tune.midi}', '${escapeHtml(tune.title)}')">🎵 Play</button>`);
             }
             if (tune.svg) {
-                actions.push(`<a class="btn btn-secondary" href="${tune.svg}" target="_blank">📄 View</a>`);
+                actions.push(`<button class="btn btn-secondary" onclick="event.stopPropagation(); openTuneDetail(getTuneByTitle('${escapeHtml(tune.title)}'))">📄 View</button>`);
             }
 
+            // Store tune index for click handling
+            const tuneIndex = allTunes.indexOf(tune);
+
             return `
-                <div class="tune-card">
+                <div class="tune-card" onclick="openTuneDetail(allTunes[${tuneIndex}])">
                     ${thumbnail}
                     <h3>${escapeHtml(tune.title)}</h3>
                     <div class="composer">${escapeHtml(tune.composer)} ${tune.country_flag || ''}</div>
@@ -370,6 +490,10 @@
                     </div>
                 </div>
             `;
+        }
+
+        function getTuneByTitle(title) {
+            return allTunes.find(t => t.title === title);
         }
 
         function renderDifficulty(difficulty) {
@@ -470,6 +594,149 @@
         function toggleTheme() {
             const current = document.documentElement.getAttribute('data-theme');
             document.documentElement.setAttribute('data-theme', current === 'dark' ? 'light' : 'dark');
+        }
+
+        // Tune Detail Modal
+        let modalState = {
+            tune: null,
+            currentPage: 1,
+            totalPages: 1,
+            pages: []
+        };
+
+        function openTuneDetail(tune) {
+            modalState.tune = tune;
+            modalState.currentPage = 1;
+            modalState.pages = [];
+            modalState.totalPages = 1;
+
+            const modal = document.getElementById('tune-modal');
+            document.getElementById('modal-title').textContent = tune.title;
+            document.getElementById('modal-subtitle').textContent =
+                `${tune.composer} ${tune.country_flag || ''} • ${tune.category}`;
+
+            // Score image
+            const scoreImg = document.getElementById('modal-score-img');
+            if (tune.svg) {
+                scoreImg.src = decodeURIComponent(tune.svg);
+                scoreImg.style.display = 'block';
+                document.getElementById('modal-score-container').style.display = 'block';
+
+                // Detect multiple pages
+                detectModalPages(tune);
+            } else {
+                scoreImg.style.display = 'none';
+                document.getElementById('modal-score-container').style.display = 'none';
+            }
+
+            // Action buttons
+            const actions = [];
+            if (tune.midi) {
+                actions.push(`<button class="btn btn-primary" onclick="playMidi('${tune.midi}', '${escapeHtml(tune.title)}')">🎵 Play MIDI</button>`);
+            }
+            if (tune.svg) {
+                actions.push(`<a class="btn btn-secondary" href="${tune.svg}" target="_blank" download>📥 Download SVG</a>`);
+            }
+            document.getElementById('modal-actions').innerHTML = actions.join('');
+
+            // Info section
+            const infoHtml = `
+                <div class="meta-row">
+                    ${tune.key ? `<span><strong>Key:</strong> ${tune.key}</span>` : ''}
+                    ${tune.time_sig ? `<span><strong>Time:</strong> ${tune.time_sig}</span>` : ''}
+                    ${tune.difficulty ? `<span><strong>Difficulty:</strong> ${tune.difficulty}</span>` : ''}
+                    ${tune.type ? `<span><strong>Type:</strong> ${tune.type}</span>` : ''}
+                </div>
+                ${tune.notes ? `<p style="margin-top: 1rem;">${escapeHtml(tune.notes)}</p>` : ''}
+                ${tune.tags && tune.tags.length ? `<div style="margin-top: 0.5rem;">Tags: ${tune.tags.map(t => `<span style="background: #444; padding: 2px 8px; border-radius: 4px; margin-right: 4px;">${escapeHtml(t)}</span>`).join('')}</div>` : ''}
+            `;
+            document.getElementById('modal-info').innerHTML = infoHtml;
+
+            // Show modal
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+
+            // Add escape key listener
+            document.addEventListener('keydown', handleModalKeydown);
+        }
+
+        async function detectModalPages(tune) {
+            if (!tune.svg) return;
+
+            const basePath = decodeURIComponent(tune.svg);
+            modalState.pages = [basePath];
+
+            // Check if this is a _page_1.svg file
+            if (basePath.includes('_page_1.svg')) {
+                const baseWithoutPage = basePath.replace(/_page_1\.svg$/, '');
+
+                // Check for additional pages
+                for (let pageNum = 2; pageNum <= 20; pageNum++) {
+                    const pagePath = `${baseWithoutPage}_page_${pageNum}.svg`;
+                    try {
+                        const response = await fetch(pagePath, { method: 'HEAD' });
+                        if (response.ok) {
+                            modalState.pages.push(pagePath);
+                        } else {
+                            break;
+                        }
+                    } catch (e) {
+                        break;
+                    }
+                }
+            }
+
+            modalState.totalPages = modalState.pages.length;
+            updateModalPageNav();
+        }
+
+        function updateModalPageNav() {
+            const nav = document.getElementById('modal-page-nav');
+            const indicator = document.getElementById('modal-page-indicator');
+            const prevBtn = document.getElementById('modal-prev-btn');
+            const nextBtn = document.getElementById('modal-next-btn');
+
+            if (modalState.totalPages > 1) {
+                nav.style.display = 'flex';
+                indicator.textContent = `Page ${modalState.currentPage} of ${modalState.totalPages}`;
+                prevBtn.disabled = modalState.currentPage <= 1;
+                nextBtn.disabled = modalState.currentPage >= modalState.totalPages;
+            } else {
+                nav.style.display = 'none';
+            }
+        }
+
+        function prevModalPage() {
+            if (modalState.currentPage > 1) {
+                modalState.currentPage--;
+                document.getElementById('modal-score-img').src = modalState.pages[modalState.currentPage - 1];
+                updateModalPageNav();
+            }
+        }
+
+        function nextModalPage() {
+            if (modalState.currentPage < modalState.totalPages) {
+                modalState.currentPage++;
+                document.getElementById('modal-score-img').src = modalState.pages[modalState.currentPage - 1];
+                updateModalPageNav();
+            }
+        }
+
+        function closeTuneDetail() {
+            const modal = document.getElementById('tune-modal');
+            modal.classList.remove('active');
+            document.body.style.overflow = '';
+            document.removeEventListener('keydown', handleModalKeydown);
+        }
+
+        function handleModalKeydown(e) {
+            if (e.key === 'Escape') {
+                closeTuneDetail();
+            } else if (e.key === 'ArrowLeft') {
+                prevModalPage();
+            } else if (e.key === 'ArrowRight') {
+                nextModalPage();
+            }
         }
     </script>
 </body>
