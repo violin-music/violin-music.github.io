@@ -228,13 +228,9 @@ def scan_tunes():
             if tune_folder.name in EXCLUDE_DIRS:
                 continue
 
-            # Check if folder has any .ly files or metadata.json
-            has_content = (
-                (tune_folder / 'metadata.json').exists() or
-                list(tune_folder.glob('*.ly'))
-            )
-
-            if has_content:
+            # Only include tunes with metadata.json (migrated tunes)
+            if not (tune_folder / 'metadata.json').exists():
+                continue
                 tune_entry = process_tune_folder(tune_folder)
                 tunes.append(tune_entry)
                 print(f"    + {tune_entry['title']}")
