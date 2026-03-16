@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 70,
+  "tune_count": 71,
   "tunes": [
     {
       "title": "L'Air Mignonne",
@@ -2946,6 +2946,41 @@
       ],
       "svg_files": [],
       "midi_files": []
+    },
+    {
+      "title": "Contraband Police",
+      "composer": "Lukasz Kapuscinski",
+      "country": "Poland",
+      "country_flag": "🇵🇱",
+      "genre": "Soundtrack",
+      "subgenre": "Video Game",
+      "category": "Games",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Games",
+      "tune_folder": "Contraband-Police",
+      "variants": [
+        {
+          "filename": "Contraband-Police.ly",
+          "stem": "Contraband-Police"
+        }
+      ],
+      "svg_files": [
+        "Contraband-Police_page_1.svg",
+        "Contraband-Police.svg"
+      ],
+      "midi_files": [
+        "Contraband-Police.midi"
+      ],
+      "svg": "tunes/Games/Contraband-Police_page_1.svg",
+      "midi": "tunes/Games/Contraband-Police.midi"
     }
   ]
 }
