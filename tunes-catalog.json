@@ -29,8 +29,7 @@
         }
       ],
       "svg_files": [
-        "L-Air-Mignonne_page_1.svg",
-        "L-Air-Mignonne.svg"
+        "L-Air-Mignonne_page_1.svg"
       ],
       "midi_files": [
         "L-Air-Mignonne-full.midi",
@@ -70,9 +69,7 @@
       ],
       "svg_files": [
         "Teardrop-Waltz_Marc_page_1.svg",
-        "Teardrop-Waltz-Casey-Willis_page_1.svg",
-        "Teardrop-Waltz_Marc.svg",
-        "Teardrop-Waltz-Casey-Willis.svg"
+        "Teardrop-Waltz-Casey-Willis_page_1.svg"
       ],
       "midi_files": [
         "Teardrop-Waltz-Casey-Willis.midi",
@@ -109,9 +106,7 @@
       ],
       "svg_files": [
         "Volcanic-Jig_page_1.svg",
-        "Volcanic-Jig_page_2.svg",
-        "Volcanic-Jig-Violin-2.svg",
-        "Volcanic-Jig-Violin-1.svg"
+        "Volcanic-Jig_page_2.svg"
       ],
       "midi_files": [
         "Volcanic-Jig-Violin.midi",
@@ -147,15 +142,10 @@
       ],
       "svg_files": [
         "Flor-Formosa_page_2.svg",
-        "Flor-Formosa_page_1.svg",
-        "Flor-Formosa-1.svg",
-        "Flor-Formosa-2.svg"
+        "Flor-Formosa_page_1.svg"
       ],
-      "midi_files": [
-        "Flor-Formosa.midi"
-      ],
-      "svg": "tunes/Folk_CapeVerde/Flor-Formosa_page_2.svg",
-      "midi": "tunes/Folk_CapeVerde/Flor-Formosa.midi"
+      "midi_files": [],
+      "svg": "tunes/Folk_CapeVerde/Flor-Formosa_page_2.svg"
     },
     {
       "title": "Greensleeves",
@@ -213,16 +203,7 @@
         "greensleeves_[Guitar & Vocal]_page_2.svg",
         "greensleeves_landscape_page_1.svg",
         "greensleeves-(Em)_page_1.svg",
-        "greensleeves_[Guitar & Vocal]_page_1.svg",
-        "greensleeves_melody-2.svg",
-        "greensleeves_landscape.svg",
-        "greensleeves_[Guitar & Vocal]-2.svg",
-        "greensleeves_melody-1.svg",
-        "Greensleeves_[Jig]-1.svg",
-        "greensleeves_[Guitar & Vocal]-1.svg",
-        "greensleeves.svg",
-        "Greensleeves_[Jig]-2.svg",
-        "greensleeves-(Em).svg"
+        "greensleeves_[Guitar & Vocal]_page_1.svg"
       ],
       "midi_files": [
         "greensleeves.midi",
@@ -570,8 +551,7 @@
         }
       ],
       "svg_files": [
-        "Muss-I-Denn_page_1.svg",
-        "Muss-I-Denn.svg"
+        "Muss-I-Denn_page_1.svg"
       ],
       "midi_files": [
         "Muss-I-Denn.midi"
@@ -1575,13 +1555,9 @@
         "bella-ciao_(Gm)_page_1.svg",
         "bella-ciao_(Am)_page_1.svg",
         "bella-ciao_(Am)_range.svg",
-        "bella-ciao.svg",
         "bella-ciao_range.svg",
         "bella-ciao_(Em)_range.svg",
-        "bella-ciao_(Gm)_range.svg",
-        "bella-ciao_(Gm).svg",
-        "bella-ciao_(Am).svg",
-        "bella-ciao_(Em).svg"
+        "bella-ciao_(Gm)_range.svg"
       ],
       "midi_files": [
         "bella-ciao_(Gm).midi",
@@ -2007,8 +1983,7 @@
         }
       ],
       "svg_files": [
-        "The-Wellerman_page_1.svg",
-        "The-Wellerman.svg"
+        "The-Wellerman_page_1.svg"
       ],
       "midi_files": [
         "The-Wellerman.midi"
@@ -2042,8 +2017,7 @@
         }
       ],
       "svg_files": [
-        "Hora-Martisorului_page_1.svg",
-        "Hora-Martisorului.svg"
+        "Hora-Martisorului_page_1.svg"
       ],
       "midi_files": [],
       "svg": "tunes/Folk_Romania/Hora-Martisorului_page_1.svg"
@@ -2551,31 +2525,16 @@
         "Auld-Lang-Syne_[Beethoven]_page_3.svg",
         "Auld-Lang-Syne_[Beethoven]_page_6.svg",
         "Auld-Lang-Syne_[Beethoven]_page_1.svg",
-        "Auld-Lang-Syne_[Jig]_page_1.svg",
-        "Auld-Lang-Syne_(in-D).svg",
-        "Auld-Lang-Syne_[Beethoven]-1.svg",
-        "Auld-Lang-Syne_[with lyrics].svg",
-        "Auld-Lang-Syne_[Beethoven]-7.svg",
-        "Auld-Lang-Syne_[multiple keys]-2.svg",
-        "Auld-Lang-Syne_[Beethoven]-6.svg",
-        "Auld-Lang-Syne_[Beethoven]-2.svg",
-        "Auld-Lang-Syne_[Beethoven]-5.svg",
-        "Auld-Lang-Syne_[Beethoven]-4.svg",
-        "Auld-Lang-Syne_[multiple keys]-1.svg",
-        "Auld-Lang-Syne_[Jig].svg",
-        "Auld-Lang-Syne_[Beethoven]-3.svg"
+        "Auld-Lang-Syne_[Jig]_page_1.svg"
       ],
       "midi_files": [
-        "Auld-Lang-Syne_[Jig]-1.midi",
         "Auld-Lang-Syne_[Beethoven].midi",
         "Auld-Lang-Syne_(in-D).midi",
-        "Auld-Lang-Syne_[with lyrics].midi",
         "Auld-Lang-Syne_(in-D)-1.midi",
-        "Auld-Lang-Syne_(in-D)-full-1.midi",
-        "Auld-Lang-Syne_[Jig].midi"
+        "Auld-Lang-Syne_(in-D)-full-1.midi"
       ],
       "svg": "tunes/Folk_Scotland/Auld-Lang-Syne_%5BBeethoven%5D_page_4.svg",
-      "midi": "tunes/Folk_Scotland/Auld-Lang-Syne_%5BJig%5D-1.midi"
+      "midi": "tunes/Folk_Scotland/Auld-Lang-Syne_%5BBeethoven%5D.midi"
     },
     {
       "title": "A Gift to You (Everything I Am)",
