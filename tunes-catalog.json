@@ -1,6 +1,1228 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 0,
-  "tunes": []
+  "tune_count": 27,
+  "tunes": [
+    {
+      "title": "Darby O'Gill Fox Chase",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Character piece",
+      "key": "G major",
+      "time_sig": "2/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "character piece",
+        "programmatic"
+      ],
+      "moods": [
+        "playful",
+        "energetic"
+      ],
+      "session_friendliness": "Occasional",
+      "notes": "Programmatic piece depicting a fox hunt. Featured in the film Darby O'Gill and the Little People.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "Darby-O-Gill_Fox-Chase",
+      "variants": [
+        {
+          "filename": "darby.ly",
+          "stem": "darby"
+        },
+        {
+          "filename": "Darby-O-Gill-Fox-Chase.ly",
+          "stem": "Darby-O-Gill-Fox-Chase"
+        }
+      ],
+      "svg_files": [
+        "Darby-O-Gill-Fox-Chase-1.svg",
+        "darby.svg",
+        "Darby-O-Gill-Fox-Chase-2.svg"
+      ],
+      "midi_files": [
+        "Darby-O-Gill-Fox-Chase.midi",
+        "darby.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Darby-O-Gill-Fox-Chase-1.svg",
+      "midi": "tunes/Folk_Ireland/Darby-O-Gill-Fox-Chase.midi"
+    },
+    {
+      "title": "Dr. Gilbert's Reel",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish reel",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Reel",
+      "key": "D major",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "reel",
+        "session tune"
+      ],
+      "moods": [
+        "energetic",
+        "driving"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Classic Irish reel. Famous recording by Michael Coleman (1929).",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "Dr-Gilbert",
+      "variants": [
+        {
+          "filename": "drGilbert_1.ly",
+          "stem": "drGilbert_1"
+        },
+        {
+          "filename": "drGilbert_1-1.ly",
+          "stem": "drGilbert_1-1"
+        }
+      ],
+      "svg_files": [
+        "drGilbert_1.svg",
+        "drGilbert_1-1.svg"
+      ],
+      "midi_files": [
+        "drGilbert_1-1.midi",
+        "drGilbert_1.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/drGilbert_1.svg",
+      "midi": "tunes/Folk_Ireland/drGilbert_1-1.midi"
+    },
+    {
+      "title": "Gary Owen",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish march",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "March",
+      "key": "D major",
+      "time_sig": "6/8",
+      "difficulty": "Intermediate",
+      "tags": [
+        "march",
+        "historical"
+      ],
+      "moods": [
+        "martial",
+        "upbeat"
+      ],
+      "session_friendliness": "Moderately common",
+      "notes": "Strong accents, simple patterns in D. Known as a cavalry march tune in US history.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "Gary-Owen",
+      "variants": [
+        {
+          "filename": "Gary-Owen_(Bb).ly",
+          "stem": "Gary-Owen_(Bb)",
+          "key_variant": "Bb"
+        },
+        {
+          "filename": "Gary-Owen_(A).ly",
+          "stem": "Gary-Owen_(A)",
+          "key_variant": "A"
+        },
+        {
+          "filename": "Gary-Owen_(D).ly",
+          "stem": "Gary-Owen_(D)",
+          "key_variant": "D"
+        },
+        {
+          "filename": "Gary-Owen.ly",
+          "stem": "Gary-Owen"
+        },
+        {
+          "filename": "Gary-Owen_(G).ly",
+          "stem": "Gary-Owen_(G)",
+          "key_variant": "G"
+        }
+      ],
+      "svg_files": [
+        "Gary-Owen_(G).svg",
+        "Gary-Owen_(Bb).svg",
+        "Gary-Owen_(A).svg",
+        "Gary-Owen_(D).svg",
+        "Gary-Owen.svg"
+      ],
+      "midi_files": [
+        "Gary-Owen.midi",
+        "Gary-Owen_(G).midi",
+        "Gary-Owen_(A).midi",
+        "Gary-Owen_(Bb).midi",
+        "Gary-Owen_(D).midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Gary-Owen_%28G%29.svg",
+      "midi": "tunes/Folk_Ireland/Gary-Owen.midi"
+    },
+    {
+      "title": "Martin Hayes Medley",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Medley",
+      "key": "Various",
+      "time_sig": "Various",
+      "difficulty": "Advanced",
+      "tags": [
+        "medley",
+        "slow air",
+        "reel"
+      ],
+      "moods": [
+        "expressive",
+        "contemplative"
+      ],
+      "session_friendliness": "Performance piece",
+      "notes": "Transcription/arrangement in the style of Martin Hayes. Expressive, rubato playing.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "Martin-Hayes-Unknown",
+      "variants": [
+        {
+          "filename": "Irish-Martin-Hayes_Medley.ly",
+          "stem": "Irish-Martin-Hayes_Medley"
+        }
+      ],
+      "svg_files": [
+        "Irish-Martin-Hayes_Medley.svg"
+      ],
+      "midi_files": [
+        "Irish-Martin-Hayes_Medley.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Irish-Martin-Hayes_Medley.svg",
+      "midi": "tunes/Folk_Ireland/Irish-Martin-Hayes_Medley.midi"
+    },
+    {
+      "title": "Molly Ban",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish slow air",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Slow air / ballad",
+      "key": "E dorian",
+      "time_sig": "3/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "slow air",
+        "ballad",
+        "song"
+      ],
+      "moods": [
+        "tragic",
+        "mournful"
+      ],
+      "session_friendliness": "Moderately common",
+      "notes": "Requires flexible timing, strong expressive control, ornamentation. Also known as 'Molly Bawn'.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "Molly-Ban",
+      "variants": [
+        {
+          "filename": "Molly-Ban.ly",
+          "stem": "Molly-Ban"
+        }
+      ],
+      "svg_files": [
+        "Molly-Ban.svg"
+      ],
+      "midi_files": [
+        "Molly-Ban-1.midi",
+        "Molly-Ban.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Molly-Ban.svg",
+      "midi": "tunes/Folk_Ireland/Molly-Ban-1.midi"
+    },
+    {
+      "title": "Paddy Fahey's Jig",
+      "composer": "Paddy Fahey",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish jig",
+      "category": "Celtic/Irish",
+      "period": "20th century",
+      "type": "Jig",
+      "key": "D major",
+      "time_sig": "6/8",
+      "difficulty": "Intermediate",
+      "tags": [
+        "jig",
+        "session tune"
+      ],
+      "moods": [
+        "lively",
+        "traditional"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Composed by the legendary East Galway fiddler Paddy Fahey.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "Paddy-Fahey's-Jig",
+      "variants": [
+        {
+          "filename": "Paddy-Fahy-s-Jig.ly",
+          "stem": "Paddy-Fahy-s-Jig"
+        }
+      ],
+      "svg_files": [
+        "Paddy-Fahy-s-Jig.svg"
+      ],
+      "midi_files": [
+        "Paddy-Fahy-s-Jig.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Paddy-Fahy-s-Jig.svg",
+      "midi": "tunes/Folk_Ireland/Paddy-Fahy-s-Jig.midi"
+    },
+    {
+      "title": "Swallowtail Jig",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish jig",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Jig",
+      "key": "E minor / D major",
+      "time_sig": "6/8",
+      "difficulty": "Early Intermediate",
+      "tags": [
+        "jig",
+        "session tune",
+        "beginner-friendly"
+      ],
+      "moods": [
+        "energetic",
+        "bright"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Classic jig bowing, repeated AABB form. Played widely in Em; considered beginner-friendly but can be ornamented.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "Swallowtail-Jig",
+      "variants": [
+        {
+          "filename": "Swallowtail-Jig.ly",
+          "stem": "Swallowtail-Jig"
+        },
+        {
+          "filename": "Swallowtail-Jig_[Easy].ly",
+          "stem": "Swallowtail-Jig_[Easy]",
+          "arrangement": "Easy"
+        },
+        {
+          "filename": "Swallowtail-Jig_[Easy]_(G).ly",
+          "stem": "Swallowtail-Jig_[Easy]_(G)",
+          "key_variant": "G",
+          "arrangement": "Easy"
+        }
+      ],
+      "svg_files": [
+        "Swallowtail-Jig.svg",
+        "Swallowtail-Jig_[Easy]_(G).svg",
+        "Swallowtail-Jig_[Easy].svg"
+      ],
+      "midi_files": [
+        "Swallowtail-Jig_[Easy].midi",
+        "Swallowtail-Jig.midi",
+        "Swallowtail-Jig_[Easy]_(G).midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Swallowtail-Jig.svg",
+      "midi": "tunes/Folk_Ireland/Swallowtail-Jig_%5BEasy%5D.midi"
+    },
+    {
+      "title": "Tam Lin",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Celtic ballad",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Reel / Song",
+      "key": "A minor",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "reel",
+        "ballad",
+        "celtic"
+      ],
+      "moods": [
+        "mysterious",
+        "dramatic"
+      ],
+      "session_friendliness": "Moderately common",
+      "notes": "Based on a Scottish/Irish border ballad. Also known as a reel version.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "Tam-Lin",
+      "variants": [
+        {
+          "filename": "tam-lin.ly",
+          "stem": "tam-lin"
+        }
+      ],
+      "svg_files": [
+        "tam-lin.svg"
+      ],
+      "midi_files": [
+        "tam-lin.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/tam-lin.svg",
+      "midi": "tunes/Folk_Ireland/tam-lin.midi"
+    },
+    {
+      "title": "The Britches Full of Stitches",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish jig",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Jig",
+      "key": "G major",
+      "time_sig": "6/8",
+      "difficulty": "Early Intermediate",
+      "tags": [
+        "jig",
+        "session tune"
+      ],
+      "moods": [
+        "playful",
+        "lively"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Popular session jig with a memorable title.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "The-Britches-Full-of-Stitches",
+      "variants": [
+        {
+          "filename": "The-Britches-Full-of-Stitches.ly",
+          "stem": "The-Britches-Full-of-Stitches"
+        }
+      ],
+      "svg_files": [
+        "The-Britches-Full-of-Stitches-2.svg",
+        "The-Britches-Full-of-Stitches-1.svg"
+      ],
+      "midi_files": [
+        "The-Britches-Full-of-Stitches.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Britches-Full-of-Stitches-2.svg",
+      "midi": "tunes/Folk_Ireland/The-Britches-Full-of-Stitches.midi"
+    },
+    {
+      "title": "The Butterfly",
+      "composer": "Tommy Potts",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish slip jig",
+      "category": "Celtic/Irish",
+      "period": "20th century",
+      "type": "Slip jig",
+      "key": "E minor",
+      "time_sig": "9/8",
+      "difficulty": "Intermediate-Advanced",
+      "tags": [
+        "slip jig",
+        "session tune"
+      ],
+      "moods": [
+        "dreamy",
+        "bittersweet"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Complex phrasing, ornaments, 9/8 groove. Many players treat it more as air-like slip jig.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "The-Butterfly",
+      "variants": [
+        {
+          "filename": "The-Butterfly.ly",
+          "stem": "The-Butterfly"
+        }
+      ],
+      "svg_files": [
+        "The-Butterfly.svg"
+      ],
+      "midi_files": [
+        "The-Butterfly.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Butterfly.svg",
+      "midi": "tunes/Folk_Ireland/The-Butterfly.midi"
+    },
+    {
+      "title": "The Connaughtman's Rambles",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish jig",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Jig",
+      "key": "G major",
+      "time_sig": "6/8",
+      "difficulty": "Intermediate",
+      "tags": [
+        "jig",
+        "session tune"
+      ],
+      "moods": [
+        "cheerful",
+        "energetic"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Classic session jig from Connacht region.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "The-Connaughtman's-Rambles",
+      "variants": [
+        {
+          "filename": "The-Connaughtman's-Rambles.ly",
+          "stem": "The-Connaughtman's-Rambles"
+        }
+      ],
+      "svg_files": [
+        "The-Connaughtman's-Rambles.svg"
+      ],
+      "midi_files": [
+        "The-Connaughtman's-Rambles.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Connaughtman%27s-Rambles.svg",
+      "midi": "tunes/Folk_Ireland/The-Connaughtman%27s-Rambles.midi"
+    },
+    {
+      "title": "The Gift of Falling",
+      "composer": "Contemporary",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Celtic contemporary",
+      "category": "Celtic/Irish",
+      "period": "Contemporary",
+      "type": "Air / Waltz",
+      "key": "D major",
+      "time_sig": "3/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "waltz",
+        "contemporary",
+        "lyrical"
+      ],
+      "moods": [
+        "contemplative",
+        "flowing"
+      ],
+      "session_friendliness": "Occasional",
+      "notes": "Contemporary Celtic piece with lyrical phrasing.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "The-Gift-of-Falling",
+      "variants": [
+        {
+          "filename": "The-Gift-of-Falling.ly",
+          "stem": "The-Gift-of-Falling"
+        }
+      ],
+      "svg_files": [
+        "The-Gift-of-Falling.svg"
+      ],
+      "midi_files": [
+        "The-Gift-of-Falling.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Gift-of-Falling.svg",
+      "midi": "tunes/Folk_Ireland/The-Gift-of-Falling.midi"
+    },
+    {
+      "title": "The Musical Priest",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish reel",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Reel",
+      "key": "B minor",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "reel",
+        "session tune"
+      ],
+      "moods": [
+        "driving",
+        "energetic"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Popular session reel, often paired with other reels in a set.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "The-Musical-Priest",
+      "variants": [
+        {
+          "filename": "The-Musical-Priest.ly",
+          "stem": "The-Musical-Priest"
+        }
+      ],
+      "svg_files": [
+        "The-Musical-Priest.svg"
+      ],
+      "midi_files": [
+        "The-Musical-Priest.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Musical-Priest.svg",
+      "midi": "tunes/Folk_Ireland/The-Musical-Priest.midi"
+    },
+    {
+      "title": "The Trip to Sligo",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish jig",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Jig",
+      "key": "D major",
+      "time_sig": "6/8",
+      "difficulty": "Intermediate",
+      "tags": [
+        "jig",
+        "session tune"
+      ],
+      "moods": [
+        "lively",
+        "cheerful"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Classic Irish jig named after County Sligo.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "The-Trip-To-Sligo-(Jig)",
+      "variants": [
+        {
+          "filename": "The-Trip-To-Sligo-(Jig).ly",
+          "stem": "The-Trip-To-Sligo-(Jig)"
+        }
+      ],
+      "svg_files": [
+        "The-Trip-To-Sligo-(Jig).svg"
+      ],
+      "midi_files": [
+        "The-Trip-To-Sligo-(Jig).midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Trip-To-Sligo-%28Jig%29.svg",
+      "midi": "tunes/Folk_Ireland/The-Trip-To-Sligo-%28Jig%29.midi"
+    },
+    {
+      "title": "Trip to Pakistan",
+      "composer": "Martin Hayes",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish reel",
+      "category": "Celtic/Irish",
+      "period": "Contemporary",
+      "type": "Reel",
+      "key": "A minor",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate-Advanced",
+      "tags": [
+        "reel",
+        "contemporary"
+      ],
+      "moods": [
+        "driving",
+        "modal"
+      ],
+      "session_friendliness": "Moderately common",
+      "notes": "Modern reel with modal character. Associated with Martin Hayes.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "Trip-to-Pakistan",
+      "variants": [
+        {
+          "filename": "trip-to-pakistan.ly",
+          "stem": "trip-to-pakistan"
+        }
+      ],
+      "svg_files": [
+        "trip-to-pakistan.svg"
+      ],
+      "midi_files": [
+        "trip-to-pakistan.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/trip-to-pakistan.svg",
+      "midi": "tunes/Folk_Ireland/trip-to-pakistan.midi"
+    },
+    {
+      "title": "Up Sligo",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish reel",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Reel",
+      "key": "D major",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "reel",
+        "session tune",
+        "sligo style"
+      ],
+      "moods": [
+        "energetic",
+        "driving"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Reel associated with the Sligo fiddle tradition.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "Up-Sligo",
+      "variants": [
+        {
+          "filename": "Up-Sligo.ly",
+          "stem": "Up-Sligo"
+        }
+      ],
+      "svg_files": [
+        "Up-Sligo.svg"
+      ],
+      "midi_files": [
+        "Up-Sligo.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Up-Sligo.svg",
+      "midi": "tunes/Folk_Ireland/Up-Sligo.midi"
+    },
+    {
+      "title": "Whiskey in the Jar",
+      "composer": "Traditional",
+      "country": "Ireland",
+      "country_flag": "🇮🇪",
+      "genre": "Folk",
+      "subgenre": "Irish ballad",
+      "category": "Celtic/Irish",
+      "period": "Traditional",
+      "type": "Song",
+      "key": "C major",
+      "time_sig": "4/4",
+      "difficulty": "Early Intermediate",
+      "tags": [
+        "song",
+        "ballad",
+        "pub song"
+      ],
+      "moods": [
+        "rowdy",
+        "storytelling"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Simple repetitive melody; great for group singing. Many lyric and melodic variants.",
+      "genre_folder": "Folk_Ireland",
+      "tune_folder": "Whiskey-in-the-Jar",
+      "variants": [
+        {
+          "filename": "Whiskey-in-the-Jar.ly",
+          "stem": "Whiskey-in-the-Jar"
+        }
+      ],
+      "svg_files": [
+        "Whiskey-in-the-Jar.svg"
+      ],
+      "midi_files": [
+        "Whiskey-in-the-Jar.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Whiskey-in-the-Jar.svg",
+      "midi": "tunes/Folk_Ireland/Whiskey-in-the-Jar.midi"
+    },
+    {
+      "title": "A Gift to You (Everything I Am)",
+      "composer": "Kids Worship Songs Children Ministry",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Folk",
+      "subgenre": "Worship",
+      "category": "Folk/USA",
+      "period": "Contemporary",
+      "type": "Song",
+      "key": "E major",
+      "time_sig": "4/4",
+      "difficulty": "Beginner",
+      "tags": [
+        "worship",
+        "christian",
+        "american"
+      ],
+      "moods": [
+        "peaceful",
+        "reverent"
+      ],
+      "session_friendliness": "N/A",
+      "notes": "Christian worship song for children.",
+      "genre_folder": "Folk_USA",
+      "tune_folder": "A-Gift-to-You-Everything-I-Am",
+      "variants": [
+        {
+          "filename": "A-Gift-to-You-Everything-I-Am.ly",
+          "stem": "A-Gift-to-You-Everything-I-Am"
+        }
+      ],
+      "svg_files": [
+        "A-Gift-to-You-Everything-I-Am.svg"
+      ],
+      "midi_files": [
+        "A-Gift-to-You-Everything-I-Am.midi"
+      ],
+      "svg": "tunes/Folk_USA/A-Gift-to-You-Everything-I-Am.svg",
+      "midi": "tunes/Folk_USA/A-Gift-to-You-Everything-I-Am.midi"
+    },
+    {
+      "title": "Amazing Grace",
+      "composer": "Traditional American",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Folk",
+      "subgenre": "Hymn",
+      "category": "Folk/USA",
+      "period": "Traditional",
+      "type": "Hymn",
+      "key": "G major",
+      "time_sig": "3/4",
+      "difficulty": "Beginner",
+      "tags": [
+        "hymn",
+        "traditional",
+        "american"
+      ],
+      "moods": [
+        "reverent",
+        "peaceful"
+      ],
+      "session_friendliness": "N/A",
+      "notes": "Classic American hymn with lyrics by John Newton.",
+      "genre_folder": "Folk_USA",
+      "tune_folder": "Amazing-Grace",
+      "variants": [
+        {
+          "filename": "Amazing-grace.ly",
+          "stem": "Amazing-grace"
+        }
+      ],
+      "svg_files": [
+        "Amazing-grace.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Folk_USA/Amazing-grace.svg"
+    },
+    {
+      "title": "Ashokan Farewell",
+      "composer": "Jay Ungar",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Folk",
+      "subgenre": "Old-time waltz",
+      "category": "Folk/USA",
+      "period": "Contemporary",
+      "type": "Waltz",
+      "key": "D major",
+      "time_sig": "3/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "waltz",
+        "traditional",
+        "american",
+        "civil war"
+      ],
+      "moods": [
+        "plaintive",
+        "nostalgic"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Theme from Ken Burns' The Civil War documentary. Beautiful slow waltz.",
+      "genre_folder": "Folk_USA",
+      "tune_folder": "Ashokan-Farewell",
+      "variants": [
+        {
+          "filename": "Ungar-Ashokan-Farewell.ly",
+          "stem": "Ungar-Ashokan-Farewell"
+        }
+      ],
+      "svg_files": [
+        "Ungar-Ashokan-Farewell.svg"
+      ],
+      "midi_files": [
+        "Ungar-Ashokan-Farewell.midi"
+      ],
+      "svg": "tunes/Folk_USA/Ungar-Ashokan-Farewell.svg",
+      "midi": "tunes/Folk_USA/Ungar-Ashokan-Farewell.midi"
+    },
+    {
+      "title": "Devil's Dream",
+      "composer": "Traditional",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Folk",
+      "subgenre": "Old-time reel",
+      "category": "Folk/USA",
+      "period": "Traditional",
+      "type": "Reel",
+      "key": "A major",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "reel",
+        "traditional",
+        "american",
+        "fiddle tune"
+      ],
+      "moods": [
+        "energetic",
+        "lively"
+      ],
+      "session_friendliness": "Very common",
+      "notes": "Classic American fiddle tune, popular at jam sessions.",
+      "genre_folder": "Folk_USA",
+      "tune_folder": "Devils-Dream",
+      "variants": [
+        {
+          "filename": "Devil's-Dream.ly",
+          "stem": "Devil's-Dream"
+        }
+      ],
+      "svg_files": [
+        "Devil's-Dream.svg"
+      ],
+      "midi_files": [
+        "Devil's-Dream.midi"
+      ],
+      "svg": "tunes/Folk_USA/Devil%27s-Dream.svg",
+      "midi": "tunes/Folk_USA/Devil%27s-Dream.midi"
+    },
+    {
+      "title": "Down To The River To Pray",
+      "composer": "Traditional American",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Folk",
+      "subgenre": "Spiritual",
+      "category": "Folk/USA",
+      "period": "Traditional",
+      "type": "Spiritual",
+      "key": "G major",
+      "time_sig": "4/4",
+      "difficulty": "Beginner",
+      "tags": [
+        "spiritual",
+        "traditional",
+        "american",
+        "gospel"
+      ],
+      "moods": [
+        "reverent",
+        "peaceful"
+      ],
+      "session_friendliness": "N/A",
+      "notes": "Traditional American spiritual, featured in O Brother Where Art Thou.",
+      "genre_folder": "Folk_USA",
+      "tune_folder": "Down-To-The-River-To-Pray",
+      "variants": [
+        {
+          "filename": "Down-To-The-River-To-Pray_(G).ly",
+          "stem": "Down-To-The-River-To-Pray_(G)",
+          "key_variant": "G"
+        },
+        {
+          "filename": "Down-To-The-River-To-Pray_(Bb).ly",
+          "stem": "Down-To-The-River-To-Pray_(Bb)",
+          "key_variant": "Bb"
+        },
+        {
+          "filename": "Down-To-The-River-To-Pray_(E).ly",
+          "stem": "Down-To-The-River-To-Pray_(E)",
+          "key_variant": "E"
+        },
+        {
+          "filename": "Down-To-The-River-To-Pray_(A).ly",
+          "stem": "Down-To-The-River-To-Pray_(A)",
+          "key_variant": "A"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Jerusalem Ridge",
+      "composer": "Bill Monroe",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Folk",
+      "subgenre": "Bluegrass",
+      "category": "Folk/USA",
+      "period": "20th century",
+      "type": "Fiddle tune",
+      "key": "A minor",
+      "time_sig": "4/4",
+      "difficulty": "Advanced",
+      "tags": [
+        "bluegrass",
+        "fiddle tune",
+        "american"
+      ],
+      "moods": [
+        "driving",
+        "modal"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Classic Bill Monroe bluegrass tune. As performed by Kenny Baker.",
+      "genre_folder": "Folk_USA",
+      "tune_folder": "Jerusalem-Ridge",
+      "variants": [
+        {
+          "filename": "Jerusulam-Ridge_[As played by Kenny Baker].ly",
+          "stem": "Jerusulam-Ridge_[As played by Kenny Baker]",
+          "arrangement": "As played by Kenny Baker"
+        }
+      ],
+      "svg_files": [
+        "Jerusulam-Ridge_[As played by Kenny Baker].svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Folk_USA/Jerusulam-Ridge_%5BAs%20played%20by%20Kenny%20Baker%5D.svg"
+    },
+    {
+      "title": "The Devil Went Down to Georgia",
+      "composer": "Charlie Daniels",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Folk",
+      "subgenre": "Country",
+      "category": "Folk/USA",
+      "period": "Contemporary",
+      "type": "Fiddle tune",
+      "key": "D minor",
+      "time_sig": "2/2",
+      "difficulty": "Advanced",
+      "tags": [
+        "country",
+        "fiddle tune",
+        "american"
+      ],
+      "moods": [
+        "energetic",
+        "playful"
+      ],
+      "session_friendliness": "N/A",
+      "notes": "Classic Charlie Daniels Band song featuring virtuosic fiddle.",
+      "genre_folder": "Folk_USA",
+      "tune_folder": "The-Devil-Went-Down-to-Georgia",
+      "variants": [
+        {
+          "filename": "The-Devil-Went-Down-to-Georgia.ly",
+          "stem": "The-Devil-Went-Down-to-Georgia"
+        }
+      ],
+      "svg_files": [
+        "The-Devil-Went-Down-to-Georgia.svg"
+      ],
+      "midi_files": [
+        "The-Devil-Went-Down-to-Georgia.midi"
+      ],
+      "svg": "tunes/Folk_USA/The-Devil-Went-Down-to-Georgia.svg",
+      "midi": "tunes/Folk_USA/The-Devil-Went-Down-to-Georgia.midi"
+    },
+    {
+      "title": "The Scotsman",
+      "composer": "Mike Cross",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Folk",
+      "subgenre": "Comedy song",
+      "category": "Folk/USA",
+      "period": "Contemporary",
+      "type": "Song",
+      "key": "D major",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "comedy",
+        "folk",
+        "american"
+      ],
+      "moods": [
+        "humorous",
+        "lively"
+      ],
+      "session_friendliness": "N/A",
+      "notes": "Commonly known as 'The Drunk Scotsman'. Comedy folk song from the 1970s.",
+      "genre_folder": "Folk_USA",
+      "tune_folder": "The-Scotman",
+      "variants": [
+        {
+          "filename": "Drunk-Scotman.ly",
+          "stem": "Drunk-Scotman"
+        }
+      ],
+      "svg_files": [
+        "Drunk-Scotman.svg"
+      ],
+      "midi_files": [
+        "Drunk-Scotman.midi"
+      ],
+      "svg": "tunes/Folk_USA/Drunk-Scotman.svg",
+      "midi": "tunes/Folk_USA/Drunk-Scotman.midi"
+    },
+    {
+      "title": "The Star-Spangled Banner",
+      "composer": "John Stafford Smith",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Folk",
+      "subgenre": "Anthem",
+      "category": "Folk/USA",
+      "period": "19th century",
+      "type": "Anthem",
+      "key": "Bb major",
+      "time_sig": "3/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "anthem",
+        "patriotic",
+        "american"
+      ],
+      "moods": [
+        "triumphant",
+        "majestic"
+      ],
+      "session_friendliness": "N/A",
+      "notes": "The National Anthem of the United States. Lyrics by Francis Scott Key.",
+      "genre_folder": "Folk_USA",
+      "tune_folder": "The-Star-Spangled-Banner",
+      "variants": [
+        {
+          "filename": "The-Star-Spangled-Banner.ly",
+          "stem": "The-Star-Spangled-Banner"
+        },
+        {
+          "filename": "The-Star-Spangled-Banner_(Eb).ly",
+          "stem": "The-Star-Spangled-Banner_(Eb)",
+          "key_variant": "Eb"
+        },
+        {
+          "filename": "The-Star-Spangled-Banner_(C).ly",
+          "stem": "The-Star-Spangled-Banner_(C)",
+          "key_variant": "C"
+        },
+        {
+          "filename": "The-Star-Spangled-Banner_(D).ly",
+          "stem": "The-Star-Spangled-Banner_(D)",
+          "key_variant": "D"
+        },
+        {
+          "filename": "The-Star-Spangled-Banner_(A).ly",
+          "stem": "The-Star-Spangled-Banner_(A)",
+          "key_variant": "A"
+        },
+        {
+          "filename": "The-Star-Spangled-Banner_[SATB].ly",
+          "stem": "The-Star-Spangled-Banner_[SATB]",
+          "arrangement": "SATB"
+        },
+        {
+          "filename": "The-Star-Spangled-Banner_(G).ly",
+          "stem": "The-Star-Spangled-Banner_(G)",
+          "key_variant": "G"
+        },
+        {
+          "filename": "The-Star-Spangled-Banner_(B).ly",
+          "stem": "The-Star-Spangled-Banner_(B)",
+          "key_variant": "B"
+        }
+      ],
+      "svg_files": [
+        "The-Star-Spangled-Banner_(G).svg",
+        "The-Star-Spangled-Banner_(C).svg",
+        "The-Star-Spangled-Banner_(A).svg",
+        "The-Star-Spangled-Banner_(B).svg",
+        "The-Star-Spangled-Banner_[SATB]-2.svg",
+        "The-Star-Spangled-Banner.svg",
+        "The-Star-Spangled-Banner_(D).svg",
+        "The-Star-Spangled-Banner_[SATB]-1.svg",
+        "The-Star-Spangled-Banner_(Eb).svg"
+      ],
+      "midi_files": [
+        "The-Star-Spangled-Banner_(C).midi",
+        "The-Star-Spangled-Banner_[SATB].midi",
+        "The-Star-Spangled-Banner_(G).midi",
+        "The-Star-Spangled-Banner_(B).midi",
+        "The-Star-Spangled-Banner_(Eb).midi",
+        "The-Star-Spangled-Banner_(A).midi",
+        "The-Star-Spangled-Banner_(D).midi",
+        "The-Star-Spangled-Banner.midi"
+      ],
+      "svg": "tunes/Folk_USA/The-Star-Spangled-Banner_%28G%29.svg",
+      "midi": "tunes/Folk_USA/The-Star-Spangled-Banner_%28C%29.midi"
+    },
+    {
+      "title": "You Are My Sunshine",
+      "composer": "Jimmie Davis & Charles Mitchell",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Folk",
+      "subgenre": "Old-time",
+      "category": "Folk/USA",
+      "period": "20th century",
+      "type": "Song",
+      "key": "G major",
+      "time_sig": "4/4",
+      "difficulty": "Beginner",
+      "tags": [
+        "old-time",
+        "traditional",
+        "american",
+        "classic"
+      ],
+      "moods": [
+        "cheerful",
+        "nostalgic"
+      ],
+      "session_friendliness": "Common",
+      "notes": "Classic American song, Louisiana state song.",
+      "genre_folder": "Folk_USA",
+      "tune_folder": "You-are-my-sunshine",
+      "variants": [
+        {
+          "filename": "You-are-my-sunshine_[Piano].ly",
+          "stem": "You-are-my-sunshine_[Piano]",
+          "arrangement": "Piano"
+        },
+        {
+          "filename": "You-are-my-sunshine.ly",
+          "stem": "You-are-my-sunshine"
+        }
+      ],
+      "svg_files": [
+        "You-are-my-sunshine_[Piano]-2.svg",
+        "You-are-my-sunshine.svg",
+        "You-are-my-sunshine_[Piano]-1.svg"
+      ],
+      "midi_files": [
+        "You-are-my-sunshine_[Piano].midi"
+      ],
+      "svg": "tunes/Folk_USA/You-are-my-sunshine_%5BPiano%5D-2.svg",
+      "midi": "tunes/Folk_USA/You-are-my-sunshine_%5BPiano%5D.midi"
+    }
+  ]
 }
