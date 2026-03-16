@@ -1,0 +1,2525 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(45.2228, 6.6387)">
+<text font-family="serif" font-weight="bold" font-size="3.4929" text-anchor="start" fill="currentColor">
+<tspan>Gammes de Ré</tspan>
+</text>
+</g>
+<g transform="translate(59.3240, 10.1387)">
+<text font-family="serif" font-weight="bold" font-size="2.4697" text-anchor="start" fill="currentColor">
+<tspan> </tspan>
+</text>
+</g>
+<g transform="translate(98.0710, 13.6387)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Marc Mouries</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 22.7758)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>Gammes les plus courantes:</tspan>
+</text>
+</g>
+<g transform="translate(14.2264, 36.1244)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="58.2974" y2="0"/>
+</g>
+<g transform="translate(14.2264, 35.1244)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="58.2974" y2="0"/>
+</g>
+<g transform="translate(14.2264, 34.1244)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="58.2974" y2="0"/>
+</g>
+<g transform="translate(14.2264, 33.1244)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="58.2974" y2="0"/>
+</g>
+<g transform="translate(14.2264, 32.1244)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="58.2974" y2="0"/>
+</g>
+<g transform="translate(72.3837, 43.0092)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(72.3837, 34.1244)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(47.0817, 43.0092)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(47.0817, 34.1244)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(14.2264, 45.0092)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="58.2974" y2="0"/>
+</g>
+<g transform="translate(14.2264, 44.0092)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="58.2974" y2="0"/>
+</g>
+<g transform="translate(14.2264, 43.0092)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="58.2974" y2="0"/>
+</g>
+<g transform="translate(14.2264, 42.0092)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="58.2974" y2="0"/>
+</g>
+<g transform="translate(14.2264, 41.0092)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="58.2974" y2="0"/>
+</g>
+<g transform="translate(5.6906, 40.0092)">
+<rect x="45.3181" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 40.0092)">
+<rect x="42.3158" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 40.0092)">
+<rect x="38.2347" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 40.0092)">
+<rect x="35.2325" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(54.4020, 43.0092)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(54.4020, 34.1244)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:8:9">
+<g transform="translate(54.3370, 40.5092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:8:9">
+<g transform="translate(54.3370, 34.1244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.3997, 43.0092)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:10:11">
+<g transform="translate(57.3301, 34.6244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:10:11">
+<g transform="translate(57.3301, 41.0092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(58.5693, 34.1244)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(57.3951, 43.0092)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:12:13">
+<g transform="translate(60.3324, 35.1244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(48.3975, 34.1244)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(48.3975, 43.0092)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:6:7">
+<g transform="translate(51.3347, 33.6244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:6:7">
+<g transform="translate(51.3347, 40.0092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.3997, 34.1244)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:18:19">
+<g transform="translate(69.3391, 36.6244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:18:19">
+<g transform="translate(69.3391, 43.0092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(70.5783, 34.1244)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(69.4041, 43.0092)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:12:13">
+<g transform="translate(60.3324, 41.5092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(61.5716, 34.1244)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(60.3974, 43.0092)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:14:15">
+<g transform="translate(63.3346, 35.6244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:14:15">
+<g transform="translate(63.3346, 42.0092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(64.5738, 34.1244)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:4:5">
+<g transform="translate(48.3325, 39.5092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(63.3996, 43.0092)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:16:17">
+<g transform="translate(66.3369, 36.1244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:16:17">
+<g transform="translate(66.3369, 42.5092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(67.5761, 34.1244)">
+<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(66.4019, 43.0092)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(30.4701, 34.1244)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:6:7">
+<g transform="translate(26.2287, 36.1244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:6:7">
+<g transform="translate(26.2287, 42.5092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.4679, 34.1244)">
+<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(26.2937, 43.0092)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:8:9">
+<g transform="translate(29.2309, 35.6244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:8:9">
+<g transform="translate(29.2309, 42.0092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(29.2959, 43.0092)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:10:11">
+<g transform="translate(32.2332, 35.1244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:9:4:5">
+<g transform="translate(48.3325, 33.1244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(33.4724, 34.1244)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(14.1664, 38.5668)">
+<rect x="0.0000" y="-6.4924" width="0.1600" height="12.9848" ry="0.0500" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:4:5">
+<g transform="translate(23.2264, 36.6244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 35.1244)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:25:4:5">
+<g transform="translate(18.5264, 32.1244)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(19.6264, 33.6244)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:4:5">
+<g transform="translate(23.2264, 43.0092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 42.0092)">
+<path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
+c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:36:4:5">
+<g transform="translate(18.5264, 42.0092)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(19.6264, 43.5092)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:27:4:5">
+<g transform="translate(20.7264, 29.4586)">
+<text font-family="serif" font-weight="bold" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>Majeur</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(24.4656, 34.1244)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:10:11">
+<g transform="translate(32.2332, 41.5092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(23.2914, 43.0092)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(38.3118, 43.0092)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:16:17">
+<g transform="translate(41.2491, 33.6244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:16:17">
+<g transform="translate(41.2491, 40.0092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(41.3141, 34.1244)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(41.3141, 43.0092)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(32.2982, 43.0092)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:18:19">
+<g transform="translate(44.2513, 33.1244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:18:19">
+<g transform="translate(44.2513, 39.5092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(44.3163, 34.1244)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(44.3163, 43.0092)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:12:13">
+<g transform="translate(35.2354, 34.6244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:12:13">
+<g transform="translate(35.2354, 41.0092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(36.4746, 34.1244)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.3004, 43.0092)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:14:15">
+<g transform="translate(38.2468, 34.1244)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:8:14:15">
+<g transform="translate(38.2468, 40.5092)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(38.3118, 34.1244)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(14.2264, 58.3180)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="64.2267" y2="0"/>
+</g>
+<g transform="translate(14.2264, 57.3180)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="64.2267" y2="0"/>
+</g>
+<g transform="translate(14.2264, 56.3180)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="64.2267" y2="0"/>
+</g>
+<g transform="translate(14.2264, 55.3180)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="64.2267" y2="0"/>
+</g>
+<g transform="translate(14.2264, 54.3180)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="64.2267" y2="0"/>
+</g>
+<g transform="translate(78.3131, 65.2028)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(78.3131, 56.3180)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(49.4018, 65.2028)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(49.4018, 56.3180)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(14.2264, 67.2028)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="64.2267" y2="0"/>
+</g>
+<g transform="translate(14.2264, 66.2028)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="64.2267" y2="0"/>
+</g>
+<g transform="translate(14.2264, 65.2028)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="64.2267" y2="0"/>
+</g>
+<g transform="translate(14.2264, 64.2028)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="64.2267" y2="0"/>
+</g>
+<g transform="translate(14.2264, 63.2028)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="64.2267" y2="0"/>
+</g>
+<g transform="translate(5.6906, 62.2028)">
+<rect x="48.9079" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 62.2028)">
+<rect x="44.6360" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 62.2028)">
+<rect x="40.5548" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 62.2028)">
+<rect x="37.7036" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(58.1977, 56.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(57.2777, 56.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(57.3977, 56.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(59.2127, 56.3180)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:11:12">
+<g transform="translate(59.1477, 62.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:11:12">
+<g transform="translate(59.1477, 56.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(53.8234, 62.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(53.1568, 62.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(53.1568, 62.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(54.8384, 65.2028)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(59.2127, 65.2028)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(58.1977, 62.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(57.2777, 62.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(57.3977, 62.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:16:17">
+<g transform="translate(62.1408, 56.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:16:17">
+<g transform="translate(62.1408, 63.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(63.3800, 56.3180)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(62.2058, 65.2028)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(50.7176, 56.3180)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(50.7176, 65.2028)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(53.8234, 55.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(53.1568, 55.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(53.1568, 55.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:6:7">
+<g transform="translate(54.7734, 55.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:6:7">
+<g transform="translate(54.7734, 62.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(54.8384, 56.3180)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(72.3312, 65.2028)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:27:28">
+<g transform="translate(75.2685, 58.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:27:28">
+<g transform="translate(75.2685, 65.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(76.5077, 56.3180)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(75.3335, 65.2028)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:18:19">
+<g transform="translate(65.1431, 57.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:18:19">
+<g transform="translate(65.1431, 63.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(66.3823, 56.3180)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(65.2081, 65.2028)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:20:21">
+<g transform="translate(69.2640, 57.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:20:21">
+<g transform="translate(69.2640, 64.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(70.5032, 56.3180)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:4:5">
+<g transform="translate(50.6526, 61.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(68.3140, 57.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(67.6473, 57.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(67.6473, 57.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(69.3290, 65.2028)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(68.3140, 64.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(67.6473, 64.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(67.6473, 64.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:25:26">
+<g transform="translate(72.2662, 58.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:25:26">
+<g transform="translate(72.2662, 64.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(73.5054, 56.3180)">
+<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.1195, 57.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 57.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 57.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(26.1879, 56.3180)">
+<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(25.0136, 65.2028)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:8:9">
+<g transform="translate(29.0695, 57.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:8:9">
+<g transform="translate(29.0695, 64.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(30.3087, 56.3180)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:6:7">
+<g transform="translate(24.9486, 64.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(29.1345, 65.2028)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.1195, 64.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 64.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 64.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:13:14">
+<g transform="translate(32.0718, 57.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:13:14">
+<g transform="translate(32.0718, 63.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:15:4:5">
+<g transform="translate(50.6526, 55.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(32.1368, 65.2028)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(14.1664, 60.7604)">
+<rect x="0.0000" y="-6.4924" width="0.1600" height="12.9848" ry="0.0500" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:4:5">
+<g transform="translate(21.9464, 58.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 57.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:53:4:5">
+<g transform="translate(18.6464, 56.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:4:5">
+<g transform="translate(21.9464, 65.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 64.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
+c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:64:4:5">
+<g transform="translate(18.6464, 66.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:55:4:5">
+<g transform="translate(19.4464, 51.8363)">
+<text font-family="serif" font-weight="bold" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>Mineur naturel (sans sensible)</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(23.1856, 56.3180)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(33.3110, 56.3180)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(22.0114, 65.2028)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:6:7">
+<g transform="translate(24.9486, 58.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(38.4983, 62.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(37.5783, 62.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(37.6983, 62.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:22:23">
+<g transform="translate(43.5692, 55.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:22:23">
+<g transform="translate(43.5692, 62.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(43.6342, 56.3180)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(42.6192, 55.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(41.9525, 55.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(41.9525, 55.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(43.6342, 65.2028)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(42.6192, 62.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(41.9525, 62.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(41.9525, 62.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:27:28">
+<g transform="translate(46.5714, 55.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:27:28">
+<g transform="translate(46.5714, 61.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(46.6364, 56.3180)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(46.6364, 65.2028)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:15:16">
+<g transform="translate(35.0741, 56.8180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:15:16">
+<g transform="translate(35.0741, 63.2028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(36.3133, 56.3180)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.1391, 65.2028)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:17:18">
+<g transform="translate(39.4483, 56.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(39.5133, 65.2028)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(39.5133, 56.3180)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(38.4983, 56.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(37.5783, 56.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(37.6983, 56.3180)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:14:17:18">
+<g transform="translate(39.4483, 62.7028)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(14.2264, 80.5117)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="62.6934" y2="0"/>
+</g>
+<g transform="translate(14.2264, 79.5117)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="62.6934" y2="0"/>
+</g>
+<g transform="translate(14.2264, 78.5117)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="62.6934" y2="0"/>
+</g>
+<g transform="translate(14.2264, 77.5117)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="62.6934" y2="0"/>
+</g>
+<g transform="translate(14.2264, 76.5117)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="62.6934" y2="0"/>
+</g>
+<g transform="translate(76.7797, 87.3965)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(76.7797, 78.5117)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(48.6351, 87.3965)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(48.6351, 78.5117)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(14.2264, 89.3965)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="62.6934" y2="0"/>
+</g>
+<g transform="translate(14.2264, 88.3965)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="62.6934" y2="0"/>
+</g>
+<g transform="translate(14.2264, 87.3965)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="62.6934" y2="0"/>
+</g>
+<g transform="translate(14.2264, 86.3965)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="62.6934" y2="0"/>
+</g>
+<g transform="translate(14.2264, 85.3965)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="62.6934" y2="0"/>
+</g>
+<g transform="translate(5.6906, 84.3965)">
+<rect x="47.3745" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 84.3965)">
+<rect x="43.8693" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 84.3965)">
+<rect x="39.7882" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 84.3965)">
+<rect x="36.9370" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(56.6643, 78.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(55.7443, 78.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(55.8643, 78.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(57.6793, 78.5117)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:8:9">
+<g transform="translate(57.6143, 84.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:8:9">
+<g transform="translate(57.6143, 78.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.7901, 84.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(53.3051, 87.3965)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(57.6793, 87.3965)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(56.6643, 84.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(55.7443, 84.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(55.8643, 84.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:13:14">
+<g transform="translate(60.6075, 79.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:13:14">
+<g transform="translate(60.6075, 85.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(61.8467, 78.5117)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(60.6725, 87.3965)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(49.9509, 78.5117)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(49.9509, 87.3965)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(51.7901, 78.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:6:7">
+<g transform="translate(53.2401, 78.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:6:7">
+<g transform="translate(53.2401, 84.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(53.3051, 78.5117)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(70.7979, 87.3965)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:24:25">
+<g transform="translate(73.7351, 81.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:24:25">
+<g transform="translate(73.7351, 87.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(74.9743, 78.5117)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(73.8001, 87.3965)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:15:16">
+<g transform="translate(63.6097, 79.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:15:16">
+<g transform="translate(63.6097, 85.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(64.8489, 78.5117)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(63.6747, 87.3965)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:17:18">
+<g transform="translate(67.7306, 80.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:17:18">
+<g transform="translate(67.7306, 86.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(68.9698, 78.5117)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:4:5">
+<g transform="translate(49.8859, 83.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(66.7806, 80.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(66.1139, 80.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(66.1139, 80.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(67.7956, 87.3965)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(66.7806, 86.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(66.1139, 86.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(66.1139, 86.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:22:23">
+<g transform="translate(70.7329, 80.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:22:23">
+<g transform="translate(70.7329, 86.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(71.9721, 78.5117)">
+<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.1195, 80.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 80.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 80.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(26.1879, 78.5117)">
+<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(25.0136, 87.3965)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:8:9">
+<g transform="translate(29.0695, 80.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:8:9">
+<g transform="translate(29.0695, 86.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(30.3087, 78.5117)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:6:7">
+<g transform="translate(24.9486, 86.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(29.1345, 87.3965)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.1195, 86.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 86.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 86.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:13:14">
+<g transform="translate(32.0718, 79.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:13:14">
+<g transform="translate(32.0718, 85.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:21:4:5">
+<g transform="translate(49.8859, 77.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(32.1368, 87.3965)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(14.1664, 82.9541)">
+<rect x="0.0000" y="-6.4924" width="0.1600" height="12.9848" ry="0.0500" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:4:5">
+<g transform="translate(21.9464, 81.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 79.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:81:4:5">
+<g transform="translate(18.6464, 78.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:4:5">
+<g transform="translate(21.9464, 87.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 86.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
+c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:92:4:5">
+<g transform="translate(18.6464, 88.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:83:4:5">
+<g transform="translate(19.4464, 73.8851)">
+<text font-family="serif" font-weight="bold" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>Mineur harmonique</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(23.1856, 78.5117)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(33.3110, 78.5117)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(22.0114, 87.3965)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:6:7">
+<g transform="translate(24.9486, 80.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(38.4983, 84.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(37.5783, 84.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(37.6983, 84.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:22:23">
+<g transform="translate(42.8025, 78.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:22:23">
+<g transform="translate(42.8025, 84.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(42.8675, 78.5117)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(41.3525, 78.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(42.8675, 87.3965)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(41.3525, 84.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:25:26">
+<g transform="translate(45.8048, 77.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:25:26">
+<g transform="translate(45.8048, 83.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(45.8698, 78.5117)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(45.8698, 87.3965)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:15:16">
+<g transform="translate(35.0741, 79.0117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:15:16">
+<g transform="translate(35.0741, 85.3965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(36.3133, 78.5117)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.1391, 87.3965)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:17:18">
+<g transform="translate(39.4483, 78.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(39.5133, 87.3965)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(39.5133, 78.5117)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(38.4983, 78.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(37.5783, 78.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(37.6983, 78.5117)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:20:17:18">
+<g transform="translate(39.4483, 84.8965)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(14.2264, 102.7053)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.8972" y2="0"/>
+</g>
+<g transform="translate(14.2264, 101.7053)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.8972" y2="0"/>
+</g>
+<g transform="translate(14.2264, 100.7053)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.8972" y2="0"/>
+</g>
+<g transform="translate(14.2264, 99.7053)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.8972" y2="0"/>
+</g>
+<g transform="translate(14.2264, 98.7053)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.8972" y2="0"/>
+</g>
+<g transform="translate(74.9835, 109.5901)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(74.9835, 100.7053)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(47.2722, 109.5901)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(47.2722, 100.7053)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(14.2264, 111.5901)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.8972" y2="0"/>
+</g>
+<g transform="translate(14.2264, 110.5901)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.8972" y2="0"/>
+</g>
+<g transform="translate(14.2264, 109.5901)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.8972" y2="0"/>
+</g>
+<g transform="translate(14.2264, 108.5901)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.8972" y2="0"/>
+</g>
+<g transform="translate(14.2264, 107.5901)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.8972" y2="0"/>
+</g>
+<g transform="translate(5.6906, 106.5901)">
+<rect x="46.7784" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 106.5901)">
+<rect x="42.5064" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 106.5901)">
+<rect x="38.4253" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 106.5901)">
+<rect x="35.5741" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(54.6681, 100.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(55.8831, 100.7053)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:11:12">
+<g transform="translate(55.8181, 107.0901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:11:12">
+<g transform="translate(55.8181, 100.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.6939, 106.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(51.0273, 106.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(51.0273, 106.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(52.7089, 109.5901)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(55.8831, 109.5901)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(54.6681, 107.0901)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:16:17">
+<g transform="translate(58.8113, 101.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:16:17">
+<g transform="translate(58.8113, 107.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(60.0505, 100.7053)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(58.8763, 109.5901)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(48.5880, 100.7053)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(48.5880, 109.5901)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(51.6939, 100.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(51.0273, 100.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(51.0273, 100.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:6:7">
+<g transform="translate(52.6439, 100.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:6:7">
+<g transform="translate(52.6439, 106.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(52.7089, 100.7053)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(69.0017, 109.5901)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:27:28">
+<g transform="translate(71.9389, 103.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:27:28">
+<g transform="translate(71.9389, 109.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(73.1781, 100.7053)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(72.0039, 109.5901)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:18:19">
+<g transform="translate(61.8135, 101.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:18:19">
+<g transform="translate(61.8135, 108.0901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(63.0527, 100.7053)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(61.8785, 109.5901)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:20:21">
+<g transform="translate(65.9344, 102.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:20:21">
+<g transform="translate(65.9344, 108.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(67.1736, 100.7053)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:4:5">
+<g transform="translate(48.5230, 106.0901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(64.9844, 102.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(64.3177, 102.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(64.3177, 102.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(65.9994, 109.5901)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(64.9844, 108.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(64.3177, 108.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(64.3177, 108.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:25:26">
+<g transform="translate(68.9367, 102.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:25:26">
+<g transform="translate(68.9367, 109.0901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(70.1759, 100.7053)">
+<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.1195, 102.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 102.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 102.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(26.1879, 100.7053)">
+<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(25.0136, 109.5901)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:8:9">
+<g transform="translate(29.0695, 102.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:8:9">
+<g transform="translate(29.0695, 108.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(30.3087, 100.7053)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:6:7">
+<g transform="translate(24.9486, 109.0901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(29.1345, 109.5901)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.1195, 108.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 108.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 108.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:13:14">
+<g transform="translate(32.0718, 101.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:13:14">
+<g transform="translate(32.0718, 108.0901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:27:4:5">
+<g transform="translate(48.5230, 99.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(32.1368, 109.5901)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(14.1664, 105.1477)">
+<rect x="0.0000" y="-6.4924" width="0.1600" height="12.9848" ry="0.0500" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:4:5">
+<g transform="translate(21.9464, 103.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 101.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:109:4:5">
+<g transform="translate(18.6464, 100.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:4:5">
+<g transform="translate(21.9464, 109.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 108.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
+c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:120:4:5">
+<g transform="translate(18.6464, 110.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:111:4:5">
+<g transform="translate(19.4464, 96.0787)">
+<text font-family="serif" font-weight="bold" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>Mineur mélodique</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(23.1856, 100.7053)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(33.3110, 100.7053)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(22.0114, 109.5901)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:6:7">
+<g transform="translate(24.9486, 102.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(37.0394, 107.0901)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:20:21">
+<g transform="translate(41.4396, 100.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:20:21">
+<g transform="translate(41.4396, 106.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(41.5046, 100.7053)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(39.9896, 100.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(41.5046, 109.5901)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(39.9896, 106.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:23:24">
+<g transform="translate(44.4419, 99.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:23:24">
+<g transform="translate(44.4419, 106.0901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(44.5069, 100.7053)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(44.5069, 109.5901)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:15:16">
+<g transform="translate(35.0741, 101.2053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:15:16">
+<g transform="translate(35.0741, 107.5901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(36.3133, 100.7053)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.1391, 109.5901)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:17:18">
+<g transform="translate(38.0854, 100.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(38.1504, 109.5901)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(38.1504, 100.7053)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(37.0394, 100.7053)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:26:17:18">
+<g transform="translate(38.0854, 107.0901)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(14.2264, 124.8989)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.6794" y2="0"/>
+</g>
+<g transform="translate(14.2264, 123.8989)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.6794" y2="0"/>
+</g>
+<g transform="translate(14.2264, 122.8989)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.6794" y2="0"/>
+</g>
+<g transform="translate(14.2264, 121.8989)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.6794" y2="0"/>
+</g>
+<g transform="translate(14.2264, 120.8989)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.6794" y2="0"/>
+</g>
+<g transform="translate(74.7657, 131.7837)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(74.7657, 122.8989)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(48.3488, 131.7837)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(48.3488, 122.8989)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(14.2264, 133.7837)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.6794" y2="0"/>
+</g>
+<g transform="translate(14.2264, 132.7837)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.6794" y2="0"/>
+</g>
+<g transform="translate(14.2264, 131.7837)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.6794" y2="0"/>
+</g>
+<g transform="translate(14.2264, 130.7837)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.6794" y2="0"/>
+</g>
+<g transform="translate(14.2264, 129.7837)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="60.6794" y2="0"/>
+</g>
+<g transform="translate(5.6906, 128.7837)">
+<rect x="48.6225" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.7837)">
+<rect x="45.6202" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.7837)">
+<rect x="36.6038" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.7837)">
+<rect x="33.6015" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(54.7041, 131.7837)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:12:13">
+<g transform="translate(57.4715, 123.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:12:13">
+<g transform="translate(57.4715, 129.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(58.7107, 122.8989)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(57.5365, 131.7837)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:14:15">
+<g transform="translate(61.8457, 123.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:14:15">
+<g transform="translate(61.8457, 129.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(63.0849, 122.8989)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(60.8957, 123.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(59.9757, 123.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(60.0957, 123.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(54.7041, 122.8989)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:6:7">
+<g transform="translate(51.6368, 121.8989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:6:7">
+<g transform="translate(51.6368, 128.2837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.7018, 122.8989)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(51.7018, 131.7837)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:8:9">
+<g transform="translate(54.6391, 122.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:8:9">
+<g transform="translate(54.6391, 128.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(68.0189, 130.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(67.3522, 130.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(67.3522, 130.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:26:27">
+<g transform="translate(71.7211, 125.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:26:27">
+<g transform="translate(71.7211, 131.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(72.9603, 122.8989)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(71.7861, 131.7837)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(60.8957, 129.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(59.9757, 129.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(60.0957, 129.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:19:20">
+<g transform="translate(64.8480, 123.8989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:19:20">
+<g transform="translate(64.8480, 130.2837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(66.0872, 122.8989)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(64.9130, 131.7837)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(61.9107, 131.7837)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:21:22">
+<g transform="translate(68.9689, 124.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:46:21:22">
+<g transform="translate(68.9689, 130.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(70.2081, 122.8989)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(68.0189, 124.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(67.3522, 124.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(67.3522, 124.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(69.0339, 131.7837)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(25.1173, 130.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(24.4506, 130.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(24.4506, 130.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:6:7">
+<g transform="translate(26.0673, 124.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:6:7">
+<g transform="translate(26.0673, 130.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.3065, 122.8989)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(25.1173, 124.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(24.4506, 124.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(24.4506, 124.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(26.1323, 131.7837)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:11:12">
+<g transform="translate(29.0695, 123.8989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:11:12">
+<g transform="translate(29.0695, 130.2837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(30.3087, 122.8989)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(29.1345, 131.7837)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:13:14">
+<g transform="translate(33.4438, 123.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:13:14">
+<g transform="translate(33.4438, 129.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(14.1664, 127.3413)">
+<rect x="0.0000" y="-6.4924" width="0.1600" height="12.9848" ry="0.0500" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:4:5">
+<g transform="translate(21.9464, 125.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 123.8989)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:193:4:5">
+<g transform="translate(18.6464, 122.8989)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:4:5">
+<g transform="translate(21.9464, 131.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 130.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
+c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:204:4:5">
+<g transform="translate(18.6464, 132.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:195:4:5">
+<g transform="translate(19.4464, 118.8097)">
+<text font-family="serif" font-weight="bold" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>Blues</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(23.1856, 122.8989)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(22.0114, 131.7837)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(36.5110, 131.7837)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(34.6830, 122.8989)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.4000, 129.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:20:21">
+<g transform="translate(39.6181, 122.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:20:21">
+<g transform="translate(39.6181, 128.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(39.6831, 122.8989)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(39.6831, 131.7837)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:24:25">
+<g transform="translate(42.6204, 121.8989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:24:25">
+<g transform="translate(42.6204, 128.2837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(42.6854, 122.8989)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(42.6854, 131.7837)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.4118, 123.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(32.4938, 123.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(31.5738, 123.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(31.6938, 123.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(33.5088, 131.7837)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(32.4938, 129.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(31.5738, 129.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(31.6938, 129.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:18:19">
+<g transform="translate(36.4460, 123.3989)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:45:18:19">
+<g transform="translate(36.4460, 129.7837)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(37.6852, 122.8989)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(14.2264, 147.0926)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="63.3973" y2="0"/>
+</g>
+<g transform="translate(14.2264, 146.0926)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="63.3973" y2="0"/>
+</g>
+<g transform="translate(14.2264, 145.0926)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="63.3973" y2="0"/>
+</g>
+<g transform="translate(14.2264, 144.0926)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="63.3973" y2="0"/>
+</g>
+<g transform="translate(14.2264, 143.0926)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="63.3973" y2="0"/>
+</g>
+<g transform="translate(77.4836, 153.9774)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(77.4836, 145.0926)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(48.9870, 153.9774)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(48.9870, 145.0926)">
+<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(14.2264, 155.9774)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="63.3973" y2="0"/>
+</g>
+<g transform="translate(14.2264, 154.9774)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="63.3973" y2="0"/>
+</g>
+<g transform="translate(14.2264, 153.9774)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="63.3973" y2="0"/>
+</g>
+<g transform="translate(14.2264, 152.9774)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="63.3973" y2="0"/>
+</g>
+<g transform="translate(14.2264, 151.9774)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="63.3973" y2="0"/>
+</g>
+<g transform="translate(5.6906, 150.9774)">
+<rect x="47.7265" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 150.9774)">
+<rect x="44.2212" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 150.9774)">
+<rect x="40.1401" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 150.9774)">
+<rect x="37.2889" y="-0.1000" width="1.8053" height="0.2000" ry="0.1000" fill="currentColor"/>
+</g>
+<g transform="translate(58.0313, 153.9774)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(53.6570, 153.9774)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(57.0163, 145.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(56.0963, 145.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(56.2163, 145.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(58.0313, 145.0926)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:8:9">
+<g transform="translate(57.9663, 151.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:8:9">
+<g transform="translate(57.9663, 145.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(52.1420, 150.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(57.0163, 151.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(56.0963, 151.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(56.2163, 151.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:13:14">
+<g transform="translate(60.9594, 145.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:13:14">
+<g transform="translate(60.9594, 151.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(62.1986, 145.0926)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(61.0244, 153.9774)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:15:16">
+<g transform="translate(64.3136, 146.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(50.3028, 145.0926)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(50.3028, 153.9774)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:6:7">
+<g transform="translate(53.5920, 144.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:6:7">
+<g transform="translate(53.5920, 150.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(53.6570, 145.0926)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(52.1420, 144.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(71.5018, 153.9774)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:26:27">
+<g transform="translate(74.4390, 147.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:26:27">
+<g transform="translate(74.4390, 153.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(75.6782, 145.0926)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(74.5040, 153.9774)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(69.6737, 145.0926)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:15:16">
+<g transform="translate(64.3136, 152.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(65.5528, 145.0926)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(62.8636, 146.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(64.3786, 153.9774)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(62.8636, 152.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:19:20">
+<g transform="translate(68.4345, 146.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:19:20">
+<g transform="translate(68.4345, 152.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:4:5">
+<g transform="translate(50.2378, 150.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(67.4845, 146.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(66.8178, 146.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(66.8178, 146.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(68.4995, 153.9774)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(67.4845, 152.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(66.8178, 152.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(66.8178, 152.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:24:25">
+<g transform="translate(71.4368, 147.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:24:25">
+<g transform="translate(71.4368, 153.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(72.6760, 145.0926)">
+<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(29.1345, 153.9774)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(25.0136, 153.9774)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:8:9">
+<g transform="translate(29.0695, 146.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:8:9">
+<g transform="translate(29.0695, 152.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(30.3087, 145.0926)">
+<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.1195, 146.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 146.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 146.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<g transform="translate(26.1879, 145.0926)">
+<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.1195, 152.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 152.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(27.4529, 152.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:13:14">
+<g transform="translate(32.4237, 146.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:13:14">
+<g transform="translate(32.4237, 152.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(33.6630, 145.0926)">
+<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:52:4:5">
+<g transform="translate(50.2378, 144.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(30.9737, 146.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(32.4887, 153.9774)">
+<rect x="-0.0650" y="-1.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(14.1664, 149.5350)">
+<rect x="0.0000" y="-6.4924" width="0.1600" height="12.9848" ry="0.0500" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:4:5">
+<g transform="translate(21.9464, 147.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 146.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:222:4:5">
+<g transform="translate(18.6464, 145.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:4:5">
+<g transform="translate(21.9464, 153.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.0264, 152.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M557 -125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM557 125c0 28 23 51 51 51s51 -23 51 -51s-23 -51 -51 -51s-51 23 -51 51zM232 263c172 0 293 -88 293 -251c0 -263 -263 -414 -516 -521c-3 -3 -6 -4 -9 -4c-7 0 -13 6 -13 13c0 3 1 6 4 9
+c202 118 412 265 412 493c0 120 -63 235 -171 235c-74 0 -129 -54 -154 -126c11 5 22 8 34 8c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 102 244 232 244z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:233:4:5">
+<g transform="translate(18.6464, 154.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/Re_TrebleAndBass.ly:224:4:5">
+<g transform="translate(19.4464, 140.4268)">
+<text font-family="serif" font-weight="bold" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>Mineur tsigane</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(23.1856, 145.0926)">
+<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(22.0114, 153.9774)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:6:7">
+<g transform="translate(24.9486, 147.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:6:7">
+<g transform="translate(24.9486, 153.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(39.8652, 153.9774)">
+<rect x="-0.0650" y="-2.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(38.8502, 151.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(37.9302, 151.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(38.0502, 151.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:24:25">
+<g transform="translate(43.1545, 144.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:24:25">
+<g transform="translate(43.1545, 150.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(43.2195, 145.0926)">
+<rect x="-0.0650" y="-0.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(41.7045, 144.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(43.2195, 153.9774)">
+<rect x="-0.0650" y="-2.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(41.7045, 150.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:27:28">
+<g transform="translate(46.1567, 144.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:27:28">
+<g transform="translate(46.1567, 150.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(46.2217, 145.0926)">
+<rect x="-0.0650" y="-0.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(46.2217, 153.9774)">
+<rect x="-0.0650" y="-3.3139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(38.8502, 145.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M37 -250c0 17 63 58 63 250s-63 233 -63 250c0 7 6 13 13 13c4 0 7 -2 10 -6c53 -76 90 -164 90 -257s-37 -181 -90 -257c-3 -4 -6 -6 -10 -6c-7 0 -13 6 -13 13z" fill="currentColor"/>
+</g>
+<g transform="translate(37.9302, 145.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M-37 -250c0 -7 -6 -13 -13 -13c-4 0 -7 2 -10 6c-53 76 -90 164 -90 257s37 181 90 257c3 4 6 6 10 6c7 0 13 -6 13 -13c0 -17 -63 -58 -63 -250s63 -233 63 -250z" fill="currentColor"/>
+</g>
+<g transform="translate(38.0502, 145.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(30.9737, 152.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:17:18">
+<g transform="translate(35.4260, 145.5926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:17:18">
+<g transform="translate(35.4260, 151.9774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(36.6652, 145.0926)">
+<rect x="-0.0650" y="-3.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(35.4910, 153.9774)">
+<rect x="-0.0650" y="-1.8139" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:19:20">
+<g transform="translate(39.8002, 145.0926)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/fr/../BasicScales.ly:51:19:20">
+<g transform="translate(39.8002, 151.4774)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(39.8652, 145.0926)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1472" ry="0.0400" fill="currentColor"/>
+</g>
+</svg>

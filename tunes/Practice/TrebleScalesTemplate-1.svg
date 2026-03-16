@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(21.2030, 6.4989)">
+<text font-family="serif" font-weight="bold" font-size="3.4929" text-anchor="start" fill="currentColor">
+<tspan>Gammes de __FRENCH_PITCH_NAME__</tspan>
+</text>
+</g>
+<g transform="translate(59.3240, 9.9989)">
+<text font-family="serif" font-weight="bold" font-size="2.4697" text-anchor="start" fill="currentColor">
+<tspan> </tspan>
+</text>
+</g>
+<g transform="translate(98.0710, 13.4989)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Marc Mouries</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 22.6360)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>Gammes les plus courantes:</tspan>
+</text>
+</g>
+<g transform="translate(14.2264, 35.8327)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 34.8327)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 33.8327)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 32.8327)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 31.8327)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(15.0264, 34.8327)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(19.2264, 33.8327)">
+<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
+c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:263:28:29">
+<g transform="translate(22.9264, 37.1527)">
+<path transform="scale(0.0040, -0.0040)" d="M-40 165c0 22 18 40 40 40s40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40zM132 -18h-264c-10 0 -18 8 -18 18s8 18 18 18h264c10 0 18 -8 18 -18s-8 -18 -18 -18z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:263:4:5">
+<g transform="translate(22.9264, 39.2886)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>PITCH_FILENAME_FRAGMENT</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(14.2264, 58.3131)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 57.3131)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 56.3131)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 55.3131)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 54.3131)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(15.0264, 57.3131)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(19.2264, 56.3131)">
+<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
+c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:267:28:29">
+<g transform="translate(22.9264, 59.6331)">
+<path transform="scale(0.0040, -0.0040)" d="M-40 165c0 22 18 40 40 40s40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40zM132 -18h-264c-10 0 -18 8 -18 18s8 18 18 18h264c10 0 18 -8 18 -18s-8 -18 -18 -18z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:267:4:5">
+<g transform="translate(22.9264, 61.7690)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>PITCH_FILENAME_FRAGMENT</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(14.2264, 80.7935)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 79.7935)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 78.7935)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 77.7935)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 76.7935)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(15.0264, 79.7935)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(19.2264, 78.7935)">
+<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
+c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:271:28:29">
+<g transform="translate(22.9264, 82.1135)">
+<path transform="scale(0.0040, -0.0040)" d="M-40 165c0 22 18 40 40 40s40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40zM132 -18h-264c-10 0 -18 8 -18 18s8 18 18 18h264c10 0 18 -8 18 -18s-8 -18 -18 -18z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:271:4:5">
+<g transform="translate(22.9264, 84.2494)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>PITCH_FILENAME_FRAGMENT</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(14.2264, 103.2739)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 102.2739)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 101.2739)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 100.2739)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 99.2739)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(15.0264, 102.2739)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(19.2264, 101.2739)">
+<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
+c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:275:28:29">
+<g transform="translate(22.9264, 104.5939)">
+<path transform="scale(0.0040, -0.0040)" d="M-40 165c0 22 18 40 40 40s40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40zM132 -18h-264c-10 0 -18 8 -18 18s8 18 18 18h264c10 0 18 -8 18 -18s-8 -18 -18 -18z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:275:4:5">
+<g transform="translate(22.9264, 106.7298)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>PITCH_FILENAME_FRAGMENT</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(14.2264, 125.7543)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 124.7543)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 123.7543)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 122.7543)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 121.7543)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(15.0264, 124.7543)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(19.2264, 123.7543)">
+<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
+c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:279:28:29">
+<g transform="translate(22.9264, 127.0743)">
+<path transform="scale(0.0040, -0.0040)" d="M-40 165c0 22 18 40 40 40s40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40zM132 -18h-264c-10 0 -18 8 -18 18s8 18 18 18h264c10 0 18 -8 18 -18s-8 -18 -18 -18z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:279:4:5">
+<g transform="translate(22.9264, 129.2102)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>PITCH_FILENAME_FRAGMENT</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(14.2264, 148.2347)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 147.2347)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 146.2347)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 145.2347)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(14.2264, 144.2347)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="44.8419" y2="0"/>
+</g>
+<g transform="translate(15.0264, 147.2347)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(19.2264, 146.2347)">
+<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
+c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:283:28:29">
+<g transform="translate(22.9264, 149.5547)">
+<path transform="scale(0.0040, -0.0040)" d="M-40 165c0 22 18 40 40 40s40 -18 40 -40s-18 -40 -40 -40s-40 18 -40 40zM132 -18h-264c-10 0 -18 8 -18 18s8 18 18 18h264c10 0 18 -8 18 -18s-8 -18 -18 -18z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Practice/Scales/TrebleScalesTemplate.ly:283:4:5">
+<g transform="translate(22.9264, 151.6906)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>PITCH_FILENAME_FRAGMENT</tspan>
+</text>
+</g>
+</a>
+</svg>
