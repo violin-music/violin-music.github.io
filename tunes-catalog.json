@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 89,
+  "tune_count": 87,
   "tunes": [
     {
       "title": "L'Air Mignonne",
@@ -3007,8 +3007,7 @@
         }
       ],
       "svg_files": [
-        "All-of-Me_page_1.svg",
-        "All-of-Me.svg"
+        "All-of-Me_page_1.svg"
       ],
       "midi_files": [],
       "svg": "tunes/Jazz/All-of-Me_page_1.svg"
@@ -3039,8 +3038,7 @@
         }
       ],
       "svg_files": [
-        "As-Time-Goes-By_page_1.svg",
-        "As-Time-Goes-By.svg"
+        "As-Time-Goes-By_page_1.svg"
       ],
       "midi_files": [
         "As-Time-Goes-By.midi",
@@ -3080,8 +3078,7 @@
       ],
       "svg_files": [
         "Autumn-Leaves_1_page_1.svg",
-        "Autumn-Leaves_2_page_1.svg",
-        "Autumn-Leaves_1.svg"
+        "Autumn-Leaves_2_page_1.svg"
       ],
       "midi_files": [],
       "svg": "tunes/Jazz/Autumn-Leaves_1_page_1.svg"
@@ -3117,16 +3114,13 @@
       ],
       "svg_files": [
         "Lets-Fall-in-Love_page_1.svg",
-        "Lets-Fall-in-Love-1_page_1.svg",
-        "Lets-Fall-in-Love.svg",
-        "Lets-Fall-in-Love-1.svg"
+        "Lets-Fall-in-Love-1_page_1.svg"
       ],
       "midi_files": [
-        "Lets-Fall-in-Love.midi",
         "Lets-Fall-in-Love-1.midi"
       ],
       "svg": "tunes/Jazz/Lets-Fall-in-Love_page_1.svg",
-      "midi": "tunes/Jazz/Lets-Fall-in-Love.midi"
+      "midi": "tunes/Jazz/Lets-Fall-in-Love-1.midi"
     },
     {
       "title": "Misty",
@@ -3170,17 +3164,11 @@
         "Misty-Grap_page_1.svg",
         "Misty_[As played by Grappelli]_page_1.svg",
         "Misty-LMOURMW7US_page_1.svg",
-        "Misty_page_1.svg",
-        "Misty-LMOURMW7US-1.svg",
-        "Misty-1.svg",
-        "Misty-LMOURMW7US-2.svg",
-        "Misty_[As played by Grappelli].svg",
-        "Misty-2.svg"
+        "Misty_page_1.svg"
       ],
       "midi_files": [
         "Misty.midi",
-        "Misty_[As played by Grappelli].midi",
-        "Misty-LMOURMW7US.midi"
+        "Misty_[As played by Grappelli].midi"
       ],
       "svg": "tunes/Jazz/Misty-Grap_page_1.svg",
       "midi": "tunes/Jazz/Misty.midi"
@@ -3234,8 +3222,7 @@
         }
       ],
       "svg_files": [
-        "on_the_sunny_side_of_the_street_page_1.svg",
-        "on_the_sunny_side_of_the_street.svg"
+        "on_the_sunny_side_of_the_street_page_1.svg"
       ],
       "midi_files": [
         "on_the_sunny_side_of_the_street.midi"
@@ -3274,9 +3261,7 @@
       ],
       "svg_files": [
         "Summertime_Grappelli_page_1.svg",
-        "Summertime_page_1.svg",
-        "Summertime_Grappelli.svg",
-        "Summertime.svg"
+        "Summertime_page_1.svg"
       ],
       "midi_files": [
         "Summertime_Grappelli.midi",
@@ -3528,115 +3513,6 @@
       ],
       "svg": "tunes/Marc-Mouries/Marc-Mouries-Spring-is-coming_page_1.svg",
       "midi": "tunes/Marc-Mouries/Marc-Mouries-Spring-is-coming.midi"
-    },
-    {
-      "title": "10-Step Violin Practice",
-      "composer": "Marc Mouries",
-      "country": "France",
-      "country_flag": "🇫🇷",
-      "genre": "Practice",
-      "subgenre": "Exercise",
-      "category": "Practice",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Practice",
-      "tune_folder": "10-Steps-Violin-Practice",
-      "variants": [
-        {
-          "filename": "vibrato-exercice.ly",
-          "stem": "vibrato-exercice"
-        },
-        {
-          "filename": "10-Steps-Violin-Practice.ly",
-          "stem": "10-Steps-Violin-Practice"
-        },
-        {
-          "filename": "10-Steps-Violin-Practice_v2.ly",
-          "stem": "10-Steps-Violin-Practice_v2"
-        },
-        {
-          "filename": "Flesch_Arpeggios.ly",
-          "stem": "Flesch_Arpeggios"
-        }
-      ],
-      "svg_files": [
-        "vibrato-exercice_page_1.svg",
-        "10-Steps-Violin-Practice_v2_page_1.svg",
-        "10-Steps-Violin-Practice_page_1.svg",
-        "Flesch_Arpeggios_page_1.svg",
-        "10-Steps-Violin-Practice-4.svg",
-        "Flesch_Arpeggios.svg",
-        "10-Steps-Violin-Practice-1.svg",
-        "vibrato-exercice.svg",
-        "10-Steps-Violin-Practice-3.svg",
-        "10-Steps-Violin-Practice-2.svg",
-        "10-Steps-Violin-Practice_v2-2.svg",
-        "10-Steps-Violin-Practice_v2-1.svg",
-        "10-Steps-Violin-Practice_v2.svg"
-      ],
-      "midi_files": [],
-      "svg": "tunes/Practice/vibrato-exercice_page_1.svg"
-    },
-    {
-      "title": "Kreutzer Etude No. 2",
-      "composer": "Rodolphe Kreutzer",
-      "country": "France",
-      "country_flag": "🇫🇷",
-      "genre": "Practice",
-      "subgenre": "Etude",
-      "category": "Practice",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Practice",
-      "tune_folder": "Kreutzer_Étude-No.-2",
-      "variants": [
-        {
-          "filename": "Position-Markup-Styles-Comparison.ly",
-          "stem": "Position-Markup-Styles-Comparison"
-        },
-        {
-          "filename": "Kreutzer_Étude-No.-2.ly",
-          "stem": "Kreutzer_Étude-No.-2"
-        },
-        {
-          "filename": "Kreutzer_Étude-No.-2_[Practice].ly",
-          "stem": "Kreutzer_Étude-No.-2_[Practice]",
-          "arrangement": "Practice"
-        },
-        {
-          "filename": "Kreutzer_Étude-No.-2_(A).ly",
-          "stem": "Kreutzer_Étude-No.-2_(A)",
-          "key_variant": "A"
-        },
-        {
-          "filename": "Kreutzer_Étude-No.-2_[Shifting].ly",
-          "stem": "Kreutzer_Étude-No.-2_[Shifting]",
-          "arrangement": "Shifting"
-        }
-      ],
-      "svg_files": [
-        "Kreutzer_Étude-No.-2_page_1.svg",
-        "Kreutzer_Étude-No.-2_[Practice]_page_1.svg",
-        "Kreutzer_Étude-No.-2_(A)_page_1.svg",
-        "Position-Markup-Styles-Comparison_page_1.svg",
-        "Kreutzer_Étude-No.-2_[Shifting]_page_1.svg"
-      ],
-      "midi_files": [],
-      "svg": "tunes/Practice/Kreutzer_%C3%89tude-No.-2_page_1.svg"
     },
     {
       "title": "Wedding March",
