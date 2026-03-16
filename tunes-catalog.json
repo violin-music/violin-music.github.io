@@ -3044,13 +3044,23 @@
       "tune_folder": "Jerusalem-Ridge",
       "variants": [
         {
+          "filename": "Jerusalem-Ridge.ly",
+          "stem": "Jerusalem-Ridge"
+        },
+        {
           "filename": "Jerusalem-Ridge_[Kenny-Baker].ly",
           "stem": "Jerusalem-Ridge_[Kenny-Baker]",
           "arrangement": "Kenny-Baker"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Jerusalem-Ridge.svg"
+      ],
+      "midi_files": [
+        "Jerusalem-Ridge.midi"
+      ],
+      "svg": "tunes/Folk_USA/Jerusalem-Ridge.svg",
+      "midi": "tunes/Folk_USA/Jerusalem-Ridge.midi"
     },
     {
       "title": "The Devil Went Down to Georgia",
@@ -3889,11 +3899,11 @@
         "In-the-Mood-for-Love-full.midi",
         "In-the-Mood-for-Love_lily-full.midi",
         "In-the-Mood-for-Love_lily-1.midi",
-        "In-the-Mood-for-Love_[Accompaniment].midi",
         "in-the-mood-for-love_lily.midi",
         "In-the-Mood-for-Love.midi",
         "Yumejis_theme_Accompaniment.midi",
-        "In-the-Mood-for-Love_lily.mid"
+        "In-the-Mood-for-Love_lily.mid",
+        "In-the-Mood-for-Love_[Accompaniment].midi"
       ],
       "svg": "tunes/Soundtrack/In-the-Mood-for-Love_%5BPractice%5D_page_1.svg",
       "midi": "tunes/Soundtrack/In-the-Mood-for-Love-full.midi"
@@ -4127,9 +4137,8 @@
       ],
       "midi_files": [
         "tous-les-matins-du-monde.midi",
-        "Tous-les-matins-du-monde.midi",
-        "Tous-les-matins-du-monde-1.midi",
-        "tous-les-matins-du-monde-1.midi"
+        "tous-les-matins-du-monde-1.midi",
+        "Tous-les-matins-du-monde.midi"
       ],
       "svg": "tunes/Soundtrack/tous-les-matins-du-monde_page_1.svg",
       "midi": "tunes/Soundtrack/tous-les-matins-du-monde.midi"
