@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 87,
+  "tune_count": 88,
   "tunes": [
     {
       "title": "L'Air Mignonne",
@@ -29,7 +29,8 @@
         }
       ],
       "svg_files": [
-        "L-Air-Mignonne_page_1.svg"
+        "L-Air-Mignonne_page_1.svg",
+        "L-Air-Mignonne.svg"
       ],
       "midi_files": [
         "L-Air-Mignonne-full.midi",
@@ -69,7 +70,9 @@
       ],
       "svg_files": [
         "Teardrop-Waltz_Marc_page_1.svg",
-        "Teardrop-Waltz-Casey-Willis_page_1.svg"
+        "Teardrop-Waltz-Casey-Willis_page_1.svg",
+        "Teardrop-Waltz_Marc.svg",
+        "Teardrop-Waltz-Casey-Willis.svg"
       ],
       "midi_files": [
         "Teardrop-Waltz-Casey-Willis.midi",
@@ -106,7 +109,9 @@
       ],
       "svg_files": [
         "Volcanic-Jig_page_1.svg",
-        "Volcanic-Jig_page_2.svg"
+        "Volcanic-Jig_page_2.svg",
+        "Volcanic-Jig-Violin-2.svg",
+        "Volcanic-Jig-Violin-1.svg"
       ],
       "midi_files": [
         "Volcanic-Jig-Violin.midi",
@@ -142,10 +147,15 @@
       ],
       "svg_files": [
         "Flor-Formosa_page_2.svg",
-        "Flor-Formosa_page_1.svg"
+        "Flor-Formosa_page_1.svg",
+        "Flor-Formosa-1.svg",
+        "Flor-Formosa-2.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Folk_CapeVerde/Flor-Formosa_page_2.svg"
+      "midi_files": [
+        "Flor-Formosa.midi"
+      ],
+      "svg": "tunes/Folk_CapeVerde/Flor-Formosa_page_2.svg",
+      "midi": "tunes/Folk_CapeVerde/Flor-Formosa.midi"
     },
     {
       "title": "Greensleeves",
@@ -203,7 +213,9 @@
         "greensleeves_[Guitar & Vocal]_page_2.svg",
         "greensleeves_landscape_page_1.svg",
         "greensleeves-(Em)_page_1.svg",
-        "greensleeves_[Guitar & Vocal]_page_1.svg"
+        "greensleeves_[Guitar & Vocal]_page_1.svg",
+        "Greensleeves_[Jig]-1.svg",
+        "Greensleeves_[Jig]-2.svg"
       ],
       "midi_files": [
         "greensleeves.midi",
@@ -260,7 +272,10 @@
       "svg_files": [
         "Emma_(Waltz)_(Dm)_page_1.svg",
         "Emma_(Waltz)_page_1.svg",
-        "Emma_(Waltz)_(Em)_page_1.svg"
+        "Emma_(Waltz)_(Em)_page_1.svg",
+        "Emma_(Waltz)_(Dm).svg",
+        "Emma_(Waltz)_(Em).svg",
+        "Emma_(Waltz).svg"
       ],
       "midi_files": [
         "Emma_(Waltz)_(Dm).midi",
@@ -307,7 +322,8 @@
       "svg_files": [
         "Ievan-polkka-(Dm)_page_1.svg",
         "Ievan-Polkka_page_1.svg",
-        "Ievan_Polkka-from-Musescore_page_1.svg"
+        "Ievan_Polkka-from-Musescore_page_1.svg",
+        "Ievan-Polkka.svg"
       ],
       "midi_files": [
         "Ievan-polkka-(Dm).midi",
@@ -344,7 +360,8 @@
         }
       ],
       "svg_files": [
-        "Alouette_page_1.svg"
+        "Alouette_page_1.svg",
+        "Alouette.svg"
       ],
       "midi_files": [
         "Alouette.midi",
@@ -385,7 +402,9 @@
       ],
       "svg_files": [
         "Au-Clair-de-la-Lune_[4 Verses]_page_1.svg",
-        "Au-Clair-de-la-Lune_page_1.svg"
+        "Au-Clair-de-la-Lune_page_1.svg",
+        "Au-Clair-de-la-Lune.svg",
+        "Au-Clair-de-la-Lune_[4 Verses].svg"
       ],
       "midi_files": [],
       "svg": "tunes/Folk_French/Au-Clair-de-la-Lune_%5B4%20Verses%5D_page_1.svg"
@@ -424,7 +443,10 @@
       "svg_files": [
         "Frere-Jacques_[what_2]_page_2.svg",
         "Frere-Jacques_[what]_page_1.svg",
-        "Frere-Jacques_[what_2]_page_1.svg"
+        "Frere-Jacques_[what_2]_page_1.svg",
+        "Frere-Jacques_[what_2]-2.svg",
+        "Frere-Jacques_[what_2]-1.svg",
+        "Frere-Jacques_[what].svg"
       ],
       "midi_files": [],
       "svg": "tunes/Folk_French/Frere-Jacques_%5Bwhat_2%5D_page_2.svg"
@@ -489,7 +511,8 @@
         }
       ],
       "svg_files": [
-        "Savez-vous-planter-les-Choux_page_1.svg"
+        "Savez-vous-planter-les-Choux_page_1.svg",
+        "Savez-vous-planter-les-Choux.svg"
       ],
       "midi_files": [],
       "svg": "tunes/Folk_French/Savez-vous-planter-les-Choux_page_1.svg"
@@ -520,10 +543,14 @@
         }
       ],
       "svg_files": [
-        "Tri-Martolod_page_1.svg"
+        "Tri-Martolod_page_1.svg",
+        "Tri-Martolod.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Folk_French/Tri-Martolod_page_1.svg"
+      "midi_files": [
+        "Tri-Martolod.midi"
+      ],
+      "svg": "tunes/Folk_French/Tri-Martolod_page_1.svg",
+      "midi": "tunes/Folk_French/Tri-Martolod.midi"
     },
     {
       "title": "Muss I Denn",
@@ -551,7 +578,8 @@
         }
       ],
       "svg_files": [
-        "Muss-I-Denn_page_1.svg"
+        "Muss-I-Denn_page_1.svg",
+        "Muss-I-Denn.svg"
       ],
       "midi_files": [
         "Muss-I-Denn.midi"
@@ -625,7 +653,8 @@
         }
       ],
       "svg_files": [
-        "Bear-Dance_page_1.svg"
+        "Bear-Dance_page_1.svg",
+        "Bear-Dance.svg"
       ],
       "midi_files": [
         "Bear-Dance.midi"
@@ -659,7 +688,8 @@
         }
       ],
       "svg_files": [
-        "Comme-une-fleur_page_1.svg"
+        "Comme-une-fleur_page_1.svg",
+        "Comme-une-fleur.svg"
       ],
       "midi_files": [
         "Comme-une-fleur.midi"
@@ -693,7 +723,8 @@
         }
       ],
       "svg_files": [
-        "Gari-Gari_page_1.svg"
+        "Gari-Gari_page_1.svg",
+        "Gari-Gari.svg"
       ],
       "midi_files": [
         "Gari-Gari.midi"
@@ -728,7 +759,9 @@
       ],
       "svg_files": [
         "La-Rose-Jaune_page_2.svg",
-        "La-Rose-Jaune_page_1.svg"
+        "La-Rose-Jaune_page_1.svg",
+        "La-Rose-Jaune-2.svg",
+        "La-Rose-Jaune-1.svg"
       ],
       "midi_files": [
         "La-Rose-Jaune.midi"
@@ -802,7 +835,8 @@
         }
       ],
       "svg_files": [
-        "Qu-importe-les-soucis_page_1.svg"
+        "Qu-importe-les-soucis_page_1.svg",
+        "Qu-importe-les-soucis.svg"
       ],
       "midi_files": [
         "Qu-importe-les-soucis.midi"
@@ -836,7 +870,8 @@
         }
       ],
       "svg_files": [
-        "Romances-et-Danses-Caucasiennes_page_1.svg"
+        "Romances-et-Danses-Caucasiennes_page_1.svg",
+        "Romances-et-Danses-Caucasiennes.svg"
       ],
       "midi_files": [
         "Romances-et-Danses-Caucasiennes.midi"
@@ -870,7 +905,8 @@
         }
       ],
       "svg_files": [
-        "Yarou-Yarou_page_1.svg"
+        "Yarou-Yarou_page_1.svg",
+        "Yarou-Yarou.svg"
       ],
       "midi_files": [
         "Yarou-Yarou.midi"
@@ -1005,8 +1041,27 @@
           "key_variant": "G"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Gary-Owen_page_1.svg",
+        "Gary-Owen_(Bb)_page_1.svg",
+        "Gary-Owen_(A)_page_1.svg",
+        "Gary-Owen_(D)_page_1.svg",
+        "Gary-Owen_(G).svg",
+        "Gary-Owen_(Bb).svg",
+        "Gary-Owen_(A).svg",
+        "Gary-Owen_(D).svg",
+        "Gary-Owen_(G)_page_1.svg",
+        "Gary-Owen.svg"
+      ],
+      "midi_files": [
+        "Gary-Owen.midi",
+        "Gary-Owen_(G).midi",
+        "Gary-Owen_(A).midi",
+        "Gary-Owen_(Bb).midi",
+        "Gary-Owen_(D).midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Gary-Owen_page_1.svg",
+      "midi": "tunes/Folk_Ireland/Gary-Owen.midi"
     },
     {
       "title": "Martin Hayes Medley",
@@ -1075,8 +1130,17 @@
           "stem": "Molly-Ban"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Molly-Ban.svg",
+        "Molly-Ban_page_1.svg"
+      ],
+      "midi_files": [
+        "Molly-Ban-1.midi",
+        "Molly-Ban.midi",
+        "Molly-Ban-full-1.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Molly-Ban.svg",
+      "midi": "tunes/Folk_Ireland/Molly-Ban-1.midi"
     },
     {
       "title": "Paddy Fahey's Jig",
@@ -1155,10 +1219,19 @@
           "arrangement": "Easy"
         }
       ],
-      "svg_files": [],
-      "midi_files": [
-        "Swallowtail-Jig.midi"
+      "svg_files": [
+        "Swallowtail-Jig.svg",
+        "Swallowtail-Jig_[Easy]_(G).svg",
+        "Swallowtail-Jig_page_1.svg",
+        "Swallowtail-Jig_[Easy].svg",
+        "Swallowtail-Jig_[Easy]_page_1.svg"
       ],
+      "midi_files": [
+        "Swallowtail-Jig.midi",
+        "Swallowtail-Jig_[Easy].midi",
+        "Swallowtail-Jig_[Easy]_(G).midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Swallowtail-Jig.svg",
       "midi": "tunes/Folk_Ireland/Swallowtail-Jig.midi"
     },
     {
@@ -1227,8 +1300,17 @@
           "stem": "The-Britches-Full-of-Stitches"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Britches-Full-of-Stitches-2.svg",
+        "The-Britches-Full-of-Stitches_page_2.svg",
+        "The-Britches-Full-of-Stitches-1.svg",
+        "The-Britches-Full-of-Stitches_page_1.svg"
+      ],
+      "midi_files": [
+        "The-Britches-Full-of-Stitches.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Britches-Full-of-Stitches-2.svg",
+      "midi": "tunes/Folk_Ireland/The-Britches-Full-of-Stitches.midi"
     },
     {
       "title": "The Butterfly",
@@ -1261,8 +1343,15 @@
           "stem": "The-Butterfly"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Butterfly.svg",
+        "The-Butterfly_page_1.svg"
+      ],
+      "midi_files": [
+        "The-Butterfly.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Butterfly.svg",
+      "midi": "tunes/Folk_Ireland/The-Butterfly.midi"
     },
     {
       "title": "The Connaughtman's Rambles",
@@ -1295,8 +1384,14 @@
           "stem": "The-Connaughtman's-Rambles"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Connaughtman's-Rambles.svg"
+      ],
+      "midi_files": [
+        "The-Connaughtman's-Rambles.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Connaughtman%27s-Rambles.svg",
+      "midi": "tunes/Folk_Ireland/The-Connaughtman%27s-Rambles.midi"
     },
     {
       "title": "The Gift of Falling",
@@ -1330,8 +1425,15 @@
           "stem": "The-Gift-of-Falling"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Gift-of-Falling.svg",
+        "The-Gift-of-Falling_page_1.svg"
+      ],
+      "midi_files": [
+        "The-Gift-of-Falling.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Gift-of-Falling.svg",
+      "midi": "tunes/Folk_Ireland/The-Gift-of-Falling.midi"
     },
     {
       "title": "The Musical Priest",
@@ -1364,8 +1466,15 @@
           "stem": "The-Musical-Priest"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Musical-Priest.svg",
+        "The-Musical-Priest_page_1.svg"
+      ],
+      "midi_files": [
+        "The-Musical-Priest.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Musical-Priest.svg",
+      "midi": "tunes/Folk_Ireland/The-Musical-Priest.midi"
     },
     {
       "title": "The Trip to Sligo",
@@ -1398,8 +1507,15 @@
           "stem": "The-Trip-To-Sligo-(Jig)"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Trip-To-Sligo-(Jig).svg",
+        "The-Trip-To-Sligo-(Jig)_page_1.svg"
+      ],
+      "midi_files": [
+        "The-Trip-To-Sligo-(Jig).midi"
+      ],
+      "svg": "tunes/Folk_Ireland/The-Trip-To-Sligo-%28Jig%29.svg",
+      "midi": "tunes/Folk_Ireland/The-Trip-To-Sligo-%28Jig%29.midi"
     },
     {
       "title": "Trip to Pakistan",
@@ -1467,8 +1583,15 @@
           "stem": "Up-Sligo"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Up-Sligo.svg",
+        "Up-Sligo_page_1.svg"
+      ],
+      "midi_files": [
+        "Up-Sligo.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Up-Sligo.svg",
+      "midi": "tunes/Folk_Ireland/Up-Sligo.midi"
     },
     {
       "title": "Whiskey in the Jar",
@@ -1502,8 +1625,15 @@
           "stem": "Whiskey-in-the-Jar"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Whiskey-in-the-Jar_page_1.svg",
+        "Whiskey-in-the-Jar.svg"
+      ],
+      "midi_files": [
+        "Whiskey-in-the-Jar.midi"
+      ],
+      "svg": "tunes/Folk_Ireland/Whiskey-in-the-Jar_page_1.svg",
+      "midi": "tunes/Folk_Ireland/Whiskey-in-the-Jar.midi"
     },
     {
       "title": "Bella ciao",
@@ -1709,7 +1839,16 @@
         "Erev-shel-Shoshanim_(Dm)_page_1.svg",
         "Erev-shel-Shoshanim_(F#m)_page_1.svg",
         "Erev-shel-Shoshanim_(Gm)_page_1.svg",
-        "Erev-shel-Shoshanim_(Em)_page_1.svg"
+        "Erev-shel-Shoshanim_(Em)_page_1.svg",
+        "Erev-shel-Shoshanim_(Cm).svg",
+        "Erev-shel-Shoshanim_(Dm).svg",
+        "Erev-shel-Shoshanim_(Bm).svg",
+        "Erev-shel-Shoshanim_(Em).svg",
+        "Erev-shel-Shoshanim_(Fm).svg",
+        "Erev-shel-Shoshanim_(Gm).svg",
+        "Erev-shel-Shoshanim_(F#m).svg",
+        "Erev-shel-Shoshanim_(Am).svg",
+        "Erev-shel-Shoshanim.svg"
       ],
       "midi_files": [
         "Erev-shel-Shoshanim.midi",
@@ -1795,7 +1934,10 @@
       "svg_files": [
         "Hevenu-Shalom-Aleichem_(C#m)_page_1.svg",
         "Hevenu-Shalom-Aleichem_(Dm)_page_1.svg",
-        "Hevenu-Shalom-Aleichem_(Cm)_page_1.svg"
+        "Hevenu-Shalom-Aleichem_(Cm)_page_1.svg",
+        "Hevenu-Shalom-Aleichem_(Dm).svg",
+        "Hevenu-Shalom-Aleichem_(C#m).svg",
+        "Hevenu-Shalom-Aleichem_(Cm).svg"
       ],
       "midi_files": [
         "Hevenu-Shalom-Aleichem_(Cm).midi",
@@ -1831,7 +1973,8 @@
         }
       ],
       "svg_files": [
-        "Im-Hashem-Lo-Yivneh-Bayis_page_1.svg"
+        "Im-Hashem-Lo-Yivneh-Bayis_page_1.svg",
+        "Im-Hashem-Lo-Yivneh-Bayis.svg"
       ],
       "midi_files": [
         "Im-Hashem-Lo-Yivneh-Bayis.midi"
@@ -1883,7 +2026,11 @@
         "Numi-numi-Hebrew-Lullaby_(Dm)_page_1.svg",
         "Numi-numi-Hebrew-Lullaby_(Cm)_page_1.svg",
         "Numi-numi-Hebrew-Lullaby_(Bm)_page_1.svg",
-        "Numi-numi-Hebrew-Lullaby_page_1.svg"
+        "Numi-numi-Hebrew-Lullaby_page_1.svg",
+        "Numi-numi-Hebrew-Lullaby_(Dm).svg",
+        "Numi-numi-Hebrew-Lullaby_(Cm).svg",
+        "Numi-numi-Hebrew-Lullaby_(Bm).svg",
+        "Numi-numi-Hebrew-Lullaby.svg"
       ],
       "midi_files": [
         "Numi-numi-Hebrew-Lullaby_(Cm).midi",
@@ -1945,7 +2092,12 @@
         "Papirosen_(Gm)_page_1.svg",
         "Papirosen_page_1.svg",
         "Papirosen_(Cm)_page_1.svg",
-        "Papirosen_(Am)_page_1.svg"
+        "Papirosen_(Am)_page_1.svg",
+        "Papirosen_(Gm).svg",
+        "Papirosen_(Cm).svg",
+        "Papirosen_(Am).svg",
+        "Papirosen.svg",
+        "Papirosen_(Dm).svg"
       ],
       "midi_files": [
         "Papirosen_(Gm).midi",
@@ -1983,7 +2135,8 @@
         }
       ],
       "svg_files": [
-        "The-Wellerman_page_1.svg"
+        "The-Wellerman_page_1.svg",
+        "The-Wellerman.svg"
       ],
       "midi_files": [
         "The-Wellerman.midi"
@@ -2017,7 +2170,8 @@
         }
       ],
       "svg_files": [
-        "Hora-Martisorului_page_1.svg"
+        "Hora-Martisorului_page_1.svg",
+        "Hora-Martisorului.svg"
       ],
       "midi_files": [],
       "svg": "tunes/Folk_Romania/Hora-Martisorului_page_1.svg"
@@ -2048,7 +2202,8 @@
         }
       ],
       "svg_files": [
-        "Bublitchki_page_1.svg"
+        "Bublitchki_page_1.svg",
+        "Bublitchki.svg"
       ],
       "midi_files": [
         "Bublitchki.midi"
@@ -2082,10 +2237,14 @@
         }
       ],
       "svg_files": [
-        "Cokas-Dance_page_1.svg"
+        "Cokas-Dance_page_1.svg",
+        "Cokas-Dance.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Folk_Russia/Cokas-Dance_page_1.svg"
+      "midi_files": [
+        "Cokas-Dance.midi"
+      ],
+      "svg": "tunes/Folk_Russia/Cokas-Dance_page_1.svg",
+      "midi": "tunes/Folk_Russia/Cokas-Dance.midi"
     },
     {
       "title": "Les yeux noirs - Dark eyes",
@@ -2121,11 +2280,14 @@
         }
       ],
       "svg_files": [
-        "Dark-Eyes_1_page_1.svg"
+        "Dark-Eyes_1_page_1.svg",
+        "Dark-Eyes_1.svg",
+        "Dark-Eyes_3.svg"
       ],
       "midi_files": [
         "Dark-Eyes_1.midi",
-        "Dark-Eyes_2.midi"
+        "Dark-Eyes_2.midi",
+        "Dark-Eyes_3.midi"
       ],
       "svg": "tunes/Folk_Russia/Dark-Eyes_1_page_1.svg",
       "midi": "tunes/Folk_Russia/Dark-Eyes_1.midi"
@@ -2192,7 +2354,14 @@
         "Katyusha_(Am)_page_1.svg",
         "Katyusha_page_1.svg",
         "Katyusha_(Dm)_page_1.svg",
-        "Katyusha_(Bm)_page_1.svg"
+        "Katyusha_(Bm)_page_1.svg",
+        "Katyusha_(Cm).svg",
+        "Katyusha_(Am).svg",
+        "Katyusha.svg",
+        "Katyusha_(Dm).svg",
+        "Katyusha_(Em).svg",
+        "Katyusha_(Bm).svg",
+        "Katyusha_(Gm).svg"
       ],
       "midi_files": [
         "Katyusha_(Gm).midi",
@@ -2312,7 +2481,9 @@
       ],
       "svg_files": [
         "Moscow-Nights_page_1.svg",
-        "Moscow-Nights_(Dm)_page_1.svg"
+        "Moscow-Nights_(Dm)_page_1.svg",
+        "Moscow-Nights_(Dm).svg",
+        "Moscow-Nights.svg"
       ],
       "midi_files": [
         "Moscow-Nights.midi",
@@ -2424,7 +2595,10 @@
       "svg_files": [
         "Tsiganisky_page_1.svg",
         "Tsiganisky_(Gm)_page_1.svg",
-        "Tsiganisky_(Am)_page_1.svg"
+        "Tsiganisky_(Am)_page_1.svg",
+        "Tsiganisky_(Gm).svg",
+        "Tsiganisky.svg",
+        "Tsiganisky_(Am).svg"
       ],
       "midi_files": [
         "Tsiganisky.midi",
@@ -2460,7 +2634,8 @@
         }
       ],
       "svg_files": [
-        "Two-Guitars_page_1.svg"
+        "Two-Guitars_page_1.svg",
+        "Two-Guitars.svg"
       ],
       "midi_files": [
         "Two-Guitars.midi"
@@ -2525,13 +2700,27 @@
         "Auld-Lang-Syne_[Beethoven]_page_3.svg",
         "Auld-Lang-Syne_[Beethoven]_page_6.svg",
         "Auld-Lang-Syne_[Beethoven]_page_1.svg",
-        "Auld-Lang-Syne_[Jig]_page_1.svg"
+        "Auld-Lang-Syne_[Jig]_page_1.svg",
+        "Auld-Lang-Syne_(in-D).svg",
+        "Auld-Lang-Syne_[Beethoven]-1.svg",
+        "Auld-Lang-Syne_[with lyrics].svg",
+        "Auld-Lang-Syne_[Beethoven]-7.svg",
+        "Auld-Lang-Syne_[multiple keys]-2.svg",
+        "Auld-Lang-Syne_[Beethoven]-6.svg",
+        "Auld-Lang-Syne_[Beethoven]-2.svg",
+        "Auld-Lang-Syne_[Beethoven]-5.svg",
+        "Auld-Lang-Syne_[Beethoven]-4.svg",
+        "Auld-Lang-Syne_[multiple keys]-1.svg",
+        "Auld-Lang-Syne_[Jig].svg",
+        "Auld-Lang-Syne_[Beethoven]-3.svg"
       ],
       "midi_files": [
         "Auld-Lang-Syne_[Beethoven].midi",
         "Auld-Lang-Syne_(in-D).midi",
         "Auld-Lang-Syne_(in-D)-1.midi",
-        "Auld-Lang-Syne_(in-D)-full-1.midi"
+        "Auld-Lang-Syne_(in-D)-full-1.midi",
+        "Auld-Lang-Syne_[with lyrics].midi",
+        "Auld-Lang-Syne_[Jig].midi"
       ],
       "svg": "tunes/Folk_Scotland/Auld-Lang-Syne_%5BBeethoven%5D_page_4.svg",
       "midi": "tunes/Folk_Scotland/Auld-Lang-Syne_%5BBeethoven%5D.midi"
@@ -2568,8 +2757,15 @@
           "stem": "A-Gift-to-You-Everything-I-Am"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "A-Gift-to-You-Everything-I-Am_page_1.svg",
+        "A-Gift-to-You-Everything-I-Am.svg"
+      ],
+      "midi_files": [
+        "A-Gift-to-You-Everything-I-Am.midi"
+      ],
+      "svg": "tunes/Folk_USA/A-Gift-to-You-Everything-I-Am_page_1.svg",
+      "midi": "tunes/Folk_USA/A-Gift-to-You-Everything-I-Am.midi"
     },
     {
       "title": "Amazing Grace",
@@ -2727,8 +2923,24 @@
           "key_variant": "A"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Down-To-The-River-To-Pray_(Bb)_page_1.svg",
+        "Down-To-The-River-To-Pray_(Bb).svg",
+        "Down-To-The-River-To-Pray_(A)_page_1.svg",
+        "Down-To-The-River-To-Pray_(E).svg",
+        "Down-To-The-River-To-Pray_(G).svg",
+        "Down-To-The-River-To-Pray_(E)_page_1.svg",
+        "Down-To-The-River-To-Pray_(G)_page_1.svg",
+        "Down-To-The-River-To-Pray_(A).svg"
+      ],
+      "midi_files": [
+        "Down-To-The-River-To-Pray_(E).midi",
+        "Down-To-The-River-To-Pray_(Bb).midi",
+        "Down-To-The-River-To-Pray_(A).midi",
+        "Down-To-The-River-To-Pray_(G).midi"
+      ],
+      "svg": "tunes/Folk_USA/Down-To-The-River-To-Pray_%28Bb%29_page_1.svg",
+      "midi": "tunes/Folk_USA/Down-To-The-River-To-Pray_%28E%29.midi"
     },
     {
       "title": "Jerusalem Ridge",
@@ -2798,8 +3010,15 @@
           "stem": "The-Devil-Went-Down-to-Georgia"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Devil-Went-Down-to-Georgia.svg",
+        "The-Devil-Went-Down-to-Georgia_page_1.svg"
+      ],
+      "midi_files": [
+        "The-Devil-Went-Down-to-Georgia.midi"
+      ],
+      "svg": "tunes/Folk_USA/The-Devil-Went-Down-to-Georgia.svg",
+      "midi": "tunes/Folk_USA/The-Devil-Went-Down-to-Georgia.midi"
     },
     {
       "title": "The Scotsman",
@@ -2903,8 +3122,40 @@
           "key_variant": "B"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-Star-Spangled-Banner_(B)_page_1.svg",
+        "The-Star-Spangled-Banner_(A)_page_2.svg",
+        "The-Star-Spangled-Banner_(Eb)_page_1.svg",
+        "The-Star-Spangled-Banner_(B)_page_2.svg",
+        "The-Star-Spangled-Banner_(A)_page_1.svg",
+        "The-Star-Spangled-Banner_(G).svg",
+        "The-Star-Spangled-Banner_(G)_page_1.svg",
+        "The-Star-Spangled-Banner_(C).svg",
+        "The-Star-Spangled-Banner_(A).svg",
+        "The-Star-Spangled-Banner_(B).svg",
+        "The-Star-Spangled-Banner_[SATB]-2.svg",
+        "The-Star-Spangled-Banner_page_1.svg",
+        "The-Star-Spangled-Banner.svg",
+        "The-Star-Spangled-Banner_(D)_page_1.svg",
+        "The-Star-Spangled-Banner_(D).svg",
+        "The-Star-Spangled-Banner_[SATB]-1.svg",
+        "The-Star-Spangled-Banner_(Eb).svg",
+        "The-Star-Spangled-Banner_[SATB]_page_1.svg",
+        "The-Star-Spangled-Banner_[SATB]_page_2.svg",
+        "The-Star-Spangled-Banner_(C)_page_1.svg"
+      ],
+      "midi_files": [
+        "The-Star-Spangled-Banner_(C).midi",
+        "The-Star-Spangled-Banner_[SATB].midi",
+        "The-Star-Spangled-Banner_(G).midi",
+        "The-Star-Spangled-Banner_(B).midi",
+        "The-Star-Spangled-Banner_(Eb).midi",
+        "The-Star-Spangled-Banner_(A).midi",
+        "The-Star-Spangled-Banner_(D).midi",
+        "The-Star-Spangled-Banner.midi"
+      ],
+      "svg": "tunes/Folk_USA/The-Star-Spangled-Banner_%28B%29_page_1.svg",
+      "midi": "tunes/Folk_USA/The-Star-Spangled-Banner_%28C%29.midi"
     },
     {
       "title": "You Are My Sunshine",
@@ -2944,8 +3195,19 @@
           "stem": "You-are-my-sunshine"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "You-are-my-sunshine_[Piano]-2.svg",
+        "You-are-my-sunshine.svg",
+        "You-are-my-sunshine_[Piano]_page_1.svg",
+        "You-are-my-sunshine_page_1.svg",
+        "You-are-my-sunshine_[Piano]-1.svg",
+        "You-are-my-sunshine_[Piano]_page_2.svg"
+      ],
+      "midi_files": [
+        "You-are-my-sunshine_[Piano].midi"
+      ],
+      "svg": "tunes/Folk_USA/You-are-my-sunshine_%5BPiano%5D-2.svg",
+      "midi": "tunes/Folk_USA/You-are-my-sunshine_%5BPiano%5D.midi"
     },
     {
       "title": "Contraband Police",
@@ -2973,7 +3235,8 @@
         }
       ],
       "svg_files": [
-        "Contraband-Police_page_1.svg"
+        "Contraband-Police_page_1.svg",
+        "Contraband-Police.svg"
       ],
       "midi_files": [
         "Contraband-Police.midi"
@@ -3007,7 +3270,8 @@
         }
       ],
       "svg_files": [
-        "All-of-Me_page_1.svg"
+        "All-of-Me_page_1.svg",
+        "All-of-Me.svg"
       ],
       "midi_files": [],
       "svg": "tunes/Jazz/All-of-Me_page_1.svg"
@@ -3038,7 +3302,8 @@
         }
       ],
       "svg_files": [
-        "As-Time-Goes-By_page_1.svg"
+        "As-Time-Goes-By_page_1.svg",
+        "As-Time-Goes-By.svg"
       ],
       "midi_files": [
         "As-Time-Goes-By.midi",
@@ -3114,10 +3379,13 @@
       ],
       "svg_files": [
         "Lets-Fall-in-Love_page_1.svg",
-        "Lets-Fall-in-Love-1_page_1.svg"
+        "Lets-Fall-in-Love-1_page_1.svg",
+        "Lets-Fall-in-Love.svg",
+        "Lets-Fall-in-Love-1.svg"
       ],
       "midi_files": [
-        "Lets-Fall-in-Love-1.midi"
+        "Lets-Fall-in-Love-1.midi",
+        "Lets-Fall-in-Love.midi"
       ],
       "svg": "tunes/Jazz/Lets-Fall-in-Love_page_1.svg",
       "midi": "tunes/Jazz/Lets-Fall-in-Love-1.midi"
@@ -3164,11 +3432,17 @@
         "Misty-Grap_page_1.svg",
         "Misty_[As played by Grappelli]_page_1.svg",
         "Misty-LMOURMW7US_page_1.svg",
-        "Misty_page_1.svg"
+        "Misty_page_1.svg",
+        "Misty-LMOURMW7US-1.svg",
+        "Misty-1.svg",
+        "Misty-LMOURMW7US-2.svg",
+        "Misty_[As played by Grappelli].svg",
+        "Misty-2.svg"
       ],
       "midi_files": [
         "Misty.midi",
-        "Misty_[As played by Grappelli].midi"
+        "Misty_[As played by Grappelli].midi",
+        "Misty-LMOURMW7US.midi"
       ],
       "svg": "tunes/Jazz/Misty-Grap_page_1.svg",
       "midi": "tunes/Jazz/Misty.midi"
@@ -3261,7 +3535,9 @@
       ],
       "svg_files": [
         "Summertime_Grappelli_page_1.svg",
-        "Summertime_page_1.svg"
+        "Summertime_page_1.svg",
+        "Summertime_Grappelli.svg",
+        "Summertime.svg"
       ],
       "midi_files": [
         "Summertime_Grappelli.midi",
@@ -3337,7 +3613,11 @@
         "Besame-Mucho_(Am)_page_1.svg",
         "Besame-Mucho_(Cm)_page_1.svg",
         "Besame-Mucho_page_1.svg",
-        "Besame-Mucho_(Dm)_page_1.svg"
+        "Besame-Mucho_(Dm)_page_1.svg",
+        "Besame-Mucho_(Cm).svg",
+        "Besame-Mucho.svg",
+        "Besame-Mucho_(Dm).svg",
+        "Besame-Mucho_(Am).svg"
       ],
       "midi_files": [
         "Besame-Mucho.midi",
@@ -3550,7 +3830,14 @@
         "Mendelssohn_Wedding-March-(For-Organ)_page_1.svg",
         "Mendelssohn_Wedding-March-(For-Organ)_page_4.svg",
         "Mendelssohn_Wedding-March-(For-Organ)_page_2.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)_page_5.svg"
+        "Mendelssohn_Wedding-March-(For-Organ)_page_5.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-6.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-5.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-1.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-3.svg",
+        "Mendelssohn_Wedding-March-(For-Violin).svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-4.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-2.svg"
       ],
       "midi_files": [
         "Mendelssohn_Wedding-March-(For-Organ)-full.midi",
@@ -3559,6 +3846,60 @@
       ],
       "svg": "tunes/Wedding/Mendelssohn_Wedding-March-%28For-Violin%29_page_1.svg",
       "midi": "tunes/Wedding/Mendelssohn_Wedding-March-%28For-Organ%29-full.midi"
+    },
+    {
+      "title": "Kreutzer Étude No. 2",
+      "composer": "Rodolphe Kreutzer",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Études",
+      "subgenre": "Violin Étude",
+      "category": "Études",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Études",
+      "tune_folder": "Kreutzer_Étude-No.-2",
+      "variants": [
+        {
+          "filename": "Position-Markup-Styles-Comparison.ly",
+          "stem": "Position-Markup-Styles-Comparison"
+        },
+        {
+          "filename": "Kreutzer_Étude-No.-2.ly",
+          "stem": "Kreutzer_Étude-No.-2"
+        },
+        {
+          "filename": "Kreutzer_Étude-No.-2_[Practice].ly",
+          "stem": "Kreutzer_Étude-No.-2_[Practice]",
+          "arrangement": "Practice"
+        },
+        {
+          "filename": "Kreutzer_Étude-No.-2_(A).ly",
+          "stem": "Kreutzer_Étude-No.-2_(A)",
+          "key_variant": "A"
+        },
+        {
+          "filename": "Kreutzer_Étude-No.-2_[Shifting].ly",
+          "stem": "Kreutzer_Étude-No.-2_[Shifting]",
+          "arrangement": "Shifting"
+        }
+      ],
+      "svg_files": [
+        "Kreutzer_Étude-No.-2_page_1.svg",
+        "Kreutzer_Étude-No.-2_[Practice]_page_1.svg",
+        "Kreutzer_Étude-No.-2_(A)_page_1.svg",
+        "Position-Markup-Styles-Comparison_page_1.svg",
+        "Kreutzer_Étude-No.-2_[Shifting]_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/%C3%89tudes/Kreutzer_%C3%89tude-No.-2_page_1.svg"
     }
   ]
 }
