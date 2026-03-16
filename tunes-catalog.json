@@ -1,8 +1,246 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 60,
+  "tune_count": 70,
   "tunes": [
+    {
+      "title": "L'Air Mignonne",
+      "composer": "Simon Riopel",
+      "country": "Canada",
+      "country_flag": "🇨🇦",
+      "genre": "Folk",
+      "subgenre": "canadian traditional",
+      "category": "Folk/Canada",
+      "period": "",
+      "type": "canadian traditional",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Folk_Canada",
+      "tune_folder": "L-Air-Mignonne",
+      "variants": [
+        {
+          "filename": "L-Air-Mignonne.ly",
+          "stem": "L-Air-Mignonne"
+        }
+      ],
+      "svg_files": [
+        "L-Air-Mignonne_page_1.svg",
+        "L-Air-Mignonne.svg"
+      ],
+      "midi_files": [
+        "L-Air-Mignonne-full.midi",
+        "L-Air-Mignonne.midi"
+      ],
+      "svg": "tunes/Folk_Canada/L-Air-Mignonne_page_1.svg",
+      "midi": "tunes/Folk_Canada/L-Air-Mignonne-full.midi"
+    },
+    {
+      "title": "Teardrop Waltz",
+      "composer": "Reg Bouvette",
+      "country": "Canada",
+      "country_flag": "🇨🇦",
+      "genre": "Folk",
+      "subgenre": "",
+      "category": "Folk/Canada",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Folk_Canada",
+      "tune_folder": "Teardrop-Waltz",
+      "variants": [
+        {
+          "filename": "Teardrop-Waltz_Marc.ly",
+          "stem": "Teardrop-Waltz_Marc"
+        },
+        {
+          "filename": "Teardrop-Waltz-Casey-Willis.ly",
+          "stem": "Teardrop-Waltz-Casey-Willis"
+        }
+      ],
+      "svg_files": [
+        "Teardrop-Waltz_Marc_page_1.svg",
+        "Teardrop-Waltz-Casey-Willis_page_1.svg",
+        "Teardrop-Waltz_Marc.svg",
+        "Teardrop-Waltz-Casey-Willis.svg"
+      ],
+      "midi_files": [
+        "Teardrop-Waltz-Casey-Willis.midi",
+        "Teardrop-Waltz_Marc.midi",
+        "Teardrop-Waltz_Marc.mid"
+      ],
+      "svg": "tunes/Folk_Canada/Teardrop-Waltz_Marc_page_1.svg",
+      "midi": "tunes/Folk_Canada/Teardrop-Waltz-Casey-Willis.midi"
+    },
+    {
+      "title": "Volcanic Jig",
+      "composer": "Natalie MacMaster",
+      "country": "Canada",
+      "country_flag": "🇨🇦",
+      "genre": "Folk",
+      "subgenre": "Jig",
+      "category": "Folk/Canada",
+      "period": "",
+      "type": "Jig",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Folk_Canada",
+      "tune_folder": "Volcanic-Jig",
+      "variants": [
+        {
+          "filename": "Volcanic-Jig.ly",
+          "stem": "Volcanic-Jig"
+        }
+      ],
+      "svg_files": [
+        "Volcanic-Jig_page_1.svg",
+        "Volcanic-Jig_page_2.svg",
+        "Volcanic-Jig-Violin-2.svg",
+        "Volcanic-Jig-Violin-1.svg"
+      ],
+      "midi_files": [
+        "Volcanic-Jig-Violin.midi",
+        "Volcanic-Jig.midi"
+      ],
+      "svg": "tunes/Folk_Canada/Volcanic-Jig_page_1.svg",
+      "midi": "tunes/Folk_Canada/Volcanic-Jig-Violin.midi"
+    },
+    {
+      "title": "Flor Formosa",
+      "composer": "Djack Do Carmo",
+      "country": "Cabo Verde",
+      "country_flag": "🌍",
+      "genre": "Folk",
+      "subgenre": "morna",
+      "category": "Folk/CapeVerde",
+      "period": "",
+      "type": "morna",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Folk_CapeVerde",
+      "tune_folder": "Flor-Formosa",
+      "variants": [
+        {
+          "filename": "Flor-Formosa.ly",
+          "stem": "Flor-Formosa"
+        }
+      ],
+      "svg_files": [
+        "Flor-Formosa_page_2.svg",
+        "Flor-Formosa_page_1.svg",
+        "Flor-Formosa-1.svg",
+        "Flor-Formosa-2.svg"
+      ],
+      "midi_files": [
+        "Flor-Formosa.midi"
+      ],
+      "svg": "tunes/Folk_CapeVerde/Flor-Formosa_page_2.svg",
+      "midi": "tunes/Folk_CapeVerde/Flor-Formosa.midi"
+    },
+    {
+      "title": "Greensleeves",
+      "composer": "Traditional",
+      "country": "England",
+      "country_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "genre": "Folk",
+      "subgenre": "Renaissance",
+      "category": "Folk/England",
+      "period": "",
+      "type": "Renaissance",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Folk_England",
+      "tune_folder": "Greensleeves",
+      "variants": [
+        {
+          "filename": "greensleeves_[Guitar & Vocal].ly",
+          "stem": "greensleeves_[Guitar & Vocal]",
+          "arrangement": "Guitar & Vocal"
+        },
+        {
+          "filename": "greensleeves-(Em).ly",
+          "stem": "greensleeves-(Em)"
+        },
+        {
+          "filename": "Greensleeves_[Jig].ly",
+          "stem": "Greensleeves_[Jig]",
+          "arrangement": "Jig"
+        },
+        {
+          "filename": "greensleeves_landscape.ly",
+          "stem": "greensleeves_landscape"
+        },
+        {
+          "filename": "greensleeves.ly",
+          "stem": "greensleeves"
+        },
+        {
+          "filename": "greensleeves_melody.ly",
+          "stem": "greensleeves_melody"
+        }
+      ],
+      "svg_files": [
+        "Greensleeves_[Jig]_page_2.svg",
+        "Greensleeves_[Jig]_page_1.svg",
+        "greensleeves_melody_page_1.svg",
+        "greensleeves_page_1.svg",
+        "greensleeves_melody_page_2.svg",
+        "greensleeves_[Guitar & Vocal]_page_2.svg",
+        "greensleeves_landscape_page_1.svg",
+        "greensleeves-(Em)_page_1.svg",
+        "greensleeves_[Guitar & Vocal]_page_1.svg",
+        "greensleeves_melody-2.svg",
+        "greensleeves_landscape.svg",
+        "greensleeves_[Guitar & Vocal]-2.svg",
+        "greensleeves_melody-1.svg",
+        "Greensleeves_[Jig]-1.svg",
+        "greensleeves_[Guitar & Vocal]-1.svg",
+        "greensleeves.svg",
+        "Greensleeves_[Jig]-2.svg",
+        "greensleeves-(Em).svg"
+      ],
+      "midi_files": [
+        "greensleeves.midi",
+        "greensleeves_landscape-1.midi",
+        "greensleeves_landscape-full-1.midi",
+        "greensleeves-(Em).midi",
+        "Greensleeves_[Jig]-1.midi",
+        "greensleeves_melody-full.midi",
+        "Greensleeves_[Jig]-2.midi",
+        "greensleeves_landscape.midi",
+        "greensleeves-(Em)-full.midi",
+        "greensleeves_[Guitar & Vocal].midi",
+        "greensleeves_melody.midi",
+        "Greensleeves_[Jig].midi"
+      ],
+      "svg": "tunes/Folk_England/Greensleeves_%5BJig%5D_page_2.svg",
+      "midi": "tunes/Folk_England/greensleeves.midi"
+    },
     {
       "title": "Emma's Waltz",
       "composer": "Traditional Finnish",
@@ -41,10 +279,7 @@
       "svg_files": [
         "Emma_(Waltz)_(Dm)_page_1.svg",
         "Emma_(Waltz)_page_1.svg",
-        "Emma_(Waltz)_(Em)_page_1.svg",
-        "Emma_(Waltz)_(Dm).svg",
-        "Emma_(Waltz)_(Em).svg",
-        "Emma_(Waltz).svg"
+        "Emma_(Waltz)_(Em)_page_1.svg"
       ],
       "midi_files": [
         "Emma_(Waltz)_(Dm).midi",
@@ -91,9 +326,7 @@
       "svg_files": [
         "Ievan-polkka-(Dm)_page_1.svg",
         "Ievan-Polkka_page_1.svg",
-        "Ievan_Polkka-from-Musescore_page_1.svg",
-        "Ievan-Polkka.svg",
-        "Ievan-polkka-(Dm).svg"
+        "Ievan_Polkka-from-Musescore_page_1.svg"
       ],
       "midi_files": [
         "Ievan-polkka-(Dm).midi",
@@ -171,8 +404,7 @@
       ],
       "svg_files": [
         "Au-Clair-de-la-Lune_[4 Verses]_page_1.svg",
-        "Au-Clair-de-la-Lune_page_1.svg",
-        "Au-Clair-de-la-Lune.svg"
+        "Au-Clair-de-la-Lune_page_1.svg"
       ],
       "midi_files": [],
       "svg": "tunes/Folk_French/Au-Clair-de-la-Lune_%5B4%20Verses%5D_page_1.svg"
@@ -313,6 +545,41 @@
       "svg": "tunes/Folk_French/Tri-Martolod_page_1.svg"
     },
     {
+      "title": "Muss I Denn",
+      "composer": "Traditional German",
+      "country": "Germany",
+      "country_flag": "🇩🇪",
+      "genre": "Folk",
+      "subgenre": "folk song",
+      "category": "Folk/Germany",
+      "period": "",
+      "type": "folk song",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Folk_Germany",
+      "tune_folder": "Muss-I-Denn",
+      "variants": [
+        {
+          "filename": "Muss-I-Denn.ly",
+          "stem": "Muss-I-Denn"
+        }
+      ],
+      "svg_files": [
+        "Muss-I-Denn_page_1.svg",
+        "Muss-I-Denn.svg"
+      ],
+      "midi_files": [
+        "Muss-I-Denn.midi"
+      ],
+      "svg": "tunes/Folk_Germany/Muss-I-Denn_page_1.svg",
+      "midi": "tunes/Folk_Germany/Muss-I-Denn.midi"
+    },
+    {
       "title": "Basso - Gypsy in Am",
       "composer": "Traditional Hungarian",
       "country": "Hungary",
@@ -378,8 +645,7 @@
         }
       ],
       "svg_files": [
-        "Bear-Dance_page_1.svg",
-        "Bear-Dance.svg"
+        "Bear-Dance_page_1.svg"
       ],
       "midi_files": [
         "Bear-Dance.midi"
@@ -413,8 +679,7 @@
         }
       ],
       "svg_files": [
-        "Comme-une-fleur_page_1.svg",
-        "Comme-une-fleur.svg"
+        "Comme-une-fleur_page_1.svg"
       ],
       "midi_files": [
         "Comme-une-fleur.midi"
@@ -557,8 +822,7 @@
         }
       ],
       "svg_files": [
-        "Qu-importe-les-soucis_page_1.svg",
-        "Qu-importe-les-soucis.svg"
+        "Qu-importe-les-soucis_page_1.svg"
       ],
       "midi_files": [
         "Qu-importe-les-soucis.midi"
@@ -592,8 +856,7 @@
         }
       ],
       "svg_files": [
-        "Romances-et-Danses-Caucasiennes_page_1.svg",
-        "Romances-et-Danses-Caucasiennes.svg"
+        "Romances-et-Danses-Caucasiennes_page_1.svg"
       ],
       "midi_files": [
         "Romances-et-Danses-Caucasiennes.midi"
@@ -1263,6 +1526,75 @@
       "midi_files": []
     },
     {
+      "title": "Bella ciao",
+      "composer": "Arrangements:Marc Mouries",
+      "country": "Italy",
+      "country_flag": "🇮🇹",
+      "genre": "Folk",
+      "subgenre": "",
+      "category": "Folk/Italy",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Folk_Italy",
+      "tune_folder": "Bella-Ciao",
+      "variants": [
+        {
+          "filename": "Bella_Ciao-v2.ly",
+          "stem": "Bella_Ciao-v2"
+        },
+        {
+          "filename": "bella-ciao.ly",
+          "stem": "bella-ciao"
+        },
+        {
+          "filename": "bella-ciao_(Gm).ly",
+          "stem": "bella-ciao_(Gm)",
+          "key_variant": "Gm"
+        },
+        {
+          "filename": "bella-ciao_(Am).ly",
+          "stem": "bella-ciao_(Am)",
+          "key_variant": "Am"
+        },
+        {
+          "filename": "bella-ciao_(Em).ly",
+          "stem": "bella-ciao_(Em)",
+          "key_variant": "Em"
+        }
+      ],
+      "svg_files": [
+        "bella-ciao_page_1.svg",
+        "bella-ciao_(Em)_page_1.svg",
+        "bella-ciao_(Gm)_page_1.svg",
+        "bella-ciao_(Am)_page_1.svg",
+        "bella-ciao_(Am)_range.svg",
+        "bella-ciao.svg",
+        "bella-ciao_range.svg",
+        "bella-ciao_(Em)_range.svg",
+        "bella-ciao_(Gm)_range.svg",
+        "bella-ciao_(Gm).svg",
+        "bella-ciao_(Am).svg",
+        "bella-ciao_(Em).svg"
+      ],
+      "midi_files": [
+        "bella-ciao_(Gm).midi",
+        "Bella_Ciao-v2.midi",
+        "bella-ciao.midi",
+        "bella-ciao_(Em).midi",
+        "bella-ciao_(Am).midi",
+        "Bella_Ciao-v2.mid"
+      ],
+      "svg": "tunes/Folk_Italy/bella-ciao_page_1.svg",
+      "midi": "tunes/Folk_Italy/bella-ciao_%28Gm%29.midi"
+    },
+    {
       "title": "Chosen Kalle Mazel Tov",
       "composer": "Traditional",
       "country": "Jewish",
@@ -1311,12 +1643,7 @@
         "Chosen_Kalle_Mazel_Tov_(Gm)_page_1.svg",
         "Chosen_Kalle_Mazel_Tov_(Em)_page_1.svg",
         "Chosen_Kalle_Mazel_Tov_(Dm)_page_1.svg",
-        "Chosen_Kalle_Mazel_Tov_(Am)_page_1.svg",
-        "Chosen_Kalle_Mazel_Tov.svg",
-        "Chosen_Kalle_Mazel_Tov_(Dm).svg",
-        "Chosen_Kalle_Mazel_Tov_(Gm).svg",
-        "Chosen_Kalle_Mazel_Tov_(Am).svg",
-        "Chosen_Kalle_Mazel_Tov_(Em).svg"
+        "Chosen_Kalle_Mazel_Tov_(Am)_page_1.svg"
       ],
       "midi_files": [
         "Chosen_Kalle_Mazel_Tov.midi",
@@ -1406,16 +1733,7 @@
         "Erev-shel-Shoshanim_(Dm)_page_1.svg",
         "Erev-shel-Shoshanim_(F#m)_page_1.svg",
         "Erev-shel-Shoshanim_(Gm)_page_1.svg",
-        "Erev-shel-Shoshanim_(Em)_page_1.svg",
-        "Erev-shel-Shoshanim_(Cm).svg",
-        "Erev-shel-Shoshanim_(Dm).svg",
-        "Erev-shel-Shoshanim_(Bm).svg",
-        "Erev-shel-Shoshanim_(Em).svg",
-        "Erev-shel-Shoshanim_(Fm).svg",
-        "Erev-shel-Shoshanim_(Gm).svg",
-        "Erev-shel-Shoshanim_(F#m).svg",
-        "Erev-shel-Shoshanim_(Am).svg",
-        "Erev-shel-Shoshanim.svg"
+        "Erev-shel-Shoshanim_(Em)_page_1.svg"
       ],
       "midi_files": [
         "Erev-shel-Shoshanim.midi",
@@ -1537,8 +1855,7 @@
         }
       ],
       "svg_files": [
-        "Im-Hashem-Lo-Yivneh-Bayis_page_1.svg",
-        "Im-Hashem-Lo-Yivneh-Bayis.svg"
+        "Im-Hashem-Lo-Yivneh-Bayis_page_1.svg"
       ],
       "midi_files": [
         "Im-Hashem-Lo-Yivneh-Bayis.midi"
@@ -1590,11 +1907,7 @@
         "Numi-numi-Hebrew-Lullaby_(Dm)_page_1.svg",
         "Numi-numi-Hebrew-Lullaby_(Cm)_page_1.svg",
         "Numi-numi-Hebrew-Lullaby_(Bm)_page_1.svg",
-        "Numi-numi-Hebrew-Lullaby_page_1.svg",
-        "Numi-numi-Hebrew-Lullaby_(Dm).svg",
-        "Numi-numi-Hebrew-Lullaby_(Cm).svg",
-        "Numi-numi-Hebrew-Lullaby_(Bm).svg",
-        "Numi-numi-Hebrew-Lullaby.svg"
+        "Numi-numi-Hebrew-Lullaby_page_1.svg"
       ],
       "midi_files": [
         "Numi-numi-Hebrew-Lullaby_(Cm).midi",
@@ -1656,12 +1969,7 @@
         "Papirosen_(Gm)_page_1.svg",
         "Papirosen_page_1.svg",
         "Papirosen_(Cm)_page_1.svg",
-        "Papirosen_(Am)_page_1.svg",
-        "Papirosen_(Gm).svg",
-        "Papirosen_(Cm).svg",
-        "Papirosen_(Am).svg",
-        "Papirosen.svg",
-        "Papirosen_(Dm).svg"
+        "Papirosen_(Am)_page_1.svg"
       ],
       "midi_files": [
         "Papirosen_(Gm).midi",
@@ -1672,6 +1980,73 @@
       ],
       "svg": "tunes/Folk_Jewish/Papirosen_%28Dm%29_page_1.svg",
       "midi": "tunes/Folk_Jewish/Papirosen_%28Gm%29.midi"
+    },
+    {
+      "title": "The Wellerman",
+      "composer": "Traditional",
+      "country": "New Zealand",
+      "country_flag": "🇳🇿",
+      "genre": "Folk",
+      "subgenre": "sea shanty",
+      "category": "Folk/NewZealand",
+      "period": "",
+      "type": "sea shanty",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Folk_NewZealand",
+      "tune_folder": "The-Wellerman",
+      "variants": [
+        {
+          "filename": "The-Wellerman.ly",
+          "stem": "The-Wellerman"
+        }
+      ],
+      "svg_files": [
+        "The-Wellerman_page_1.svg",
+        "The-Wellerman.svg"
+      ],
+      "midi_files": [
+        "The-Wellerman.midi"
+      ],
+      "svg": "tunes/Folk_NewZealand/The-Wellerman_page_1.svg",
+      "midi": "tunes/Folk_NewZealand/The-Wellerman.midi"
+    },
+    {
+      "title": "Hora Mărțișorului",
+      "composer": "Grigoraș Dinicu (1889-1949)",
+      "country": "Romania",
+      "country_flag": "🇷🇴",
+      "genre": "Folk",
+      "subgenre": "hora",
+      "category": "Folk/Romania",
+      "period": "",
+      "type": "hora",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Folk_Romania",
+      "tune_folder": "Hora-Martisorului",
+      "variants": [
+        {
+          "filename": "Hora-Martisorului.ly",
+          "stem": "Hora-Martisorului"
+        }
+      ],
+      "svg_files": [
+        "Hora-Martisorului_page_1.svg",
+        "Hora-Martisorului.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Folk_Romania/Hora-Martisorului_page_1.svg"
     },
     {
       "title": "Bublitchki",
@@ -1733,14 +2108,10 @@
         }
       ],
       "svg_files": [
-        "Cokas-Dance_page_1.svg",
-        "Cokas-Dance.svg"
+        "Cokas-Dance_page_1.svg"
       ],
-      "midi_files": [
-        "Cokas-Dance.midi"
-      ],
-      "svg": "tunes/Folk_Russia/Cokas-Dance_page_1.svg",
-      "midi": "tunes/Folk_Russia/Cokas-Dance.midi"
+      "midi_files": [],
+      "svg": "tunes/Folk_Russia/Cokas-Dance_page_1.svg"
     },
     {
       "title": "Les yeux noirs - Dark eyes",
@@ -1847,14 +2218,7 @@
         "Katyusha_(Am)_page_1.svg",
         "Katyusha_page_1.svg",
         "Katyusha_(Dm)_page_1.svg",
-        "Katyusha_(Bm)_page_1.svg",
-        "Katyusha_(Cm).svg",
-        "Katyusha_(Am).svg",
-        "Katyusha.svg",
-        "Katyusha_(Dm).svg",
-        "Katyusha_(Em).svg",
-        "Katyusha_(Bm).svg",
-        "Katyusha_(Gm).svg"
+        "Katyusha_(Bm)_page_1.svg"
       ],
       "midi_files": [
         "Katyusha_(Gm).midi",
@@ -1929,13 +2293,7 @@
         "korobeiniki_(Em)_page_1.svg",
         "korobeiniki_(Fm)_page_1.svg",
         "korobeiniki_page_1.svg",
-        "korobeiniki_(Dm)_page_1.svg",
-        "korobeiniki_(Em).svg",
-        "korobeiniki_(Fm).svg",
-        "korobeiniki_(Gm).svg",
-        "korobeiniki_(Am).svg",
-        "korobeiniki_(Dm).svg",
-        "korobeiniki.svg"
+        "korobeiniki_(Dm)_page_1.svg"
       ],
       "midi_files": [
         "korobeiniki.midi",
@@ -2041,12 +2399,7 @@
         "Polyushko-Pole_(Am)_page_1.svg",
         "Polyushko-Pole_(Cm)_page_1.svg",
         "Polyushko-Pole_(Dm)_page_1.svg",
-        "Polyushko-Pole_(Gm)_page_1.svg",
-        "Polyushko-Pole_(Am).svg",
-        "Polyushko-Pole.svg",
-        "Polyushko-Pole_(Dm).svg",
-        "Polyushko-Pole_(Gm).svg",
-        "Polyushko-Pole_(Cm).svg"
+        "Polyushko-Pole_(Gm)_page_1.svg"
       ],
       "midi_files": [
         "Polyushko-Pole_(Am).midi",
@@ -2097,10 +2450,7 @@
       "svg_files": [
         "Tsiganisky_page_1.svg",
         "Tsiganisky_(Gm)_page_1.svg",
-        "Tsiganisky_(Am)_page_1.svg",
-        "Tsiganisky_(Gm).svg",
-        "Tsiganisky.svg",
-        "Tsiganisky_(Am).svg"
+        "Tsiganisky_(Am)_page_1.svg"
       ],
       "midi_files": [
         "Tsiganisky.midi",
@@ -2136,14 +2486,96 @@
         }
       ],
       "svg_files": [
-        "Two-Guitars_page_1.svg",
-        "Two-Guitars.svg"
+        "Two-Guitars_page_1.svg"
       ],
       "midi_files": [
         "Two-Guitars.midi"
       ],
       "svg": "tunes/Folk_Russia/Two-Guitars_page_1.svg",
       "midi": "tunes/Folk_Russia/Two-Guitars.midi"
+    },
+    {
+      "title": "Auld Lang Syne",
+      "composer": "Traditional Scottish",
+      "country": "Scotland",
+      "country_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "genre": "Folk",
+      "subgenre": "",
+      "category": "Celtic/Scottish",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Folk_Scotland",
+      "tune_folder": "Auld-Lang-Syne",
+      "variants": [
+        {
+          "filename": "Auld-Lang-Syne_[multiple keys].ly",
+          "stem": "Auld-Lang-Syne_[multiple keys]",
+          "arrangement": "multiple keys"
+        },
+        {
+          "filename": "Auld-Lang-Syne_[Beethoven].ly",
+          "stem": "Auld-Lang-Syne_[Beethoven]",
+          "arrangement": "Beethoven"
+        },
+        {
+          "filename": "Auld-Lang-Syne_[with lyrics].ly",
+          "stem": "Auld-Lang-Syne_[with lyrics]",
+          "arrangement": "with lyrics"
+        },
+        {
+          "filename": "Auld-Lang-Syne_[Jig].ly",
+          "stem": "Auld-Lang-Syne_[Jig]",
+          "arrangement": "Jig"
+        },
+        {
+          "filename": "Auld-Lang-Syne_(in-D).ly",
+          "stem": "Auld-Lang-Syne_(in-D)"
+        }
+      ],
+      "svg_files": [
+        "Auld-Lang-Syne_[Beethoven]_page_4.svg",
+        "Auld-Lang-Syne_[Beethoven]_page_5.svg",
+        "Auld-Lang-Syne_[Beethoven]_page_2.svg",
+        "Auld-Lang-Syne_(in-D)_page_1.svg",
+        "Auld-Lang-Syne_[multiple keys]_page_1.svg",
+        "Auld-Lang-Syne_[multiple keys]_page_2.svg",
+        "Auld-Lang-Syne_[with lyrics]_page_1.svg",
+        "Auld-Lang-Syne_[Beethoven]_page_7.svg",
+        "Auld-Lang-Syne_[Beethoven]_page_3.svg",
+        "Auld-Lang-Syne_[Beethoven]_page_6.svg",
+        "Auld-Lang-Syne_[Beethoven]_page_1.svg",
+        "Auld-Lang-Syne_[Jig]_page_1.svg",
+        "Auld-Lang-Syne_(in-D).svg",
+        "Auld-Lang-Syne_[Beethoven]-1.svg",
+        "Auld-Lang-Syne_[with lyrics].svg",
+        "Auld-Lang-Syne_[Beethoven]-7.svg",
+        "Auld-Lang-Syne_[multiple keys]-2.svg",
+        "Auld-Lang-Syne_[Beethoven]-6.svg",
+        "Auld-Lang-Syne_[Beethoven]-2.svg",
+        "Auld-Lang-Syne_[Beethoven]-5.svg",
+        "Auld-Lang-Syne_[Beethoven]-4.svg",
+        "Auld-Lang-Syne_[multiple keys]-1.svg",
+        "Auld-Lang-Syne_[Jig].svg",
+        "Auld-Lang-Syne_[Beethoven]-3.svg"
+      ],
+      "midi_files": [
+        "Auld-Lang-Syne_[Jig]-1.midi",
+        "Auld-Lang-Syne_[Beethoven].midi",
+        "Auld-Lang-Syne_(in-D).midi",
+        "Auld-Lang-Syne_[with lyrics].midi",
+        "Auld-Lang-Syne_(in-D)-1.midi",
+        "Auld-Lang-Syne_(in-D)-full-1.midi",
+        "Auld-Lang-Syne_[Jig].midi"
+      ],
+      "svg": "tunes/Folk_Scotland/Auld-Lang-Syne_%5BBeethoven%5D_page_4.svg",
+      "midi": "tunes/Folk_Scotland/Auld-Lang-Syne_%5BJig%5D-1.midi"
     },
     {
       "title": "A Gift to You (Everything I Am)",
@@ -2212,11 +2644,8 @@
           "stem": "Amazing-grace"
         }
       ],
-      "svg_files": [
-        "Amazing-grace.svg"
-      ],
-      "midi_files": [],
-      "svg": "tunes/Folk_USA/Amazing-grace.svg"
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "Ashokan Farewell",
@@ -2251,14 +2680,8 @@
           "stem": "Ungar-Ashokan-Farewell"
         }
       ],
-      "svg_files": [
-        "Ungar-Ashokan-Farewell.svg"
-      ],
-      "midi_files": [
-        "Ungar-Ashokan-Farewell.midi"
-      ],
-      "svg": "tunes/Folk_USA/Ungar-Ashokan-Farewell.svg",
-      "midi": "tunes/Folk_USA/Ungar-Ashokan-Farewell.midi"
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "Devil's Dream",
@@ -2293,14 +2716,8 @@
           "stem": "Devil's-Dream"
         }
       ],
-      "svg_files": [
-        "Devil's-Dream.svg"
-      ],
-      "midi_files": [
-        "Devil's-Dream.midi"
-      ],
-      "svg": "tunes/Folk_USA/Devil%27s-Dream.svg",
-      "midi": "tunes/Folk_USA/Devil%27s-Dream.midi"
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "Down To The River To Pray",
@@ -2351,20 +2768,8 @@
           "key_variant": "A"
         }
       ],
-      "svg_files": [
-        "Down-To-The-River-To-Pray_(Bb).svg",
-        "Down-To-The-River-To-Pray_(E).svg",
-        "Down-To-The-River-To-Pray_(G).svg",
-        "Down-To-The-River-To-Pray_(A).svg"
-      ],
-      "midi_files": [
-        "Down-To-The-River-To-Pray_(E).midi",
-        "Down-To-The-River-To-Pray_(Bb).midi",
-        "Down-To-The-River-To-Pray_(A).midi",
-        "Down-To-The-River-To-Pray_(G).midi"
-      ],
-      "svg": "tunes/Folk_USA/Down-To-The-River-To-Pray_%28Bb%29.svg",
-      "midi": "tunes/Folk_USA/Down-To-The-River-To-Pray_%28E%29.midi"
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "Jerusalem Ridge",
@@ -2399,11 +2804,8 @@
           "arrangement": "As played by Kenny Baker"
         }
       ],
-      "svg_files": [
-        "Jerusulam-Ridge_[As played by Kenny Baker].svg"
-      ],
-      "midi_files": [],
-      "svg": "tunes/Folk_USA/Jerusulam-Ridge_%5BAs%20played%20by%20Kenny%20Baker%5D.svg"
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "The Devil Went Down to Georgia",
@@ -2437,14 +2839,8 @@
           "stem": "The-Devil-Went-Down-to-Georgia"
         }
       ],
-      "svg_files": [
-        "The-Devil-Went-Down-to-Georgia.svg"
-      ],
-      "midi_files": [
-        "The-Devil-Went-Down-to-Georgia.midi"
-      ],
-      "svg": "tunes/Folk_USA/The-Devil-Went-Down-to-Georgia.svg",
-      "midi": "tunes/Folk_USA/The-Devil-Went-Down-to-Georgia.midi"
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "The Scotsman",
@@ -2548,29 +2944,8 @@
           "key_variant": "B"
         }
       ],
-      "svg_files": [
-        "The-Star-Spangled-Banner_(G).svg",
-        "The-Star-Spangled-Banner_(C).svg",
-        "The-Star-Spangled-Banner_(A).svg",
-        "The-Star-Spangled-Banner_(B).svg",
-        "The-Star-Spangled-Banner_[SATB]-2.svg",
-        "The-Star-Spangled-Banner.svg",
-        "The-Star-Spangled-Banner_(D).svg",
-        "The-Star-Spangled-Banner_[SATB]-1.svg",
-        "The-Star-Spangled-Banner_(Eb).svg"
-      ],
-      "midi_files": [
-        "The-Star-Spangled-Banner_(C).midi",
-        "The-Star-Spangled-Banner_[SATB].midi",
-        "The-Star-Spangled-Banner_(G).midi",
-        "The-Star-Spangled-Banner_(B).midi",
-        "The-Star-Spangled-Banner_(Eb).midi",
-        "The-Star-Spangled-Banner_(A).midi",
-        "The-Star-Spangled-Banner_(D).midi",
-        "The-Star-Spangled-Banner.midi"
-      ],
-      "svg": "tunes/Folk_USA/The-Star-Spangled-Banner_%28G%29.svg",
-      "midi": "tunes/Folk_USA/The-Star-Spangled-Banner_%28C%29.midi"
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "You Are My Sunshine",
@@ -2610,11 +2985,8 @@
           "stem": "You-are-my-sunshine"
         }
       ],
-      "svg_files": [
-        "You-are-my-sunshine.svg"
-      ],
-      "midi_files": [],
-      "svg": "tunes/Folk_USA/You-are-my-sunshine.svg"
+      "svg_files": [],
+      "midi_files": []
     }
   ]
 }
