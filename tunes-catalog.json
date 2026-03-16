@@ -960,8 +960,20 @@
           "key_variant": "A"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Down-To-The-River-To-Pray_(Bb).svg",
+        "Down-To-The-River-To-Pray_(E).svg",
+        "Down-To-The-River-To-Pray_(G).svg",
+        "Down-To-The-River-To-Pray_(A).svg"
+      ],
+      "midi_files": [
+        "Down-To-The-River-To-Pray_(E).midi",
+        "Down-To-The-River-To-Pray_(Bb).midi",
+        "Down-To-The-River-To-Pray_(A).midi",
+        "Down-To-The-River-To-Pray_(G).midi"
+      ],
+      "svg": "tunes/Folk_USA/Down-To-The-River-To-Pray_%28Bb%29.svg",
+      "midi": "tunes/Folk_USA/Down-To-The-River-To-Pray_%28E%29.midi"
     },
     {
       "title": "Jerusalem Ridge",

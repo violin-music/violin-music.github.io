@@ -1,0 +1,2581 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(46.2813, 6.8594)">
+<text font-family="Optima" font-weight="bold" font-size="4.3999" text-anchor="start" fill="currentColor">
+<tspan>L</tspan>
+</text>
+</g>
+<g transform="translate(48.4664, 6.8594)">
+<text font-family="Optima" font-weight="bold" font-size="3.4923" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+</g>
+<g transform="translate(50.7882, 6.8594)">
+<text font-family="Optima" font-weight="bold" font-size="4.3999" text-anchor="start" fill="currentColor">
+<tspan> R</tspan>
+</text>
+</g>
+<g transform="translate(54.7146, 6.8594)">
+<text font-family="Optima" font-weight="bold" font-size="3.4923" text-anchor="start" fill="currentColor">
+<tspan>OSE</tspan>
+</text>
+</g>
+<g transform="translate(61.0994, 6.8594)">
+<text font-family="Optima" font-weight="bold" font-size="4.3999" text-anchor="start" fill="currentColor">
+<tspan> J</tspan>
+</text>
+</g>
+<g transform="translate(63.7968, 6.8594)">
+<text font-family="Optima" font-weight="bold" font-size="3.4923" text-anchor="start" fill="currentColor">
+<tspan>AUNE</tspan>
+</text>
+</g>
+<g transform="translate(44.9838, 9.8594)">
+<text font-family="Optima" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>As performed by Yoska Nemeth</tspan>
+</text>
+</g>
+<g transform="translate(93.0860, 6.8594)">
+<text font-family="Optima" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Traditional Hungarian</tspan>
+</text>
+</g>
+<g transform="translate(113.6210, 29.7918)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.8287, 31.9918)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="106.9324" y2="0"/>
+</g>
+<g transform="translate(6.8287, 30.8918)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="106.9324" y2="0"/>
+</g>
+<g transform="translate(6.8287, 29.7918)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="106.9324" y2="0"/>
+</g>
+<g transform="translate(6.8287, 28.6918)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="106.9324" y2="0"/>
+</g>
+<g transform="translate(6.8287, 27.5918)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="106.9324" y2="0"/>
+</g>
+<g transform="translate(89.7774, 29.7918)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(62.2500, 29.7918)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(38.0645, 29.7918)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(82.5680, 32.8778)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.9208 -0.8960 3.9208 -0.4480 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:23:2:3">
+<g transform="translate(15.5287, 25.9918)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+</g>
+<g transform="translate(17.3041, 25.9918)">
+<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<tspan>m</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:2:3">
+<g transform="translate(15.5287, 30.3418)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(7.6287, 30.8918)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:17:2:3">
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:16:2:3">
+<g transform="translate(11.8287, 29.7918)">
+<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
+c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:77:2:3">
+<g transform="translate(10.5457, 26.7418)">
+<rect x="-0.3520" y="-0.1000" width="2.7184" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(10.5457, 24.2606)">
+<rect x="-0.3520" y="-0.1000" width="2.7184" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(10.1937, 26.3898)">
+<rect x="0" y="-2.1292" width="0.1000" height="2.3812" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(12.8121, 26.3898)">
+<rect x="0" y="-2.1292" width="0.1000" height="2.3812" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(10.5457, 26.3898)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:18:2:3">
+<g transform="translate(11.8287, 23.1151)">
+<rect x="1.0449" y="-2.6727" width="0.1158" height="2.5129" ry="0.0193" fill="currentColor"/>
+</g>
+<g transform="translate(11.8287, 23.1151)">
+<path transform="scale(0.0036, -0.0036)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(12.9893, 23.6039)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan> = 100</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(17.2829, 30.3418)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(16.7679, 29.7918)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(69.7990, 30.8918)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.6708 -0.0100 3.6708 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:6:7">
+<g transform="translate(22.7178, 30.8918)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(23.9570, 29.7918)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(24.0220, 27.0818)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(21.2678, 30.8918)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:10:11">
+<g transform="translate(26.3618, 30.3418)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.6010, 29.7918)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:13:14">
+<g transform="translate(31.9692, 31.9918)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(33.2084, 29.7918)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:2:3">
+<g transform="translate(39.6933, 29.2418)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(41.4475, 29.2418)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(39.7583, 29.7918)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:7:8">
+<g transform="translate(46.8824, 29.7918)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(46.9474, 29.7918)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.5264" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(47.0124, 33.4643)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:10:11">
+<g transform="translate(50.4632, 29.2418)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(50.5282, 29.7918)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:13:14">
+<g transform="translate(56.2261, 30.3418)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(57.4653, 29.7918)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:2:3">
+<g transform="translate(63.9416, 28.1418)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(64.0066, 29.7918)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(98.4148, 26.7058)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.5208 0.4480 4.5208 0.8960 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:6:7">
+<g transform="translate(69.7990, 27.5918)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(69.8640, 29.7918)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.1176" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:9:10">
+<g transform="translate(73.3798, 28.1418)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(73.4448, 29.7918)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="2.7741" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:11:12">
+<g transform="translate(76.9606, 28.6918)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(77.0256, 29.7918)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:14:15">
+<g transform="translate(82.5680, 29.7918)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(82.6330, 29.7918)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8889" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:17:18">
+<g transform="translate(86.3988, 28.6918)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(86.4638, 29.7918)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.3389" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(106.5645, 29.7918)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:2:3">
+<g transform="translate(91.4062, 29.2418)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(91.4712, 29.7918)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:36:2:3">
+<g transform="translate(105.2522, 30.3418)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:5:6">
+<g transform="translate(97.2405, 29.7918)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(98.4798, 29.7918)">
+<rect x="-0.0650" y="-3.0764" width="0.1300" height="2.8903" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:8:9">
+<g transform="translate(101.6713, 30.8918)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(102.9106, 29.7918)">
+<rect x="-0.0650" y="-2.4236" width="0.1300" height="3.3375" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(100.2213, 30.8918)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 46.5575)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 45.4575)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 44.3575)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 43.2575)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 42.1575)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 44.3575)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(88.8258, 44.3575)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(60.2177, 44.3575)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(35.0051, 44.3575)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 45.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:79:2:3">
+<g transform="translate(9.4076, 41.3075)">
+<rect x="-0.3520" y="-0.1000" width="2.7184" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 38.8262)">
+<rect x="-0.3520" y="-0.1000" width="2.7184" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.0556, 40.9555)">
+<rect x="0" y="-2.1292" width="0.1000" height="2.3812" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(11.6740, 40.9555)">
+<rect x="0" y="-2.1292" width="0.1000" height="2.3812" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 40.9555)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(4.8028, 41.0870)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+</g>
+<g transform="translate(97.7696, 41.2715)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.6498 0.4480 4.6498 0.8960 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:2:3">
+<g transform="translate(11.4906, 44.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(13.2448, 44.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(12.7298, 44.3575)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(81.3583, 47.4435)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.0498 -0.8960 4.0498 -0.4480 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:6:7">
+<g transform="translate(19.0132, 45.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(20.2524, 44.3575)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(20.3174, 41.6475)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(17.5632, 45.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(68.0732, 45.4575)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.7998 -0.0100 3.7998 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:10:11">
+<g transform="translate(22.7863, 44.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(24.0255, 44.3575)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:13:14">
+<g transform="translate(28.6517, 46.5575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(29.8910, 44.3575)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:2:3">
+<g transform="translate(36.6823, 43.8075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(38.4365, 43.8075)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(36.7473, 44.3575)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:7:8">
+<g transform="translate(44.2050, 44.3575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(44.2700, 44.3575)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.5264" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(44.3350, 48.0300)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:10:11">
+<g transform="translate(47.9148, 43.8075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(47.9798, 44.3575)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:13:14">
+<g transform="translate(53.9357, 44.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(55.1750, 44.3575)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:2:3">
+<g transform="translate(61.9577, 42.7075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(62.0227, 44.3575)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:6:7">
+<g transform="translate(68.0732, 42.1575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(68.1382, 44.3575)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.1175" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:9:10">
+<g transform="translate(71.7830, 42.7075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(71.8480, 44.3575)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="2.7743" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:11:12">
+<g transform="translate(75.4929, 43.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(75.5579, 44.3575)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:14:15">
+<g transform="translate(81.3583, 44.3575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(81.4233, 44.3575)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8892" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:17:18">
+<g transform="translate(85.3182, 43.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(85.3832, 44.3575)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.3386" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(106.1774, 44.3575)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:2:3">
+<g transform="translate(90.5030, 43.8075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(90.5680, 44.3575)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:36:2:3">
+<g transform="translate(104.8651, 44.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:5:6">
+<g transform="translate(96.5954, 44.3575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(97.8346, 44.3575)">
+<rect x="-0.0650" y="-3.0767" width="0.1300" height="2.8906" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:8:9">
+<g transform="translate(101.1552, 45.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(102.3944, 44.3575)">
+<rect x="-0.0650" y="-2.4233" width="0.1300" height="3.3372" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(99.7052, 45.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 61.1231)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 60.0231)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 58.9231)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 57.8231)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 56.7231)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 58.9231)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(89.5809, 58.9231)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(62.7125, 58.9231)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(39.0989, 58.9231)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(53.6325, 58.9231)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.4077" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 60.0231)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:81:2:3">
+<g transform="translate(9.4076, 55.8731)">
+<rect x="-0.3520" y="-0.1000" width="2.5477" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 53.4338)">
+<rect x="-0.3520" y="-0.1000" width="2.5477" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.0556, 55.5211)">
+<rect x="0" y="-2.0873" width="0.1000" height="2.3393" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(11.5033, 55.5211)">
+<rect x="0" y="-2.0873" width="0.1000" height="2.3393" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 55.5211)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>B</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(4.8028, 55.6492)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>9</tspan>
+</text>
+</g>
+<g transform="translate(31.4659, 61.1231)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.0254 -0.4380 4.0254 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:2:3">
+<g transform="translate(11.4906, 60.0231)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(13.2448, 59.4731)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(12.7298, 58.9231)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(23.5950, 62.2231)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.0254 -0.4380 4.0254 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:6:7">
+<g transform="translate(19.5964, 59.4731)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(20.8356, 58.9231)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(20.9006, 55.6631)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:9:10">
+<g transform="translate(23.5950, 58.9231)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(23.6600, 58.9231)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1105" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:11:12">
+<g transform="translate(27.5305, 58.3731)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.5955, 58.9231)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4533" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:13:14">
+<g transform="translate(31.4659, 57.8231)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(31.5309, 58.9231)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.1105" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:15:16">
+<g transform="translate(35.4014, 57.2731)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(35.4664, 58.9231)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.4533" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:42:2:3">
+<g transform="translate(40.9342, 56.7231)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.9992, 58.9231)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:42:5:6">
+<g transform="translate(47.2508, 57.8231)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(47.3158, 58.9231)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:42:7:8">
+<g transform="translate(53.5675, 58.9231)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:2:3">
+<g transform="translate(64.5371, 57.2731)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(66.2913, 57.2731)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(64.6021, 58.9231)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:6:7">
+<g transform="translate(72.6429, 57.8231)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(72.7079, 58.9231)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(72.7729, 61.6331)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:9:10">
+<g transform="translate(76.5784, 58.3731)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(76.6434, 58.9231)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:12:13">
+<g transform="translate(83.1450, 58.9231)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(83.2100, 58.9231)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(104.5410, 58.9231)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.4077" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:44:2:3">
+<g transform="translate(91.3427, 58.3731)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(91.4077, 58.9231)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:44:7:8">
+<g transform="translate(104.4760, 58.9231)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:44:5:6">
+<g transform="translate(98.1594, 57.2731)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(98.2244, 58.9231)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 75.6887)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 74.5887)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 73.4887)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 72.3887)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 71.2887)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 73.4887)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(88.8258, 73.4887)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(60.2177, 73.4887)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(35.0051, 73.4887)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 74.5887)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:83:2:3">
+<g transform="translate(9.4076, 70.4387)">
+<rect x="-0.3520" y="-0.1000" width="2.7184" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 67.9575)">
+<rect x="-0.3520" y="-0.1000" width="2.7184" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.0556, 70.0867)">
+<rect x="0" y="-2.1292" width="0.1000" height="2.3812" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(11.6740, 70.0867)">
+<rect x="0" y="-2.1292" width="0.1000" height="2.3812" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 70.0867)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(3.9151, 70.2183)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>13</tspan>
+</text>
+</g>
+<g transform="translate(97.7696, 70.4027)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.6498 0.4480 4.6498 0.8960 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:2:3">
+<g transform="translate(11.4906, 74.0387)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(13.2448, 74.0387)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(12.7298, 73.4887)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(81.3583, 76.5747)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.0498 -0.8960 4.0498 -0.4480 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:6:7">
+<g transform="translate(19.0132, 74.5887)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(20.2524, 73.4887)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(20.3174, 70.7787)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(17.5632, 74.5887)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(68.0732, 74.5887)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.7998 -0.0100 3.7998 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:10:11">
+<g transform="translate(22.7863, 74.0387)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(24.0255, 73.4887)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:13:14">
+<g transform="translate(28.6517, 75.6887)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(29.8910, 73.4887)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:2:3">
+<g transform="translate(36.6823, 72.9387)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(38.4365, 72.9387)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(36.7473, 73.4887)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:7:8">
+<g transform="translate(44.2050, 73.4887)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(44.2700, 73.4887)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.5264" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(44.3350, 77.1612)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:10:11">
+<g transform="translate(47.9148, 72.9387)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(47.9798, 73.4887)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:13:14">
+<g transform="translate(53.9357, 74.0387)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(55.1750, 73.4887)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:2:3">
+<g transform="translate(61.9577, 71.8387)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(62.0227, 73.4887)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:6:7">
+<g transform="translate(68.0732, 71.2887)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(68.1382, 73.4887)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.1175" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:9:10">
+<g transform="translate(71.7830, 71.8387)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(71.8480, 73.4887)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="2.7743" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:11:12">
+<g transform="translate(75.4929, 72.3887)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(75.5579, 73.4887)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:14:15">
+<g transform="translate(81.3583, 73.4887)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(81.4233, 73.4887)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8892" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:17:18">
+<g transform="translate(85.3182, 72.3887)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(85.3832, 73.4887)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.3386" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(106.1774, 73.4887)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:2:3">
+<g transform="translate(90.5030, 72.9387)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(90.5680, 73.4887)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:36:2:3">
+<g transform="translate(104.8651, 74.0387)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:5:6">
+<g transform="translate(96.5954, 73.4887)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(97.8346, 73.4887)">
+<rect x="-0.0650" y="-3.0767" width="0.1300" height="2.8906" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:8:9">
+<g transform="translate(101.1552, 74.5887)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(102.3944, 73.4887)">
+<rect x="-0.0650" y="-2.4233" width="0.1300" height="3.3372" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(99.7052, 74.5887)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 90.2544)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 89.1544)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 88.0544)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 86.9544)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 85.8544)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 88.0544)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(89.5809, 88.0544)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(62.7125, 88.0544)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(39.0989, 88.0544)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(53.6325, 88.0544)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.4077" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 89.1544)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:85:2:3">
+<g transform="translate(9.4076, 85.0044)">
+<rect x="-0.3520" y="-0.1000" width="2.5477" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 82.5651)">
+<rect x="-0.3520" y="-0.1000" width="2.5477" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.0556, 84.6524)">
+<rect x="0" y="-2.0873" width="0.1000" height="2.3393" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(11.5033, 84.6524)">
+<rect x="0" y="-2.0873" width="0.1000" height="2.3393" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 84.6524)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>B</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(3.9151, 84.7805)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>17</tspan>
+</text>
+</g>
+<g transform="translate(31.4659, 90.2544)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.0254 -0.4380 4.0254 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:2:3">
+<g transform="translate(11.4906, 89.1544)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(13.2448, 88.6044)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(12.7298, 88.0544)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(23.5950, 91.3544)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.0254 -0.4380 4.0254 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:6:7">
+<g transform="translate(19.5964, 88.6044)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(20.8356, 88.0544)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(20.9006, 84.7944)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:9:10">
+<g transform="translate(23.5950, 88.0544)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(23.6600, 88.0544)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1105" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:11:12">
+<g transform="translate(27.5305, 87.5044)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.5955, 88.0544)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4533" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:13:14">
+<g transform="translate(31.4659, 86.9544)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(31.5309, 88.0544)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.1105" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:15:16">
+<g transform="translate(35.4014, 86.4044)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(35.4664, 88.0544)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.4533" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:42:2:3">
+<g transform="translate(40.9342, 85.8544)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.9992, 88.0544)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:42:5:6">
+<g transform="translate(47.2508, 86.9544)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(47.3158, 88.0544)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:42:7:8">
+<g transform="translate(53.5675, 88.0544)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:2:3">
+<g transform="translate(64.5371, 86.4044)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(66.2913, 86.4044)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(64.6021, 88.0544)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:6:7">
+<g transform="translate(72.6429, 86.9544)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(72.7079, 88.0544)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(72.7729, 90.7644)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:9:10">
+<g transform="translate(76.5784, 87.5044)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(76.6434, 88.0544)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:12:13">
+<g transform="translate(83.1450, 88.0544)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(83.2100, 88.0544)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(104.5410, 88.0544)">
+<rect x="-0.0650" y="0.2590" width="0.1300" height="3.4077" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:44:2:3">
+<g transform="translate(91.3427, 87.5044)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(91.4077, 88.0544)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:44:7:8">
+<g transform="translate(104.4760, 88.0544)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:44:5:6">
+<g transform="translate(98.1594, 86.4044)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(98.2244, 88.0544)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 104.8200)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 103.7200)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 102.6200)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 101.5200)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 100.4200)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(111.9710, 102.0700)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(111.9710, 103.1700)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(113.2110, 102.6200)">
+<rect x="0.0000" y="-2.2000" width="0.6000" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(112.7210, 102.6200)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(88.0194, 102.6200)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(60.1856, 102.6200)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(35.7089, 102.6200)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(11.1456, 102.0700)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(11.1456, 103.1700)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(10.6556, 102.6200)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.7556, 102.6200)">
+<rect x="0.0000" y="-2.2000" width="0.6000" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 103.7200)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:89:2:3">
+<g transform="translate(9.2933, 99.5700)">
+<rect x="-0.3520" y="-0.1000" width="2.7184" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.2933, 97.0888)">
+<rect x="-0.3520" y="-0.1000" width="2.7184" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(8.9414, 99.2180)">
+<rect x="0" y="-2.1292" width="0.1000" height="2.3812" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(11.5598, 99.2180)">
+<rect x="0" y="-2.1292" width="0.1000" height="2.3812" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.2933, 99.2180)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(3.9151, 99.3700)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>21</tspan>
+</text>
+</g>
+<g transform="translate(96.7436, 99.5340)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.5574 0.4480 4.5574 0.8960 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:2:3">
+<g transform="translate(12.8956, 103.1700)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:88:20:21">
+<g transform="translate(12.8956, 99.1275)">
+<text font-family="serif" font-weight="bold" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>3×</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(14.6498, 103.1700)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(14.1348, 102.6200)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(80.7368, 105.7060)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.9574 -0.8960 3.9574 -0.4480 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:6:7">
+<g transform="translate(20.1792, 103.7200)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(21.4185, 102.6200)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(21.4835, 99.9100)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(18.7292, 103.7200)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(67.8215, 103.7200)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.7074 -0.0100 3.7074 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:10:11">
+<g transform="translate(23.8599, 103.1700)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(25.0991, 102.6200)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:13:14">
+<g transform="translate(29.5404, 104.8200)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(30.7796, 102.6200)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:2:3">
+<g transform="translate(37.3514, 102.0700)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(39.1056, 102.0700)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(37.4164, 102.6200)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:7:8">
+<g transform="translate(44.6351, 102.6200)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(44.7001, 102.6200)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.5264" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(44.7651, 106.2925)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:10:11">
+<g transform="translate(48.2525, 102.0700)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(48.3175, 102.6200)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:13:14">
+<g transform="translate(54.0885, 103.1700)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(55.3277, 102.6200)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:2:3">
+<g transform="translate(61.8909, 100.9700)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(61.9559, 102.6200)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:6:7">
+<g transform="translate(67.8215, 100.4200)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(67.8865, 102.6200)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.1176" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:9:10">
+<g transform="translate(71.4389, 100.9700)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(71.5039, 102.6200)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="2.7742" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:11:12">
+<g transform="translate(75.0563, 101.5200)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(75.1213, 102.6200)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:14:15">
+<g transform="translate(80.7368, 102.6200)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(80.8018, 102.6200)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="2.8890" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:17:18">
+<g transform="translate(84.6042, 101.5200)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(84.6692, 102.6200)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.3388" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(104.9665, 102.6200)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:2:3">
+<g transform="translate(89.6619, 102.0700)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(89.7269, 102.6200)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:36:2:3">
+<g transform="translate(103.6542, 103.1700)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:5:6">
+<g transform="translate(95.5694, 102.6200)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(96.8086, 102.6200)">
+<rect x="-0.0650" y="-3.0765" width="0.1300" height="2.8904" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:8:9">
+<g transform="translate(100.0368, 103.7200)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(101.2760, 102.6200)">
+<rect x="-0.0650" y="-2.4235" width="0.1300" height="3.3374" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(98.5868, 103.7200)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="98.5936" y="-0.1050" width="2.0660" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 111.6856)">
+<rect x="92.3856" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.7856)">
+<rect x="92.3856" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="92.3856" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.7856)">
+<rect x="85.6594" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="85.6594" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="77.6019" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.7856)">
+<rect x="71.1257" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="71.1257" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.7856)">
+<rect x="67.2355" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="67.2355" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 111.6856)">
+<rect x="59.2465" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.7856)">
+<rect x="59.2465" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="59.2465" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="48.5116" y="-0.1050" width="2.0660" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.7856)">
+<rect x="42.3037" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="42.3037" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 111.6856)">
+<rect x="36.0774" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.7856)">
+<rect x="36.0774" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="36.0774" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 111.6856)">
+<rect x="30.6060" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.7856)">
+<rect x="30.6060" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="30.6060" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.7856)">
+<rect x="26.7158" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="26.7158" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 112.7856)">
+<rect x="22.8255" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="22.8255" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="18.9353" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 113.8856)">
+<rect x="15.0451" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 119.3856)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 118.2856)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 117.1856)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 116.0856)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 114.9856)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 117.1856)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(89.9519, 117.1856)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(63.5391, 117.1856)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(40.3700, 117.1856)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(11.1456, 116.6356)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(11.1456, 117.7356)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(10.6556, 117.1856)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.7556, 117.1856)">
+<rect x="0.0000" y="-2.2000" width="0.6000" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(54.6115, 117.1856)">
+<rect x="-0.0650" y="-3.5910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 118.2856)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:93:2:3">
+<g transform="translate(6.1009, 112.2752)">
+<rect x="-0.3520" y="-0.1000" width="9.1032" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.1009, 109.1538)">
+<rect x="-0.3520" y="-0.1000" width="9.1032" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(5.7490, 111.3304)">
+<rect x="0" y="-2.1766" width="0.1000" height="3.0214" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(14.7522, 111.3304)">
+<rect x="0" y="-2.1766" width="0.1000" height="3.0214" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.1009, 111.3304)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>B (8va)</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(3.9151, 113.9152)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>25</tspan>
+</text>
+</g>
+<g transform="translate(24.9519, 117.3996)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.9802 -0.4380 3.9802 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:2:3">
+<g transform="translate(13.0727, 114.4356)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(14.8269, 114.4356)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(13.1377, 117.1856)">
+<rect x="-0.0650" y="-2.5639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:6:7">
+<g transform="translate(21.0617, 113.8856)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(21.1267, 117.1856)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(21.1917, 117.6956)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:9:10">
+<g transform="translate(24.9519, 113.3356)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(25.0169, 117.1856)">
+<rect x="-0.0650" y="-3.6639" width="0.1300" height="3.8744" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:11:12">
+<g transform="translate(28.8421, 112.7856)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(28.9071, 117.1856)">
+<rect x="-0.0650" y="-4.2139" width="0.1300" height="4.2174" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:13:14">
+<g transform="translate(32.7324, 112.2356)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(32.7974, 117.1856)">
+<rect x="-0.0650" y="-4.7639" width="0.1300" height="4.9744" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:41:15:16">
+<g transform="translate(36.6226, 111.6856)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(36.6876, 117.1856)">
+<rect x="-0.0650" y="-5.3139" width="0.1300" height="5.3174" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:42:2:3">
+<g transform="translate(42.0940, 111.1356)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(42.1590, 117.1856)">
+<rect x="-0.0650" y="-5.8639" width="0.1300" height="5.8639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:42:5:6">
+<g transform="translate(48.3203, 112.2356)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(48.3853, 117.1856)">
+<rect x="-0.0650" y="-4.7639" width="0.1300" height="4.7639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:42:7:8">
+<g transform="translate(54.5465, 113.3356)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(32.7324, 117.3996)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.9802 -0.4380 3.9802 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:2:3">
+<g transform="translate(65.2631, 111.6856)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(67.0173, 111.1356)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(65.3281, 117.1856)">
+<rect x="-0.0650" y="-5.3139" width="0.1300" height="5.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:6:7">
+<g transform="translate(73.2521, 112.2356)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(73.3171, 117.1856)">
+<rect x="-0.0650" y="-4.7639" width="0.1300" height="4.7639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(73.3821, 117.1456)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:9:10">
+<g transform="translate(77.1423, 112.7856)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(77.2073, 117.1856)">
+<rect x="-0.0650" y="-4.2139" width="0.1300" height="4.2139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:43:12:13">
+<g transform="translate(83.6185, 113.3356)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(83.6835, 117.1856)">
+<rect x="-0.0650" y="-3.6639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(104.6935, 117.1856)">
+<rect x="-0.0650" y="-3.5910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:44:2:3">
+<g transform="translate(91.6760, 112.7856)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(91.7410, 117.1856)">
+<rect x="-0.0650" y="-4.2139" width="0.1300" height="4.2139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:44:7:8">
+<g transform="translate(104.6285, 113.3356)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:44:5:6">
+<g transform="translate(98.4022, 111.6856)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(98.4672, 117.1856)">
+<rect x="-0.0650" y="-5.3139" width="0.1300" height="5.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="97.3808" y="-0.1050" width="2.0660" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="89.1554" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 127.3513)">
+<rect x="83.0658" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="83.0658" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 127.3513)">
+<rect x="77.8603" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="77.8603" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="73.9134" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 127.3513)">
+<rect x="68.0739" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="68.0739" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 126.2513)">
+<rect x="64.3770" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 127.3513)">
+<rect x="64.3770" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="64.3770" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 126.2513)">
+<rect x="60.6802" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 127.3513)">
+<rect x="60.6802" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="60.6802" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 126.2513)">
+<rect x="54.5906" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 127.3513)">
+<rect x="54.5906" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="54.5906" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="47.0282" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 127.3513)">
+<rect x="41.1886" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="41.1886" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="37.4918" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 127.3513)">
+<rect x="30.0026" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="30.0026" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="16.6600" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 128.4513)">
+<rect x="5.4739" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 133.9513)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 132.8513)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 131.7513)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 130.6513)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 129.5513)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(111.9710, 131.2013)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(111.9710, 132.3013)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(113.2110, 131.7513)">
+<rect x="0.0000" y="-2.2000" width="0.6000" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(112.7210, 131.7513)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(87.4309, 131.7513)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(58.9557, 131.7513)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(34.3677, 131.7513)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 132.8513)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:94:2:3">
+<g transform="translate(9.4076, 127.0413)">
+<rect x="-0.3520" y="-0.1000" width="9.1032" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 123.9199)">
+<rect x="-0.3520" y="-0.1000" width="9.1032" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.0556, 126.0965)">
+<rect x="0" y="-2.1766" width="0.1000" height="3.0214" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(18.0588, 126.0965)">
+<rect x="0" y="-2.1766" width="0.1000" height="3.0214" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 126.0965)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>A (8va)</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(3.9151, 128.4774)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>29</tspan>
+</text>
+</g>
+<g transform="translate(95.1720, 131.7513)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.6369 -0.0100 4.6369 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:2:3">
+<g transform="translate(11.4906, 128.4513)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(13.2448, 127.9013)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(11.5556, 131.7513)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(79.9300, 131.9653)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.0369 -0.4380 4.0369 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:6:7">
+<g transform="translate(18.9797, 129.0013)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(19.0447, 131.7513)">
+<rect x="-0.0650" y="-2.5639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(19.1097, 132.8113)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(17.5297, 129.0013)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(66.6968, 131.7513)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.7869 -0.0100 3.7869 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:10:11">
+<g transform="translate(22.6766, 128.4513)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(22.7416, 131.7513)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:32:13:14">
+<g transform="translate(28.5161, 130.1013)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(28.5811, 131.7513)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:2:3">
+<g transform="translate(36.0192, 127.3513)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(37.7734, 126.8013)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(36.0842, 131.7513)">
+<rect x="-0.0650" y="-4.2139" width="0.1300" height="4.2139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:7:8">
+<g transform="translate(43.5084, 127.9013)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(43.5734, 131.7513)">
+<rect x="-0.0650" y="-3.6639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(43.6384, 131.7113)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:10:11">
+<g transform="translate(47.2052, 127.3513)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(47.2702, 131.7513)">
+<rect x="-0.0650" y="-4.2139" width="0.1300" height="4.2139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:33:13:14">
+<g transform="translate(53.0448, 128.4513)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(53.1098, 131.7513)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:2:3">
+<g transform="translate(60.6072, 126.2513)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(60.6722, 131.7513)">
+<rect x="-0.0650" y="-5.3139" width="0.1300" height="5.3139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:6:7">
+<g transform="translate(66.6968, 125.7013)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(66.7618, 131.7513)">
+<rect x="-0.0650" y="-5.8639" width="0.1300" height="5.8675" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:9:10">
+<g transform="translate(70.3936, 126.2513)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(70.4586, 131.7513)">
+<rect x="-0.0650" y="-5.3139" width="0.1300" height="5.5243" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:11:12">
+<g transform="translate(74.0905, 126.8013)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(74.1555, 131.7513)">
+<rect x="-0.0650" y="-4.7639" width="0.1300" height="4.7639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:14:15">
+<g transform="translate(79.9300, 127.9013)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(79.9950, 131.7513)">
+<rect x="-0.0650" y="-3.6639" width="0.1300" height="3.8745" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:34:17:18">
+<g transform="translate(83.8769, 126.8013)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(83.9419, 131.7513)">
+<rect x="-0.0650" y="-4.7639" width="0.1300" height="4.7673" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(103.4807, 131.7513)">
+<rect x="-0.0650" y="-3.0410" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:2:3">
+<g transform="translate(89.0824, 127.3513)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(89.1474, 131.7513)">
+<rect x="-0.0650" y="-4.2139" width="0.1300" height="4.2139" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:36:2:3">
+<g transform="translate(103.4157, 128.4513)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:5:6">
+<g transform="translate(95.1720, 127.9013)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(95.2370, 131.7513)">
+<rect x="-0.0650" y="-3.6639" width="0.1300" height="3.6669" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:35:8:9">
+<g transform="translate(99.7188, 129.0013)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(99.7838, 131.7513)">
+<rect x="-0.0650" y="-2.5639" width="0.1300" height="2.7749" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(98.2688, 129.0013)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 148.5169)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 147.4169)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 146.3169)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 145.2169)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 144.1169)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 146.3169)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(89.0750, 146.3169)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(57.5455, 146.3169)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(33.5148, 146.3169)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 147.4169)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:97:2:3">
+<g transform="translate(9.4076, 143.2669)">
+<rect x="-0.3520" y="-0.1000" width="2.5477" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 140.7437)">
+<rect x="-0.3520" y="-0.1000" width="2.5477" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.0556, 142.8730)">
+<rect x="0" y="-2.1292" width="0.1000" height="2.4232" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(11.5033, 142.8730)">
+<rect x="0" y="-2.1292" width="0.1000" height="2.4232" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 142.8730)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(3.9151, 143.0464)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>33</tspan>
+</text>
+</g>
+<g transform="translate(83.0047, 143.0169)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.6290 -0.0100 3.6290 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:49:2:3">
+<g transform="translate(11.4906, 146.8669)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(13.2448, 146.8669)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(12.7298, 146.3169)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(74.7756, 148.5169)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.6290 -0.0100 3.6290 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:49:6:7">
+<g transform="translate(18.5947, 146.3169)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(18.6597, 146.3169)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.5264" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(18.7247, 149.9894)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<g transform="translate(67.2516, 147.4169)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.6290 -0.0100 3.6290 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:49:9:10">
+<g transform="translate(22.1337, 145.7669)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(22.1987, 146.3169)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(60.1736, 148.5169)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.6290 -0.4380 3.6290 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:49:12:13">
+<g transform="translate(27.9075, 145.7669)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.9725, 146.3169)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:50:2:3">
+<g transform="translate(35.1279, 145.7669)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(35.1929, 146.3169)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:50:4:5">
+<g transform="translate(40.9017, 145.7669)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.9667, 146.3169)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:50:6:7">
+<g transform="translate(46.6755, 145.7669)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(48.4297, 145.7669)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(46.7405, 146.3169)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:50:10:11">
+<g transform="translate(54.0065, 144.6669)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(54.0715, 146.3169)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(54.1365, 148.4769)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:51:2:3">
+<g transform="translate(60.1736, 145.2169)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(60.2386, 146.3169)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.1101" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(58.7236, 145.2169)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:51:5:6">
+<g transform="translate(63.7126, 144.6669)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(63.7776, 146.3169)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.4537" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:51:7:8">
+<g transform="translate(67.2516, 144.1169)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(67.3166, 146.3169)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.1177" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:51:9:10">
+<g transform="translate(70.7906, 144.6669)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(70.8556, 146.3169)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="2.7741" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:51:11:12">
+<g transform="translate(74.7756, 145.2169)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(74.8406, 146.3169)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.1177" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(73.7296, 145.2169)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:51:13:14">
+<g transform="translate(78.3146, 145.7669)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(78.3796, 146.3169)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="2.7741" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:51:15:16">
+<g transform="translate(81.8305, 146.3169)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(83.0697, 146.3169)">
+<rect x="-0.0650" y="-3.2962" width="0.1300" height="3.1101" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:51:17:18">
+<g transform="translate(85.3695, 146.8669)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(86.6087, 146.3169)">
+<rect x="-0.0650" y="-3.0898" width="0.1300" height="3.4537" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(108.0430, 146.3169)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:52:9:10">
+<g transform="translate(107.9780, 146.3169)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:52:2:3">
+<g transform="translate(90.6567, 146.3169)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(90.7217, 146.3169)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:52:5:6">
+<g transform="translate(96.4304, 146.3169)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(96.4954, 146.3169)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:52:7:8">
+<g transform="translate(102.2042, 146.3169)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(102.2692, 146.3169)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 157.5825)">
+<rect x="96.5856" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 163.0825)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 161.9825)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 160.8825)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 159.7825)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 158.6825)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(113.6210, 160.8825)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(90.1217, 160.8825)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(59.2676, 160.8825)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(33.2597, 160.8825)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 161.9825)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:99:2:3">
+<g transform="translate(9.4076, 157.8325)">
+<rect x="-0.3520" y="-0.1000" width="2.7184" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 155.3933)">
+<rect x="-0.3520" y="-0.1000" width="2.7184" height="0.1000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.0556, 157.4806)">
+<rect x="0" y="-2.0873" width="0.1000" height="2.3393" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(11.6740, 157.4806)">
+<rect x="0" y="-2.0873" width="0.1000" height="2.3393" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(9.4076, 157.4806)">
+<text font-family="serif" font-size="2.7719" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(3.9151, 157.6087)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>37</tspan>
+</text>
+</g>
+<g transform="translate(83.2974, 164.1825)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.5854 -0.4380 3.5854 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:57:2:3">
+<g transform="translate(11.4906, 161.9825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(13.2448, 161.4325)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(12.7298, 160.8825)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(10.0406, 161.9825)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<g transform="translate(76.3067, 163.0825)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.5854 -0.0100 3.5854 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:57:7:8">
+<g transform="translate(18.4588, 161.4325)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(19.6980, 160.8825)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(19.7630, 157.6225)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(68.8700, 161.9825)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.5854 -0.0100 3.5854 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:57:11:12">
+<g transform="translate(22.0174, 160.8825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(22.0824, 160.8825)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(61.8792, 163.0825)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.5854 -0.4380 3.5854 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:57:14:15">
+<g transform="translate(27.7039, 160.8825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.7689, 160.8825)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:58:9:10">
+<g transform="translate(39.1704, 160.8825)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 1.3524C2.2864 2.1275 4.7043 2.1275 5.4865 1.3524L5.4865 1.3524C4.7043 2.0075 2.2864 2.0075 1.5042 1.3524z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:58:2:3">
+<g transform="translate(34.8250, 160.8825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(34.8900, 160.8825)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.5264" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(34.9550, 164.5550)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:58:5:6">
+<g transform="translate(39.1704, 161.9825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(40.4096, 160.8825)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(37.7204, 161.9825)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:58:11:12">
+<g transform="translate(44.8569, 161.9825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(46.0961, 160.8825)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(46.1611, 158.1725)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:58:15:16">
+<g transform="translate(48.3523, 163.0825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(50.1065, 162.5325)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(49.5915, 160.8825)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:58:19:20">
+<g transform="translate(55.7722, 159.2325)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(55.8372, 160.8825)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(55.9022, 163.0425)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:59:2:3">
+<g transform="translate(61.8792, 159.7825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(61.9442, 160.8825)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.1101" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(60.4292, 159.7825)">
+<path transform="scale(0.0040, -0.0040)" d="M0 119c0 8 5 15 13 18l46 17v158c0 10 8 19 18 19s19 -9 19 -19v-145l83 31v158c0 10 9 19 19 19s18 -9 18 -19v-145l32 12c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -16 -13 -19l-46 -16v-160l32 11c2 1 5 1 7 1c11 0 20 -9 20 -20v-60c0 -8 -5 -15 -13 -18l-46 -17
+v-158c0 -10 -8 -19 -18 -19s-19 9 -19 19v145l-83 -31v-158c0 -10 -9 -19 -19 -19s-18 9 -18 19v145l-32 -12c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60c0 8 5 16 13 19l46 16v160l-32 -11c-2 -1 -5 -1 -7 -1c-11 0 -20 9 -20 20v60zM179 95l-83 -30v-160l83 30v160z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:59:5:6">
+<g transform="translate(65.3746, 159.2325)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(65.4396, 160.8825)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="3.4537" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:59:7:8">
+<g transform="translate(68.8700, 158.6825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(68.9350, 160.8825)">
+<rect x="-0.0650" y="-2.0139" width="0.1300" height="3.1177" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:59:9:10">
+<g transform="translate(72.3653, 159.2325)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(72.4303, 160.8825)">
+<rect x="-0.0650" y="-1.4639" width="0.1300" height="2.7741" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:59:11:12">
+<g transform="translate(76.3067, 159.7825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(76.3717, 160.8825)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.1177" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(75.2607, 159.7825)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c8 4 17 7 25 7s16 -3 24 -7l-2 -183l106 20h3c10 0 18 -7 18 -17l7 -570c-8 -4 -17 -7 -25 -7s-16 3 -24 7l2 183l-106 -20h-3c-10 0 -18 7 -18 17zM131 112l-92 -17l-3 -207l92 17z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:59:13:14">
+<g transform="translate(79.8021, 160.3325)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(79.8671, 160.8825)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="2.7741" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:59:15:16">
+<g transform="translate(83.2974, 160.8825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(83.3624, 160.8825)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.1101" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:59:17:18">
+<g transform="translate(86.7928, 160.3325)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(86.8578, 160.8825)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.4537" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:60:2:3">
+<g transform="translate(91.5834, 161.4325)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(92.8226, 160.8825)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:60:10:11">
+<g transform="translate(108.2887, 160.8825)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:60:5:6">
+<g transform="translate(97.2699, 160.8825)">
+<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
+c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///Users/Marc/Projects/violin-music.github.io/tunes/Folk_Hungary/La-Rose-Jaune/La-Rose-Jaune.ly:60:7:8">
+<g transform="translate(102.6022, 157.5825)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(102.6672, 160.8825)">
+<rect x="-0.0650" y="-3.1139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+</svg>

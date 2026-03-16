@@ -1,0 +1,847 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0.0000 -0.0000 119.5016 169.0094">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(27.1269, 7.0530)">
+<text font-family="Optima" font-weight="bold" font-size="4.3999" text-anchor="start" fill="currentColor">
+<tspan>N</tspan>
+</text>
+</g>
+<g transform="translate(30.8143, 7.0530)">
+<text font-family="Optima" font-weight="bold" font-size="3.4923" text-anchor="start" fill="currentColor">
+<tspan>UMI</tspan>
+</text>
+</g>
+<g transform="translate(38.4283, 7.0530)">
+<text font-family="Optima" font-weight="bold" font-size="4.3999" text-anchor="start" fill="currentColor">
+<tspan> </tspan>
+</text>
+</g>
+<g transform="translate(39.9647, 7.0530)">
+<text font-family="Optima" font-weight="bold" font-size="3.4923" text-anchor="start" fill="currentColor">
+<tspan>NUMI</tspan>
+</text>
+</g>
+<g transform="translate(50.5150, 7.0530)">
+<text font-family="Optima" font-weight="bold" font-size="4.3999" text-anchor="start" fill="currentColor">
+<tspan> - H</tspan>
+</text>
+</g>
+<g transform="translate(59.0850, 7.0530)">
+<text font-family="Optima" font-weight="bold" font-size="3.4923" text-anchor="start" fill="currentColor">
+<tspan>EBREW</tspan>
+</text>
+</g>
+<g transform="translate(73.0837, 7.0530)">
+<text font-family="Optima" font-weight="bold" font-size="4.3999" text-anchor="start" fill="currentColor">
+<tspan> L</tspan>
+</text>
+</g>
+<g transform="translate(77.4199, 7.0530)">
+<text font-family="Optima" font-weight="bold" font-size="3.4923" text-anchor="start" fill="currentColor">
+<tspan>ULLABY</tspan>
+</text>
+</g>
+<g transform="translate(52.8197, 10.0530)">
+<text font-family="Optima" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Key: C minor</tspan>
+</text>
+</g>
+<g transform="translate(93.2909, 7.0530)">
+<text font-family="Optima" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan>Traditional Hebrew</tspan>
+</text>
+</g>
+<g transform="translate(5.6906, 25.0532)">
+<rect x="72.2576" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 25.0532)">
+<rect x="66.8462" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 25.0532)">
+<rect x="22.6859" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 25.0532)">
+<rect x="17.2745" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(11.3811, 23.9532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="102.3799" y2="0"/>
+</g>
+<g transform="translate(11.3811, 22.8532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="102.3799" y2="0"/>
+</g>
+<g transform="translate(11.3811, 21.7532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="102.3799" y2="0"/>
+</g>
+<g transform="translate(11.3811, 20.6532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="102.3799" y2="0"/>
+</g>
+<g transform="translate(11.3811, 19.5532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="102.3799" y2="0"/>
+</g>
+<g transform="translate(45.3886, 21.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(94.9961, 21.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(113.6210, 21.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(71.1344, 21.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:32:5:6">
+<g transform="translate(78.2742, 25.0532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(79.5134, 21.7532)">
+<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:32:7:8">
+<g transform="translate(83.9355, 23.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(85.1747, 21.7532)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(48.2913, 19.7672)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.8076 -0.6520 9.8076 -0.2040 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:31:16:17">
+<g transform="translate(60.0739, 23.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(61.3131, 21.7532)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:31:20:21">
+<g transform="translate(65.4852, 23.9532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(66.7244, 21.7532)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:32:2:3">
+<g transform="translate(72.8629, 25.0532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(74.1021, 21.7532)">
+<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:33:5:6">
+<g transform="translate(105.1114, 21.7532)">
+<path transform="scale(0.0040, -0.0040)" d="M365 0h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:31:4:5">
+<g transform="translate(47.1171, 21.7532)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.5793 2.7450C1.2870 3.6795 2.8421 3.9436 3.8185 3.2950L3.8185 3.2950C2.8621 3.8253 1.3071 3.5612 0.5793 2.7450z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:31:10:11">
+<g transform="translate(53.5955, 21.7532)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7034 2.7450C1.6409 3.4377 3.1936 3.2531 3.9426 2.3600L3.9426 2.3600C3.1795 3.1340 1.6267 3.3185 0.7034 2.7450z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:31:18:19">
+<g transform="translate(60.0739, 21.7532)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6081 2.7450C1.7409 4.0053 4.6563 4.3016 6.0195 3.2950L6.0195 3.2950C4.6685 4.1823 1.7530 3.8859 0.6081 2.7450z"/>
+</g>
+</a>
+<g transform="translate(90.5860, 21.7532)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:33:2:3">
+<g transform="translate(96.7245, 23.9532)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(98.0368, 21.7532)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:32:9:10">
+<g transform="translate(89.3468, 23.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:30:5:6">
+<g transform="translate(28.7025, 25.0532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(29.9417, 21.7532)">
+<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:30:7:8">
+<g transform="translate(34.3638, 22.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(35.6030, 21.7532)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:30:10:11">
+<g transform="translate(39.7751, 22.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(41.0143, 21.7532)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:31:2:3">
+<g transform="translate(47.1171, 23.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:21:2:3">
+<g transform="translate(19.5911, 18.1833)">
+<rect x="1.0449" y="-2.6727" width="0.1158" height="2.5129" ry="0.0193" fill="currentColor"/>
+</g>
+<g transform="translate(19.5911, 18.1833)">
+<path transform="scale(0.0036, -0.0036)" d="M215 137c67 0 111 -37 111 -92c0 -90 -111 -182 -215 -182c-67 0 -111 37 -111 92c0 90 111 182 215 182z" fill="currentColor"/>
+</g>
+<g transform="translate(20.7518, 18.6721)">
+<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
+<tspan> = 100</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:30:2:3">
+<g transform="translate(23.2911, 25.0532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(12.1811, 22.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/Numi-numi-Hebrew-Lullaby_%28Cm%29.ly:15:6:7">
+<g transform="translate(15.8011, 21.7532)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(16.7211, 20.1032)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(17.6411, 22.3032)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:19:2:3">
+<g transform="translate(19.5911, 21.7532)">
+<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
+c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(24.5304, 21.7532)">
+<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:31:6:7">
+<g transform="translate(50.3563, 23.9532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.5955, 21.7532)">
+<rect x="-0.0650" y="-2.1296" width="0.1300" height="4.1435" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(54.8347, 21.7532)">
+<rect x="-0.0650" y="-2.2704" width="0.1300" height="3.7343" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:31:9:10">
+<g transform="translate(53.5955, 23.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:31:12:13">
+<g transform="translate(56.8347, 22.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(58.0739, 21.7532)">
+<rect x="-0.0650" y="-2.4112" width="0.1300" height="3.3251" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(48.3563, 21.7532)">
+<rect x="-0.0650" y="-1.9888" width="0.1300" height="3.4527" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 39.9532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 38.8532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 37.7532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 36.6532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 35.5532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 41.0532)">
+<rect x="89.0156" y="-0.1050" width="2.0660" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.0532)">
+<rect x="68.8341" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.0532)">
+<rect x="62.9323" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.0532)">
+<rect x="15.1357" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 41.0532)">
+<rect x="9.2340" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(39.3098, 37.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(93.1921, 37.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(113.6210, 37.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(67.0905, 37.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:38:9:10">
+<g transform="translate(87.0761, 40.5032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:38:5:6">
+<g transform="translate(74.8507, 41.6032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(76.0899, 37.7532)">
+<rect x="-0.0650" y="-0.0000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:38:7:8">
+<g transform="translate(81.0024, 39.9532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(82.2416, 37.7532)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:37:16:17">
+<g transform="translate(55.0491, 39.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(42.3424, 35.7672)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.5007 -0.6520 10.5007 -0.2040 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<g transform="translate(56.2883, 37.7532)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:37:20:21">
+<g transform="translate(60.9509, 39.9532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(62.1901, 37.7532)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:38:2:3">
+<g transform="translate(68.9489, 41.6032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(70.1881, 37.7532)">
+<rect x="-0.0650" y="-0.0000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:39:5:6">
+<g transform="translate(104.2744, 37.7532)">
+<path transform="scale(0.0040, -0.0040)" d="M365 0h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:37:4:5">
+<g transform="translate(41.1681, 37.7532)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.5841 2.7450C1.3420 3.7202 3.0320 3.9881 4.0543 3.2950L4.0543 3.2950C3.0507 3.8695 1.3608 3.6017 0.5841 2.7450z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:37:10:11">
+<g transform="translate(48.1086, 37.7532)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7000 2.7450C1.6840 3.4816 3.3717 3.2943 4.1703 2.3600L4.1703 2.3600C3.3585 3.1751 1.6708 3.3623 0.7000 2.7450z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:37:18:19">
+<g transform="translate(55.0491, 37.7532)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6118 2.7450C1.8276 4.0630 5.0751 4.3656 6.5135 3.2950L6.5135 3.2950C5.0862 4.2461 1.8387 3.9435 0.6118 2.7450z"/>
+</g>
+</a>
+<g transform="translate(96.3629, 37.7532)">
+<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(85.9261, 40.5032)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:39:2:3">
+<g transform="translate(95.0505, 41.0532)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(88.3153, 37.7532)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:36:5:6">
+<g transform="translate(21.1523, 41.0532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(22.3915, 37.7532)">
+<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:36:7:8">
+<g transform="translate(27.3041, 38.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(28.5433, 37.7532)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:36:10:11">
+<g transform="translate(33.2058, 38.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(34.4450, 37.7532)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:37:2:3">
+<g transform="translate(41.1681, 39.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(6.4906, 38.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 37.7532)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 36.1032)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 38.3032)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(4.5638, 34.4785)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:36:2:3">
+<g transform="translate(15.2506, 41.0532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(16.4898, 37.7532)">
+<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:37:6:7">
+<g transform="translate(44.6384, 39.9532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(45.8776, 37.7532)">
+<rect x="-0.0650" y="-2.1295" width="0.1300" height="4.1434" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:37:9:10">
+<g transform="translate(48.1086, 39.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(49.3479, 37.7532)">
+<rect x="-0.0650" y="-2.2705" width="0.1300" height="3.7343" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(42.4074, 37.7532)">
+<rect x="-0.0650" y="-1.9886" width="0.1300" height="3.4525" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:37:12:13">
+<g transform="translate(51.5789, 38.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(52.8181, 37.7532)">
+<rect x="-0.0650" y="-2.4114" width="0.1300" height="3.3253" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 55.9532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 54.8532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 53.7532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 52.6532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 51.5532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 57.0532)">
+<rect x="100.9197" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 57.0532)">
+<rect x="25.3639" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 57.0532)">
+<rect x="17.6406" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(92.7618, 53.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(43.0977, 53.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(64.2663, 53.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(113.6210, 53.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:44:9:10">
+<g transform="translate(86.0534, 54.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:44:4:5">
+<g transform="translate(72.7910, 55.9532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(74.0303, 53.7532)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:44:6:7">
+<g transform="translate(79.5472, 54.3032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(80.7864, 53.7532)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:44:2:3">
+<g transform="translate(66.2849, 55.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(29.0497, 52.4392)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="11.3550 -0.8960 11.3550 -0.4480 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:43:6:7">
+<g transform="translate(57.5222, 55.9532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(58.7614, 53.7532)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(67.5241, 53.7532)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:45:6:7">
+<g transform="translate(106.9363, 57.0532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(108.1755, 53.7532)">
+<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(96.0927, 53.7532)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:45:2:3">
+<g transform="translate(94.7803, 55.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(96.6077, 55.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(87.2926, 53.7532)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:42:9:10">
+<g transform="translate(27.8754, 55.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:42:6:7">
+<g transform="translate(23.6572, 57.0532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(24.8964, 53.7532)">
+<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(24.9614, 53.2432)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(29.1147, 53.7532)">
+<rect x="-0.0650" y="-1.3178" width="0.1300" height="2.7817" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:42:11:12">
+<g transform="translate(31.3805, 57.0532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(32.6197, 53.7532)">
+<rect x="-0.0650" y="-1.5245" width="0.1300" height="4.6384" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 54.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 53.7532)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 52.1032)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 54.3032)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(4.5638, 50.4785)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>9</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:42:2:3">
+<g transform="translate(15.2506, 55.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(17.0048, 55.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(16.4898, 53.7532)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(46.9436, 55.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(40.3797, 53.7532)">
+<rect x="-0.0650" y="-1.9822" width="0.1300" height="2.8961" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:43:2:3">
+<g transform="translate(45.1163, 55.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(46.4286, 53.7532)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:42:13:14">
+<g transform="translate(35.3855, 55.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:42:15:16">
+<g transform="translate(39.1405, 54.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(36.6247, 53.7532)">
+<rect x="-0.0650" y="-1.7607" width="0.1300" height="3.2246" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 71.9532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 70.8532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 69.7532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 68.6532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 67.5532)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 73.0532)">
+<rect x="17.9811" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(65.9896, 69.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(95.4409, 69.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(113.6210, 69.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(44.0056, 69.7532)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:49:4:5">
+<g transform="translate(74.8190, 71.9532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(76.0582, 69.7532)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(60.2438, 69.7532)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(29.5036, 67.5532)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="11.6955 -0.4380 11.6955 0.0100 0.0400 0.2240 0.0400 -0.2240"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:48:6:7">
+<g transform="translate(59.0046, 71.9532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(69.3112, 69.7532)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:49:2:3">
+<g transform="translate(68.0720, 71.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(81.8684, 69.7532)">
+<rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:49:9:10">
+<g transform="translate(88.5274, 70.3032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(89.7666, 69.7532)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:49:6:7">
+<g transform="translate(81.8034, 69.7532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:50:2:3">
+<g transform="translate(98.5233, 70.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(25.3019, 69.2432)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(16.4898, 69.7532)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:47:6:7">
+<g transform="translate(23.9977, 73.0532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(25.2369, 69.7532)">
+<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(17.0048, 71.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:47:9:10">
+<g transform="translate(28.3294, 71.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(29.5686, 69.7532)">
+<rect x="-0.0650" y="-2.2012" width="0.1300" height="3.6651" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(6.4906, 70.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(10.1106, 69.7532)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.0306, 68.1032)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(11.9506, 70.3032)">
+<path transform="scale(0.0040, -0.0040)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+</g>
+<g transform="translate(3.4371, 66.4785)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>13</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:47:2:3">
+<g transform="translate(15.2506, 71.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:48:2:3">
+<g transform="translate(46.0880, 71.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:47:11:12">
+<g transform="translate(32.1979, 70.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(41.1741, 69.7532)">
+<rect x="-0.0650" y="-2.4128" width="0.1300" height="3.3267" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:47:17:18">
+<g transform="translate(39.9349, 70.8532)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(47.9153, 71.4032)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(47.4003, 69.7532)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(33.4371, 69.7532)">
+<rect x="-0.0650" y="-2.2717" width="0.1300" height="3.1856" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(37.3056, 69.7532)">
+<rect x="-0.0650" y="-2.3423" width="0.1300" height="2.7062" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Folk_Jewish/Numi-numi/./Numi-numi-Hebrew-Lullaby.ly:47:14:15">
+<g transform="translate(36.0664, 70.3032)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+</svg>
