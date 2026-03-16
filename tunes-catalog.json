@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 85,
+  "tune_count": 93,
   "tunes": [
     {
       "title": "Kreutzer Étude No. 2",
@@ -3804,6 +3804,335 @@
       ],
       "svg": "tunes/Marc-Mouries/Marc-Mouries-Spring-is-coming_page_1.svg",
       "midi": "tunes/Marc-Mouries/Marc-Mouries-Spring-is-coming.midi"
+    },
+    {
+      "title": "Color Purple",
+      "composer": "Quincy Jones",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Soundtrack",
+      "subgenre": "soundtrack",
+      "category": "Soundtrack",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Soundtrack",
+      "tune_folder": "Color-Purple",
+      "variants": [
+        {
+          "filename": "Color-Purple.ly",
+          "stem": "Color-Purple"
+        }
+      ],
+      "svg_files": [
+        "Color-Purple_page_1.svg",
+        "Color-Purple.svg"
+      ],
+      "midi_files": [
+        "Color-Purple.midi",
+        "Color-Purple.mid"
+      ],
+      "svg": "tunes/Soundtrack/Color-Purple_page_1.svg",
+      "midi": "tunes/Soundtrack/Color-Purple.midi"
+    },
+    {
+      "title": "In the Mood for Love",
+      "composer": "Shigeru Umebayashi",
+      "country": "Japan",
+      "country_flag": "🇯🇵",
+      "genre": "Soundtrack",
+      "subgenre": "soundtrack",
+      "category": "Soundtrack",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Soundtrack",
+      "tune_folder": "In-the-Mood-for-Love",
+      "variants": [
+        {
+          "filename": "In-the-Mood-for-Love_[Accompaniment].ly",
+          "stem": "In-the-Mood-for-Love_[Accompaniment]",
+          "arrangement": "Accompaniment"
+        },
+        {
+          "filename": "In-the-Mood-for-Love_[Practice].ly",
+          "stem": "In-the-Mood-for-Love_[Practice]",
+          "arrangement": "Practice"
+        },
+        {
+          "filename": "In-the-Mood-for-Love.ly",
+          "stem": "In-the-Mood-for-Love"
+        }
+      ],
+      "svg_files": [
+        "In-the-Mood-for-Love_[Practice]_page_1.svg",
+        "In-the-Mood-for-Love_page_1.svg",
+        "Yumejis_theme_Accompaniment_page_1.svg",
+        "In-the-Mood-for-Love_[Accompaniment]-2.svg",
+        "In-the-Mood-for-Love_[Accompaniment]-1.svg",
+        "In-the-Mood-for-Love.svg",
+        "In-the-Mood-for-Love_[Practice].svg"
+      ],
+      "midi_files": [
+        "In-the-Mood-for-Love-full.midi",
+        "In-the-Mood-for-Love_lily-full.midi",
+        "In-the-Mood-for-Love_lily-1.midi",
+        "In-the-Mood-for-Love_[Accompaniment].midi",
+        "in-the-mood-for-love_lily.midi",
+        "In-the-Mood-for-Love.midi",
+        "Yumejis_theme_Accompaniment.midi",
+        "In-the-Mood-for-Love_lily.mid"
+      ],
+      "svg": "tunes/Soundtrack/In-the-Mood-for-Love_%5BPractice%5D_page_1.svg",
+      "midi": "tunes/Soundtrack/In-the-Mood-for-Love-full.midi"
+    },
+    {
+      "title": "Love Story",
+      "composer": "Francis Lai",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Soundtrack",
+      "subgenre": "",
+      "category": "Soundtrack",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Soundtrack",
+      "tune_folder": "Love-Story",
+      "variants": [
+        {
+          "filename": "Love-Story.ly",
+          "stem": "Love-Story"
+        }
+      ],
+      "svg_files": [
+        "Love-Story_page_1.svg",
+        "Love-Story.svg"
+      ],
+      "midi_files": [
+        "Love-Story.midi"
+      ],
+      "svg": "tunes/Soundtrack/Love-Story_page_1.svg",
+      "midi": "tunes/Soundtrack/Love-Story.midi"
+    },
+    {
+      "title": "Tango Flambe",
+      "composer": "Novi Novog",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Soundtrack",
+      "subgenre": "tango",
+      "category": "Soundtrack",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Soundtrack",
+      "tune_folder": "Midnight-in-Paris_Tango-Flambe",
+      "variants": [
+        {
+          "filename": "Midnight-in-Paris_Tango-Flambe.ly",
+          "stem": "Midnight-in-Paris_Tango-Flambe"
+        }
+      ],
+      "svg_files": [
+        "Midnight-in-Paris_Tango-Flambe_page_1.svg",
+        "Midnight-in-Paris_Tango-Flambe-1.svg",
+        "Midnight-in-Paris_Tango-Flambe-2.svg"
+      ],
+      "midi_files": [
+        "Midnight-in-Paris_Tango-Flambe.midi"
+      ],
+      "svg": "tunes/Soundtrack/Midnight-in-Paris_Tango-Flambe_page_1.svg",
+      "midi": "tunes/Soundtrack/Midnight-in-Paris_Tango-Flambe.midi"
+    },
+    {
+      "title": "T'es Cap",
+      "composer": "Fiorenzo Carpi",
+      "country": "Italy",
+      "country_flag": "🇮🇹",
+      "genre": "Soundtrack",
+      "subgenre": "Soundtrack",
+      "category": "Soundtrack",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Soundtrack",
+      "tune_folder": "Pinocchio_T'es-Cap",
+      "variants": [
+        {
+          "filename": "Pinocchio_T'es-Cap.ly",
+          "stem": "Pinocchio_T'es-Cap"
+        }
+      ],
+      "svg_files": [
+        "Pinocchio_T'es-Cap.svg"
+      ],
+      "midi_files": [
+        "Pinocchio-T'es-Cap.midi",
+        "Pinocchio_T'es-Cap.midi"
+      ],
+      "svg": "tunes/Soundtrack/Pinocchio_T%27es-Cap.svg",
+      "midi": "tunes/Soundtrack/Pinocchio-T%27es-Cap.midi"
+    },
+    {
+      "title": "Schindler's List",
+      "composer": "John Williams",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Soundtrack",
+      "subgenre": "",
+      "category": "Soundtrack",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Soundtrack",
+      "tune_folder": "Schindlers_List",
+      "variants": [
+        {
+          "filename": "Schindlers_List_[Strings].ly",
+          "stem": "Schindlers_List_[Strings]",
+          "arrangement": "Strings"
+        },
+        {
+          "filename": "Schindlers_List_[Quartet].ly",
+          "stem": "Schindlers_List_[Quartet]",
+          "arrangement": "Quartet"
+        },
+        {
+          "filename": "Schindlers_List.ly",
+          "stem": "Schindlers_List"
+        }
+      ],
+      "svg_files": [
+        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_1.svg",
+        "Schindlers_List_Theme_Solo_Violin_page_1.svg",
+        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_2.svg",
+        "Schindler's-list-Quartet_page_1.svg",
+        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_4.svg",
+        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_5.svg",
+        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_3.svg",
+        "Schindlers_List.svg",
+        "Schindlers_List_[Strings]-5.svg",
+        "Schindlers_List_[Quartet]-4.svg",
+        "Schindlers_List_[Quartet]-2.svg",
+        "Schindlers_List_[Strings]-4.svg",
+        "Schindlers_List_[Quartet]-3.svg",
+        "Schindlers_List_[Strings]-1.svg",
+        "Schindlers_List_[Quartet]-1.svg",
+        "Schindlers_List_[Strings]-2.svg",
+        "Schindlers_List_[Strings]-3.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Soundtrack/Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_1.svg"
+    },
+    {
+      "title": "Sirba",
+      "composer": "Vladimir Cosma",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Soundtrack",
+      "subgenre": "",
+      "category": "Soundtrack",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Soundtrack",
+      "tune_folder": "Sirba_Grand-Blond_Cosma",
+      "variants": [
+        {
+          "filename": "Sirba_Grand-Blond_Cosma.ly",
+          "stem": "Sirba_Grand-Blond_Cosma"
+        }
+      ],
+      "svg_files": [
+        "Sirba_Cosma_[Violin]_page_1.svg",
+        "Sirba_Grand-Blond_Cosma.svg"
+      ],
+      "midi_files": [
+        "Sirba_Grand-Blond_Cosma.midi"
+      ],
+      "svg": "tunes/Soundtrack/Sirba_Cosma_%5BViolin%5D_page_1.svg",
+      "midi": "tunes/Soundtrack/Sirba_Grand-Blond_Cosma.midi"
+    },
+    {
+      "title": "Improvisations sur les folies d'Espagne",
+      "composer": "Marin Marais",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Soundtrack",
+      "subgenre": "",
+      "category": "Soundtrack",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Soundtrack",
+      "tune_folder": "Tous-les-matins-du-monde",
+      "variants": [
+        {
+          "filename": "Tous-les-matins-du-monde.ly",
+          "stem": "Tous-les-matins-du-monde"
+        }
+      ],
+      "svg_files": [
+        "tous-les-matins-du-monde_page_1.svg",
+        "Tous-les-matins-du-monde.svg"
+      ],
+      "midi_files": [
+        "tous-les-matins-du-monde.midi",
+        "Tous-les-matins-du-monde.midi",
+        "Tous-les-matins-du-monde-1.midi",
+        "tous-les-matins-du-monde-1.midi"
+      ],
+      "svg": "tunes/Soundtrack/tous-les-matins-du-monde_page_1.svg",
+      "midi": "tunes/Soundtrack/tous-les-matins-du-monde.midi"
     },
     {
       "title": "Wedding March",
