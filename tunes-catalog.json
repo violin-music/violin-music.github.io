@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 71,
+  "tune_count": 73,
   "tunes": [
     {
       "title": "L'Air Mignonne",
@@ -2973,14 +2973,101 @@
         }
       ],
       "svg_files": [
-        "Contraband-Police_page_1.svg",
-        "Contraband-Police.svg"
+        "Contraband-Police_page_1.svg"
       ],
       "midi_files": [
         "Contraband-Police.midi"
       ],
       "svg": "tunes/Games/Contraband-Police_page_1.svg",
       "midi": "tunes/Games/Contraband-Police.midi"
+    },
+    {
+      "title": "Spring is Coming",
+      "composer": "Marc Mouries",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Original",
+      "subgenre": "",
+      "category": "Marc-Mouries",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Marc-Mouries",
+      "tune_folder": "Spring-is-coming",
+      "variants": [
+        {
+          "filename": "Marc-Mouries-Spring-is-coming.ly",
+          "stem": "Marc-Mouries-Spring-is-coming"
+        }
+      ],
+      "svg_files": [
+        "Marc-Mouries-Spring-is-coming_page_1.svg",
+        "Marc-Mouries-Spring-is-coming.svg"
+      ],
+      "midi_files": [
+        "Marc-Mouries-Spring-is-coming.midi"
+      ],
+      "svg": "tunes/Marc-Mouries/Marc-Mouries-Spring-is-coming_page_1.svg",
+      "midi": "tunes/Marc-Mouries/Marc-Mouries-Spring-is-coming.midi"
+    },
+    {
+      "title": "Wedding March",
+      "composer": "Felix Mendelssohn",
+      "country": "Germany",
+      "country_flag": "🇩🇪",
+      "genre": "Classical",
+      "subgenre": "Romantic",
+      "category": "Wedding",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Wedding",
+      "tune_folder": "Mendelssohn_Wedding-March",
+      "variants": [
+        {
+          "filename": "Mendelssohn_Wedding-March-(For-Violin).ly",
+          "stem": "Mendelssohn_Wedding-March-(For-Violin)"
+        },
+        {
+          "filename": "Mendelssohn_Wedding-March-(For-Organ).ly",
+          "stem": "Mendelssohn_Wedding-March-(For-Organ)"
+        }
+      ],
+      "svg_files": [
+        "Mendelssohn_Wedding-March-(For-Violin)_page_1.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)_page_3.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)_page_6.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)_page_1.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)_page_4.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)_page_2.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)_page_5.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-6.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-5.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-1.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-3.svg",
+        "Mendelssohn_Wedding-March-(For-Violin).svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-4.svg",
+        "Mendelssohn_Wedding-March-(For-Organ)-2.svg"
+      ],
+      "midi_files": [
+        "Mendelssohn_Wedding-March-(For-Organ)-full.midi",
+        "Mendelssohn_Wedding-March-(For-Violin).midi",
+        "Mendelssohn_Wedding-March-(For-Organ).midi"
+      ],
+      "svg": "tunes/Wedding/Mendelssohn_Wedding-March-%28For-Violin%29_page_1.svg",
+      "midi": "tunes/Wedding/Mendelssohn_Wedding-March-%28For-Organ%29-full.midi"
     }
   ]
 }
