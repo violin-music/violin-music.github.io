@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 73,
+  "tune_count": 78,
   "tunes": [
     {
       "title": "L'Air Mignonne",
@@ -2982,6 +2982,198 @@
       "midi": "tunes/Games/Contraband-Police.midi"
     },
     {
+      "title": "Bésame Mucho",
+      "composer": "Consuelo Velázquez",
+      "country": "Mexico",
+      "country_flag": "🇲🇽",
+      "genre": "Latin",
+      "subgenre": "Bolero",
+      "category": "Latina",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Latina",
+      "tune_folder": "Besame-Mucho",
+      "variants": [
+        {
+          "filename": "Besame-Mucho_(Dm).ly",
+          "stem": "Besame-Mucho_(Dm)",
+          "key_variant": "Dm"
+        },
+        {
+          "filename": "Besame-Mucho.ly",
+          "stem": "Besame-Mucho"
+        },
+        {
+          "filename": "Besame-Mucho_(Am).ly",
+          "stem": "Besame-Mucho_(Am)",
+          "key_variant": "Am"
+        },
+        {
+          "filename": "Besame-Mucho_(Cm).ly",
+          "stem": "Besame-Mucho_(Cm)",
+          "key_variant": "Cm"
+        }
+      ],
+      "svg_files": [
+        "Besame-Mucho_(Am)_page_1.svg",
+        "Besame-Mucho_(Cm)_page_1.svg",
+        "Besame-Mucho_page_1.svg",
+        "Besame-Mucho_(Dm)_page_1.svg",
+        "Besame-Mucho_(Cm).svg",
+        "Besame-Mucho.svg",
+        "Besame-Mucho_(Dm).svg",
+        "Besame-Mucho_(Am).svg"
+      ],
+      "midi_files": [
+        "Besame-Mucho.midi",
+        "Besame-Mucho_(Dm).midi",
+        "Besame-Mucho-full.midi",
+        "Besame-Mucho_(Am).midi",
+        "Besame-Mucho_(Cm).midi"
+      ],
+      "svg": "tunes/Latina/Besame-Mucho_%28Am%29_page_1.svg",
+      "midi": "tunes/Latina/Besame-Mucho.midi"
+    },
+    {
+      "title": "La Partida",
+      "composer": "Traditional",
+      "country": "Venezuela",
+      "country_flag": "🌍",
+      "genre": "Latin",
+      "subgenre": "Valse",
+      "category": "Latina",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Latina",
+      "tune_folder": "La-Partida",
+      "variants": [],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Latino Chords",
+      "composer": "Marc Mouries",
+      "country": "Latin America",
+      "country_flag": "🌍",
+      "genre": "Latin",
+      "subgenre": "Study",
+      "category": "Latina",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Latina",
+      "tune_folder": "Latino-Chords",
+      "variants": [
+        {
+          "filename": "Latino-chords.ly",
+          "stem": "Latino-chords"
+        }
+      ],
+      "svg_files": [
+        "Latino-chords_page_1.svg",
+        "Latino-chords.svg"
+      ],
+      "midi_files": [
+        "Latino-chords.midi"
+      ],
+      "svg": "tunes/Latina/Latino-chords_page_1.svg",
+      "midi": "tunes/Latina/Latino-chords.midi"
+    },
+    {
+      "title": "Manhã De Carnaval",
+      "composer": "Luiz Bonfá",
+      "country": "Brazil",
+      "country_flag": "🇧🇷",
+      "genre": "Latin",
+      "subgenre": "Bossa Nova",
+      "category": "Latina",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Latina",
+      "tune_folder": "Manha-de-Carnaval",
+      "variants": [
+        {
+          "filename": "Manhã-De-Carnaval-(Gm)_Perlman.ly",
+          "stem": "Manhã-De-Carnaval-(Gm)_Perlman"
+        },
+        {
+          "filename": "Manhã-De-Carnaval-(Am).ly",
+          "stem": "Manhã-De-Carnaval-(Am)"
+        }
+      ],
+      "svg_files": [
+        "Manhã-De-Carnaval-(Am)_page_1.svg",
+        "Manhã-De-Carnaval-(Gm)_Perlman_page_1.svg"
+      ],
+      "midi_files": [
+        "Manhã-De-Carnaval-(Am).midi",
+        "Manhã-De-Carnaval-(Gm)_Perlman.midi"
+      ],
+      "svg": "tunes/Latina/Manh%C3%A3-De-Carnaval-%28Am%29_page_1.svg",
+      "midi": "tunes/Latina/Manh%C3%A3-De-Carnaval-%28Am%29.midi"
+    },
+    {
+      "title": "Quizás, quizás, quizás",
+      "composer": "Osvaldo Farres",
+      "country": "Cuba",
+      "country_flag": "🇨🇺",
+      "genre": "Latin",
+      "subgenre": "Bolero",
+      "category": "Latina",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Latina",
+      "tune_folder": "Quizas",
+      "variants": [
+        {
+          "filename": "Quizás-quizás-quizás.ly",
+          "stem": "Quizás-quizás-quizás"
+        }
+      ],
+      "svg_files": [
+        "Quizás-quizás-quizás_page_1.svg"
+      ],
+      "midi_files": [
+        "Quizás-quizás-quizás.midi"
+      ],
+      "svg": "tunes/Latina/Quiz%C3%A1s-quiz%C3%A1s-quiz%C3%A1s_page_1.svg",
+      "midi": "tunes/Latina/Quiz%C3%A1s-quiz%C3%A1s-quiz%C3%A1s.midi"
+    },
+    {
       "title": "Spring is Coming",
       "composer": "Marc Mouries",
       "country": "France",
@@ -3007,8 +3199,7 @@
         }
       ],
       "svg_files": [
-        "Marc-Mouries-Spring-is-coming_page_1.svg",
-        "Marc-Mouries-Spring-is-coming.svg"
+        "Marc-Mouries-Spring-is-coming_page_1.svg"
       ],
       "midi_files": [
         "Marc-Mouries-Spring-is-coming.midi"
@@ -3052,14 +3243,7 @@
         "Mendelssohn_Wedding-March-(For-Organ)_page_1.svg",
         "Mendelssohn_Wedding-March-(For-Organ)_page_4.svg",
         "Mendelssohn_Wedding-March-(For-Organ)_page_2.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)_page_5.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-6.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-5.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-1.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-3.svg",
-        "Mendelssohn_Wedding-March-(For-Violin).svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-4.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-2.svg"
+        "Mendelssohn_Wedding-March-(For-Organ)_page_5.svg"
       ],
       "midi_files": [
         "Mendelssohn_Wedding-March-(For-Organ)-full.midi",
