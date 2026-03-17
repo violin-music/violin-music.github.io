@@ -3551,14 +3551,13 @@
         }
       ],
       "svg_files": [
-        "Autumn-Leaves_2_page_1.svg",
         "Autumn-Leaves_1_page_1.svg",
         "Autumn-leaves.svg"
       ],
       "midi_files": [
         "Autumn-leaves.midi"
       ],
-      "svg": "tunes/Jazz/Autumn-Leaves_2_page_1.svg",
+      "svg": "tunes/Jazz/Autumn-Leaves_1_page_1.svg",
       "midi": "tunes/Jazz/Autumn-leaves.midi"
     },
     {
