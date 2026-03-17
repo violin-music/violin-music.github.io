@@ -938,13 +938,12 @@
         }
       ],
       "svg_files": [
-        "Qu-importe-les-soucis_page_1.svg",
         "Qu-importe-les-soucis.svg"
       ],
       "midi_files": [
         "Qu-importe-les-soucis.midi"
       ],
-      "svg": "tunes/Folk_Hungary/Qu-importe-les-soucis_page_1.svg",
+      "svg": "tunes/Folk_Hungary/Qu-importe-les-soucis.svg",
       "midi": "tunes/Folk_Hungary/Qu-importe-les-soucis.midi"
     },
     {
@@ -3835,15 +3834,13 @@
         }
       ],
       "svg_files": [
-        "Latino-chords_page_1.svg",
-        "Latino-Chords_page_1.svg",
         "Latino-Chords.svg"
       ],
       "midi_files": [
         "Latino-chords.midi",
         "Latino-Chords.midi"
       ],
-      "svg": "tunes/Latina/Latino-chords_page_1.svg",
+      "svg": "tunes/Latina/Latino-Chords.svg",
       "midi": "tunes/Latina/Latino-chords.midi"
     },
     {
