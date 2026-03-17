@@ -681,7 +681,7 @@
       "country_flag": "🌍",
       "genre": "Folk",
       "subgenre": "morna",
-      "category": "Folk/CapeVerde",
+      "category": "Folk/Cape Verde",
       "period": "",
       "type": "morna",
       "key": "",
@@ -718,7 +718,7 @@
       "country_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "genre": "Folk",
       "subgenre": "Renaissance",
-      "category": "Folk/England",
+      "category": "Folk/English",
       "period": "",
       "type": "Renaissance",
       "key": "",
@@ -775,10 +775,17 @@
         "Greensleeves_[Guitar-Vocal]-1.svg",
         "Greensleeves_[Landscape].svg",
         "Greensleeves_[Melody]-2.svg",
+        "greensleeves_[Guitar & Vocal]-1.svg",
         "Greensleeves_[Melody]-1.svg",
+        "greensleeves_[Guitar & Vocal]-2.svg",
         "Greensleeves_(Em).svg",
+        "greensleeves.svg",
         "Greensleeves_[Jig]-2.svg",
-        "Greensleeves_[Jig]-1.svg"
+        "greensleeves_melody-2.svg",
+        "Greensleeves_[Jig]-1.svg",
+        "greensleeves_melody-1.svg",
+        "greensleeves-(Em).svg",
+        "greensleeves_landscape.svg"
       ],
       "midi_files": [
         "greensleeves-(Em)-full.midi",
@@ -808,7 +815,7 @@
       "country_flag": "🇫🇮",
       "genre": "Folk",
       "subgenre": "",
-      "category": "Folk/Finland",
+      "category": "Folk/Finnish",
       "period": "",
       "type": "",
       "key": "",
@@ -860,7 +867,7 @@
       "country_flag": "🇫🇮",
       "genre": "Folk",
       "subgenre": "",
-      "category": "Folk/Finland",
+      "category": "Folk/Finnish",
       "period": "",
       "type": "",
       "key": "",
@@ -889,23 +896,22 @@
         }
       ],
       "svg_files": [
-        "Ievan_Polkka-from-Musescore_page_1.svg",
         "Ievan-polkka-(Dm)_page_1.svg",
         "Ievan-Polkka_page_1.svg",
         "Ievan-Polkka.svg",
         "Ievan-Polkka_(Dm).svg",
         "Ievan-Polkka_[MuseScore]-1.svg",
+        "Ievan-polkka-(Dm).svg",
         "Ievan-Polkka_[MuseScore]-2.svg"
       ],
       "midi_files": [
         "Ievan-polkka-(Dm).midi",
         "Ievan-Polkka.midi",
-        "Ievan_Polkka-from-Musescore.mid",
         "Ievan-Polkka.mid",
         "Ievan-Polkka_(Dm).midi",
         "Ievan-Polkka_[MuseScore].midi"
       ],
-      "svg": "tunes/Folk_Finland/Ievan_Polkka-from-Musescore_page_1.svg",
+      "svg": "tunes/Folk_Finland/Ievan-polkka-%28Dm%29_page_1.svg",
       "midi": "tunes/Folk_Finland/Ievan-polkka-%28Dm%29.midi"
     },
     {
@@ -1059,7 +1065,8 @@
         }
       ],
       "svg_files": [
-        "Jean-Petit-qui-Danse_page_1.svg"
+        "Jean-Petit-qui-Danse_page_1.svg",
+        "Jean-Petit-qui-Danse.svg"
       ],
       "midi_files": [
         "Jean-Petit-qui-Danse.midi"
@@ -1144,7 +1151,7 @@
       "country_flag": "🇩🇪",
       "genre": "Folk",
       "subgenre": "folk song",
-      "category": "Folk/Germany",
+      "category": "Folk/German",
       "period": "",
       "type": "folk song",
       "key": "",
@@ -1199,18 +1206,14 @@
         }
       ],
       "svg_files": [
-        "the-Basso-Gypsy-Duet-Preview_page_1.svg",
-        "the-Basso-Gypsy-Duet_page_1.svg",
         "Basso_[Duet]-2.svg",
         "Basso_[Duet]-1.svg"
       ],
       "midi_files": [
-        "the-Basso-Gypsy-Duet.midi",
-        "the-Basso-Gypsy-Duet-Preview.midi",
         "Basso_[Duet].midi"
       ],
-      "svg": "tunes/Folk_Hungary/the-Basso-Gypsy-Duet-Preview_page_1.svg",
-      "midi": "tunes/Folk_Hungary/the-Basso-Gypsy-Duet.midi"
+      "svg": "tunes/Folk_Hungary/Basso_%5BDuet%5D-2.svg",
+      "midi": "tunes/Folk_Hungary/Basso_%5BDuet%5D.midi"
     },
     {
       "title": "Bear Dance",
@@ -1385,19 +1388,15 @@
         }
       ],
       "svg_files": [
-        "Mori+Shej_2_page_1.svg",
-        "Mori+Shej_page_1.svg",
         "Mori-Shej_[v2].svg",
         "Mori-Shej.svg"
       ],
       "midi_files": [
-        "Mori+Shej_2.midi",
-        "Mori+Shej.midi",
         "Mori-Shej_[v2].midi",
         "Mori-Shej.midi"
       ],
-      "svg": "tunes/Folk_Hungary/Mori%2BShej_2_page_1.svg",
-      "midi": "tunes/Folk_Hungary/Mori%2BShej_2.midi"
+      "svg": "tunes/Folk_Hungary/Mori-Shej_%5Bv2%5D.svg",
+      "midi": "tunes/Folk_Hungary/Mori-Shej_%5Bv2%5D.midi"
     },
     {
       "title": "Qu'importe les soucis",
@@ -2279,7 +2278,7 @@
       "country_flag": "🇮🇹",
       "genre": "Folk",
       "subgenre": "",
-      "category": "Folk/Italy",
+      "category": "Folk/Italian",
       "period": "",
       "type": "",
       "key": "",
@@ -2319,21 +2318,23 @@
       ],
       "svg_files": [
         "bella-ciao_(Em)_page_1.svg",
-        "bella-ciao_page_1.svg",
-        "bella-ciao_(Am)_page_1.svg",
-        "bella-ciao_(Gm)_page_1.svg",
         "bella-ciao_(Gm)_range.svg",
+        "bella-ciao_page_1.svg",
         "bella-ciao_range.svg",
         "bella-ciao_(Am)_range.svg",
-        "bella-ciao_(Em)_range.svg"
+        "bella-ciao_(Am)_page_1.svg",
+        "bella-ciao_(Em)_range.svg",
+        "bella-ciao_(Gm)_page_1.svg",
+        "bella-ciao.svg",
+        "bella-ciao_(Gm).svg",
+        "bella-ciao_(Em).svg",
+        "bella-ciao_(Am).svg"
       ],
       "midi_files": [
         "bella-ciao.midi",
-        "Bella_Ciao-v2.midi",
         "bella-ciao_(Am).midi",
         "bella-ciao_(Gm).midi",
-        "bella-ciao_(Em).midi",
-        "Bella_Ciao-v2.mid"
+        "bella-ciao_(Em).midi"
       ],
       "svg": "tunes/Folk_Italy/bella-ciao_%28Em%29_page_1.svg",
       "midi": "tunes/Folk_Italy/bella-ciao.midi"
@@ -2384,10 +2385,6 @@
         }
       ],
       "svg_files": [
-        "Chosen_Kalle_Mazel_Tov_(Am)_page_1.svg",
-        "Chosen_Kalle_Mazel_Tov_(Gm)_page_1.svg",
-        "Chosen_Kalle_Mazel_Tov_(Em)_page_1.svg",
-        "Chosen_Kalle_Mazel_Tov_(Dm)_page_1.svg",
         "Chosen-Kalle-Mazel-Tov_(Em).svg",
         "Chosen-Kalle-Mazel-Tov_(Gm).svg",
         "Chosen-Kalle-Mazel-Tov.svg",
@@ -2395,23 +2392,14 @@
         "Chosen-Kalle-Mazel-Tov_(Dm).svg"
       ],
       "midi_files": [
-        "Chosen_Kalle_Mazel_Tov_(Dm).midi",
-        "Chosen_Kalle_Mazel_Tov.midi",
-        "Chosen_Kalle_Mazel_Tov-1-1.midi",
-        "Chosen_Kalle_Mazel_Tov-1.midi",
-        "Chosen_Kalle_Mazel_Tov-3.midi",
-        "Chosen_Kalle_Mazel_Tov_(Em).midi",
-        "Chosen_Kalle_Mazel_Tov_(Gm).midi",
-        "Chosen_Kalle_Mazel_Tov-2.midi",
-        "Chosen_Kalle_Mazel_Tov_(Am).midi",
         "Chosen-Kalle-Mazel-Tov.midi",
         "Chosen-Kalle-Mazel-Tov_(Dm).midi",
         "Chosen-Kalle-Mazel-Tov_(Am).midi",
         "Chosen-Kalle-Mazel-Tov_(Gm).midi",
         "Chosen-Kalle-Mazel-Tov_(Em).midi"
       ],
-      "svg": "tunes/Folk_Jewish/Chosen_Kalle_Mazel_Tov_%28Am%29_page_1.svg",
-      "midi": "tunes/Folk_Jewish/Chosen_Kalle_Mazel_Tov_%28Dm%29.midi"
+      "svg": "tunes/Folk_Jewish/Chosen-Kalle-Mazel-Tov_%28Em%29.svg",
+      "midi": "tunes/Folk_Jewish/Chosen-Kalle-Mazel-Tov.midi"
     },
     {
       "title": "Erev shel Shoshanim",
@@ -2538,10 +2526,15 @@
         }
       ],
       "svg_files": [
-        "hatikva_page_1.svg"
+        "hatikva_page_1.svg",
+        "hatikva-1.svg",
+        "hatikva-2.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Folk_Jewish/hatikva_page_1.svg"
+      "midi_files": [
+        "hatikva.midi"
+      ],
+      "svg": "tunes/Folk_Jewish/hatikva_page_1.svg",
+      "midi": "tunes/Folk_Jewish/hatikva.midi"
     },
     {
       "title": "Hevenu shalom aleichem",
@@ -2766,7 +2759,7 @@
       "country_flag": "🇳🇿",
       "genre": "Folk",
       "subgenre": "sea shanty",
-      "category": "Folk/NewZealand",
+      "category": "Folk/New Zealand",
       "period": "",
       "type": "sea shanty",
       "key": "",
@@ -2801,7 +2794,7 @@
       "country_flag": "🇷🇴",
       "genre": "Folk",
       "subgenre": "hora",
-      "category": "Folk/Romania",
+      "category": "Folk/Romanian",
       "period": "",
       "type": "hora",
       "key": "",
@@ -2836,7 +2829,7 @@
       "country_flag": "🇷🇺",
       "genre": "Folk",
       "subgenre": "",
-      "category": "Folk/Russia",
+      "category": "Folk/Russian",
       "period": "",
       "type": "",
       "key": "",
@@ -2871,7 +2864,7 @@
       "country_flag": "🇷🇺",
       "genre": "Folk",
       "subgenre": "gypsy folk",
-      "category": "Folk/Russia",
+      "category": "Folk/Russian",
       "period": "",
       "type": "gypsy folk",
       "key": "",
@@ -2906,7 +2899,7 @@
       "country_flag": "🇷🇺",
       "genre": "Folk",
       "subgenre": "",
-      "category": "Folk/Russia",
+      "category": "Folk/Russian",
       "period": "",
       "type": "",
       "key": "",
@@ -2959,7 +2952,7 @@
       "country_flag": "🇷🇺",
       "genre": "Folk",
       "subgenre": "",
-      "category": "Folk/Russia",
+      "category": "Folk/Russian",
       "period": "",
       "type": "",
       "key": "",
@@ -3047,7 +3040,7 @@
       "country_flag": "🇷🇺",
       "genre": "Folk",
       "subgenre": "",
-      "category": "Folk/Russia",
+      "category": "Folk/Russian",
       "period": "",
       "type": "",
       "key": "",
@@ -3091,25 +3084,13 @@
         }
       ],
       "svg_files": [
-        "korobeiniki_(Em)_page_1.svg",
-        "korobeiniki_(Dm)_page_1.svg",
-        "korobeiniki_page_1.svg",
-        "korobeiniki_(Fm)_page_1.svg",
-        "korobeiniki_(Am)_page_1.svg",
-        "korobeiniki_(Gm)_page_1.svg",
         "Korobeiniki-Tetris.svg"
       ],
       "midi_files": [
-        "korobeiniki_(Gm).midi",
-        "korobeiniki_(Em).midi",
-        "korobeiniki.midi",
-        "korobeiniki_(Am).midi",
-        "korobeiniki_(Fm).midi",
-        "korobeiniki_(Dm).midi",
         "Korobeiniki-Tetris.midi"
       ],
-      "svg": "tunes/Folk_Russia/korobeiniki_%28Em%29_page_1.svg",
-      "midi": "tunes/Folk_Russia/korobeiniki_%28Gm%29.midi"
+      "svg": "tunes/Folk_Russia/Korobeiniki-Tetris.svg",
+      "midi": "tunes/Folk_Russia/Korobeiniki-Tetris.midi"
     },
     {
       "title": "Moscow Nights",
@@ -3118,7 +3099,7 @@
       "country_flag": "🇷🇺",
       "genre": "Folk",
       "subgenre": "",
-      "category": "Folk/Russia",
+      "category": "Folk/Russian",
       "period": "",
       "type": "",
       "key": "",
@@ -3163,7 +3144,7 @@
       "country_flag": "🇷🇺",
       "genre": "Folk",
       "subgenre": "",
-      "category": "Folk/Russia",
+      "category": "Folk/Russian",
       "period": "",
       "type": "",
       "key": "",
@@ -3206,15 +3187,19 @@
         "Polyushko-Pole_(Dm)_page_1.svg",
         "Polyushko-Pole_page_1.svg",
         "Polyushko-Pole_(Gm)_page_1.svg",
-        "Polyushko-Pole_(Am)_page_1.svg"
+        "Polyushko-Pole_(Am)_page_1.svg",
+        "Polyushko-Pole.svg",
+        "Polyushko-Pole_(Dm).svg",
+        "Polyushko-Pole_(Am).svg",
+        "Polyushko-Pole_(Cm).svg",
+        "Polyushko-Pole_(Gm).svg"
       ],
       "midi_files": [
         "Polyushko-Pole_(Dm).midi",
         "Polyushko-Pole_(Am).midi",
         "Polyushko-Pole_(Cm).midi",
         "Polyushko-Pole_(Gm).midi",
-        "Polyushko-Pole.midi",
-        "zRef_knipper_cavalry_of_the_steppes_(c)pollen.mid"
+        "Polyushko-Pole.midi"
       ],
       "svg": "tunes/Folk_Russia/Polyushko-Pole_%28Cm%29_page_1.svg",
       "midi": "tunes/Folk_Russia/Polyushko-Pole_%28Dm%29.midi"
@@ -3226,7 +3211,7 @@
       "country_flag": "🇷🇺",
       "genre": "Folk",
       "subgenre": "",
-      "category": "Folk/Russia",
+      "category": "Folk/Russian",
       "period": "",
       "type": "",
       "key": "",
@@ -3277,7 +3262,7 @@
       "country_flag": "🌍",
       "genre": "Folk",
       "subgenre": "",
-      "category": "Folk/Russia",
+      "category": "Folk/Russian",
       "period": "",
       "type": "",
       "key": "",
@@ -4505,7 +4490,8 @@
         "Rythmes-Gitans-1.svg",
         "Practice-Gypsy-Rythmes-Gitans_page_1.svg",
         "Rythmes-Gitans-2.svg",
-        "Rythmes-Gitans_Daisy_page_1.svg"
+        "Rythmes-Gitans_Daisy_page_1.svg",
+        "rythmes-gitans.svg"
       ],
       "midi_files": [
         "Practice-Gypsy-Rythmes-Gitans.midi",
@@ -4559,6 +4545,7 @@
         "Si-Tu-Savais-1.midi",
         "Si-Tu-Savais.mid",
         "Si-Tu-Savais-full.midi",
+        "Si-tu-savais-copy.midi",
         "Si-Tu-Savais.midi"
       ],
       "svg": "tunes/Gypsy-Jazz/Si-Tu-Savais.svg",
@@ -4774,6 +4761,7 @@
       ],
       "svg_files": [
         "Autumn-Leaves_1_page_1.svg",
+        "Autumn-Leaves_1.svg",
         "Autumn-leaves.svg"
       ],
       "midi_files": [
@@ -4914,15 +4902,13 @@
         }
       ],
       "svg_files": [
-        "on_the_sunny_side_of_the_street_page_1.svg",
         "On-the-Sunny-Side-of-the-Street.svg"
       ],
       "midi_files": [
-        "on_the_sunny_side_of_the_street.midi",
         "On-the-Sunny-Side-of-the-Street.midi"
       ],
-      "svg": "tunes/Jazz/on_the_sunny_side_of_the_street_page_1.svg",
-      "midi": "tunes/Jazz/on_the_sunny_side_of_the_street.midi"
+      "svg": "tunes/Jazz/On-the-Sunny-Side-of-the-Street.svg",
+      "midi": "tunes/Jazz/On-the-Sunny-Side-of-the-Street.midi"
     },
     {
       "title": "Summertime",
@@ -4976,7 +4962,7 @@
       "country_flag": "🇲🇽",
       "genre": "Latin",
       "subgenre": "Bolero",
-      "category": "Latina",
+      "category": "Latin",
       "period": "",
       "type": "",
       "key": "",
@@ -5036,7 +5022,7 @@
       "country_flag": "🌍",
       "genre": "Latin",
       "subgenre": "Study",
-      "category": "Latina",
+      "category": "Latin",
       "period": "",
       "type": "",
       "key": "",
@@ -5071,7 +5057,7 @@
       "country_flag": "🇧🇷",
       "genre": "Latin",
       "subgenre": "Bossa Nova",
-      "category": "Latina",
+      "category": "Latin",
       "period": "",
       "type": "",
       "key": "",
@@ -5096,20 +5082,16 @@
         }
       ],
       "svg_files": [
-        "Manhã-De-Carnaval-(Gm)_Perlman_page_1.svg",
-        "Manhã-De-Carnaval-(Am)_page_1.svg",
         "Manha-de-Carnaval_(Am).svg",
         "Manha-de-Carnaval_(Gm)_[Perlman]-1.svg",
         "Manha-de-Carnaval_(Gm)_[Perlman]-2.svg"
       ],
       "midi_files": [
-        "Manhã-De-Carnaval-(Am).midi",
-        "Manhã-De-Carnaval-(Gm)_Perlman.midi",
         "Manha-de-Carnaval_(Gm)_[Perlman].midi",
         "Manha-de-Carnaval_(Am).midi"
       ],
-      "svg": "tunes/Latina/Manh%C3%A3-De-Carnaval-%28Gm%29_Perlman_page_1.svg",
-      "midi": "tunes/Latina/Manh%C3%A3-De-Carnaval-%28Am%29.midi"
+      "svg": "tunes/Latina/Manha-de-Carnaval_%28Am%29.svg",
+      "midi": "tunes/Latina/Manha-de-Carnaval_%28Gm%29_%5BPerlman%5D.midi"
     },
     {
       "title": "Quizás, quizás, quizás",
@@ -5118,7 +5100,7 @@
       "country_flag": "🇨🇺",
       "genre": "Latin",
       "subgenre": "Bolero",
-      "category": "Latina",
+      "category": "Latin",
       "period": "",
       "type": "",
       "key": "",
@@ -5137,15 +5119,13 @@
         }
       ],
       "svg_files": [
-        "Quizás-quizás-quizás_page_1.svg",
         "Quizas-Quizas-Quizas.svg"
       ],
       "midi_files": [
-        "Quizás-quizás-quizás.midi",
         "Quizas-Quizas-Quizas.midi"
       ],
-      "svg": "tunes/Latina/Quiz%C3%A1s-quiz%C3%A1s-quiz%C3%A1s_page_1.svg",
-      "midi": "tunes/Latina/Quiz%C3%A1s-quiz%C3%A1s-quiz%C3%A1s.midi"
+      "svg": "tunes/Latina/Quizas-Quizas-Quizas.svg",
+      "midi": "tunes/Latina/Quizas-Quizas-Quizas.midi"
     },
     {
       "title": "Spring is Coming",
@@ -5154,7 +5134,7 @@
       "country_flag": "🇫🇷",
       "genre": "Original",
       "subgenre": "",
-      "category": "Marc-Mouries",
+      "category": "Original",
       "period": "",
       "type": "",
       "key": "",
@@ -5173,15 +5153,13 @@
         }
       ],
       "svg_files": [
-        "Marc-Mouries-Spring-is-coming_page_1.svg",
         "Spring-is-coming.svg"
       ],
       "midi_files": [
-        "Marc-Mouries-Spring-is-coming.midi",
         "Spring-is-coming.midi"
       ],
-      "svg": "tunes/Marc-Mouries/Marc-Mouries-Spring-is-coming_page_1.svg",
-      "midi": "tunes/Marc-Mouries/Marc-Mouries-Spring-is-coming.midi"
+      "svg": "tunes/Marc-Mouries/Spring-is-coming.svg",
+      "midi": "tunes/Marc-Mouries/Spring-is-coming.midi"
     },
     {
       "title": "Can't Help Falling in Love",
@@ -5756,7 +5734,6 @@
       ],
       "svg_files": [
         "In-the-Mood-for-Love_page_1.svg",
-        "Yumejis_theme_Accompaniment_page_1.svg",
         "In-the-Mood-for-Love_[Practice]_page_1.svg",
         "In-the-Mood-for-Love_[Accompaniment]-1.svg",
         "In-the-Mood-for-Love_[Accompaniment]-2.svg",
@@ -5768,7 +5745,6 @@
         "In-the-Mood-for-Love_lily-1.midi",
         "In-the-Mood-for-Love-full.midi",
         "in-the-mood-for-love_lily.midi",
-        "Yumejis_theme_Accompaniment.midi",
         "In-the-Mood-for-Love_lily-full.midi",
         "In-the-Mood-for-Love_lily.mid",
         "In-the-Mood-for-Love_[Accompaniment].midi"
@@ -5876,8 +5852,7 @@
         "Pinocchio_T'es-Cap.svg"
       ],
       "midi_files": [
-        "Pinocchio_T'es-Cap.midi",
-        "Pinocchio-T'es-Cap.midi"
+        "Pinocchio_T'es-Cap.midi"
       ],
       "svg": "tunes/Soundtrack/Pinocchio_T%27es-Cap.svg",
       "midi": "tunes/Soundtrack/Pinocchio_T%27es-Cap.midi"
@@ -5923,7 +5898,6 @@
         "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_3.svg",
         "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_4.svg",
         "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_5.svg",
-        "Schindler's-list-Quartet_page_1.svg",
         "Schindlers_List_Theme_Solo_Violin_page_1.svg",
         "Schindlers_List_[Quartet]-2.svg",
         "Schindlers_List_[Quartet]-3.svg",
@@ -5968,13 +5942,12 @@
         }
       ],
       "svg_files": [
-        "Sirba_Cosma_[Violin]_page_1.svg",
         "Sirba_Grand-Blond_Cosma.svg"
       ],
       "midi_files": [
         "Sirba_Grand-Blond_Cosma.midi"
       ],
-      "svg": "tunes/Soundtrack/Sirba_Cosma_%5BViolin%5D_page_1.svg",
+      "svg": "tunes/Soundtrack/Sirba_Grand-Blond_Cosma.svg",
       "midi": "tunes/Soundtrack/Sirba_Grand-Blond_Cosma.midi"
     },
     {
@@ -6003,10 +5976,15 @@
         }
       ],
       "svg_files": [
-        "Tous-les-matins-du-monde.svg"
+        "Tous-les-matins-du-monde.svg",
+        "tous-les-matins-du-monde_page_1.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Soundtrack/Tous-les-matins-du-monde.svg"
+      "midi_files": [
+        "tous-les-matins-du-monde.midi",
+        "tous-les-matins-du-monde-1.midi"
+      ],
+      "svg": "tunes/Soundtrack/Tous-les-matins-du-monde.svg",
+      "midi": "tunes/Soundtrack/tous-les-matins-du-monde.midi"
     },
     {
       "title": "Wedding March",
