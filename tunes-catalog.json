@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 137,
+  "tune_count": 144,
   "tunes": [
     {
       "title": "Carol of the Bells",
@@ -52,8 +52,31 @@
           "key_variant": "Am"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Carol-of-the-bells_Violin_(Gm)_page_1.svg",
+        "Carol-of-the-bells_SATB_page_2.svg",
+        "Carol-of-the-bells_SATB_page_3.svg",
+        "Carol-of-the-bells_SATB_page_1.svg",
+        "Carol-of-the-bells_SATB_page_4.svg",
+        "Carol-of-the-bells_SATB_page_5.svg",
+        "Carol-of-the-bells_Violin_(Am)_page_1.svg",
+        "Carol-of-the-bells_SATB_page_7.svg",
+        "Carol-of-the-bells_SATB_page_6.svg",
+        "Practice-Carol-of-the-Bells_page_1.svg",
+        "Carol-of-the-bells_Violin_(Dm)_page_1.svg",
+        "Carol-of-the-bells_Violin_(Em)_page_1.svg"
+      ],
+      "midi_files": [
+        "Carol-of-the-bells_Violin_(Dm).midi",
+        "Carol-of-the-bells_SATB.midi",
+        "Carol-of-the-bells_SATB-full.midi",
+        "Practice-Carol-of-the-Bells.midi",
+        "Carol-of-the-bells_Violin_(Em).midi",
+        "Carol-of-the-bells_Violin_(Gm).midi",
+        "Carol-of-the-bells_Violin_(Am).midi"
+      ],
+      "svg": "tunes/Christmas/Carol-of-the-bells_Violin_%28Gm%29_page_1.svg",
+      "midi": "tunes/Christmas/Carol-of-the-bells_Violin_%28Dm%29.midi"
     },
     {
       "title": "Deck the Halls",
@@ -80,8 +103,14 @@
           "stem": "Deck-the-halls"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Deck-the-halls_page_1.svg"
+      ],
+      "midi_files": [
+        "Deck-the-halls.midi"
+      ],
+      "svg": "tunes/Christmas/Deck-the-halls_page_1.svg",
+      "midi": "tunes/Christmas/Deck-the-halls.midi"
     },
     {
       "title": "The First Noel",
@@ -108,8 +137,14 @@
           "stem": "first-noel_A"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "first-noel_A_page_1.svg"
+      ],
+      "midi_files": [
+        "first-noel_A.midi"
+      ],
+      "svg": "tunes/Christmas/first-noel_A_page_1.svg",
+      "midi": "tunes/Christmas/first-noel_A.midi"
     },
     {
       "title": "I Saw Three Ships",
@@ -136,8 +171,14 @@
           "stem": "I-Saw-Three-Ships"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "I-Saw-Three-Ships_page_1.svg"
+      ],
+      "midi_files": [
+        "I-Saw-Three-Ships.midi"
+      ],
+      "svg": "tunes/Christmas/I-Saw-Three-Ships_page_1.svg",
+      "midi": "tunes/Christmas/I-Saw-Three-Ships.midi"
     },
     {
       "title": "Jingle Bells",
@@ -164,8 +205,11 @@
           "stem": "Jingle-Bells"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Jingle-Bells_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Christmas/Jingle-Bells_page_1.svg"
     },
     {
       "title": "Joy to the World",
@@ -192,8 +236,14 @@
           "stem": "Joy_to_the_World_-_Organ"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Joy_to_the_World_-_Organ_page_1.svg"
+      ],
+      "midi_files": [
+        "Joy_to_the_World_-_Organ.midi"
+      ],
+      "svg": "tunes/Christmas/Joy_to_the_World_-_Organ_page_1.svg",
+      "midi": "tunes/Christmas/Joy_to_the_World_-_Organ.midi"
     },
     {
       "title": "Let It Snow, Let It Snow, Let It Snow!",
@@ -226,8 +276,16 @@
           "key_variant": "G"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Let-It-Snow_(G)_page_1.svg",
+        "Let-It-Snow_(F)_page_1.svg"
+      ],
+      "midi_files": [
+        "Let-It-Snow_(G).midi",
+        "Let-It-Snow_(F).midi"
+      ],
+      "svg": "tunes/Christmas/Let-It-Snow_%28G%29_page_1.svg",
+      "midi": "tunes/Christmas/Let-It-Snow_%28G%29.midi"
     },
     {
       "title": "O Holy Night",
@@ -254,8 +312,14 @@
           "stem": "O-Holy-Night"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "O-Holy-Night_page_1.svg"
+      ],
+      "midi_files": [
+        "O-Holy-Night.midi"
+      ],
+      "svg": "tunes/Christmas/O-Holy-Night_page_1.svg",
+      "midi": "tunes/Christmas/O-Holy-Night.midi"
     },
     {
       "title": "Petit Papa Noël",
@@ -282,8 +346,11 @@
           "stem": "Petit-Papa-Noel"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Petit-Papa-Noel_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Christmas/Petit-Papa-Noel_page_1.svg"
     },
     {
       "title": "Silent Night",
@@ -330,8 +397,23 @@
           "stem": "Silent-Night"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Silent-Night_(E)_page_1.svg",
+        "Silent-Night_page_1.svg",
+        "Silent-Night_(D)_page_1.svg",
+        "Silent-Night_range.svg",
+        "Silent-Night_(A)_page_1.svg",
+        "Silent-Night_(G)_page_1.svg"
+      ],
+      "midi_files": [
+        "Silent-Night.midi",
+        "Silent-Night_(D).midi",
+        "Silent-Night_(A).midi",
+        "Silent-Night_(G).midi",
+        "Silent-Night_(E).midi"
+      ],
+      "svg": "tunes/Christmas/Silent-Night_%28E%29_page_1.svg",
+      "midi": "tunes/Christmas/Silent-Night.midi"
     },
     {
       "title": "The First Noel",
@@ -362,8 +444,15 @@
           "stem": "The-First-Noel"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "The-First-Noel_Duet_page_1.svg",
+        "The-First-Noel_page_1.svg"
+      ],
+      "midi_files": [
+        "The-First-Noel.midi"
+      ],
+      "svg": "tunes/Christmas/The-First-Noel_Duet_page_1.svg",
+      "midi": "tunes/Christmas/The-First-Noel.midi"
     },
     {
       "title": "We Wish You a Merry Christmas",
@@ -390,8 +479,14 @@
           "stem": "We-Wish-You-a-Merry-Christmas"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "We-Wish-You-a-Merry-Christmas_page_1.svg"
+      ],
+      "midi_files": [
+        "We-Wish-You-a-Merry-Christmas.midi"
+      ],
+      "svg": "tunes/Christmas/We-Wish-You-a-Merry-Christmas_page_1.svg",
+      "midi": "tunes/Christmas/We-Wish-You-a-Merry-Christmas.midi"
     },
     {
       "title": "Kreutzer Étude No. 2",
@@ -446,7 +541,9 @@
         "Kreutzer_Etude-No.-2.svg",
         "Kreutzer_Etude-No.-2_[Practice].svg",
         "Kreutzer_Etude-No.-2_[Shifting].svg",
-        "Kreutzer_Etude-No.-2_(A).svg"
+        "Kreutzer_Etude-No.-2_(A).svg",
+        "Position-Markup-Styles-Comparison-1.svg",
+        "Position-Markup-Styles-Comparison-2.svg"
       ],
       "midi_files": [
         "Kreutzer_Etude-No.-2.midi"
@@ -3873,8 +3970,11 @@
           "stem": "Bistro_Fada.xml"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Bistro_Fada.xml_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Gypsy-Jazz/Bistro_Fada.xml_page_1.svg"
     },
     {
       "title": "Blue Lou",
@@ -3909,8 +4009,18 @@
           "stem": "Blue_Lou_Licks"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Blue_Lou_Marc_page_1.svg",
+        "Blue-Lou_Chords_page_1.svg",
+        "Blue_Lou_Licks_page_1.svg"
+      ],
+      "midi_files": [
+        "Blue_Lou_Licks.midi",
+        "Blue-Lou_Chords.midi",
+        "Blue_Lou_Marc.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Blue_Lou_Marc_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/Blue_Lou_Licks.midi"
     },
     {
       "title": "Blues en Mineur",
@@ -3945,8 +4055,16 @@
           "stem": "Blues-en-Mineur-Serge-Krief"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Blues-en-Mineur_page_1.svg",
+        "Blues-en-Mineur-Serge-Krief_page_1.svg",
+        "Blues-en-Mineur_Chords_Arpeggios_page_1.svg"
+      ],
+      "midi_files": [
+        "Blues-en-Mineur.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Blues-en-Mineur_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/Blues-en-Mineur.midi"
     },
     {
       "title": "Chicago",
@@ -3973,8 +4091,14 @@
           "stem": "Chicago-Grappelli"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Chicago-Grappelli_page_1.svg"
+      ],
+      "midi_files": [
+        "Chicago-Grappelli.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Chicago-Grappelli_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/Chicago-Grappelli.midi"
     },
     {
       "title": "Daphné",
@@ -4001,8 +4125,14 @@
           "stem": "Daphne-Grappelli+Taylor"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Daphne-Grappelli+Taylor_page_1.svg"
+      ],
+      "midi_files": [
+        "Daphne-Grappelli+Taylor.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Daphne-Grappelli%2BTaylor_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/Daphne-Grappelli%2BTaylor.midi"
     },
     {
       "title": "Indifférence",
@@ -4022,7 +4152,7 @@
       "session_friendliness": "",
       "notes": "",
       "genre_folder": "Gypsy-Jazz",
-      "tune_folder": "Indifférence_Valse_Musette",
+      "tune_folder": "Indifférence_Valse_Musette",
       "variants": [
         {
           "filename": "Indifférence.ly",
@@ -4034,8 +4164,14 @@
           "arrangement": "Practice"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Indifférence_page_1.svg"
+      ],
+      "midi_files": [
+        "Indifférence.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Indiff%C3%A9rence_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/Indiff%C3%A9rence.midi"
     },
     {
       "title": "J'attendrai",
@@ -4063,7 +4199,11 @@
         }
       ],
       "svg_files": [],
-      "midi_files": []
+      "midi_files": [
+        "J'attendrai_Grappelli.mid",
+        "J'attendrai_Grappelli.midi"
+      ],
+      "midi": "tunes/Gypsy-Jazz/J%27attendrai_Grappelli.mid"
     },
     {
       "title": "Je Cherche Après Titine",
@@ -4105,8 +4245,19 @@
           "arrangement": "Henri-Crolla"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Je-Cherche-Apres-Titine_[Melody]_page_1.svg",
+        "Je-Cherche-Apres-Titine_[Henri-Crolla]_page_1.svg",
+        "Je-Cherche-Apres-Titine_[Henri-Crolla]_page_2.svg",
+        "Je cherche_page_1.svg"
+      ],
+      "midi_files": [
+        "Je-Cherche-Apres-Titine_[Henri-Crolla].midi",
+        "Je cherche.midi",
+        "Je-Cherche-Apres-Titine_[Quartet].midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Je-Cherche-Apres-Titine_%5BMelody%5D_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/Je-Cherche-Apres-Titine_%5BHenri-Crolla%5D.midi"
     },
     {
       "title": "Licks from Grappelli",
@@ -4161,8 +4312,11 @@
           "stem": "Licks-from-Tchavolo- Schmitt"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Licks-from-Tchavolo- Schmitt_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Gypsy-Jazz/Licks-from-Tchavolo-%20Schmitt_page_1.svg"
     },
     {
       "title": "Minor Swing",
@@ -4190,8 +4344,17 @@
           "arrangement": "Christiaan van Hemert"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Minor-Swing_[Christiaan van Hemert]_page_2.svg",
+        "Minor-Swing_[Christiaan van Hemert]_page_3.svg",
+        "Minor-Swing_[Christiaan van Hemert]_page_1.svg",
+        "Minor-Swing-van-Hemert_page_1.svg"
+      ],
+      "midi_files": [
+        "Minor-Swing-van-Hemert.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Minor-Swing_%5BChristiaan%20van%20Hemert%5D_page_2.svg",
+      "midi": "tunes/Gypsy-Jazz/Minor-Swing-van-Hemert.midi"
     },
     {
       "title": "Nine by Nine",
@@ -4218,8 +4381,14 @@
           "stem": "Nine-by-Nine"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Nine-by-Nine_page_1.svg"
+      ],
+      "midi_files": [
+        "Nine-by-Nine.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Nine-by-Nine_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/Nine-by-Nine.midi"
     },
     {
       "title": "Nuages",
@@ -4246,8 +4415,14 @@
           "stem": "Nuages"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Nuages_page_1.svg"
+      ],
+      "midi_files": [
+        "Nuages.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Nuages_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/Nuages.midi"
     },
     {
       "title": "Rythmes Gitans",
@@ -4282,8 +4457,18 @@
           "stem": "Practice-Gypsy-Rythmes-Gitans"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Rythmes-Gitans_page_1.svg",
+        "Practice-Gypsy-Rythmes-Gitans_page_1.svg",
+        "Rythmes-Gitans_Daisy_page_1.svg"
+      ],
+      "midi_files": [
+        "Practice-Gypsy-Rythmes-Gitans.midi",
+        "Rythmes-Gitans_Daisy.midi",
+        "Rythmes-Gitans.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Rythmes-Gitans_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/Practice-Gypsy-Rythmes-Gitans.midi"
     },
     {
       "title": "Si Tu Savais",
@@ -4318,8 +4503,19 @@
           "stem": "Si-Tu-Savais"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Si-tu-savais-copy-Marc’s-iMac_page_1.svg",
+        "Si-tu-savais-(Cm)_page_1.svg",
+        "Si-Tu-Savais_page_1.svg"
+      ],
+      "midi_files": [
+        "Si-Tu-Savais-1.midi",
+        "Si-Tu-Savais.mid",
+        "Si-Tu-Savais-full.midi",
+        "Si-Tu-Savais.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Si-tu-savais-copy-Marc%E2%80%99s-iMac_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/Si-Tu-Savais-1.midi"
     },
     {
       "title": "Style Musette",
@@ -4346,8 +4542,11 @@
           "stem": "Style-Musette"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Style-Musette_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Gypsy-Jazz/Style-Musette_page_1.svg"
     },
     {
       "title": "Swing Licks",
@@ -4374,8 +4573,15 @@
           "stem": "licks_Swing"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "licks_Swing_page_1.svg"
+      ],
+      "midi_files": [
+        "licks_Swing.midi",
+        "licks_Swing-1.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/licks_Swing_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/licks_Swing.midi"
     },
     {
       "title": "Tchavolo Swing",
@@ -4402,8 +4608,16 @@
           "stem": "Tchavolo-Swing"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Tchavolo-Swing_page_3.svg",
+        "Tchavolo-Swing_page_2.svg",
+        "Tchavolo-Swing_page_1.svg"
+      ],
+      "midi_files": [
+        "Tchavolo-Swing.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Tchavolo-Swing_page_3.svg",
+      "midi": "tunes/Gypsy-Jazz/Tchavolo-Swing.midi"
     },
     {
       "title": "All of Me",
@@ -4918,62 +5132,6 @@
       "midi": "tunes/Marc-Mouries/Marc-Mouries-Spring-is-coming.midi"
     },
     {
-      "title": "Hier Encore",
-      "composer": "Charles Aznavour",
-      "country": "France",
-      "country_flag": "🇫🇷",
-      "genre": "Pop",
-      "subgenre": "chanson",
-      "category": "Pop",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Pop",
-      "tune_folder": "Aznavour_Hier-Encore",
-      "variants": [
-        {
-          "filename": "Charles-Aznavour-Hier-Encore.ly",
-          "stem": "Charles-Aznavour-Hier-Encore"
-        }
-      ],
-      "svg_files": [],
-      "midi_files": []
-    },
-    {
-      "title": "La Bohème",
-      "composer": "Charles Aznavour",
-      "country": "France",
-      "country_flag": "🇫🇷",
-      "genre": "Pop",
-      "subgenre": "chanson",
-      "category": "Pop",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Pop",
-      "tune_folder": "Aznavour_La-Boheme",
-      "variants": [
-        {
-          "filename": "La-Boheme.ly",
-          "stem": "La-Boheme"
-        }
-      ],
-      "svg_files": [],
-      "midi_files": []
-    },
-    {
       "title": "Can't Help Falling in Love",
       "composer": "Elvis Presley",
       "country": "USA",
@@ -4991,13 +5149,65 @@
       "session_friendliness": "",
       "notes": "",
       "genre_folder": "Pop",
-      "tune_folder": "Can-t-Help-Falling-in-Love",
+      "tune_folder": "Cant-Help-Falling-in-Love",
       "variants": [
         {
           "filename": "Can-t-Help-Falling-in-Love-Elvis-Presley.ly",
           "stem": "Can-t-Help-Falling-in-Love-Elvis-Presley"
         }
       ],
+      "svg_files": [
+        "Can-t-Help-Falling-in-Love-Elvis-Presley_page_1.svg"
+      ],
+      "midi_files": [
+        "Can-t-Help-Falling-in-Love-Elvis-Presley.midi"
+      ],
+      "svg": "tunes/Pop/Can-t-Help-Falling-in-Love-Elvis-Presley_page_1.svg",
+      "midi": "tunes/Pop/Can-t-Help-Falling-in-Love-Elvis-Presley.midi"
+    },
+    {
+      "title": "Chorando Se Foi (Lambada)",
+      "composer": "Kaoma",
+      "country": "Brazil",
+      "country_flag": "🇧🇷",
+      "genre": "Pop",
+      "subgenre": "Lambada",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Chorando-Se-Foi",
+      "variants": [],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Comme Ils Disent",
+      "composer": "Charles Aznavour",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "Chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Comme-Ils-Disent",
+      "variants": [],
       "svg_files": [],
       "midi_files": []
     },
@@ -5026,6 +5236,55 @@
           "stem": "Douce-France"
         }
       ],
+      "svg_files": [
+        "Douce-France_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Pop/Douce-France_page_1.svg"
+    },
+    {
+      "title": "Emmenez-moi",
+      "composer": "Charles Aznavour",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "Chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Emmenez-moi",
+      "variants": [],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Flor Formosa",
+      "composer": "Travadinha",
+      "country": "Cape Verde",
+      "country_flag": "🌍",
+      "genre": "Pop",
+      "subgenre": "Morna",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Flor-Formosa",
+      "variants": [],
       "svg_files": [],
       "midi_files": []
     },
@@ -5047,15 +5306,21 @@
       "session_friendliness": "",
       "notes": "",
       "genre_folder": "Pop",
-      "tune_folder": "Hallelujah_Leonard-Cohen",
+      "tune_folder": "Hallelujah",
       "variants": [
         {
           "filename": "Hallelujah.ly",
           "stem": "Hallelujah"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Hallelujah_page_1.svg"
+      ],
+      "midi_files": [
+        "Hallelujah.midi"
+      ],
+      "svg": "tunes/Pop/Hallelujah_page_1.svg",
+      "midi": "tunes/Pop/Hallelujah.midi"
     },
     {
       "title": "Happy Birthday",
@@ -5086,6 +5351,165 @@
           "stem": "Happy-Birthday-Quartet"
         }
       ],
+      "svg_files": [
+        "Happy-Birthday_page_1.svg",
+        "Happy-Birthday-Quartet_page_1.svg"
+      ],
+      "midi_files": [
+        "Happy-Birthday.midi",
+        "Happy-Birthday-full-1.midi",
+        "Happy-Birthday-1.midi"
+      ],
+      "svg": "tunes/Pop/Happy-Birthday_page_1.svg",
+      "midi": "tunes/Pop/Happy-Birthday.midi"
+    },
+    {
+      "title": "Hedgehog Video Music",
+      "composer": "Unknown",
+      "country": "Unknown",
+      "country_flag": "🌍",
+      "genre": "Pop",
+      "subgenre": "",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Hedgehog-Video-Music",
+      "variants": [
+        {
+          "filename": "hedgehog-video-music.ly",
+          "stem": "hedgehog-video-music"
+        }
+      ],
+      "svg_files": [
+        "hedgehog-video-music_page_1.svg"
+      ],
+      "midi_files": [
+        "hedgehog-video-music-full-1.midi",
+        "hedgehog-video-music-1.midi",
+        "hedgehog-video-music.midi"
+      ],
+      "svg": "tunes/Pop/hedgehog-video-music_page_1.svg",
+      "midi": "tunes/Pop/hedgehog-video-music-full-1.midi"
+    },
+    {
+      "title": "Hier Encore",
+      "composer": "Charles Aznavour",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Hier-Encore",
+      "variants": [
+        {
+          "filename": "Charles-Aznavour-Hier-Encore.ly",
+          "stem": "Charles-Aznavour-Hier-Encore"
+        }
+      ],
+      "svg_files": [
+        "Charles-Aznavour-Hier-Encore_page_1.svg"
+      ],
+      "midi_files": [
+        "Charles-Aznavour-Hier-Encore.midi"
+      ],
+      "svg": "tunes/Pop/Charles-Aznavour-Hier-Encore_page_1.svg",
+      "midi": "tunes/Pop/Charles-Aznavour-Hier-Encore.midi"
+    },
+    {
+      "title": "La Bohème",
+      "composer": "Charles Aznavour",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "La-Boheme",
+      "variants": [
+        {
+          "filename": "La-Boheme.ly",
+          "stem": "La-Boheme"
+        }
+      ],
+      "svg_files": [
+        "La-Boheme.svg"
+      ],
+      "midi_files": [
+        "La-Boheme.midi"
+      ],
+      "svg": "tunes/Pop/La-Boheme.svg",
+      "midi": "tunes/Pop/La-Boheme.midi"
+    },
+    {
+      "title": "La Chanson de Prévert",
+      "composer": "Serge Gainsbourg",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "Chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "La-Chanson-de-Prevert",
+      "variants": [],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "La Tendresse",
+      "composer": "Bourvil",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "Chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "La-Tendresse",
+      "variants": [],
       "svg_files": [],
       "midi_files": []
     },
@@ -5124,8 +5548,22 @@
           "key_variant": "Dm"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Le-Pornographe_page_1.svg",
+        "Le-Pornographe_(Dm)_page_1.svg",
+        "Le-Pornographe_(Am)_page_1.svg"
+      ],
+      "midi_files": [
+        "Le-Pornographe.midi",
+        "Le-Pornographe_(Am).midi",
+        "Le-Pornographe-copy-1.midi",
+        "Le-Pornographe.mid",
+        "Le-Pornographe-1.midi",
+        "Le-Pornographe_(Dm).midi",
+        "Le-Pornographe-copy.midi"
+      ],
+      "svg": "tunes/Pop/Le-Pornographe_page_1.svg",
+      "midi": "tunes/Pop/Le-Pornographe.midi"
     },
     {
       "title": "Lovin' You",
@@ -5152,11 +5590,37 @@
           "stem": "Lovin-You"
         }
       ],
-      "svg_files": [],
+      "svg_files": [
+        "Lovin-You.svg"
+      ],
       "midi_files": [
         "Lovin-You.midi"
       ],
+      "svg": "tunes/Pop/Lovin-You.svg",
       "midi": "tunes/Pop/Lovin-You.midi"
+    },
+    {
+      "title": "Nathalie",
+      "composer": "Gilbert Bécaud",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "Chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Nathalie",
+      "variants": [],
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "Something's Got a Hold on Me",
@@ -5183,8 +5647,14 @@
           "stem": "Something-s-got-a-hold-on-me"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Something-s-got-a-hold-on-me_page_1.svg"
+      ],
+      "midi_files": [
+        "Something-s-got-a-hold-on-me.midi"
+      ],
+      "svg": "tunes/Pop/Something-s-got-a-hold-on-me_page_1.svg",
+      "midi": "tunes/Pop/Something-s-got-a-hold-on-me.midi"
     },
     {
       "title": "Sous le ciel de Paris",
@@ -5211,8 +5681,14 @@
           "stem": "Sous-le-ciel-de-Paris"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Sous-le-ciel-de-Paris_page_1.svg"
+      ],
+      "midi_files": [
+        "Sous-le-ciel-de-Paris.midi"
+      ],
+      "svg": "tunes/Pop/Sous-le-ciel-de-Paris_page_1.svg",
+      "midi": "tunes/Pop/Sous-le-ciel-de-Paris.midi"
     },
     {
       "title": "Tango To Evora",
@@ -5239,36 +5715,14 @@
           "stem": "Tango-To-Evora"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
-    },
-    {
-      "title": "Hedgehog Video Music",
-      "composer": "Unknown",
-      "country": "Unknown",
-      "country_flag": "🌍",
-      "genre": "Pop",
-      "subgenre": "",
-      "category": "Pop",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Pop",
-      "tune_folder": "Video-Music",
-      "variants": [
-        {
-          "filename": "hedgehog-video-music.ly",
-          "stem": "hedgehog-video-music"
-        }
+      "svg_files": [
+        "Tango-To-Evora_page_1.svg"
       ],
-      "svg_files": [],
-      "midi_files": []
+      "midi_files": [
+        "Tango-To-Evora.midi"
+      ],
+      "svg": "tunes/Pop/Tango-To-Evora_page_1.svg",
+      "midi": "tunes/Pop/Tango-To-Evora.midi"
     },
     {
       "title": "Violin Ringtone",
@@ -5295,8 +5749,14 @@
           "stem": "Violin-Ringtone"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Violin-Ringtone_page_1.svg"
+      ],
+      "midi_files": [
+        "Violin-Ringtone.midi"
+      ],
+      "svg": "tunes/Pop/Violin-Ringtone_page_1.svg",
+      "midi": "tunes/Pop/Violin-Ringtone.midi"
     },
     {
       "title": "Wrong Roads",
@@ -5316,15 +5776,21 @@
       "session_friendliness": "",
       "notes": "",
       "genre_folder": "Pop",
-      "tune_folder": "Wrong-roads",
+      "tune_folder": "Wrong-Roads",
       "variants": [
         {
           "filename": "wrong-roads-.ly",
           "stem": "wrong-roads-"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "wrong-roads-_page_1.svg"
+      ],
+      "midi_files": [
+        "wrong-roads-.midi"
+      ],
+      "svg": "tunes/Pop/wrong-roads-_page_1.svg",
+      "midi": "tunes/Pop/wrong-roads-.midi"
     },
     {
       "title": "Color Purple",
