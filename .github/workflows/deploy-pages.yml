@@ -1,6 +1,3 @@
-# Custom GitHub Pages deployment workflow
-# Replaces default workflow to opt into Node.js 24
-
 name: Deploy to GitHub Pages
 
 on:
