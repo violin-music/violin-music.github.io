@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 144,
+  "tune_count": 137,
   "tunes": [
     {
       "title": "Carol of the Bells",
@@ -3971,10 +3971,15 @@
         }
       ],
       "svg_files": [
+        "Bistro_Fada.xml-4.svg",
+        "Bistro_Fada.xml-5.svg",
+        "Bistro_Fada.xml-2.svg",
+        "Bistro_Fada.xml-3.svg",
+        "Bistro_Fada.xml-1.svg",
         "Bistro_Fada.xml_page_1.svg"
       ],
       "midi_files": [],
-      "svg": "tunes/Gypsy-Jazz/Bistro_Fada.xml_page_1.svg"
+      "svg": "tunes/Gypsy-Jazz/Bistro_Fada.xml-4.svg"
     },
     {
       "title": "Blue Lou",
@@ -4010,16 +4015,20 @@
         }
       ],
       "svg_files": [
+        "Blue_Lou_Licks.svg",
         "Blue_Lou_Marc_page_1.svg",
         "Blue-Lou_Chords_page_1.svg",
-        "Blue_Lou_Licks_page_1.svg"
+        "Blue_Lou_Marc.svg",
+        "Blue_Lou_Licks_page_1.svg",
+        "Blue-Lou_Chords-2.svg",
+        "Blue-Lou_Chords-1.svg"
       ],
       "midi_files": [
         "Blue_Lou_Licks.midi",
         "Blue-Lou_Chords.midi",
         "Blue_Lou_Marc.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Blue_Lou_Marc_page_1.svg",
+      "svg": "tunes/Gypsy-Jazz/Blue_Lou_Licks.svg",
       "midi": "tunes/Gypsy-Jazz/Blue_Lou_Licks.midi"
     },
     {
@@ -4058,6 +4067,10 @@
       "svg_files": [
         "Blues-en-Mineur_page_1.svg",
         "Blues-en-Mineur-Serge-Krief_page_1.svg",
+        "Blues-en-Mineur-1.svg",
+        "Blues-en-Mineur-2.svg",
+        "Blues-en-Mineur-Serge-Krief.svg",
+        "Blues-en-Mineur_Chords_Arpeggios.svg",
         "Blues-en-Mineur_Chords_Arpeggios_page_1.svg"
       ],
       "midi_files": [
@@ -4092,7 +4105,8 @@
         }
       ],
       "svg_files": [
-        "Chicago-Grappelli_page_1.svg"
+        "Chicago-Grappelli_page_1.svg",
+        "Chicago-Grappelli.svg"
       ],
       "midi_files": [
         "Chicago-Grappelli.midi"
@@ -4198,11 +4212,14 @@
           "stem": "J'attendrai_Grappelli"
         }
       ],
-      "svg_files": [],
+      "svg_files": [
+        "J'attendrai_Grappelli.svg"
+      ],
       "midi_files": [
         "J'attendrai_Grappelli.mid",
         "J'attendrai_Grappelli.midi"
       ],
+      "svg": "tunes/Gypsy-Jazz/J%27attendrai_Grappelli.svg",
       "midi": "tunes/Gypsy-Jazz/J%27attendrai_Grappelli.mid"
     },
     {
@@ -4249,10 +4266,19 @@
         "Je-Cherche-Apres-Titine_[Melody]_page_1.svg",
         "Je-Cherche-Apres-Titine_[Henri-Crolla]_page_1.svg",
         "Je-Cherche-Apres-Titine_[Henri-Crolla]_page_2.svg",
+        "Je-Cherche-Apres-Titine_[Quartet]-1.svg",
+        "Je-Cherche-Apres-Titine_[Henri-Crolla]-2.svg",
+        "Je-Cherche-Apres-Titine_[Quartet]-3.svg",
+        "Je-Cherche-Apres-Titine_[Quartet]-2.svg",
+        "Je-Cherche-Apres-Titine_[Henri-Crolla]-1.svg",
+        "Je cherche.svg",
+        "Je-Cherche-Apres-Titine_[Quartet]-4.svg",
+        "Je-Cherche-Apres-Titine_[Melody].svg",
         "Je cherche_page_1.svg"
       ],
       "midi_files": [
         "Je-Cherche-Apres-Titine_[Henri-Crolla].midi",
+        "Je-Cherche-Apres-Titine_[Melody].midi",
         "Je cherche.midi",
         "Je-Cherche-Apres-Titine_[Quartet].midi"
       ],
@@ -4284,8 +4310,11 @@
           "stem": "Licks-from-Grappelli"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Licks-from-Grappelli.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Gypsy-Jazz/Licks-from-Grappelli.svg"
     },
     {
       "title": "Licks from Tchavolo Schmitt",
@@ -4313,10 +4342,14 @@
         }
       ],
       "svg_files": [
+        "Licks-from-Tchavolo- Schmitt.svg",
         "Licks-from-Tchavolo- Schmitt_page_1.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Gypsy-Jazz/Licks-from-Tchavolo-%20Schmitt_page_1.svg"
+      "midi_files": [
+        "Licks-from-Tchavolo- Schmitt.midi"
+      ],
+      "svg": "tunes/Gypsy-Jazz/Licks-from-Tchavolo-%20Schmitt.svg",
+      "midi": "tunes/Gypsy-Jazz/Licks-from-Tchavolo-%20Schmitt.midi"
     },
     {
       "title": "Minor Swing",
@@ -4348,13 +4381,17 @@
         "Minor-Swing_[Christiaan van Hemert]_page_2.svg",
         "Minor-Swing_[Christiaan van Hemert]_page_3.svg",
         "Minor-Swing_[Christiaan van Hemert]_page_1.svg",
-        "Minor-Swing-van-Hemert_page_1.svg"
+        "Minor-Swing-van-Hemert_page_1.svg",
+        "Minor-Swing_[Christiaan van Hemert]-3.svg",
+        "Minor-Swing_[Christiaan van Hemert]-2.svg",
+        "Minor-Swing_[Christiaan van Hemert]-1.svg"
       ],
       "midi_files": [
+        "Minor-Swing_[Christiaan van Hemert].midi",
         "Minor-Swing-van-Hemert.midi"
       ],
       "svg": "tunes/Gypsy-Jazz/Minor-Swing_%5BChristiaan%20van%20Hemert%5D_page_2.svg",
-      "midi": "tunes/Gypsy-Jazz/Minor-Swing-van-Hemert.midi"
+      "midi": "tunes/Gypsy-Jazz/Minor-Swing_%5BChristiaan%20van%20Hemert%5D.midi"
     },
     {
       "title": "Nine by Nine",
@@ -4382,7 +4419,9 @@
         }
       ],
       "svg_files": [
-        "Nine-by-Nine_page_1.svg"
+        "Nine-by-Nine_page_1.svg",
+        "Nine-by-Nine-1.svg",
+        "Nine-by-Nine-2.svg"
       ],
       "midi_files": [
         "Nine-by-Nine.midi"
@@ -4416,12 +4455,13 @@
         }
       ],
       "svg_files": [
+        "Nuages.svg",
         "Nuages_page_1.svg"
       ],
       "midi_files": [
         "Nuages.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Nuages_page_1.svg",
+      "svg": "tunes/Gypsy-Jazz/Nuages.svg",
       "midi": "tunes/Gypsy-Jazz/Nuages.midi"
     },
     {
@@ -4458,8 +4498,13 @@
         }
       ],
       "svg_files": [
+        "Practice-Gypsy-Rythmes-Gitans.svg",
         "Rythmes-Gitans_page_1.svg",
+        "Rythmes-Gitans_Daisy-1.svg",
+        "Rythmes-Gitans_Daisy-2.svg",
+        "Rythmes-Gitans-1.svg",
         "Practice-Gypsy-Rythmes-Gitans_page_1.svg",
+        "Rythmes-Gitans-2.svg",
         "Rythmes-Gitans_Daisy_page_1.svg"
       ],
       "midi_files": [
@@ -4467,7 +4512,7 @@
         "Rythmes-Gitans_Daisy.midi",
         "Rythmes-Gitans.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Rythmes-Gitans_page_1.svg",
+      "svg": "tunes/Gypsy-Jazz/Practice-Gypsy-Rythmes-Gitans.svg",
       "midi": "tunes/Gypsy-Jazz/Practice-Gypsy-Rythmes-Gitans.midi"
     },
     {
@@ -4504,6 +4549,8 @@
         }
       ],
       "svg_files": [
+        "Si-Tu-Savais.svg",
+        "Si-tu-savais-(Cm).svg",
         "Si-tu-savais-copy-Marc’s-iMac_page_1.svg",
         "Si-tu-savais-(Cm)_page_1.svg",
         "Si-Tu-Savais_page_1.svg"
@@ -4514,7 +4561,7 @@
         "Si-Tu-Savais-full.midi",
         "Si-Tu-Savais.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Si-tu-savais-copy-Marc%E2%80%99s-iMac_page_1.svg",
+      "svg": "tunes/Gypsy-Jazz/Si-Tu-Savais.svg",
       "midi": "tunes/Gypsy-Jazz/Si-Tu-Savais-1.midi"
     },
     {
@@ -4543,7 +4590,8 @@
         }
       ],
       "svg_files": [
-        "Style-Musette_page_1.svg"
+        "Style-Musette_page_1.svg",
+        "Style-Musette.svg"
       ],
       "midi_files": [],
       "svg": "tunes/Gypsy-Jazz/Style-Musette_page_1.svg"
@@ -4574,7 +4622,8 @@
         }
       ],
       "svg_files": [
-        "licks_Swing_page_1.svg"
+        "licks_Swing_page_1.svg",
+        "licks_Swing.svg"
       ],
       "midi_files": [
         "licks_Swing.midi",
@@ -4609,6 +4658,9 @@
         }
       ],
       "svg_files": [
+        "Tchavolo-Swing-1.svg",
+        "Tchavolo-Swing-2.svg",
+        "Tchavolo-Swing-3.svg",
         "Tchavolo-Swing_page_3.svg",
         "Tchavolo-Swing_page_2.svg",
         "Tchavolo-Swing_page_1.svg"
@@ -4616,7 +4668,7 @@
       "midi_files": [
         "Tchavolo-Swing.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Tchavolo-Swing_page_3.svg",
+      "svg": "tunes/Gypsy-Jazz/Tchavolo-Swing-1.svg",
       "midi": "tunes/Gypsy-Jazz/Tchavolo-Swing.midi"
     },
     {
@@ -5166,52 +5218,6 @@
       "midi": "tunes/Pop/Can-t-Help-Falling-in-Love-Elvis-Presley.midi"
     },
     {
-      "title": "Chorando Se Foi (Lambada)",
-      "composer": "Kaoma",
-      "country": "Brazil",
-      "country_flag": "🇧🇷",
-      "genre": "Pop",
-      "subgenre": "Lambada",
-      "category": "Pop",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Pop",
-      "tune_folder": "Chorando-Se-Foi",
-      "variants": [],
-      "svg_files": [],
-      "midi_files": []
-    },
-    {
-      "title": "Comme Ils Disent",
-      "composer": "Charles Aznavour",
-      "country": "France",
-      "country_flag": "🇫🇷",
-      "genre": "Pop",
-      "subgenre": "Chanson",
-      "category": "Pop",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Pop",
-      "tune_folder": "Comme-Ils-Disent",
-      "variants": [],
-      "svg_files": [],
-      "midi_files": []
-    },
-    {
       "title": "Douce France",
       "composer": "Charles Trenet and Leo Chauliac",
       "country": "France",
@@ -5241,52 +5247,6 @@
       ],
       "midi_files": [],
       "svg": "tunes/Pop/Douce-France_page_1.svg"
-    },
-    {
-      "title": "Emmenez-moi",
-      "composer": "Charles Aznavour",
-      "country": "France",
-      "country_flag": "🇫🇷",
-      "genre": "Pop",
-      "subgenre": "Chanson",
-      "category": "Pop",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Pop",
-      "tune_folder": "Emmenez-moi",
-      "variants": [],
-      "svg_files": [],
-      "midi_files": []
-    },
-    {
-      "title": "Flor Formosa",
-      "composer": "Travadinha",
-      "country": "Cape Verde",
-      "country_flag": "🌍",
-      "genre": "Pop",
-      "subgenre": "Morna",
-      "category": "Pop",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Pop",
-      "tune_folder": "Flor-Formosa",
-      "variants": [],
-      "svg_files": [],
-      "midi_files": []
     },
     {
       "title": "Hallelujah",
@@ -5468,52 +5428,6 @@
       "midi": "tunes/Pop/La-Boheme.midi"
     },
     {
-      "title": "La Chanson de Prévert",
-      "composer": "Serge Gainsbourg",
-      "country": "France",
-      "country_flag": "🇫🇷",
-      "genre": "Pop",
-      "subgenre": "Chanson",
-      "category": "Pop",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Pop",
-      "tune_folder": "La-Chanson-de-Prevert",
-      "variants": [],
-      "svg_files": [],
-      "midi_files": []
-    },
-    {
-      "title": "La Tendresse",
-      "composer": "Bourvil",
-      "country": "France",
-      "country_flag": "🇫🇷",
-      "genre": "Pop",
-      "subgenre": "Chanson",
-      "category": "Pop",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Pop",
-      "tune_folder": "La-Tendresse",
-      "variants": [],
-      "svg_files": [],
-      "midi_files": []
-    },
-    {
       "title": "Le Pornographe",
       "composer": "Georges Brassens",
       "country": "France",
@@ -5598,29 +5512,6 @@
       ],
       "svg": "tunes/Pop/Lovin-You.svg",
       "midi": "tunes/Pop/Lovin-You.midi"
-    },
-    {
-      "title": "Nathalie",
-      "composer": "Gilbert Bécaud",
-      "country": "France",
-      "country_flag": "🇫🇷",
-      "genre": "Pop",
-      "subgenre": "Chanson",
-      "category": "Pop",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Pop",
-      "tune_folder": "Nathalie",
-      "variants": [],
-      "svg_files": [],
-      "midi_files": []
     },
     {
       "title": "Something's Got a Hold on Me",
