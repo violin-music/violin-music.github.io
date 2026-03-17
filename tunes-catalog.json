@@ -2051,10 +2051,15 @@
         }
       ],
       "svg_files": [
-        "hatikva_page_1.svg"
+        "hatikva_page_1.svg",
+        "Hatikva-1.svg",
+        "Hatikva-2.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Folk_Jewish/hatikva_page_1.svg"
+      "midi_files": [
+        "Hatikva.midi"
+      ],
+      "svg": "tunes/Folk_Jewish/hatikva_page_1.svg",
+      "midi": "tunes/Folk_Jewish/Hatikva.midi"
     },
     {
       "title": "Hevenu shalom aleichem",
@@ -2336,8 +2341,11 @@
         "Hora-Martisorului_page_1.svg",
         "Hora-Martisorului.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Folk_Romania/Hora-Martisorului_page_1.svg"
+      "midi_files": [
+        "Hora-Martisorului.midi"
+      ],
+      "svg": "tunes/Folk_Romania/Hora-Martisorului_page_1.svg",
+      "midi": "tunes/Folk_Romania/Hora-Martisorului.midi"
     },
     {
       "title": "Bublitchki",
@@ -4209,19 +4217,22 @@
         "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_5.svg",
         "Schindler's-list-Quartet_page_1.svg",
         "Schindlers_List_Theme_Solo_Violin_page_1.svg",
+        "Schindlers_List.svg",
         "Schindlers_List_[Quartet]-2.svg",
         "Schindlers_List_[Quartet]-3.svg",
         "Schindlers_List_[Quartet]-1.svg",
         "Schindlers_List_[Quartet]-4.svg",
-        "Schindlers_List.svg",
         "Schindlers_List_[Strings]-1.svg",
         "Schindlers_List_[Strings]-3.svg",
         "Schindlers_List_[Strings]-2.svg",
         "Schindlers_List_[Strings]-5.svg",
         "Schindlers_List_[Strings]-4.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Soundtrack/Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_1.svg"
+      "midi_files": [
+        "Schindlers_List.midi"
+      ],
+      "svg": "tunes/Soundtrack/Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_1.svg",
+      "midi": "tunes/Soundtrack/Schindlers_List.midi"
     },
     {
       "title": "Sirba",
