@@ -1,8 +1,398 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 93,
+  "tune_count": 119,
   "tunes": [
+    {
+      "title": "Carol of the Bells",
+      "composer": "Mykola Leontovych",
+      "country": "Ukraine",
+      "country_flag": "🇺🇦",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "Carol-of-the-bells",
+      "variants": [
+        {
+          "filename": "Carol-of-the-bells_Violin_(Am).ly",
+          "stem": "Carol-of-the-bells_Violin_(Am)",
+          "key_variant": "Am"
+        },
+        {
+          "filename": "Carol-of-the-bells_Violin_(Em).ly",
+          "stem": "Carol-of-the-bells_Violin_(Em)",
+          "key_variant": "Em"
+        },
+        {
+          "filename": "Practice-Carol-of-the-Bells.ly",
+          "stem": "Practice-Carol-of-the-Bells"
+        },
+        {
+          "filename": "Carol-of-the-bells_SATB.ly",
+          "stem": "Carol-of-the-bells_SATB"
+        },
+        {
+          "filename": "Carol-of-the-bells_Violin_(Dm).ly",
+          "stem": "Carol-of-the-bells_Violin_(Dm)",
+          "key_variant": "Dm"
+        },
+        {
+          "filename": "Carol-of-the-bells_Violin_(Gm).ly",
+          "stem": "Carol-of-the-bells_Violin_(Gm)",
+          "key_variant": "Gm"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Deck the Halls",
+      "composer": "Traditional Welsh",
+      "country": "Wales",
+      "country_flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "Deck-the-halls",
+      "variants": [
+        {
+          "filename": "Deck-the-halls.ly",
+          "stem": "Deck-the-halls"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "The First Noel",
+      "composer": "Traditional English",
+      "country": "England",
+      "country_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "First-Noel",
+      "variants": [
+        {
+          "filename": "first-noel_A.ly",
+          "stem": "first-noel_A"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "I Saw Three Ships",
+      "composer": "Traditional English",
+      "country": "England",
+      "country_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "I-Saw-Three-Ships",
+      "variants": [
+        {
+          "filename": "I-Saw-Three-Ships.ly",
+          "stem": "I-Saw-Three-Ships"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Jingle Bells",
+      "composer": "James Lord Pierpont",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "Jingle-Bells",
+      "variants": [
+        {
+          "filename": "Jingle-Bells.ly",
+          "stem": "Jingle-Bells"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Joy to the World",
+      "composer": "George Frideric Handel",
+      "country": "England",
+      "country_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "Joy-to-the-World",
+      "variants": [
+        {
+          "filename": "Joy_to_the_World_-_Organ.ly",
+          "stem": "Joy_to_the_World_-_Organ"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Let It Snow, Let It Snow, Let It Snow!",
+      "composer": "Jule Styne",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "Let-It-Snow",
+      "variants": [
+        {
+          "filename": "Let-It-Snow_(F).ly",
+          "stem": "Let-It-Snow_(F)",
+          "key_variant": "F"
+        },
+        {
+          "filename": "Let-It-Snow_(G).ly",
+          "stem": "Let-It-Snow_(G)",
+          "key_variant": "G"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "O Holy Night",
+      "composer": "Adolphe Adam",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "O-Holy-Night",
+      "variants": [
+        {
+          "filename": "O-Holy-Night.ly",
+          "stem": "O-Holy-Night"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Petit Papa Noël",
+      "composer": "Raymond Vincy & Henri Martinet",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "Petit-Papa-Noel",
+      "variants": [
+        {
+          "filename": "Petit-Papa-Noel.ly",
+          "stem": "Petit-Papa-Noel"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Silent Night",
+      "composer": "Franz Gruber",
+      "country": "Austria",
+      "country_flag": "🇦🇹",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "Silent-Night",
+      "variants": [
+        {
+          "filename": "Silent-Night_(E).ly",
+          "stem": "Silent-Night_(E)",
+          "key_variant": "E"
+        },
+        {
+          "filename": "Silent-Night_(G).ly",
+          "stem": "Silent-Night_(G)",
+          "key_variant": "G"
+        },
+        {
+          "filename": "Silent-Night_(A).ly",
+          "stem": "Silent-Night_(A)",
+          "key_variant": "A"
+        },
+        {
+          "filename": "Silent-Night_(D).ly",
+          "stem": "Silent-Night_(D)",
+          "key_variant": "D"
+        },
+        {
+          "filename": "Silent-Night.ly",
+          "stem": "Silent-Night"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "The First Noel",
+      "composer": "Traditional English",
+      "country": "England",
+      "country_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "The-First-Noel",
+      "variants": [
+        {
+          "filename": "The-First-Noel.ly",
+          "stem": "The-First-Noel"
+        },
+        {
+          "filename": "The-First-Noel_Duet.ly",
+          "stem": "The-First-Noel_Duet"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "We Wish You a Merry Christmas",
+      "composer": "Traditional English",
+      "country": "England",
+      "country_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "genre": "Christmas",
+      "subgenre": "",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "We-Wish-You-a-Merry-Christmas",
+      "variants": [
+        {
+          "filename": "We-Wish-You-a-Merry-Christmas.ly",
+          "stem": "We-Wish-You-a-Merry-Christmas"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
     {
       "title": "Kreutzer Étude No. 2",
       "composer": "Rodolphe Kreutzer",
@@ -3971,12 +4361,424 @@
       "midi": "tunes/Marc-Mouries/Marc-Mouries-Spring-is-coming.midi"
     },
     {
+      "title": "Hier Encore",
+      "composer": "Charles Aznavour",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Aznavour_Hier-Encore",
+      "variants": [
+        {
+          "filename": "Charles-Aznavour-Hier-Encore.ly",
+          "stem": "Charles-Aznavour-Hier-Encore"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "La Bohème",
+      "composer": "Charles Aznavour",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Aznavour_La-Boheme",
+      "variants": [
+        {
+          "filename": "La-Boheme.ly",
+          "stem": "La-Boheme"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Can't Help Falling in Love",
+      "composer": "Elvis Presley",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Pop",
+      "subgenre": "",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Can-t-Help-Falling-in-Love",
+      "variants": [
+        {
+          "filename": "Can-t-Help-Falling-in-Love-Elvis-Presley.ly",
+          "stem": "Can-t-Help-Falling-in-Love-Elvis-Presley"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Douce France",
+      "composer": "Charles Trenet and Leo Chauliac",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Douce-France",
+      "variants": [
+        {
+          "filename": "Douce-France.ly",
+          "stem": "Douce-France"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Hallelujah",
+      "composer": "Leonard Cohen",
+      "country": "Canada",
+      "country_flag": "🇨🇦",
+      "genre": "Pop",
+      "subgenre": "",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Hallelujah_Leonard-Cohen",
+      "variants": [
+        {
+          "filename": "Hallelujah.ly",
+          "stem": "Hallelujah"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Happy Birthday",
+      "composer": "Patty Hill and Mildred J. Hill",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Pop",
+      "subgenre": "traditional",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Happy-Birthday",
+      "variants": [
+        {
+          "filename": "Happy-Birthday-Quartet.ly",
+          "stem": "Happy-Birthday-Quartet"
+        },
+        {
+          "filename": "Happy-Birthday.ly",
+          "stem": "Happy-Birthday"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Le Pornographe",
+      "composer": "Georges Brassens",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Le-Pornographe",
+      "variants": [
+        {
+          "filename": "Le-Pornographe_(Dm).ly",
+          "stem": "Le-Pornographe_(Dm)",
+          "key_variant": "Dm"
+        },
+        {
+          "filename": "Le-Pornographe_(Am).ly",
+          "stem": "Le-Pornographe_(Am)",
+          "key_variant": "Am"
+        },
+        {
+          "filename": "Le-Pornographe.ly",
+          "stem": "Le-Pornographe"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Lovin' You",
+      "composer": "Richard Rudolph / Minnie Riperton",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Pop",
+      "subgenre": "",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Lovin-You",
+      "variants": [
+        {
+          "filename": "Lovin-You.ly",
+          "stem": "Lovin-You"
+        }
+      ],
+      "svg_files": [
+        "Lovin-You.svg"
+      ],
+      "midi_files": [
+        "Lovin-You.midi"
+      ],
+      "svg": "tunes/Pop/Lovin-You.svg",
+      "midi": "tunes/Pop/Lovin-You.midi"
+    },
+    {
+      "title": "Something's Got a Hold on Me",
+      "composer": "Leroy Kirkland & Pearl Woods",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Pop",
+      "subgenre": "blues",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Something-Got-a-Hold-of-Me",
+      "variants": [
+        {
+          "filename": "Something-s-got-a-hold-on-me.ly",
+          "stem": "Something-s-got-a-hold-on-me"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Sous le ciel de Paris",
+      "composer": "Hubert Giraud",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "chanson",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Sous-le-ciel-de-Paris",
+      "variants": [
+        {
+          "filename": "Sous-le-ciel-de-Paris.ly",
+          "stem": "Sous-le-ciel-de-Paris"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Tango To Evora",
+      "composer": "Loreena McKennitt",
+      "country": "Canada",
+      "country_flag": "🇨🇦",
+      "genre": "Pop",
+      "subgenre": "tango",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Tango-To-Evora",
+      "variants": [
+        {
+          "filename": "Tango-To-Evora.ly",
+          "stem": "Tango-To-Evora"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Hedgehog Video Music",
+      "composer": "Unknown",
+      "country": "Unknown",
+      "country_flag": "🌍",
+      "genre": "Pop",
+      "subgenre": "",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Video-Music",
+      "variants": [
+        {
+          "filename": "hedgehog-video-music.ly",
+          "stem": "hedgehog-video-music"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Violin Ringtone",
+      "composer": "Unknown",
+      "country": "Unknown",
+      "country_flag": "🌍",
+      "genre": "Pop",
+      "subgenre": "",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Violin-Ringtone",
+      "variants": [
+        {
+          "filename": "Violin-Ringtone.ly",
+          "stem": "Violin-Ringtone"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Wrong Roads",
+      "composer": "Steve Kroeger x Skye Holland",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Pop",
+      "subgenre": "",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Wrong-roads",
+      "variants": [
+        {
+          "filename": "wrong-roads-.ly",
+          "stem": "wrong-roads-"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
       "title": "Color Purple",
       "composer": "Quincy Jones",
       "country": "USA",
       "country_flag": "🇺🇸",
       "genre": "Soundtrack",
-      "subgenre": "soundtrack",
+      "subgenre": "",
       "category": "Soundtrack",
       "period": "",
       "type": "",
@@ -4012,7 +4814,7 @@
       "country": "Japan",
       "country_flag": "🇯🇵",
       "genre": "Soundtrack",
-      "subgenre": "soundtrack",
+      "subgenre": "",
       "category": "Soundtrack",
       "period": "",
       "type": "",
@@ -4140,7 +4942,7 @@
       "country": "Italy",
       "country_flag": "🇮🇹",
       "genre": "Soundtrack",
-      "subgenre": "Soundtrack",
+      "subgenre": "",
       "category": "Soundtrack",
       "period": "",
       "type": "",
@@ -4170,7 +4972,7 @@
       "midi": "tunes/Soundtrack/Pinocchio-T%27es-Cap.midi"
     },
     {
-      "title": "Schindler's List",
+      "title": "Theme from Schindler's List",
       "composer": "John Williams",
       "country": "USA",
       "country_flag": "🇺🇸",
@@ -4290,16 +5092,13 @@
         }
       ],
       "svg_files": [
-        "tous-les-matins-du-monde_page_1.svg",
         "Tous-les-matins-du-monde.svg"
       ],
       "midi_files": [
-        "tous-les-matins-du-monde.midi",
-        "tous-les-matins-du-monde-1.midi",
         "Tous-les-matins-du-monde.midi"
       ],
-      "svg": "tunes/Soundtrack/tous-les-matins-du-monde_page_1.svg",
-      "midi": "tunes/Soundtrack/tous-les-matins-du-monde.midi"
+      "svg": "tunes/Soundtrack/Tous-les-matins-du-monde.svg",
+      "midi": "tunes/Soundtrack/Tous-les-matins-du-monde.midi"
     },
     {
       "title": "Wedding March",
