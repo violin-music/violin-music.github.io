@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 119,
+  "tune_count": 137,
   "tunes": [
     {
       "title": "Carol of the Bells",
@@ -3847,6 +3847,563 @@
       ],
       "svg": "tunes/Games/Contraband-Police_page_1.svg",
       "midi": "tunes/Games/Contraband-Police.midi"
+    },
+    {
+      "title": "Bistro Fada",
+      "composer": "Stephane Wrembel",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Bistro-Fada",
+      "variants": [
+        {
+          "filename": "Bistro_Fada.xml.ly",
+          "stem": "Bistro_Fada.xml"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Blue Lou",
+      "composer": "Edgar Sampson",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Blue-Lou",
+      "variants": [
+        {
+          "filename": "Blue_Lou_Marc.ly",
+          "stem": "Blue_Lou_Marc"
+        },
+        {
+          "filename": "Blue-Lou_Chords.ly",
+          "stem": "Blue-Lou_Chords"
+        },
+        {
+          "filename": "Blue_Lou_Licks.ly",
+          "stem": "Blue_Lou_Licks"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Blues en Mineur",
+      "composer": "Django Reinhardt",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Blues-en-Mineur",
+      "variants": [
+        {
+          "filename": "Blues-en-Mineur.ly",
+          "stem": "Blues-en-Mineur"
+        },
+        {
+          "filename": "Blues-en-Mineur_Chords_Arpeggios.ly",
+          "stem": "Blues-en-Mineur_Chords_Arpeggios"
+        },
+        {
+          "filename": "Blues-en-Mineur-Serge-Krief.ly",
+          "stem": "Blues-en-Mineur-Serge-Krief"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Chicago",
+      "composer": "Stéphane Grappelli",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Chicago",
+      "variants": [
+        {
+          "filename": "Chicago-Grappelli.ly",
+          "stem": "Chicago-Grappelli"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Daphné",
+      "composer": "Django Reinhardt",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Daphné",
+      "variants": [
+        {
+          "filename": "Daphne-Grappelli+Taylor.ly",
+          "stem": "Daphne-Grappelli+Taylor"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Indifférence",
+      "composer": "Tony Murena & Joseph Colombo",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "valse musette",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Indifférence_Valse_Musette",
+      "variants": [
+        {
+          "filename": "Indifférence.ly",
+          "stem": "Indifférence"
+        },
+        {
+          "filename": "Indifférence_[Practice].ly",
+          "stem": "Indifférence_[Practice]",
+          "arrangement": "Practice"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "J'attendrai",
+      "composer": "Dino Olivieri",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "J'attendrai_Grappelli",
+      "variants": [
+        {
+          "filename": "J'attendrai_Grappelli.ly",
+          "stem": "J'attendrai_Grappelli"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Je Cherche Après Titine",
+      "composer": "Léo Daniderff",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Je-Cherche-Apres-Titine",
+      "variants": [
+        {
+          "filename": "Je-Cherche-Apres-Titine_[Quartet].ly",
+          "stem": "Je-Cherche-Apres-Titine_[Quartet]",
+          "arrangement": "Quartet"
+        },
+        {
+          "filename": "Je cherche.ly",
+          "stem": "Je cherche"
+        },
+        {
+          "filename": "Je-Cherche-Apres-Titine_[Melody].ly",
+          "stem": "Je-Cherche-Apres-Titine_[Melody]",
+          "arrangement": "Melody"
+        },
+        {
+          "filename": "Je-Cherche-Apres-Titine_[Henri-Crolla].ly",
+          "stem": "Je-Cherche-Apres-Titine_[Henri-Crolla]",
+          "arrangement": "Henri-Crolla"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Licks from Grappelli",
+      "composer": "Stéphane Grappelli",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "licks",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Licks-from-Grappelli",
+      "variants": [
+        {
+          "filename": "Licks-from-Grappelli.ly",
+          "stem": "Licks-from-Grappelli"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Licks from Tchavolo Schmitt",
+      "composer": "Tchavolo Schmitt",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "licks",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Licks-from-Tchavolo- Schmitt",
+      "variants": [
+        {
+          "filename": "Licks-from-Tchavolo- Schmitt.ly",
+          "stem": "Licks-from-Tchavolo- Schmitt"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Minor Swing",
+      "composer": "Django Reinhardt & Stéphane Grappelli",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Minor-Swing",
+      "variants": [
+        {
+          "filename": "Minor-Swing_[Christiaan van Hemert].ly",
+          "stem": "Minor-Swing_[Christiaan van Hemert]",
+          "arrangement": "Christiaan van Hemert"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Nine by Nine",
+      "composer": "Stéphane Grappelli",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Nine-by-Nine",
+      "variants": [
+        {
+          "filename": "Nine-by-Nine.ly",
+          "stem": "Nine-by-Nine"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Nuages",
+      "composer": "Django Reinhardt",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Nuages",
+      "variants": [
+        {
+          "filename": "Nuages.ly",
+          "stem": "Nuages"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Rythmes Gitans",
+      "composer": "Traditional",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Rythmes-gitans",
+      "variants": [
+        {
+          "filename": "Rythmes-Gitans.ly",
+          "stem": "Rythmes-Gitans"
+        },
+        {
+          "filename": "Rythmes-Gitans_Daisy.ly",
+          "stem": "Rythmes-Gitans_Daisy"
+        },
+        {
+          "filename": "Practice-Gypsy-Rythmes-Gitans.ly",
+          "stem": "Practice-Gypsy-Rythmes-Gitans"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Si Tu Savais",
+      "composer": "Django Reinhardt",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Si-Tu-Savais",
+      "variants": [
+        {
+          "filename": "Si-tu-savais-copy-Marc’s-iMac.ly",
+          "stem": "Si-tu-savais-copy-Marc’s-iMac"
+        },
+        {
+          "filename": "Si-tu-savais-(Cm).ly",
+          "stem": "Si-tu-savais-(Cm)"
+        },
+        {
+          "filename": "Si-Tu-Savais.ly",
+          "stem": "Si-Tu-Savais"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Style Musette",
+      "composer": "Traditional",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "musette",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Style-Musette",
+      "variants": [
+        {
+          "filename": "Style-Musette.ly",
+          "stem": "Style-Musette"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Swing Licks",
+      "composer": "Various",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "licks",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Swing-Licks",
+      "variants": [
+        {
+          "filename": "licks_Swing.ly",
+          "stem": "licks_Swing"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Tchavolo Swing",
+      "composer": "Tchavolo Schmitt",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Gypsy-Jazz",
+      "subgenre": "",
+      "category": "Gypsy Jazz",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Gypsy-Jazz",
+      "tune_folder": "Tchavolo-Swing",
+      "variants": [
+        {
+          "filename": "Tchavolo-Swing.ly",
+          "stem": "Tchavolo-Swing"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "All of Me",
