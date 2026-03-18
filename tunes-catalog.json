@@ -351,10 +351,14 @@
         }
       ],
       "svg_files": [
+        "Petit-Papa-Noel.svg",
         "Petit-Papa-Noel_page_1.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Christmas/Petit-Papa-Noel_page_1.svg"
+      "midi_files": [
+        "Petit-Papa-Noel.midi"
+      ],
+      "svg": "tunes/Christmas/Petit-Papa-Noel.svg",
+      "midi": "tunes/Christmas/Petit-Papa-Noel.midi"
     },
     {
       "title": "Silent Night",
@@ -639,8 +643,11 @@
         "Bach_Violin-Sonata-No.1_4_Presto-2.svg",
         "Bach_Violin-Sonata-No.1_4_Presto-1.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Bach_Violin-Sonata-No.1_4_Presto_page_1.svg"
+      "midi_files": [
+        "Bach_Violin-Sonata-No.1_4_Presto.midi"
+      ],
+      "svg": "tunes/Classical/Bach_Violin-Sonata-No.1_4_Presto_page_1.svg",
+      "midi": "tunes/Classical/Bach_Violin-Sonata-No.1_4_Presto.midi"
     },
     {
       "title": "Berceuse",
@@ -668,13 +675,22 @@
         }
       ],
       "svg_files": [
-        "Brahms-Berceuse_page_1.svg",
         "Brahms-Berceuse-3.svg",
+        "Brahms-Berceuse_page_1.svg",
         "Brahms-Berceuse-1.svg",
         "Brahms-Berceuse-2.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Brahms-Berceuse_page_1.svg"
+      "midi_files": [
+        "Brahms-Berceuse.midi",
+        "Brahms-Berceuse-1.midi",
+        "Brahms-Berceuse-2.midi",
+        "Brahms-Berceuse-6.midi",
+        "Brahms-Berceuse-3.midi",
+        "Brahms-Berceuse-4.midi",
+        "Brahms-Berceuse-5.midi"
+      ],
+      "svg": "tunes/Classical/Brahms-Berceuse-3.svg",
+      "midi": "tunes/Classical/Brahms-Berceuse.midi"
     },
     {
       "title": "Hungarian Dance 4",
@@ -792,8 +808,11 @@
       "svg_files": [
         "Carmen-Fantasy.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Carmen-Fantasy.svg"
+      "midi_files": [
+        "Carmen-Fantasy.midi"
+      ],
+      "svg": "tunes/Classical/Carmen-Fantasy.svg",
+      "midi": "tunes/Classical/Carmen-Fantasy.midi"
     },
     {
       "title": "Can She Excuse My Wrongs",
@@ -1825,12 +1844,15 @@
         }
       ],
       "svg_files": [
-        "Rondo-Veneziano_Odissea-veneziana_page_1.svg",
         "Rondo-Veneziano_Odissea-veneziana-1.svg",
-        "Rondo-Veneziano_Odissea-veneziana-2.svg"
+        "Rondo-Veneziano_Odissea-veneziana-2.svg",
+        "Rondo-Veneziano_Odissea-veneziana_page_1.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Rondo-Veneziano_Odissea-veneziana_page_1.svg"
+      "midi_files": [
+        "Rondo-Veneziano_Odissea-veneziana.midi"
+      ],
+      "svg": "tunes/Classical/Rondo-Veneziano_Odissea-veneziana-1.svg",
+      "midi": "tunes/Classical/Rondo-Veneziano_Odissea-veneziana.midi"
     },
     {
       "title": "Serenade",
@@ -1948,8 +1970,11 @@
         "Tambourin_Gretry-2.svg",
         "Tambourin_Gretry-1.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Tambourin_Gretry_page_1.svg"
+      "midi_files": [
+        "Tambourin_Gretry.midi"
+      ],
+      "svg": "tunes/Classical/Tambourin_Gretry_page_1.svg",
+      "midi": "tunes/Classical/Tambourin_Gretry.midi"
     },
     {
       "title": "The Lark Ascending",
@@ -2298,11 +2323,14 @@
       "svg_files": [
         "Vocalise_Rachmaninoff_page_1.svg",
         "Vocalise_Rachmaninoff_(Em)_page_1.svg",
-        "Vocalise_Rachmaninoff_(Em).svg",
-        "Vocalise_Rachmaninoff.svg"
+        "Vocalise_Rachmaninoff.svg",
+        "Vocalise_Rachmaninoff_(Em).svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Vocalise_Rachmaninoff_page_1.svg"
+      "midi_files": [
+        "Vocalise_Rachmaninoff.midi"
+      ],
+      "svg": "tunes/Classical/Vocalise_Rachmaninoff_page_1.svg",
+      "midi": "tunes/Classical/Vocalise_Rachmaninoff.midi"
     },
     {
       "title": "Kreutzer Étude No. 2",
@@ -3408,18 +3436,18 @@
         }
       ],
       "svg_files": [
-        "Dr-Gilbert_[Matt Cranitch's Book].svg",
         "Dr-Gilbert_page_1.svg",
+        "Dr-Gilbert_[Matt Cranitch's Book].svg",
         "Dr-Gilbert.svg",
         "Dr-Gilbert_[v2].svg"
       ],
       "midi_files": [
-        "Dr-Gilbert_[Matt Cranitch's Book].midi",
         "Dr-Gilbert.midi",
+        "Dr-Gilbert_[Matt Cranitch's Book].midi",
         "Dr-Gilbert_[v2].midi"
       ],
-      "svg": "tunes/Folk_Ireland/Dr-Gilbert_%5BMatt%20Cranitch%27s%20Book%5D.svg",
-      "midi": "tunes/Folk_Ireland/Dr-Gilbert_%5BMatt%20Cranitch%27s%20Book%5D.midi"
+      "svg": "tunes/Folk_Ireland/Dr-Gilbert_page_1.svg",
+      "midi": "tunes/Folk_Ireland/Dr-Gilbert.midi"
     },
     {
       "title": "Gary Owen",
@@ -7286,10 +7314,14 @@
         }
       ],
       "svg_files": [
+        "Douce-France.svg",
         "Douce-France_page_1.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Pop/Douce-France_page_1.svg"
+      "midi_files": [
+        "Douce-France.midi"
+      ],
+      "svg": "tunes/Pop/Douce-France.svg",
+      "midi": "tunes/Pop/Douce-France.midi"
     },
     {
       "title": "Hallelujah",
