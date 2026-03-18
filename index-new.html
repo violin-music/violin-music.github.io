@@ -426,11 +426,17 @@
             const withMidi = filteredTunes.filter(t => t.midi).length;
             const withSvg = filteredTunes.filter(t => t.svg).length;
             const missingPreview = allTunes.filter(t => !t.svg).map(t => t.title);
+            const missingMidi = allTunes.filter(t => !t.midi).map(t => t.title);
 
             let missingSection = '';
             if (missingPreview.length > 0) {
-                missingSection = `<div style="color: #c66; font-size: 0.85rem; margin-top: 0.5rem;">
+                missingSection += `<div style="color: #c66; font-size: 0.85rem; margin-top: 0.5rem;">
                     <strong>Missing preview:</strong> ${missingPreview.join(', ')}
+                </div>`;
+            }
+            if (missingMidi.length > 0) {
+                missingSection += `<div style="color: #c66; font-size: 0.85rem; margin-top: 0.25rem;">
+                    <strong>Missing MIDI:</strong> ${missingMidi.join(', ')}
                 </div>`;
             }
 
