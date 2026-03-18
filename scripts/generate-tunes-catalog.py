@@ -109,6 +109,8 @@ def find_assets_flat(genre_folder_public, tune_folder_name, variants):
     In flat structure, files are named like:
       TuneName_page_1.svg, TuneName.midi
     at the genre root (no tune subfolder).
+
+    Uses case-insensitive matching to handle inconsistencies.
     """
     assets = {
         'svg_files': [],
@@ -118,28 +120,30 @@ def find_assets_flat(genre_folder_public, tune_folder_name, variants):
     if not genre_folder_public.exists():
         return assets
 
-    # Build list of stems to search for (from variants)
+    # Build list of stems to search for (from variants) - lowercase for comparison
     stems_to_find = set()
     for v in variants:
-        stems_to_find.add(v['stem'])
+        stems_to_find.add(v['stem'].lower())
 
     # Also try the folder name itself (normalized)
-    stems_to_find.add(tune_folder_name)
+    stems_to_find.add(tune_folder_name.lower())
 
-    # Search for SVG files
+    # Search for SVG files (case-insensitive)
     for svg_file in genre_folder_public.glob('*.svg'):
+        svg_lower = svg_file.name.lower()
         for stem in stems_to_find:
             # Match patterns like: stem_page_1.svg or stem.svg
-            if svg_file.name.startswith(stem + '_page_') or svg_file.name == stem + '.svg':
+            if svg_lower.startswith(stem + '_page_') or svg_lower == stem + '.svg':
                 if svg_file.name not in assets['svg_files']:
                     assets['svg_files'].append(svg_file.name)
                 break
 
-    # Search for MIDI files
+    # Search for MIDI files (case-insensitive)
     for midi_file in list(genre_folder_public.glob('*.midi')) + list(genre_folder_public.glob('*.mid')):
+        midi_lower = midi_file.name.lower()
         for stem in stems_to_find:
             # Match patterns like: stem.midi or stem-1.midi
-            if midi_file.name.startswith(stem + '.') or midi_file.name.startswith(stem + '-'):
+            if midi_lower.startswith(stem + '.') or midi_lower.startswith(stem + '-'):
                 if midi_file.name not in assets['midi_files']:
                     assets['midi_files'].append(midi_file.name)
                 break
