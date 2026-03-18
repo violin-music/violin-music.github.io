@@ -3402,22 +3402,24 @@
           "stem": "Dr-Gilbert"
         },
         {
-          "filename": "Dr-Gilbert_[v2].ly",
-          "stem": "Dr-Gilbert_[v2]",
-          "arrangement": "v2"
+          "filename": "Dr-Gilbert_[Matt Cranitch's Book].ly",
+          "stem": "Dr-Gilbert_[Matt Cranitch's Book]",
+          "arrangement": "Matt Cranitch's Book"
         }
       ],
       "svg_files": [
-        "Dr-Gilbert_[v2].svg",
+        "Dr-Gilbert_[Matt Cranitch's Book].svg",
         "Dr-Gilbert_page_1.svg",
-        "Dr-Gilbert.svg"
+        "Dr-Gilbert.svg",
+        "Dr-Gilbert_[v2].svg"
       ],
       "midi_files": [
-        "Dr-Gilbert_[v2].midi",
-        "Dr-Gilbert.midi"
+        "Dr-Gilbert_[Matt Cranitch's Book].midi",
+        "Dr-Gilbert.midi",
+        "Dr-Gilbert_[v2].midi"
       ],
-      "svg": "tunes/Folk_Ireland/Dr-Gilbert_%5Bv2%5D.svg",
-      "midi": "tunes/Folk_Ireland/Dr-Gilbert_%5Bv2%5D.midi"
+      "svg": "tunes/Folk_Ireland/Dr-Gilbert_%5BMatt%20Cranitch%27s%20Book%5D.svg",
+      "midi": "tunes/Folk_Ireland/Dr-Gilbert_%5BMatt%20Cranitch%27s%20Book%5D.midi"
     },
     {
       "title": "Gary Owen",
