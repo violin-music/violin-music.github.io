@@ -520,10 +520,10 @@
       ],
       "svg_files": [
         "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_[Practice]_page_1.svg",
-        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore-1.svg",
-        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore-2.svg",
         "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_page_1.svg",
         "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_page_2.svg",
+        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore-1.svg",
+        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore-2.svg",
         "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_[Practice].svg"
       ],
       "midi_files": [
@@ -663,13 +663,13 @@
         }
       ],
       "svg_files": [
-        "Brahms-Berceuse-3.svg",
         "Brahms-Berceuse_page_1.svg",
+        "Brahms-Berceuse-3.svg",
         "Brahms-Berceuse-1.svg",
         "Brahms-Berceuse-2.svg"
       ],
       "midi_files": [],
-      "svg": "tunes/Classical/Brahms-Berceuse-3.svg"
+      "svg": "tunes/Classical/Brahms-Berceuse_page_1.svg"
     },
     {
       "title": "Hungarian Dance 4",
@@ -703,10 +703,10 @@
         }
       ],
       "svg_files": [
-        "Brahms-Hungarian-Dance-4_(Bm).svg",
-        "Brahms-Hungarian-Dance-4 _(Dm).svg",
         "Brahms-Hungarian-Dance-4 _(Dm)_page_1.svg",
-        "Brahms-Hungarian-Dance-4_(Bm)_page_1.svg"
+        "Brahms-Hungarian-Dance-4_(Bm)_page_1.svg",
+        "Brahms-Hungarian-Dance-4_(Bm).svg",
+        "Brahms-Hungarian-Dance-4 _(Dm).svg"
       ],
       "midi_files": [
         "Brahms-Hungarian-Dance-4 _(Dm)-2.midi",
@@ -714,7 +714,7 @@
         "Brahms-Hungarian-Dance-4_(Bm).midi",
         "Brahms-Hungarian-Dance-4 _(Dm)-1.midi"
       ],
-      "svg": "tunes/Classical/Brahms-Hungarian-Dance-4_%28Bm%29.svg",
+      "svg": "tunes/Classical/Brahms-Hungarian-Dance-4%20_%28Dm%29_page_1.svg",
       "midi": "tunes/Classical/Brahms-Hungarian-Dance-4%20_%28Dm%29-2.midi"
     },
     {
@@ -784,8 +784,11 @@
           "stem": "Carmen-Fantasy"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Carmen-Fantasy.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/Carmen-Fantasy.svg"
     },
     {
       "title": "Can She Excuse My Wrongs",
@@ -872,44 +875,43 @@
         }
       ],
       "svg_files": [
-        "The-Mad-Lover_part_Violin.svg",
-        "The-Mad-Lover_(Em)_part_Violin-2.svg",
-        "The-Mad-Lover_part_Viola.svg",
         "The-Mad-Lover_(Em)_Full-Score_page_5.svg",
         "The-Mad-Lover_(Em)_Full-Score_page_4.svg",
         "The-Mad-Lover_(Em)_part_Bass_page_1.svg",
         "The-Mad-Lover_(Em)_Full-Score_page_2.svg",
         "The-Mad-Lover_(Em)_part_Violin_page_2.svg",
         "The-Mad-Lover_(Em)_Full-Score_page_1.svg",
+        "The-Mad-Lover_part_Violin_page_1.svg",
+        "The-Mad-Lover_(Em)_part_Violin_page_1.svg",
+        "The-Mad-Lover_part_Viola_page_1.svg",
+        "The-Mad-Lover_part_Bass_page_1.svg",
+        "The-Mad-Lover_(Em)_Full-Score_page_3.svg",
+        "The-Mad-Lover_(Em)_part_Viola_page_1.svg",
+        "The-Mad-Lover_part_Violin.svg",
+        "The-Mad-Lover_(Em)_part_Violin-2.svg",
+        "The-Mad-Lover_part_Viola.svg",
         "The-Mad-Lover_(Em)_part_Viola.svg",
         "The-Mad-Lover_(Em)_Full-Score-2.svg",
         "The-Mad-Lover_part_Bass.svg",
         "The-Mad-Lover_(Em)_part_Bass.svg",
-        "The-Mad-Lover_part_Violin_page_1.svg",
         "The-Mad-Lover_(Em)_Full-Score-3.svg",
-        "The-Mad-Lover_(Em)_part_Violin_page_1.svg",
-        "The-Mad-Lover_part_Viola_page_1.svg",
-        "The-Mad-Lover_part_Bass_page_1.svg",
         "The-Mad-Lover_(Em)_Full-Score-4.svg",
         "The-Mad-Lover_(Em)_Full-Score-1.svg",
-        "The-Mad-Lover_(Em)_Full-Score_page_3.svg",
         "The-Mad-Lover_(Em)_Full-Score-5.svg",
-        "The-Mad-Lover_(Em)_part_Violin-1.svg",
-        "The-Mad-Lover_(Em)_part_Viola_page_1.svg"
+        "The-Mad-Lover_(Em)_part_Violin-1.svg"
       ],
       "midi_files": [
-        "The-Mad-Lover_(Em)_Full-Score-1.midi",
         "The-Mad-Lover_(Em)_part_Violin.midi",
-        "The-Mad-Lover_part_Viola.midi",
         "The-Mad-Lover_part_Bass.midi",
         "The-Mad-Lover_(Em)_part_Violin-1.midi",
-        "The-Mad-Lover_(Em)_part_Bass.midi",
         "The-Mad-Lover_part_Violin.midi",
+        "The-Mad-Lover_part_Viola.midi",
+        "The-Mad-Lover_(Em)_part_Bass.midi",
         "The-Mad-Lover_(Em)_part_Viola.midi",
         "The-Mad-Lover_(Em)_Full-Score.midi"
       ],
-      "svg": "tunes/Classical/The-Mad-Lover_part_Violin.svg",
-      "midi": "tunes/Classical/The-Mad-Lover_%28Em%29_Full-Score-1.midi"
+      "svg": "tunes/Classical/The-Mad-Lover_%28Em%29_Full-Score_page_5.svg",
+      "midi": "tunes/Classical/The-Mad-Lover_%28Em%29_part_Violin.midi"
     },
     {
       "title": "Folia",
@@ -959,12 +961,12 @@
         "Variazioni-sulla-follia-di-Spagna_page_1.svg",
         "Folia_page_1.svg",
         "Folia_(Dm)_page_1.svg",
-        "Variazioni-sulla-follia-di-Spagna.svg",
         "Folia_[Corelli]_page_1.svg",
+        "Opening-of-Folias_[Lopez-Nogueira]_page_1.svg",
+        "Variazioni-sulla-follia-di-Spagna.svg",
         "Folia_(Dm).svg",
         "Folia_[Corelli].svg",
         "Folia.svg",
-        "Opening-of-Folias_[Lopez-Nogueira]_page_1.svg",
         "Opening-of-Folias_[Lopez-Nogueira].svg"
       ],
       "midi_files": [
@@ -1004,13 +1006,13 @@
         }
       ],
       "svg_files": [
-        "Franck_Violin_Sonata.svg",
-        "Franck_Violin_Sonata_page_1.svg"
+        "Franck_Violin_Sonata_page_1.svg",
+        "Franck_Violin_Sonata.svg"
       ],
       "midi_files": [
         "Franck_Violin_Sonata.midi"
       ],
-      "svg": "tunes/Classical/Franck_Violin_Sonata.svg",
+      "svg": "tunes/Classical/Franck_Violin_Sonata_page_1.svg",
       "midi": "tunes/Classical/Franck_Violin_Sonata.midi"
     },
     {
@@ -1163,17 +1165,17 @@
       ],
       "svg_files": [
         "Kreisler_Praeludium-&-Allegro_page_2.svg",
-        "Practice-Praeludium.svg",
-        "Kreisler_Praeludium-&-Allegro-2.svg",
         "Kreisler_Praeludium-&-Allegro_page_4.svg",
-        "Kreisler_Praeludium-&-Allegro-4.svg",
         "Kreisler_Praeludium-&-Allegro_page_1.svg",
         "Kreisler_Praeludium-&-Allegro_page_5.svg",
+        "Kreisler_Praeludium-&-Allegro_page_3.svg",
+        "Practice-Praeludium_page_1.svg",
+        "Practice-Praeludium.svg",
+        "Kreisler_Praeludium-&-Allegro-2.svg",
+        "Kreisler_Praeludium-&-Allegro-4.svg",
         "Kreisler_Praeludium-&-Allegro-3.svg",
         "Kreisler_Praeludium-&-Allegro-5.svg",
-        "Kreisler_Praeludium-&-Allegro_page_3.svg",
-        "Kreisler_Praeludium-&-Allegro-1.svg",
-        "Practice-Praeludium_page_1.svg"
+        "Kreisler_Praeludium-&-Allegro-1.svg"
       ],
       "midi_files": [
         "Practice-Praeludium.midi"
@@ -1248,14 +1250,14 @@
         }
       ],
       "svg_files": [
-        "Mel-BONIS-Serenade.svg",
-        "Mel-BONIS-Serenade_page_1.svg"
+        "Mel-BONIS-Serenade_page_1.svg",
+        "Mel-BONIS-Serenade.svg"
       ],
       "midi_files": [
         "Mel-BONIS-Serenade.midi",
         "Mel-BONIS-Serenade.mid"
       ],
-      "svg": "tunes/Classical/Mel-BONIS-Serenade.svg",
+      "svg": "tunes/Classical/Mel-BONIS-Serenade_page_1.svg",
       "midi": "tunes/Classical/Mel-BONIS-Serenade.midi"
     },
     {
@@ -1292,15 +1294,15 @@
       "svg_files": [
         "Monti_Csardas_[Quartet]_page_3.svg",
         "Monti_Csardas_[Quartet]_page_1.svg",
-        "Monti-Csardas_[Violin]-1.svg",
         "Monti_Csardas_[Quartet]_page_2.svg",
         "Monti-Csardas_[Violin]_page_2.svg",
-        "Monti-Csardas_[Violin]-2.svg",
         "Monti_Csardas_[Quartet]_page_4.svg",
         "Monti-Csardas_[Violin]_page_3.svg",
         "Monti_Csardas_[Quartet]_page_5.svg",
         "Monti_Csardas_[Quartet]_page_6.svg",
-        "Monti-Csardas_[Violin]_page_1.svg"
+        "Monti-Csardas_[Violin]_page_1.svg",
+        "Monti-Csardas_[Violin]-1.svg",
+        "Monti-Csardas_[Violin]-2.svg"
       ],
       "midi_files": [
         "Monti_Csardas_[Quartet].midi",
@@ -1335,14 +1337,14 @@
         }
       ],
       "svg_files": [
-        "Eine-Kleine-Nachtmusik.svg",
-        "Eine-Kleine-Nachtmusik_page_1.svg"
+        "Eine-Kleine-Nachtmusik_page_1.svg",
+        "Eine-Kleine-Nachtmusik.svg"
       ],
       "midi_files": [
         "Eine-Kleine-Nachtmusik-full.midi",
         "Eine-Kleine-Nachtmusik.midi"
       ],
-      "svg": "tunes/Classical/Eine-Kleine-Nachtmusik.svg",
+      "svg": "tunes/Classical/Eine-Kleine-Nachtmusik_page_1.svg",
       "midi": "tunes/Classical/Eine-Kleine-Nachtmusik-full.midi"
     },
     {
@@ -1375,22 +1377,22 @@
         }
       ],
       "svg_files": [
+        "KV331_3_RondoAllaTurca-Violin_page_2.svg",
+        "KV331_3_RondoAllaTurca-Violin_page_1.svg",
+        "KV331_3_RondoAllaTurca_page_1.svg",
         "KV331_3_RondoAllaTurca-Violin-1.svg",
         "KV331_3_RondoAllaTurca-2.svg",
         "KV331_3_RondoAllaTurca-1.svg",
-        "KV331_3_RondoAllaTurca-Violin_page_2.svg",
         "KV331_3_RondoAllaTurca-4.svg",
         "KV331_3_RondoAllaTurca-3.svg",
-        "KV331_3_RondoAllaTurca-Violin_page_1.svg",
         "KV331_3_RondoAllaTurca-Violin-2.svg",
-        "KV331_3_RondoAllaTurca-5.svg",
-        "KV331_3_RondoAllaTurca_page_1.svg"
+        "KV331_3_RondoAllaTurca-5.svg"
       ],
       "midi_files": [
         "KV331_3_RondoAllaTurca.midi",
         "KV331_3_RondoAllaTurca-Violin.midi"
       ],
-      "svg": "tunes/Classical/KV331_3_RondoAllaTurca-Violin-1.svg",
+      "svg": "tunes/Classical/KV331_3_RondoAllaTurca-Violin_page_2.svg",
       "midi": "tunes/Classical/KV331_3_RondoAllaTurca.midi"
     },
     {
@@ -1435,17 +1437,17 @@
         }
       ],
       "svg_files": [
+        "Pachelbel-Canon-in-D_page_1.svg",
+        "canon-in-D-Rock-Violin_page_3.svg",
+        "canon-in-D-Duet-2_page_1.svg",
+        "canon-in-D-Rock-Violin_page_1.svg",
+        "canon-in-D-Rock-Violin_page_2.svg",
         "canon-in-D-Rock-Violin-2.svg",
         "Pachelbel-Canon-in-D-1.svg",
         "Pachelbel-Canon-in-D-2.svg",
         "canon-in-D-Rock-Violin-3.svg",
-        "Pachelbel-Canon-in-D_page_1.svg",
-        "canon-in-D-Rock-Violin_page_3.svg",
         "canon-in-D-Violin-I._-NEW-relative-2.svg",
         "canon-in-D-Rock-Violin-1.svg",
-        "canon-in-D-Duet-2_page_1.svg",
-        "canon-in-D-Rock-Violin_page_1.svg",
-        "canon-in-D-Rock-Violin_page_2.svg",
         "template-Duet.svg",
         "canon-in-D-Duet-2.svg",
         "canon-in-D-Violin-I._-NEW-relative-1.svg"
@@ -1453,7 +1455,7 @@
       "midi_files": [
         "canon-in-D-Duet-2.midi"
       ],
-      "svg": "tunes/Classical/canon-in-D-Rock-Violin-2.svg",
+      "svg": "tunes/Classical/Pachelbel-Canon-in-D_page_1.svg",
       "midi": "tunes/Classical/canon-in-D-Duet-2.midi"
     },
     {
@@ -1555,13 +1557,13 @@
         }
       ],
       "svg_files": [
-        "Io-Ti-Penso-Amore.svg",
-        "Io-Ti-Penso-Amore_page_1.svg"
+        "Io-Ti-Penso-Amore_page_1.svg",
+        "Io-Ti-Penso-Amore.svg"
       ],
       "midi_files": [
         "Io-Ti-Penso-Amore.midi"
       ],
-      "svg": "tunes/Classical/Io-Ti-Penso-Amore.svg",
+      "svg": "tunes/Classical/Io-Ti-Penso-Amore_page_1.svg",
       "midi": "tunes/Classical/Io-Ti-Penso-Amore.midi"
     },
     {
@@ -1595,8 +1597,8 @@
       ],
       "svg_files": [
         "Passacaglia_Arpegios_page_1.svg",
-        "Passacaglia_double-stops.svg",
         "Passacaglia_double-stops_page_1.svg",
+        "Passacaglia_double-stops.svg",
         "Passacaglia_Arpegios.svg"
       ],
       "midi_files": [
@@ -1641,13 +1643,13 @@
         }
       ],
       "svg_files": [
-        "Portnoff_Russian-Fantasia-2_Violin.svg",
-        "Portnoff_Russian-Fantasia-2_[Violin]_page_1.svg"
+        "Portnoff_Russian-Fantasia-2_[Violin]_page_1.svg",
+        "Portnoff_Russian-Fantasia-2_Violin.svg"
       ],
       "midi_files": [
         "Portnoff_Russian-Fantasia-2_[Violin].midi"
       ],
-      "svg": "tunes/Classical/Portnoff_Russian-Fantasia-2_Violin.svg",
+      "svg": "tunes/Classical/Portnoff_Russian-Fantasia-2_%5BViolin%5D_page_1.svg",
       "midi": "tunes/Classical/Portnoff_Russian-Fantasia-2_%5BViolin%5D.midi"
     },
     {
@@ -1711,13 +1713,13 @@
         }
       ],
       "svg_files": [
-        "Giacomo-Puccini-Nessun-dorma.svg",
-        "Giacomo-Puccini-Nessun-dorma_page_1.svg"
+        "Giacomo-Puccini-Nessun-dorma_page_1.svg",
+        "Giacomo-Puccini-Nessun-dorma.svg"
       ],
       "midi_files": [
         "Giacomo-Puccini-Nessun-dorma.midi"
       ],
-      "svg": "tunes/Classical/Giacomo-Puccini-Nessun-dorma.svg",
+      "svg": "tunes/Classical/Giacomo-Puccini-Nessun-dorma_page_1.svg",
       "midi": "tunes/Classical/Giacomo-Puccini-Nessun-dorma.midi"
     },
     {
@@ -1746,14 +1748,14 @@
         }
       ],
       "svg_files": [
-        "Scheherazade-Mvt-2-Themes-Violin.svg",
-        "Scheherazade-Mvt-2-Themes-Violin_page_1.svg"
+        "Scheherazade-Mvt-2-Themes-Violin_page_1.svg",
+        "Scheherazade-Mvt-2-Themes-Violin.svg"
       ],
       "midi_files": [
         "Scheherazade-Mvt-2-Themes-Violin.midi",
         "Scheherazade-Mvt-2-Themes-Violin-1.midi"
       ],
-      "svg": "tunes/Classical/Scheherazade-Mvt-2-Themes-Violin.svg",
+      "svg": "tunes/Classical/Scheherazade-Mvt-2-Themes-Violin_page_1.svg",
       "midi": "tunes/Classical/Scheherazade-Mvt-2-Themes-Violin.midi"
     },
     {
@@ -1782,13 +1784,13 @@
         }
       ],
       "svg_files": [
-        "Violin-Solo-fm-Sheherazade_Rimsky-Korsakov.svg",
-        "Violin-Solo-fm-Sheherazade_Rimsky-Korsakov_page_1.svg"
+        "Violin-Solo-fm-Sheherazade_Rimsky-Korsakov_page_1.svg",
+        "Violin-Solo-fm-Sheherazade_Rimsky-Korsakov.svg"
       ],
       "midi_files": [
         "Violin-Solo-fm-Sheherazade_Rimsky-Korsakov.midi"
       ],
-      "svg": "tunes/Classical/Violin-Solo-fm-Sheherazade_Rimsky-Korsakov.svg",
+      "svg": "tunes/Classical/Violin-Solo-fm-Sheherazade_Rimsky-Korsakov_page_1.svg",
       "midi": "tunes/Classical/Violin-Solo-fm-Sheherazade_Rimsky-Korsakov.midi"
     },
     {
@@ -1817,12 +1819,12 @@
         }
       ],
       "svg_files": [
+        "Rondo-Veneziano_Odissea-veneziana_page_1.svg",
         "Rondo-Veneziano_Odissea-veneziana-1.svg",
-        "Rondo-Veneziano_Odissea-veneziana-2.svg",
-        "Rondo-Veneziano_Odissea-veneziana_page_1.svg"
+        "Rondo-Veneziano_Odissea-veneziana-2.svg"
       ],
       "midi_files": [],
-      "svg": "tunes/Classical/Rondo-Veneziano_Odissea-veneziana-1.svg"
+      "svg": "tunes/Classical/Rondo-Veneziano_Odissea-veneziana_page_1.svg"
     },
     {
       "title": "Serenade",
@@ -1858,15 +1860,15 @@
         }
       ],
       "svg_files": [
-        "Serenade_Overlay_Fingerings.svg",
-        "Schubert_Serenade.svg",
         "Practice_Arpeggios_Schubert_Serenade_page_1.svg",
         "Schubert_Serenade_page_1.svg",
-        "Practice_Arpeggios_Schubert_Serenade.svg",
-        "Serenade_Overlay_Fingerings_page_1.svg"
+        "Serenade_Overlay_Fingerings_page_1.svg",
+        "Serenade_Overlay_Fingerings.svg",
+        "Schubert_Serenade.svg",
+        "Practice_Arpeggios_Schubert_Serenade.svg"
       ],
       "midi_files": [],
-      "svg": "tunes/Classical/Serenade_Overlay_Fingerings.svg"
+      "svg": "tunes/Classical/Practice_Arpeggios_Schubert_Serenade_page_1.svg"
     },
     {
       "title": "Waltz 2",
@@ -1895,9 +1897,9 @@
       ],
       "svg_files": [
         "Shostakovich-Waltz-2_page_2.svg",
+        "Shostakovich-Waltz-2_page_1.svg",
         "Shostakovich-Waltz-2-1.svg",
-        "Shostakovich-Waltz-2-2.svg",
-        "Shostakovich-Waltz-2_page_1.svg"
+        "Shostakovich-Waltz-2-2.svg"
       ],
       "midi_files": [
         "Shostakovich-Waltz-2.midi",
@@ -1967,11 +1969,11 @@
         }
       ],
       "svg_files": [
-        "The-Lark-Ascending_[Practice].svg",
-        "The-Lark-Ascending_[Practice]_page_1.svg"
+        "The-Lark-Ascending_[Practice]_page_1.svg",
+        "The-Lark-Ascending_[Practice].svg"
       ],
       "midi_files": [],
-      "svg": "tunes/Classical/The-Lark-Ascending_%5BPractice%5D.svg"
+      "svg": "tunes/Classical/The-Lark-Ascending_%5BPractice%5D_page_1.svg"
     },
     {
       "title": "Vivaldi Style Rosalia",
@@ -2057,6 +2059,60 @@
         }
       ],
       "svg_files": [
+        "summer-viola_page_2.svg",
+        "summer-score_page_1.svg",
+        "summer-solo_page_6.svg",
+        "summer-score_page_11.svg",
+        "summer-presto-solo_page_4.svg",
+        "summer-score_page_18.svg",
+        "summer-score_page_22.svg",
+        "summer-score_page_3.svg",
+        "summer-presto-solo_page_1.svg",
+        "summer-violin1_page_5.svg",
+        "summer-violin2_page_3.svg",
+        "summer-solo_page_5.svg",
+        "summer-score_page_16.svg",
+        "summer-score_page_13.svg",
+        "summer-violin1_page_3.svg",
+        "summer-violin1_page_6.svg",
+        "summer-cello_page_4.svg",
+        "summer-solo_page_2.svg",
+        "summer-solo_page_3.svg",
+        "summer-score_page_17.svg",
+        "summer-viola_page_3.svg",
+        "summer-score_page_15.svg",
+        "summer-score_page_19.svg",
+        "summer-cello_page_5.svg",
+        "summer-presto-solo_page_2.svg",
+        "summer-score_page_6.svg",
+        "summer-score_page_24.svg",
+        "summer-violin2_page_4.svg",
+        "summer-score_page_8.svg",
+        "summer-score_page_2.svg",
+        "summer-violin1_page_1.svg",
+        "summer-cello_page_2.svg",
+        "summer-score_page_20.svg",
+        "summer-score_page_23.svg",
+        "summer-score_page_7.svg",
+        "summer-score_page_14.svg",
+        "summer-solo_page_1.svg",
+        "summer-violin2_page_5.svg",
+        "summer-violin2_page_2.svg",
+        "summer-score_page_4.svg",
+        "summer-cello_page_1.svg",
+        "summer-violin1_page_2.svg",
+        "summer-cello_page_3.svg",
+        "summer-viola_page_4.svg",
+        "summer-viola_page_1.svg",
+        "summer-score_page_10.svg",
+        "summer-score_page_5.svg",
+        "summer-presto-solo_page_3.svg",
+        "summer-violin1_page_4.svg",
+        "summer-score_page_21.svg",
+        "summer-violin2_page_1.svg",
+        "summer-solo_page_4.svg",
+        "summer-score_page_9.svg",
+        "summer-score_page_12.svg",
         "summer-score-22.svg",
         "summer-violin1-3.svg",
         "summer-violin2-3.svg",
@@ -2066,112 +2122,58 @@
         "summer-score-17.svg",
         "summer-score-12.svg",
         "summer-score-15.svg",
-        "summer-viola_page_2.svg",
         "summer-violin1-4.svg",
-        "summer-score_page_1.svg",
         "summer-violin2-2.svg",
         "summer-presto-solo-1.svg",
         "summer-score-10.svg",
         "summer-score-8.svg",
         "summer-presto-solo-4.svg",
-        "summer-solo_page_6.svg",
-        "summer-score_page_11.svg",
         "summer-cello-2.svg",
-        "summer-presto-solo_page_4.svg",
         "summer-score-5.svg",
-        "summer-score_page_18.svg",
-        "summer-score_page_22.svg",
         "summer-cello-1.svg",
-        "summer-score_page_3.svg",
         "summer-score-11.svg",
-        "summer-presto-solo_page_1.svg",
-        "summer-violin1_page_5.svg",
-        "summer-violin2_page_3.svg",
         "summer-solo-2.svg",
         "summer-solo-5.svg",
-        "summer-solo_page_5.svg",
         "summer-solo-3.svg",
-        "summer-score_page_16.svg",
-        "summer-score_page_13.svg",
-        "summer-violin1_page_3.svg",
-        "summer-violin1_page_6.svg",
-        "summer-cello_page_4.svg",
         "summer-viola-3.svg",
-        "summer-solo_page_2.svg",
         "summer-cello-5.svg",
-        "summer-solo_page_3.svg",
         "summer-score-4.svg",
-        "summer-score_page_17.svg",
         "summer-score-18.svg",
         "summer-score-6.svg",
         "summer-score-19.svg",
         "summer-score-1.svg",
-        "summer-viola_page_3.svg",
         "summer-solo-4.svg",
-        "summer-score_page_15.svg",
         "summer-violin1-5.svg",
-        "summer-score_page_19.svg",
         "summer-score-13.svg",
-        "summer-cello_page_5.svg",
-        "summer-presto-solo_page_2.svg",
         "summer-solo-1.svg",
         "summer-violin1-6.svg",
         "summer-cello-4.svg",
         "summer-presto-solo-3.svg",
-        "summer-score_page_6.svg",
         "summer-score-3.svg",
-        "summer-score_page_24.svg",
         "summer-score-21.svg",
         "summer-violin2-1.svg",
-        "summer-violin2_page_4.svg",
         "summer-viola-1.svg",
-        "summer-score_page_8.svg",
         "summer-score-7.svg",
-        "summer-score_page_2.svg",
-        "summer-violin1_page_1.svg",
-        "summer-cello_page_2.svg",
-        "summer-score_page_20.svg",
         "summer-presto-solo-2.svg",
-        "summer-score_page_23.svg",
         "summer-score-20.svg",
-        "summer-score_page_7.svg",
-        "summer-score_page_14.svg",
-        "summer-solo_page_1.svg",
-        "summer-violin2_page_5.svg",
         "summer-score-23.svg",
-        "summer-violin2_page_2.svg",
         "summer-score-2.svg",
-        "summer-score_page_4.svg",
-        "summer-cello_page_1.svg",
-        "summer-violin1_page_2.svg",
         "summer-viola-4.svg",
-        "summer-cello_page_3.svg",
         "summer-violin1-2.svg",
         "summer-violin2-4.svg",
         "summer-score-9.svg",
-        "summer-viola_page_4.svg",
-        "summer-viola_page_1.svg",
-        "summer-score_page_10.svg",
         "summer-score-24.svg",
-        "summer-score_page_5.svg",
-        "summer-presto-solo_page_3.svg",
         "summer-violin2-5.svg",
-        "summer-violin1_page_4.svg",
         "summer-viola-2.svg",
         "summer-score-14.svg",
-        "summer-score_page_21.svg",
-        "summer-violin2_page_1.svg",
-        "summer-solo_page_4.svg",
-        "summer-score-16.svg",
-        "summer-score_page_9.svg",
-        "summer-score_page_12.svg"
+        "summer-score-16.svg"
       ],
       "midi_files": [
         "summer-score-2.midi",
         "summer-score.midi",
         "summer-score-1.midi"
       ],
-      "svg": "tunes/Classical/summer-score-22.svg",
+      "svg": "tunes/Classical/summer-viola_page_2.svg",
       "midi": "tunes/Classical/summer-score-2.midi"
     },
     {
@@ -2200,13 +2202,13 @@
         }
       ],
       "svg_files": [
-        "Vivaldi_Concerto_Sol-Minor_rv316.svg",
-        "Vivaldi_Concerto_Sol-Minor_rv316_page_1.svg"
+        "Vivaldi_Concerto_Sol-Minor_rv316_page_1.svg",
+        "Vivaldi_Concerto_Sol-Minor_rv316.svg"
       ],
       "midi_files": [
         "Vivaldi_Concerto_Sol-Minor_rv316.midi"
       ],
-      "svg": "tunes/Classical/Vivaldi_Concerto_Sol-Minor_rv316.svg",
+      "svg": "tunes/Classical/Vivaldi_Concerto_Sol-Minor_rv316_page_1.svg",
       "midi": "tunes/Classical/Vivaldi_Concerto_Sol-Minor_rv316.midi"
     },
     {
@@ -2276,13 +2278,13 @@
         }
       ],
       "svg_files": [
-        "Vocalise_Rachmaninoff_(Em).svg",
         "Vocalise_Rachmaninoff_page_1.svg",
         "Vocalise_Rachmaninoff_(Em)_page_1.svg",
+        "Vocalise_Rachmaninoff_(Em).svg",
         "Vocalise_Rachmaninoff.svg"
       ],
       "midi_files": [],
-      "svg": "tunes/Classical/Vocalise_Rachmaninoff_%28Em%29.svg"
+      "svg": "tunes/Classical/Vocalise_Rachmaninoff_page_1.svg"
     },
     {
       "title": "Kreutzer Étude No. 2",
@@ -2861,13 +2863,13 @@
         }
       ],
       "svg_files": [
-        "Jean-Petit-qui-Danse_page_1.svg",
-        "Jean-Petit-qui-Danse.svg"
+        "Jean-Petit-qui-Danse.svg",
+        "Jean-Petit-qui-Danse_page_1.svg"
       ],
       "midi_files": [
         "Jean-Petit-qui-Danse.midi"
       ],
-      "svg": "tunes/Folk_French/Jean-Petit-qui-Danse_page_1.svg",
+      "svg": "tunes/Folk_French/Jean-Petit-qui-Danse.svg",
       "midi": "tunes/Folk_French/Jean-Petit-qui-Danse.midi"
     },
     {
@@ -4362,23 +4364,22 @@
       "session_friendliness": "",
       "notes": "",
       "genre_folder": "Folk_Jewish",
-      "tune_folder": "Hatikva",
+      "tune_folder": "Hatikvah",
       "variants": [
         {
-          "filename": "hatikva.ly",
-          "stem": "hatikva"
+          "filename": "Hatikvah.ly",
+          "stem": "Hatikvah"
         }
       ],
       "svg_files": [
-        "hatikva_page_1.svg",
-        "hatikva-1.svg",
-        "hatikva-2.svg"
+        "Hatikvah-2.svg",
+        "Hatikvah-1.svg"
       ],
       "midi_files": [
-        "hatikva.midi"
+        "Hatikvah.midi"
       ],
-      "svg": "tunes/Folk_Jewish/hatikva_page_1.svg",
-      "midi": "tunes/Folk_Jewish/hatikva.midi"
+      "svg": "tunes/Folk_Jewish/Hatikvah-2.svg",
+      "midi": "tunes/Folk_Jewish/Hatikvah.midi"
     },
     {
       "title": "Hevenu shalom aleichem",
@@ -7505,10 +7506,13 @@
           "stem": "La-Vie-en-Rose"
         }
       ],
-      "svg_files": [],
+      "svg_files": [
+        "La-Vie-en-Rose.svg"
+      ],
       "midi_files": [
         "La-Vie-en-Rose.midi"
       ],
+      "svg": "tunes/Pop/La-Vie-en-Rose.svg",
       "midi": "tunes/Pop/La-Vie-en-Rose.midi"
     },
     {
