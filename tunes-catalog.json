@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 137,
+  "tune_count": 187,
   "tunes": [
     {
       "title": "Carol of the Bells",
@@ -24,22 +24,9 @@
       "tune_folder": "Carol-of-the-bells",
       "variants": [
         {
-          "filename": "Carol-of-the-bells_Violin_(Am).ly",
-          "stem": "Carol-of-the-bells_Violin_(Am)",
-          "key_variant": "Am"
-        },
-        {
           "filename": "Carol-of-the-bells_Violin_(Em).ly",
           "stem": "Carol-of-the-bells_Violin_(Em)",
           "key_variant": "Em"
-        },
-        {
-          "filename": "Practice-Carol-of-the-Bells.ly",
-          "stem": "Practice-Carol-of-the-Bells"
-        },
-        {
-          "filename": "Carol-of-the-bells_SATB.ly",
-          "stem": "Carol-of-the-bells_SATB"
         },
         {
           "filename": "Carol-of-the-bells_Violin_(Dm).ly",
@@ -50,33 +37,46 @@
           "filename": "Carol-of-the-bells_Violin_(Gm).ly",
           "stem": "Carol-of-the-bells_Violin_(Gm)",
           "key_variant": "Gm"
+        },
+        {
+          "filename": "Practice-Carol-of-the-Bells.ly",
+          "stem": "Practice-Carol-of-the-Bells"
+        },
+        {
+          "filename": "Carol-of-the-bells_SATB.ly",
+          "stem": "Carol-of-the-bells_SATB"
+        },
+        {
+          "filename": "Carol-of-the-bells_Violin_(Am).ly",
+          "stem": "Carol-of-the-bells_Violin_(Am)",
+          "key_variant": "Am"
         }
       ],
       "svg_files": [
-        "Carol-of-the-bells_SATB_page_3.svg",
-        "Carol-of-the-bells_SATB_page_7.svg",
-        "Carol-of-the-bells_SATB_page_4.svg",
         "Carol-of-the-bells_Violin_(Gm)_page_1.svg",
-        "Carol-of-the-bells_Violin_(Em)_page_1.svg",
-        "Practice-Carol-of-the-Bells_page_1.svg",
-        "Carol-of-the-bells_SATB_page_5.svg",
+        "Carol-of-the-bells_SATB_page_2.svg",
+        "Carol-of-the-bells_SATB_page_3.svg",
         "Carol-of-the-bells_SATB_page_1.svg",
-        "Carol-of-the-bells_SATB_page_6.svg",
+        "Carol-of-the-bells_SATB_page_4.svg",
+        "Carol-of-the-bells_SATB_page_5.svg",
         "Carol-of-the-bells_Violin_(Am)_page_1.svg",
+        "Carol-of-the-bells_SATB_page_7.svg",
+        "Carol-of-the-bells_SATB_page_6.svg",
+        "Practice-Carol-of-the-Bells_page_1.svg",
         "Carol-of-the-bells_Violin_(Dm)_page_1.svg",
-        "Carol-of-the-bells_SATB_page_2.svg"
+        "Carol-of-the-bells_Violin_(Em)_page_1.svg"
       ],
       "midi_files": [
-        "Practice-Carol-of-the-Bells.midi",
         "Carol-of-the-bells_Violin_(Dm).midi",
         "Carol-of-the-bells_SATB.midi",
-        "Carol-of-the-bells_Violin_(Gm).midi",
-        "Carol-of-the-bells_Violin_(Am).midi",
+        "Carol-of-the-bells_SATB-full.midi",
+        "Practice-Carol-of-the-Bells.midi",
         "Carol-of-the-bells_Violin_(Em).midi",
-        "Carol-of-the-bells_SATB-full.midi"
+        "Carol-of-the-bells_Violin_(Gm).midi",
+        "Carol-of-the-bells_Violin_(Am).midi"
       ],
-      "svg": "tunes/Christmas/Carol-of-the-bells_SATB_page_3.svg",
-      "midi": "tunes/Christmas/Practice-Carol-of-the-Bells.midi"
+      "svg": "tunes/Christmas/Carol-of-the-bells_Violin_%28Gm%29_page_1.svg",
+      "midi": "tunes/Christmas/Carol-of-the-bells_Violin_%28Dm%29.midi"
     },
     {
       "title": "Deck the Halls",
@@ -277,14 +277,14 @@
         }
       ],
       "svg_files": [
-        "Let-It-Snow_(F)_page_1.svg",
-        "Let-It-Snow_(G)_page_1.svg"
+        "Let-It-Snow_(G)_page_1.svg",
+        "Let-It-Snow_(F)_page_1.svg"
       ],
       "midi_files": [
         "Let-It-Snow_(G).midi",
         "Let-It-Snow_(F).midi"
       ],
-      "svg": "tunes/Christmas/Let-It-Snow_%28F%29_page_1.svg",
+      "svg": "tunes/Christmas/Let-It-Snow_%28G%29_page_1.svg",
       "midi": "tunes/Christmas/Let-It-Snow_%28G%29.midi"
     },
     {
@@ -373,19 +373,14 @@
       "tune_folder": "Silent-Night",
       "variants": [
         {
-          "filename": "Silent-Night_(E).ly",
-          "stem": "Silent-Night_(E)",
-          "key_variant": "E"
-        },
-        {
           "filename": "Silent-Night_(G).ly",
           "stem": "Silent-Night_(G)",
           "key_variant": "G"
         },
         {
-          "filename": "Silent-Night_(A).ly",
-          "stem": "Silent-Night_(A)",
-          "key_variant": "A"
+          "filename": "Silent-Night_(E).ly",
+          "stem": "Silent-Night_(E)",
+          "key_variant": "E"
         },
         {
           "filename": "Silent-Night_(D).ly",
@@ -393,27 +388,31 @@
           "key_variant": "D"
         },
         {
+          "filename": "Silent-Night_(A).ly",
+          "stem": "Silent-Night_(A)",
+          "key_variant": "A"
+        },
+        {
           "filename": "Silent-Night.ly",
           "stem": "Silent-Night"
         }
       ],
       "svg_files": [
-        "Silent-Night_(A)_page_1.svg",
-        "Silent-Night_(G)_page_1.svg",
-        "Silent-Night_range.svg",
-        "Silent-Night_(D)_page_1.svg",
+        "Silent-Night_(E)_page_1.svg",
         "Silent-Night_page_1.svg",
-        "Silent-Night_(E)_page_1.svg"
+        "Silent-Night_(D)_page_1.svg",
+        "Silent-Night_(A)_page_1.svg",
+        "Silent-Night_(G)_page_1.svg"
       ],
       "midi_files": [
-        "Silent-Night_(D).midi",
-        "Silent-Night_(G).midi",
-        "Silent-Night_(E).midi",
         "Silent-Night.midi",
-        "Silent-Night_(A).midi"
+        "Silent-Night_(D).midi",
+        "Silent-Night_(A).midi",
+        "Silent-Night_(G).midi",
+        "Silent-Night_(E).midi"
       ],
-      "svg": "tunes/Christmas/Silent-Night_%28A%29_page_1.svg",
-      "midi": "tunes/Christmas/Silent-Night_%28D%29.midi"
+      "svg": "tunes/Christmas/Silent-Night_%28E%29_page_1.svg",
+      "midi": "tunes/Christmas/Silent-Night.midi"
     },
     {
       "title": "The First Noel",
@@ -436,22 +435,22 @@
       "tune_folder": "The-First-Noel",
       "variants": [
         {
-          "filename": "The-First-Noel.ly",
-          "stem": "The-First-Noel"
-        },
-        {
           "filename": "The-First-Noel_Duet.ly",
           "stem": "The-First-Noel_Duet"
+        },
+        {
+          "filename": "The-First-Noel.ly",
+          "stem": "The-First-Noel"
         }
       ],
       "svg_files": [
-        "The-First-Noel_page_1.svg",
-        "The-First-Noel_Duet_page_1.svg"
+        "The-First-Noel_Duet_page_1.svg",
+        "The-First-Noel_page_1.svg"
       ],
       "midi_files": [
         "The-First-Noel.midi"
       ],
-      "svg": "tunes/Christmas/The-First-Noel_page_1.svg",
+      "svg": "tunes/Christmas/The-First-Noel_Duet_page_1.svg",
       "midi": "tunes/Christmas/The-First-Noel.midi"
     },
     {
@@ -489,13 +488,1647 @@
       "midi": "tunes/Christmas/We-Wish-You-a-Merry-Christmas.midi"
     },
     {
+      "title": "Adagio",
+      "composer": "Albinoni",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Albinoni_Adagio",
+      "variants": [
+        {
+          "filename": "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_[Practice].ly",
+          "stem": "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_[Practice]",
+          "arrangement": "Practice"
+        },
+        {
+          "filename": "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore.ly",
+          "stem": "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore"
+        }
+      ],
+      "svg_files": [
+        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_page_2.svg",
+        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_page_1.svg",
+        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_[Practice]_page_1.svg"
+      ],
+      "midi_files": [
+        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore.midi"
+      ],
+      "svg": "tunes/Classical/Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_page_2.svg",
+      "midi": "tunes/Classical/Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore.midi"
+    },
+    {
+      "title": "Badinerie",
+      "composer": "Bach",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Bach_Badinerie",
+      "variants": [
+        {
+          "filename": "Bach-Badinerie.ly",
+          "stem": "Bach-Badinerie"
+        }
+      ],
+      "svg_files": [
+        "Bach-Badinerie_page_1.svg"
+      ],
+      "midi_files": [
+        "Bach-Badinerie.midi"
+      ],
+      "svg": "tunes/Classical/Bach-Badinerie_page_1.svg",
+      "midi": "tunes/Classical/Bach-Badinerie.midi"
+    },
+    {
+      "title": "Bourrée in E minor",
+      "composer": "Bach",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Bach_Bourrée-in-E-minor",
+      "variants": [
+        {
+          "filename": "Bach_Bourrée-in-E-minor.ly",
+          "stem": "Bach_Bourrée-in-E-minor"
+        }
+      ],
+      "svg_files": [
+        "Bach_Bourrée-in-E-minor_page_1.svg",
+        "Bach_Bourrée-in-E-minor.svg"
+      ],
+      "midi_files": [
+        "Bach_Bourrée-in-E-minor.midi"
+      ],
+      "svg": "tunes/Classical/Bach_Bourr%C3%A9e-in-E-minor_page_1.svg",
+      "midi": "tunes/Classical/Bach_Bourr%C3%A9e-in-E-minor.midi"
+    },
+    {
+      "title": "Violin Sonata No.1 bwv 1001 4 Presto",
+      "composer": "Bach",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Bach_Violin-Sonata-No.1_bwv-1001_4_Presto",
+      "variants": [
+        {
+          "filename": "Bach_Violin-Sonata-No.1_4_Presto.ly",
+          "stem": "Bach_Violin-Sonata-No.1_4_Presto"
+        }
+      ],
+      "svg_files": [
+        "Bach_Violin-Sonata-No.1_4_Presto_page_1.svg",
+        "Bach_Violin-Sonata-No.1_4_Presto_page_2.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/Bach_Violin-Sonata-No.1_4_Presto_page_1.svg"
+    },
+    {
+      "title": "Berceuse",
+      "composer": "Brahms",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Brahms_Berceuse",
+      "variants": [
+        {
+          "filename": "Brahms-Berceuse.ly",
+          "stem": "Brahms-Berceuse"
+        }
+      ],
+      "svg_files": [
+        "Brahms-Berceuse_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/Brahms-Berceuse_page_1.svg"
+    },
+    {
+      "title": "Hungarian Dance 4",
+      "composer": "Brahms",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Brahms_Hungarian-Dance-4",
+      "variants": [
+        {
+          "filename": "Brahms-Hungarian-Dance-4_(Bm).ly",
+          "stem": "Brahms-Hungarian-Dance-4_(Bm)",
+          "key_variant": "Bm"
+        },
+        {
+          "filename": "Brahms-Hungarian-Dance-4 _(Dm).ly",
+          "stem": "Brahms-Hungarian-Dance-4 _(Dm)",
+          "key_variant": "Dm"
+        }
+      ],
+      "svg_files": [
+        "Brahms-Hungarian-Dance-4_(Bm)_page_1.svg",
+        "Brahms-Hungarian-Dance-4 _(Dm)_page_1.svg"
+      ],
+      "midi_files": [
+        "Brahms-Hungarian-Dance-4_(Bm).midi",
+        "Brahms-Hungarian-Dance-4 _(Dm)-1.midi",
+        "Brahms-Hungarian-Dance-4 _(Dm).midi",
+        "Brahms-Hungarian-Dance-4 _(Dm)-2.midi"
+      ],
+      "svg": "tunes/Classical/Brahms-Hungarian-Dance-4_%28Bm%29_page_1.svg",
+      "midi": "tunes/Classical/Brahms-Hungarian-Dance-4_%28Bm%29.midi"
+    },
+    {
+      "title": "Siciliano",
+      "composer": "Carcassi",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Carcassi_Siciliano",
+      "variants": [
+        {
+          "filename": "Siciliano-by-Carcassi.ly",
+          "stem": "Siciliano-by-Carcassi"
+        }
+      ],
+      "svg_files": [
+        "Siciliano-by-Carcassi_page_1.svg"
+      ],
+      "midi_files": [
+        "Siciliano-by-Carcassi.midi"
+      ],
+      "svg": "tunes/Classical/Siciliano-by-Carcassi_page_1.svg",
+      "midi": "tunes/Classical/Siciliano-by-Carcassi.midi"
+    },
+    {
+      "title": "Carmen Fantasy",
+      "composer": "Pablo de Sarasate",
+      "country": "Spain",
+      "country_flag": "🇪🇸",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "D minor",
+      "time_sig": "3/8",
+      "difficulty": "Advanced",
+      "tags": [
+        "virtuoso",
+        "sarasate",
+        "opera"
+      ],
+      "moods": [
+        "dramatic",
+        "passionate"
+      ],
+      "session_friendliness": "",
+      "notes": "Work in progress - first 14 bars transcribed",
+      "genre_folder": "Classical",
+      "tune_folder": "Carmen-Fantasy",
+      "variants": [
+        {
+          "filename": "Carmen-Fantasy.ly",
+          "stem": "Carmen-Fantasy"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Can She Excuse My Wrongs",
+      "composer": "Dowland",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Dowland_Can-She-Excuse-My-Wrongs",
+      "variants": [
+        {
+          "filename": "Can-she-excuse-my-wrongs_(John-Dowland).ly",
+          "stem": "Can-she-excuse-my-wrongs_(John-Dowland)"
+        }
+      ],
+      "svg_files": [
+        "Can-she-excuse-my-wrongs_(John-Dowland)_page_1.svg"
+      ],
+      "midi_files": [
+        "Can-she-excuse-my-wrongs_(John-Dowland).midi"
+      ],
+      "svg": "tunes/Classical/Can-she-excuse-my-wrongs_%28John-Dowland%29_page_1.svg",
+      "midi": "tunes/Classical/Can-she-excuse-my-wrongs_%28John-Dowland%29.midi"
+    },
+    {
+      "title": "The Mad Lover",
+      "composer": "Eccles",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Eccles_The-Mad-Lover",
+      "variants": [
+        {
+          "filename": "The-Mad-Lover_(Em)_Full-Score.ly",
+          "stem": "The-Mad-Lover_(Em)_Full-Score"
+        },
+        {
+          "filename": "The-Mad-Lover_(Em)_part_Violin.ly",
+          "stem": "The-Mad-Lover_(Em)_part_Violin"
+        },
+        {
+          "filename": "The-Mad-Lover_(Em)_part_Viola.ly",
+          "stem": "The-Mad-Lover_(Em)_part_Viola"
+        },
+        {
+          "filename": "The-Mad-Lover_part_Violin.ly",
+          "stem": "The-Mad-Lover_part_Violin"
+        },
+        {
+          "filename": "The-Mad-Lover_(Em)_part_Bass.ly",
+          "stem": "The-Mad-Lover_(Em)_part_Bass"
+        },
+        {
+          "filename": "The-Mad-Lover_part_Viola.ly",
+          "stem": "The-Mad-Lover_part_Viola"
+        },
+        {
+          "filename": "The-Mad-Lover_part_Bass.ly",
+          "stem": "The-Mad-Lover_part_Bass"
+        }
+      ],
+      "svg_files": [
+        "The-Mad-Lover_(Em)_part_Violin_page_2.svg",
+        "The-Mad-Lover_part_Bass_page_1.svg",
+        "The-Mad-Lover_(Em)_part_Violin_page_1.svg",
+        "The-Mad-Lover_part_Viola_page_1.svg",
+        "The-Mad-Lover_(Em)_Full-Score_page_2.svg",
+        "The-Mad-Lover_(Em)_Full-Score_page_3.svg",
+        "The-Mad-Lover_(Em)_Full-Score_page_1.svg",
+        "The-Mad-Lover_(Em)_Full-Score_page_4.svg",
+        "The-Mad-Lover_(Em)_Full-Score_page_5.svg",
+        "The-Mad-Lover_(Em)_part_Bass_page_1.svg",
+        "The-Mad-Lover_part_Violin_page_1.svg",
+        "The-Mad-Lover_(Em)_part_Viola_page_1.svg"
+      ],
+      "midi_files": [
+        "The-Mad-Lover_(Em)_part_Violin-1.midi",
+        "The-Mad-Lover_(Em)_part_Violin.midi",
+        "The-Mad-Lover_part_Violin.midi"
+      ],
+      "svg": "tunes/Classical/The-Mad-Lover_%28Em%29_part_Violin_page_2.svg",
+      "midi": "tunes/Classical/The-Mad-Lover_%28Em%29_part_Violin-1.midi"
+    },
+    {
+      "title": "Folia",
+      "composer": "Unknown",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Folia",
+      "variants": [
+        {
+          "filename": "Folia_(Dm).ly",
+          "stem": "Folia_(Dm)",
+          "key_variant": "Dm"
+        },
+        {
+          "filename": "Variazioni-sulla-follia-di-Spagna.ly",
+          "stem": "Variazioni-sulla-follia-di-Spagna"
+        },
+        {
+          "filename": "Opening-of-Folias_[Lopez-Nogueira].ly",
+          "stem": "Opening-of-Folias_[Lopez-Nogueira]",
+          "arrangement": "Lopez-Nogueira"
+        },
+        {
+          "filename": "Folia_[Corelli].ly",
+          "stem": "Folia_[Corelli]",
+          "arrangement": "Corelli"
+        },
+        {
+          "filename": "Folia.ly",
+          "stem": "Folia"
+        }
+      ],
+      "svg_files": [
+        "Folia_page_1.svg",
+        "Folia_(Dm)_page_1.svg",
+        "Opening-of-Folias_[Lopez-Nogueira]_page_1.svg",
+        "Folia_[Corelli]_page_1.svg",
+        "Variazioni-sulla-follia-di-Spagna_page_1.svg"
+      ],
+      "midi_files": [
+        "Folia_(Dm).midi",
+        "Folia.midi",
+        "Folia_[Corelli].midi",
+        "Variazioni-sulla-follia-di-Spagna.midi",
+        "Folia_(Dm)-1.midi",
+        "Opening-of-Folias_[Lopez-Nogueira].midi"
+      ],
+      "svg": "tunes/Classical/Folia_page_1.svg",
+      "midi": "tunes/Classical/Folia_%28Dm%29.midi"
+    },
+    {
+      "title": "Violin Sonata",
+      "composer": "Franck",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Franck_Violin_Sonata",
+      "variants": [
+        {
+          "filename": "Franck_Violin_Sonata.ly",
+          "stem": "Franck_Violin_Sonata"
+        }
+      ],
+      "svg_files": [
+        "Franck_Violin_Sonata_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/Franck_Violin_Sonata_page_1.svg"
+    },
+    {
+      "title": "Reflections",
+      "composer": "Hinata",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Hinata_Reflections",
+      "variants": [
+        {
+          "filename": "Toshifumi-Hinata-Reflections.ly",
+          "stem": "Toshifumi-Hinata-Reflections"
+        }
+      ],
+      "svg_files": [
+        "Toshifumi-Hinata-Reflections_page_1.svg"
+      ],
+      "midi_files": [
+        "Toshifumi-Hinata-Reflections.midi"
+      ],
+      "svg": "tunes/Classical/Toshifumi-Hinata-Reflections_page_1.svg",
+      "midi": "tunes/Classical/Toshifumi-Hinata-Reflections.midi"
+    },
+    {
+      "title": "Io Ti Penso Amore",
+      "composer": "Niccolò Paganini",
+      "country": "Italy",
+      "country_flag": "🇮🇹",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "C major",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "paganini",
+        "concerto",
+        "aria"
+      ],
+      "moods": [
+        "lyrical",
+        "romantic"
+      ],
+      "session_friendliness": "",
+      "notes": "Work in progress - stub only",
+      "genre_folder": "Classical",
+      "tune_folder": "Io-Ti-Penso-Amore",
+      "variants": [
+        {
+          "filename": "Io-Ti-Penso-Amore.ly",
+          "stem": "Io-Ti-Penso-Amore"
+        }
+      ],
+      "svg_files": [
+        "Io-Ti-Penso-Amore_page_1.svg"
+      ],
+      "midi_files": [
+        "Io-Ti-Penso-Amore.midi"
+      ],
+      "svg": "tunes/Classical/Io-Ti-Penso-Amore_page_1.svg",
+      "midi": "tunes/Classical/Io-Ti-Penso-Amore.midi"
+    },
+    {
+      "title": "Liebesleid Love's Sorrow",
+      "composer": "Kreisler",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Kreisler_Liebesleid_Love's-Sorrow",
+      "variants": [
+        {
+          "filename": "Liebesleid_MuseScore_Violon+Piano.ly",
+          "stem": "Liebesleid_MuseScore_Violon+Piano"
+        },
+        {
+          "filename": "Liebesleid-(Love‘s-Sorrow).ly",
+          "stem": "Liebesleid-(Love‘s-Sorrow)"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": [
+        "Liebesleid-(Love‘s-Sorrow).midi",
+        "Liebesleid_MuseScore_Violon+Piano.midi"
+      ],
+      "midi": "tunes/Classical/Liebesleid-%28Love%E2%80%98s-Sorrow%29.midi"
+    },
+    {
+      "title": "Praeludium",
+      "composer": "Kreisler",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Kreisler_Praeludium",
+      "variants": [
+        {
+          "filename": "Kreisler_Praeludium-&-Allegro.ly",
+          "stem": "Kreisler_Praeludium-&-Allegro"
+        },
+        {
+          "filename": "Practice-Praeludium.ly",
+          "stem": "Practice-Praeludium"
+        }
+      ],
+      "svg_files": [
+        "Kreisler_Praeludium-&-Allegro_page_4.svg",
+        "Kreisler_Praeludium-&-Allegro_page_5.svg",
+        "Kreisler_Praeludium-&-Allegro_page_2.svg",
+        "Kreisler_Praeludium-&-Allegro_page_3.svg",
+        "Kreisler_Praeludium-&-Allegro_page_1.svg",
+        "Practice-Praeludium_page_1.svg"
+      ],
+      "midi_files": [
+        "Practice-Praeludium.midi"
+      ],
+      "svg": "tunes/Classical/Kreisler_Praeludium-%26-Allegro_page_4.svg",
+      "midi": "tunes/Classical/Practice-Praeludium.midi"
+    },
+    {
+      "title": "La Campanella",
+      "composer": "Niccolò Paganini",
+      "country": "Italy",
+      "country_flag": "🇮🇹",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "D major",
+      "time_sig": "6/8",
+      "difficulty": "Advanced",
+      "tags": [
+        "virtuoso",
+        "paganini",
+        "rondo"
+      ],
+      "moods": [
+        "brilliant",
+        "playful"
+      ],
+      "session_friendliness": "",
+      "notes": "Rondo from Violin Concerto No. 2 in B minor, Op. 7",
+      "genre_folder": "Classical",
+      "tune_folder": "La-Campanella",
+      "variants": [
+        {
+          "filename": "La-Campanella.ly",
+          "stem": "La-Campanella"
+        }
+      ],
+      "svg_files": [
+        "La-Campanella_page_1.svg"
+      ],
+      "midi_files": [
+        "La-Campanella.midi"
+      ],
+      "svg": "tunes/Classical/La-Campanella_page_1.svg",
+      "midi": "tunes/Classical/La-Campanella.midi"
+    },
+    {
+      "title": " Op.59",
+      "composer": "Mel Bonis Suite en trio",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Mel-Bonis-Suite-en-trio_-Op.59",
+      "variants": [
+        {
+          "filename": "Mel-BONIS-Serenade.ly",
+          "stem": "Mel-BONIS-Serenade"
+        }
+      ],
+      "svg_files": [
+        "Mel-BONIS-Serenade_page_1.svg"
+      ],
+      "midi_files": [
+        "Mel-BONIS-Serenade.midi"
+      ],
+      "svg": "tunes/Classical/Mel-BONIS-Serenade_page_1.svg",
+      "midi": "tunes/Classical/Mel-BONIS-Serenade.midi"
+    },
+    {
+      "title": "Csardas",
+      "composer": "Monti",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Monti_Csardas",
+      "variants": [
+        {
+          "filename": "Monti_Csardas_[Quartet].ly",
+          "stem": "Monti_Csardas_[Quartet]",
+          "arrangement": "Quartet"
+        },
+        {
+          "filename": "Monti-Csardas_[Violin].ly",
+          "stem": "Monti-Csardas_[Violin]",
+          "arrangement": "Violin"
+        }
+      ],
+      "svg_files": [
+        "Monti_Csardas_[Quartet]_page_4.svg",
+        "Monti-Csardas_[Violin]_page_1.svg",
+        "Monti_Csardas_[Quartet]_page_5.svg",
+        "Monti-Csardas_[Violin]_page_3.svg",
+        "Monti-Csardas_[Violin]_page_2.svg",
+        "Monti_Csardas_[Quartet]_page_6.svg",
+        "Monti_Csardas_[Quartet]_page_2.svg",
+        "Monti_Csardas_[Quartet]_page_3.svg",
+        "Monti_Csardas_[Quartet]_page_1.svg"
+      ],
+      "midi_files": [
+        "Monti-Csardas_[Violin].midi",
+        "Monti_Csardas_[Quartet].midi"
+      ],
+      "svg": "tunes/Classical/Monti_Csardas_%5BQuartet%5D_page_4.svg",
+      "midi": "tunes/Classical/Monti-Csardas_%5BViolin%5D.midi"
+    },
+    {
+      "title": "Eine Kleine Nachtmusik",
+      "composer": "Mozart",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Mozart_Eine-Kleine-Nachtmusik",
+      "variants": [
+        {
+          "filename": "Eine-Kleine-Nachtmusik.ly",
+          "stem": "Eine-Kleine-Nachtmusik"
+        }
+      ],
+      "svg_files": [
+        "Eine-Kleine-Nachtmusik_page_1.svg"
+      ],
+      "midi_files": [
+        "Eine-Kleine-Nachtmusik.midi",
+        "Eine-Kleine-Nachtmusik-full.midi"
+      ],
+      "svg": "tunes/Classical/Eine-Kleine-Nachtmusik_page_1.svg",
+      "midi": "tunes/Classical/Eine-Kleine-Nachtmusik.midi"
+    },
+    {
+      "title": "Rondo Alla Turca",
+      "composer": "Mozart",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Mozart_Rondo-Alla-Turca",
+      "variants": [
+        {
+          "filename": "KV331_3_RondoAllaTurca-Violin.ly",
+          "stem": "KV331_3_RondoAllaTurca-Violin"
+        },
+        {
+          "filename": "KV331_3_RondoAllaTurca.ly",
+          "stem": "KV331_3_RondoAllaTurca"
+        }
+      ],
+      "svg_files": [
+        "KV331_3_RondoAllaTurca-Violin_page_1.svg",
+        "KV331_3_RondoAllaTurca-Violin_page_2.svg",
+        "KV331_3_RondoAllaTurca_page_1.svg"
+      ],
+      "midi_files": [
+        "KV331_3_RondoAllaTurca-Violin.midi",
+        "KV331_3_RondoAllaTurca.midi"
+      ],
+      "svg": "tunes/Classical/KV331_3_RondoAllaTurca-Violin_page_1.svg",
+      "midi": "tunes/Classical/KV331_3_RondoAllaTurca-Violin.midi"
+    },
+    {
+      "title": "Canon in D",
+      "composer": "Pachelbel",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Pachelbel_Canon-in-D",
+      "variants": [
+        {
+          "filename": "canon-in-D-Rock-Violin.ly",
+          "stem": "canon-in-D-Rock-Violin"
+        },
+        {
+          "filename": "template-Duet.ly",
+          "stem": "template-Duet"
+        },
+        {
+          "filename": "canon-in-D-Violin-I._-NEW-relative.ly",
+          "stem": "canon-in-D-Violin-I._-NEW-relative"
+        },
+        {
+          "filename": "Pachelbel-Canon-in-D.ly",
+          "stem": "Pachelbel-Canon-in-D"
+        },
+        {
+          "filename": "canon-in-D-Duet-2.ly",
+          "stem": "canon-in-D-Duet-2"
+        }
+      ],
+      "svg_files": [
+        "canon-in-D-Duet-2_page_1.svg",
+        "Pachelbel-Canon-in-D_page_1.svg",
+        "canon-in-D-Rock-Violin_page_1.svg",
+        "canon-in-D-Rock-Violin_page_2.svg",
+        "canon-in-D-Rock-Violin_page_3.svg"
+      ],
+      "midi_files": [
+        "canon-in-D-Duet-2.midi"
+      ],
+      "svg": "tunes/Classical/canon-in-D-Duet-2_page_1.svg",
+      "midi": "tunes/Classical/canon-in-D-Duet-2.midi"
+    },
+    {
+      "title": "Centone di Sonate",
+      "composer": "Paganini",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Paganini_Centone-di-Sonate",
+      "variants": [
+        {
+          "filename": "Paganini_Centone-di-Sonate.ly",
+          "stem": "Paganini_Centone-di-Sonate"
+        }
+      ],
+      "svg_files": [
+        "Paganini_Centone-di-Sonate_page_1.svg"
+      ],
+      "midi_files": [
+        "Paganini_Centone-di-Sonate.midi"
+      ],
+      "svg": "tunes/Classical/Paganini_Centone-di-Sonate_page_1.svg",
+      "midi": "tunes/Classical/Paganini_Centone-di-Sonate.midi"
+    },
+    {
+      "title": "Concerto 4",
+      "composer": "Paganini",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Paganini_Concerto-4",
+      "variants": [
+        {
+          "filename": "Paganini-Concerto-4.ly",
+          "stem": "Paganini-Concerto-4"
+        }
+      ],
+      "svg_files": [
+        "Paganini-Concerto-4_page_1.svg"
+      ],
+      "midi_files": [
+        "Paganini-Concerto-4-1.midi",
+        "Paganini-Concerto-4-full-1.midi",
+        "Paganini-Concerto-4.midi",
+        "Paganini-Concerto-4-full.midi"
+      ],
+      "svg": "tunes/Classical/Paganini-Concerto-4_page_1.svg",
+      "midi": "tunes/Classical/Paganini-Concerto-4-1.midi"
+    },
+    {
+      "title": "Io ti penso amore",
+      "composer": "Paganini",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Paganini_Io-ti-penso-amore",
+      "variants": [
+        {
+          "filename": "Io-Ti-Penso-Amore.ly",
+          "stem": "Io-Ti-Penso-Amore"
+        }
+      ],
+      "svg_files": [
+        "Io-Ti-Penso-Amore_page_1.svg"
+      ],
+      "midi_files": [
+        "Io-Ti-Penso-Amore.midi"
+      ],
+      "svg": "tunes/Classical/Io-Ti-Penso-Amore_page_1.svg",
+      "midi": "tunes/Classical/Io-Ti-Penso-Amore.midi"
+    },
+    {
+      "title": "Passacaglia for Violin and Viola Halvorsen",
+      "composer": "Unknown",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Passacaglia-for-Violin-and-Viola-Halvorsen",
+      "variants": [
+        {
+          "filename": "Passacaglia_double-stops.ly",
+          "stem": "Passacaglia_double-stops"
+        },
+        {
+          "filename": "Passacaglia_Arpegios.ly",
+          "stem": "Passacaglia_Arpegios"
+        }
+      ],
+      "svg_files": [
+        "Passacaglia_Arpegios_page_1.svg",
+        "Passacaglia_double-stops_page_1.svg"
+      ],
+      "midi_files": [
+        "Passacaglia_Arpegios-C.midi",
+        "Passacaglia_double-stops-full-D.midi",
+        "Passacaglia_double-stops-full-C.midi",
+        "Passacaglia_Arpegios-D.midi",
+        "Passacaglia_double-stops-C.midi",
+        "Passacaglia_double-stops-D.midi"
+      ],
+      "svg": "tunes/Classical/Passacaglia_Arpegios_page_1.svg",
+      "midi": "tunes/Classical/Passacaglia_Arpegios-C.midi"
+    },
+    {
+      "title": "Russian Fantasia 2",
+      "composer": "Portnoff",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Portnoff_Russian-Fantasia-2",
+      "variants": [
+        {
+          "filename": "Portnoff_Russian-Fantasia-2_[Violin].ly",
+          "stem": "Portnoff_Russian-Fantasia-2_[Violin]",
+          "arrangement": "Violin"
+        },
+        {
+          "filename": "Portnoff_Russian-Fantasia-2.ly",
+          "stem": "Portnoff_Russian-Fantasia-2"
+        }
+      ],
+      "svg_files": [
+        "Portnoff_Russian-Fantasia-2_[Violin]_page_1.svg"
+      ],
+      "midi_files": [
+        "Portnoff_Russian-Fantasia-2_[Violin].midi"
+      ],
+      "svg": "tunes/Classical/Portnoff_Russian-Fantasia-2_%5BViolin%5D_page_1.svg",
+      "midi": "tunes/Classical/Portnoff_Russian-Fantasia-2_%5BViolin%5D.midi"
+    },
+    {
+      "title": "Symphony5",
+      "composer": "Prokofieff",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Prokofieff_Symphony5",
+      "variants": [
+        {
+          "filename": "Prokofieff_Symphony_No-5.ly",
+          "stem": "Prokofieff_Symphony_No-5"
+        }
+      ],
+      "svg_files": [
+        "Prokofieff_Symphony_No-5_page_1.svg"
+      ],
+      "midi_files": [
+        "Prokofieff_Symphony_No-5.midi"
+      ],
+      "svg": "tunes/Classical/Prokofieff_Symphony_No-5_page_1.svg",
+      "midi": "tunes/Classical/Prokofieff_Symphony_No-5.midi"
+    },
+    {
+      "title": "Nessun Dorma",
+      "composer": "Puccini",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Puccini_Nessun-Dorma",
+      "variants": [
+        {
+          "filename": "Giacomo-Puccini-Nessun-dorma.ly",
+          "stem": "Giacomo-Puccini-Nessun-dorma"
+        }
+      ],
+      "svg_files": [
+        "Giacomo-Puccini-Nessun-dorma_page_1.svg"
+      ],
+      "midi_files": [
+        "Giacomo-Puccini-Nessun-dorma.midi"
+      ],
+      "svg": "tunes/Classical/Giacomo-Puccini-Nessun-dorma_page_1.svg",
+      "midi": "tunes/Classical/Giacomo-Puccini-Nessun-dorma.midi"
+    },
+    {
+      "title": "Scheherazade Mvt 2 Theme",
+      "composer": "Rimsky Korsakov",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Rimsky-Korsakov_Scheherazade-Mvt-2-Theme",
+      "variants": [
+        {
+          "filename": "Scheherazade-Mvt-2-Themes-Violin.ly",
+          "stem": "Scheherazade-Mvt-2-Themes-Violin"
+        }
+      ],
+      "svg_files": [
+        "Scheherazade-Mvt-2-Themes-Violin_page_1.svg"
+      ],
+      "midi_files": [
+        "Scheherazade-Mvt-2-Themes-Violin-1.midi",
+        "Scheherazade-Mvt-2-Themes-Violin.midi"
+      ],
+      "svg": "tunes/Classical/Scheherazade-Mvt-2-Themes-Violin_page_1.svg",
+      "midi": "tunes/Classical/Scheherazade-Mvt-2-Themes-Violin-1.midi"
+    },
+    {
+      "title": "Sheherazade Violin Solo",
+      "composer": "Rimsky Korsakov",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Rimsky-Korsakov_Sheherazade-Violin-Solo",
+      "variants": [
+        {
+          "filename": "Violin-Solo-fm-Sheherazade_Rimsky-Korsakov.ly",
+          "stem": "Violin-Solo-fm-Sheherazade_Rimsky-Korsakov"
+        }
+      ],
+      "svg_files": [
+        "Violin-Solo-fm-Sheherazade_Rimsky-Korsakov_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/Violin-Solo-fm-Sheherazade_Rimsky-Korsakov_page_1.svg"
+    },
+    {
+      "title": "Rondo Veneziano",
+      "composer": "Unknown",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Rondo-Veneziano",
+      "variants": [
+        {
+          "filename": "Rondo-Veneziano_Odissea-veneziana.ly",
+          "stem": "Rondo-Veneziano_Odissea-veneziana"
+        }
+      ],
+      "svg_files": [
+        "Rondo-Veneziano_Odissea-veneziana_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/Rondo-Veneziano_Odissea-veneziana_page_1.svg"
+    },
+    {
+      "title": "Serenade",
+      "composer": "Schubert",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Schubert_Serenade",
+      "variants": [
+        {
+          "filename": "Practice_Arpeggios_Schubert_Serenade.ly",
+          "stem": "Practice_Arpeggios_Schubert_Serenade"
+        },
+        {
+          "filename": "Schubert_Serenade.ly",
+          "stem": "Schubert_Serenade"
+        },
+        {
+          "filename": "Serenade_Overlay_Fingerings.ly",
+          "stem": "Serenade_Overlay_Fingerings"
+        }
+      ],
+      "svg_files": [
+        "Practice_Arpeggios_Schubert_Serenade_page_1.svg",
+        "Schubert_Serenade_page_1.svg",
+        "Serenade_Overlay_Fingerings_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/Practice_Arpeggios_Schubert_Serenade_page_1.svg"
+    },
+    {
+      "title": "Waltz 2",
+      "composer": "Shostakovich",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Shostakovich_Waltz_2",
+      "variants": [
+        {
+          "filename": "Shostakovich-Waltz-2.ly",
+          "stem": "Shostakovich-Waltz-2"
+        }
+      ],
+      "svg_files": [
+        "Shostakovich-Waltz-2_page_2.svg",
+        "Shostakovich-Waltz-2_page_1.svg"
+      ],
+      "midi_files": [
+        "Shostakovich-Waltz-2.midi"
+      ],
+      "svg": "tunes/Classical/Shostakovich-Waltz-2_page_2.svg",
+      "midi": "tunes/Classical/Shostakovich-Waltz-2.midi"
+    },
+    {
+      "title": "Gretry",
+      "composer": "Tambourin",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Tambourin_Gretry",
+      "variants": [
+        {
+          "filename": "Tambourin_Gretry.ly",
+          "stem": "Tambourin_Gretry"
+        }
+      ],
+      "svg_files": [
+        "Tambourin_Gretry_page_2.svg",
+        "Tambourin_Gretry_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/Tambourin_Gretry_page_2.svg"
+    },
+    {
+      "title": "The Lark Ascending",
+      "composer": "Unknown",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "The-Lark-Ascending",
+      "variants": [
+        {
+          "filename": "The-Lark-Ascending_[Practice].ly",
+          "stem": "The-Lark-Ascending_[Practice]",
+          "arrangement": "Practice"
+        }
+      ],
+      "svg_files": [
+        "The-Lark-Ascending_[Practice]_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/The-Lark-Ascending_%5BPractice%5D_page_1.svg"
+    },
+    {
+      "title": "Vivaldi Style Rosalia",
+      "composer": "Unknown",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Vivaldi-Style-Rosalia",
+      "variants": [
+        {
+          "filename": "Vivaldi-Style(Berghain – ROSALÍA).ly",
+          "stem": "Vivaldi-Style(Berghain – ROSALÍA)"
+        }
+      ],
+      "svg_files": [
+        "Vivaldi-Style(Berghain – ROSALÍA)_page_1.svg"
+      ],
+      "midi_files": [
+        "Vivaldi-Style(Berghain – ROSALÍA).midi"
+      ],
+      "svg": "tunes/Classical/Vivaldi-Style%28Berghain%20%E2%80%93%20ROSALI%CC%81A%29_page_1.svg",
+      "midi": "tunes/Classical/Vivaldi-Style%28Berghain%20%E2%80%93%20ROSALI%CC%81A%29.midi"
+    },
+    {
+      "title": "Vivaldi Summer Presto",
+      "composer": "Unknown",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Vivaldi-Summer-Presto",
+      "variants": [
+        {
+          "filename": "summer-presto-solo.ly",
+          "stem": "summer-presto-solo"
+        },
+        {
+          "filename": "summer-violin2.ly",
+          "stem": "summer-violin2"
+        },
+        {
+          "filename": "summer-viola.ly",
+          "stem": "summer-viola"
+        },
+        {
+          "filename": "summer-score.ly",
+          "stem": "summer-score"
+        },
+        {
+          "filename": "summer-cello.ly",
+          "stem": "summer-cello"
+        },
+        {
+          "filename": "summer-violin1.ly",
+          "stem": "summer-violin1"
+        },
+        {
+          "filename": "summer-solo.ly",
+          "stem": "summer-solo"
+        }
+      ],
+      "svg_files": [
+        "summer-score_page_18.svg",
+        "summer-score_page_24.svg",
+        "summer-score_page_19.svg",
+        "summer-violin2_page_4.svg",
+        "summer-score_page_8.svg",
+        "summer-score_page_9.svg",
+        "summer-violin2_page_5.svg",
+        "summer-violin2_page_1.svg",
+        "summer-score_page_22.svg",
+        "summer-score_page_23.svg",
+        "summer-score_page_21.svg",
+        "summer-violin2_page_2.svg",
+        "summer-violin2_page_3.svg",
+        "summer-score_page_20.svg",
+        "summer-solo_page_4.svg",
+        "summer-solo_page_5.svg",
+        "summer-solo_page_6.svg",
+        "summer-solo_page_2.svg",
+        "summer-solo_page_3.svg",
+        "summer-solo_page_1.svg",
+        "summer-cello_page_5.svg",
+        "summer-cello_page_4.svg",
+        "summer-presto-solo_page_4.svg",
+        "summer-presto-solo_page_3.svg",
+        "summer-cello_page_3.svg",
+        "summer-cello_page_2.svg",
+        "summer-presto-solo_page_2.svg",
+        "summer-cello_page_1.svg",
+        "summer-presto-solo_page_1.svg",
+        "summer-score_page_11.svg",
+        "summer-score_page_2.svg",
+        "summer-score_page_3.svg",
+        "summer-score_page_10.svg",
+        "summer-violin1_page_1.svg",
+        "summer-violin1_page_3.svg",
+        "summer-score_page_12.svg",
+        "summer-score_page_1.svg",
+        "summer-viola_page_4.svg",
+        "summer-score_page_13.svg",
+        "summer-violin1_page_2.svg",
+        "summer-violin1_page_6.svg",
+        "summer-score_page_17.svg",
+        "summer-score_page_4.svg",
+        "summer-viola_page_1.svg",
+        "summer-score_page_5.svg",
+        "summer-score_page_16.svg",
+        "summer-violin1_page_5.svg",
+        "summer-score_page_14.svg",
+        "summer-score_page_7.svg",
+        "summer-viola_page_3.svg",
+        "summer-viola_page_2.svg",
+        "summer-score_page_6.svg",
+        "summer-score_page_15.svg",
+        "summer-violin1_page_4.svg"
+      ],
+      "midi_files": [
+        "summer-score-2.midi",
+        "summer-score.midi",
+        "summer-score-1.midi"
+      ],
+      "svg": "tunes/Classical/summer-score_page_18.svg",
+      "midi": "tunes/Classical/summer-score-2.midi"
+    },
+    {
+      "title": "Concerto Sol Minor rv316",
+      "composer": "Vivaldi",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Vivaldi_Concerto_Sol-Minor_rv316",
+      "variants": [
+        {
+          "filename": "Vivaldi_Concerto_Sol-Minor_rv316.ly",
+          "stem": "Vivaldi_Concerto_Sol-Minor_rv316"
+        }
+      ],
+      "svg_files": [
+        "Vivaldi_Concerto_Sol-Minor_rv316_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/Vivaldi_Concerto_Sol-Minor_rv316_page_1.svg"
+    },
+    {
+      "title": "Sol Minor rv316",
+      "composer": "Vivaldi",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Vivaldi_Sol-Minor_rv316",
+      "variants": [
+        {
+          "filename": "vivaldi_Sol-Minor-rv316.ly",
+          "stem": "vivaldi_Sol-Minor-rv316"
+        }
+      ],
+      "svg_files": [
+        "vivaldi_Sol-Minor-rv316_page_1.svg"
+      ],
+      "midi_files": [
+        "vivaldi_Sol-Minor-rv316.midi"
+      ],
+      "svg": "tunes/Classical/vivaldi_Sol-Minor-rv316_page_1.svg",
+      "midi": "tunes/Classical/vivaldi_Sol-Minor-rv316.midi"
+    },
+    {
+      "title": "Rachmaninoff",
+      "composer": "Vocalise",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Vocalise_Rachmaninoff",
+      "variants": [
+        {
+          "filename": "Vocalise_Rachmaninoff.ly",
+          "stem": "Vocalise_Rachmaninoff"
+        },
+        {
+          "filename": "Vocalise_Rachmaninoff_(Em).ly",
+          "stem": "Vocalise_Rachmaninoff_(Em)",
+          "key_variant": "Em"
+        }
+      ],
+      "svg_files": [
+        "Vocalise_Rachmaninoff_(Em)_page_1.svg",
+        "Vocalise_Rachmaninoff_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/Vocalise_Rachmaninoff_%28Em%29_page_1.svg"
+    },
+    {
       "title": "Kreutzer Étude No. 2",
       "composer": "Rodolphe Kreutzer",
       "country": "France",
       "country_flag": "🇫🇷",
       "genre": "Etudes",
       "subgenre": "Violin Étude",
-      "category": "Études",
+      "category": "Etudes",
       "period": "",
       "type": "",
       "key": "",
@@ -509,13 +2142,13 @@
       "tune_folder": "Kreutzer_Etude-No.-2",
       "variants": [
         {
-          "filename": "Position-Markup-Styles-Comparison.ly",
-          "stem": "Position-Markup-Styles-Comparison"
-        },
-        {
           "filename": "Kreutzer_Etude-No.-2_(A).ly",
           "stem": "Kreutzer_Etude-No.-2_(A)",
           "key_variant": "A"
+        },
+        {
+          "filename": "Kreutzer_Etude-No.-2.ly",
+          "stem": "Kreutzer_Etude-No.-2"
         },
         {
           "filename": "Kreutzer_Etude-No.-2_[Practice].ly",
@@ -523,32 +2156,30 @@
           "arrangement": "Practice"
         },
         {
-          "filename": "Kreutzer_Etude-No.-2.ly",
-          "stem": "Kreutzer_Etude-No.-2"
-        },
-        {
           "filename": "Kreutzer_Etude-No.-2_[Shifting].ly",
           "stem": "Kreutzer_Etude-No.-2_[Shifting]",
           "arrangement": "Shifting"
+        },
+        {
+          "filename": "Position-Markup-Styles-Comparison.ly",
+          "stem": "Position-Markup-Styles-Comparison"
         }
       ],
       "svg_files": [
-        "Kreutzer_Etude-No.-2_(A)_page_1.svg",
-        "Kreutzer_Etude-No.-2_page_1.svg",
-        "Position-Markup-Styles-Comparison_page_1.svg",
-        "Kreutzer_Etude-No.-2_[Shifting]_page_1.svg",
-        "Kreutzer_Etude-No.-2_[Practice]_page_1.svg",
-        "Position-Markup-Styles-Comparison-1.svg",
         "Kreutzer_Etude-No.-2.svg",
         "Kreutzer_Etude-No.-2_[Practice].svg",
+        "Kreutzer_Etude-No.-2_page_1.svg",
+        "Position-Markup-Styles-Comparison_page_1.svg",
+        "Kreutzer_Etude-No.-2_[Practice]_page_1.svg",
+        "Kreutzer_Etude-No.-2_[Shifting].svg",
         "Kreutzer_Etude-No.-2_(A).svg",
-        "Position-Markup-Styles-Comparison-2.svg",
-        "Kreutzer_Etude-No.-2_[Shifting].svg"
+        "Kreutzer_Etude-No.-2_(A)_page_1.svg",
+        "Kreutzer_Etude-No.-2_[Shifting]_page_1.svg"
       ],
       "midi_files": [
         "Kreutzer_Etude-No.-2.midi"
       ],
-      "svg": "tunes/Etudes/Kreutzer_Etude-No.-2_%28A%29_page_1.svg",
+      "svg": "tunes/Etudes/Kreutzer_Etude-No.-2.svg",
       "midi": "tunes/Etudes/Kreutzer_Etude-No.-2.midi"
     },
     {
@@ -577,15 +2208,14 @@
         }
       ],
       "svg_files": [
-        "L-Air-Mignonne_page_1.svg",
-        "L-Air-Mignonne.svg"
+        "L-Air-Mignonne.svg",
+        "L-Air-Mignonne_page_1.svg"
       ],
       "midi_files": [
-        "L-Air-Mignonne-full.midi",
         "L-Air-Mignonne.midi"
       ],
-      "svg": "tunes/Folk_Canada/L-Air-Mignonne_page_1.svg",
-      "midi": "tunes/Folk_Canada/L-Air-Mignonne-full.midi"
+      "svg": "tunes/Folk_Canada/L-Air-Mignonne.svg",
+      "midi": "tunes/Folk_Canada/L-Air-Mignonne.midi"
     },
     {
       "title": "Teardrop Waltz",
@@ -619,22 +2249,16 @@
         }
       ],
       "svg_files": [
-        "Teardrop-Waltz_Marc_page_1.svg",
-        "Teardrop-Waltz-Casey-Willis_page_1.svg",
-        "Teardrop-Waltz_Marc.svg",
-        "Teardrop-Waltz_[Casey-Willis].svg",
         "Teardrop-Waltz_[Marc].svg",
-        "Teardrop-Waltz-Casey-Willis.svg"
+        "Teardrop-Waltz_[Casey-Willis].svg"
       ],
       "midi_files": [
-        "Teardrop-Waltz-Casey-Willis.midi",
-        "Teardrop-Waltz_Marc.midi",
-        "Teardrop-Waltz_Marc.mid",
         "Teardrop-Waltz_[Casey-Willis].midi",
-        "Teardrop-Waltz_[Marc].midi"
+        "Teardrop-Waltz_[Marc].midi",
+        "Teardrop-Waltz-Casey-Willis.midi"
       ],
-      "svg": "tunes/Folk_Canada/Teardrop-Waltz_Marc_page_1.svg",
-      "midi": "tunes/Folk_Canada/Teardrop-Waltz-Casey-Willis.midi"
+      "svg": "tunes/Folk_Canada/Teardrop-Waltz_%5BMarc%5D.svg",
+      "midi": "tunes/Folk_Canada/Teardrop-Waltz_%5BCasey-Willis%5D.midi"
     },
     {
       "title": "Volcanic Jig",
@@ -663,16 +2287,13 @@
       ],
       "svg_files": [
         "Volcanic-Jig_page_1.svg",
-        "Volcanic-Jig_page_2.svg",
-        "Volcanic-Jig-Violin-2.svg",
-        "Volcanic-Jig-Violin-1.svg"
+        "Volcanic-Jig_page_2.svg"
       ],
       "midi_files": [
-        "Volcanic-Jig-Violin.midi",
         "Volcanic-Jig.midi"
       ],
       "svg": "tunes/Folk_Canada/Volcanic-Jig_page_1.svg",
-      "midi": "tunes/Folk_Canada/Volcanic-Jig-Violin.midi"
+      "midi": "tunes/Folk_Canada/Volcanic-Jig.midi"
     },
     {
       "title": "Flor Formosa",
@@ -701,9 +2322,7 @@
       ],
       "svg_files": [
         "Flor-Formosa_page_2.svg",
-        "Flor-Formosa_page_1.svg",
-        "Flor-Formosa-1.svg",
-        "Flor-Formosa-2.svg"
+        "Flor-Formosa_page_1.svg"
       ],
       "midi_files": [
         "Flor-Formosa.midi"
@@ -732,9 +2351,8 @@
       "tune_folder": "Greensleeves",
       "variants": [
         {
-          "filename": "Greensleeves_[Guitar-Vocal].ly",
-          "stem": "Greensleeves_[Guitar-Vocal]",
-          "arrangement": "Guitar-Vocal"
+          "filename": "Greensleeves.ly",
+          "stem": "Greensleeves"
         },
         {
           "filename": "Greensleeves_[Jig].ly",
@@ -742,18 +2360,19 @@
           "arrangement": "Jig"
         },
         {
-          "filename": "greensleeves.ly",
-          "stem": "greensleeves"
-        },
-        {
-          "filename": "Greensleeves_[Melody].ly",
-          "stem": "Greensleeves_[Melody]",
-          "arrangement": "Melody"
+          "filename": "Greensleeves_[Guitar-Vocal].ly",
+          "stem": "Greensleeves_[Guitar-Vocal]",
+          "arrangement": "Guitar-Vocal"
         },
         {
           "filename": "Greensleeves_[Landscape].ly",
           "stem": "Greensleeves_[Landscape]",
           "arrangement": "Landscape"
+        },
+        {
+          "filename": "Greensleeves_[Melody].ly",
+          "stem": "Greensleeves_[Melody]",
+          "arrangement": "Melody"
         },
         {
           "filename": "Greensleeves_(Em).ly",
@@ -762,51 +2381,20 @@
         }
       ],
       "svg_files": [
-        "Greensleeves_[Jig]_page_2.svg",
-        "Greensleeves_[Jig]_page_1.svg",
-        "greensleeves_melody_page_1.svg",
-        "greensleeves_page_1.svg",
-        "greensleeves_melody_page_2.svg",
-        "greensleeves_[Guitar & Vocal]_page_2.svg",
-        "greensleeves_landscape_page_1.svg",
-        "greensleeves-(Em)_page_1.svg",
-        "greensleeves_[Guitar & Vocal]_page_1.svg",
         "Greensleeves_[Landscape].svg",
-        "greensleeves_melody-2.svg",
-        "greensleeves_landscape.svg",
-        "greensleeves_[Guitar & Vocal]-2.svg",
-        "Greensleeves_[Melody]-1.svg",
-        "Greensleeves_[Melody]-2.svg",
-        "greensleeves_melody-1.svg",
-        "Greensleeves_[Jig]-1.svg",
-        "greensleeves_[Guitar & Vocal]-1.svg",
         "Greensleeves_(Em).svg",
-        "greensleeves.svg",
-        "Greensleeves_[Guitar-Vocal]-1.svg",
-        "Greensleeves_[Jig]-2.svg",
-        "Greensleeves_[Guitar-Vocal]-2.svg",
-        "greensleeves-(Em).svg"
+        "Greensleeves_[Jig]_page_2.svg",
+        "Greensleeves_[Jig]_page_1.svg"
       ],
       "midi_files": [
-        "greensleeves.midi",
-        "greensleeves_landscape-1.midi",
-        "greensleeves_landscape-full-1.midi",
-        "greensleeves-(Em).midi",
-        "Greensleeves_[Jig]-1.midi",
-        "greensleeves_melody-full.midi",
-        "Greensleeves_[Jig]-2.midi",
-        "greensleeves_landscape.midi",
-        "greensleeves-(Em)-full.midi",
-        "greensleeves_[Guitar & Vocal].midi",
-        "greensleeves_melody.midi",
-        "Greensleeves_[Jig].midi",
-        "Greensleeves_[Landscape].midi",
-        "Greensleeves_(Em).midi",
         "Greensleeves_[Melody].midi",
-        "Greensleeves_[Guitar-Vocal].midi"
+        "Greensleeves_[Guitar-Vocal].midi",
+        "Greensleeves_(Em).midi",
+        "Greensleeves_[Landscape].midi",
+        "Greensleeves_[Jig].midi"
       ],
-      "svg": "tunes/Folk_England/Greensleeves_%5BJig%5D_page_2.svg",
-      "midi": "tunes/Folk_England/greensleeves.midi"
+      "svg": "tunes/Folk_England/Greensleeves_%5BLandscape%5D.svg",
+      "midi": "tunes/Folk_England/Greensleeves_%5BMelody%5D.midi"
     },
     {
       "title": "Emma's Waltz",
@@ -829,8 +2417,9 @@
       "tune_folder": "Emma_(Waltz)",
       "variants": [
         {
-          "filename": "Emma_(Waltz).ly",
-          "stem": "Emma_(Waltz)"
+          "filename": "Emma_(Waltz)_(Em).ly",
+          "stem": "Emma_(Waltz)_(Em)",
+          "key_variant": "Em"
         },
         {
           "filename": "Emma_(Waltz)_(Dm).ly",
@@ -838,18 +2427,17 @@
           "key_variant": "Dm"
         },
         {
-          "filename": "Emma_(Waltz)_(Em).ly",
-          "stem": "Emma_(Waltz)_(Em)",
-          "key_variant": "Em"
+          "filename": "Emma_(Waltz).ly",
+          "stem": "Emma_(Waltz)"
         }
       ],
       "svg_files": [
-        "Emma_(Waltz)_(Dm)_page_1.svg",
-        "Emma_(Waltz)_page_1.svg",
         "Emma_(Waltz)_(Em)_page_1.svg",
-        "Emma_(Waltz)_(Dm).svg",
+        "Emma_(Waltz).svg",
+        "Emma_(Waltz)_(Dm)_page_1.svg",
         "Emma_(Waltz)_(Em).svg",
-        "Emma_(Waltz).svg"
+        "Emma_(Waltz)_page_1.svg",
+        "Emma_(Waltz)_(Dm).svg"
       ],
       "midi_files": [
         "Emma_(Waltz)_(Dm).midi",
@@ -857,7 +2445,7 @@
         "Emma_(Waltz)_(Dm)-1.midi",
         "Emma_(Waltz)_(Em).midi"
       ],
-      "svg": "tunes/Folk_Finland/Emma_%28Waltz%29_%28Dm%29_page_1.svg",
+      "svg": "tunes/Folk_Finland/Emma_%28Waltz%29_%28Em%29_page_1.svg",
       "midi": "tunes/Folk_Finland/Emma_%28Waltz%29_%28Dm%29.midi"
     },
     {
@@ -886,33 +2474,27 @@
           "key_variant": "Dm"
         },
         {
-          "filename": "Ievan-Polkka.ly",
-          "stem": "Ievan-Polkka"
-        },
-        {
           "filename": "Ievan-Polkka_[MuseScore].ly",
           "stem": "Ievan-Polkka_[MuseScore]",
           "arrangement": "MuseScore"
+        },
+        {
+          "filename": "Ievan-Polkka.ly",
+          "stem": "Ievan-Polkka"
         }
       ],
       "svg_files": [
-        "Ievan-polkka-(Dm)_page_1.svg",
-        "Ievan-Polkka_page_1.svg",
-        "Ievan-Polkka_[MuseScore]-1.svg",
-        "Ievan-Polkka_[MuseScore]-2.svg",
-        "Ievan-Polkka_(Dm).svg",
         "Ievan-Polkka.svg",
-        "Ievan-polkka-(Dm).svg"
+        "Ievan-Polkka_(Dm).svg",
+        "Ievan-Polkka_page_1.svg"
       ],
       "midi_files": [
-        "Ievan-polkka-(Dm).midi",
-        "Ievan-Polkka.midi",
-        "Ievan-Polkka.mid",
+        "Ievan-Polkka_(Dm).midi",
         "Ievan-Polkka_[MuseScore].midi",
-        "Ievan-Polkka_(Dm).midi"
+        "Ievan-Polkka.midi"
       ],
-      "svg": "tunes/Folk_Finland/Ievan-polkka-%28Dm%29_page_1.svg",
-      "midi": "tunes/Folk_Finland/Ievan-polkka-%28Dm%29.midi"
+      "svg": "tunes/Folk_Finland/Ievan-Polkka.svg",
+      "midi": "tunes/Folk_Finland/Ievan-Polkka_%28Dm%29.midi"
     },
     {
       "title": "Alouette",
@@ -944,8 +2526,7 @@
         "Alouette.svg"
       ],
       "midi_files": [
-        "Alouette.midi",
-        "Alouette.mid"
+        "Alouette.midi"
       ],
       "svg": "tunes/Folk_French/Alouette_page_1.svg",
       "midi": "tunes/Folk_French/Alouette.midi"
@@ -971,25 +2552,25 @@
       "tune_folder": "Au-Clair-de-la-Lune",
       "variants": [
         {
-          "filename": "Au-Clair-de-la-Lune.ly",
-          "stem": "Au-Clair-de-la-Lune"
-        },
-        {
           "filename": "Au-Clair-de-la-Lune_[4 Verses].ly",
           "stem": "Au-Clair-de-la-Lune_[4 Verses]",
           "arrangement": "4 Verses"
+        },
+        {
+          "filename": "Au-Clair-de-la-Lune.ly",
+          "stem": "Au-Clair-de-la-Lune"
         }
       ],
       "svg_files": [
-        "Au-Clair-de-la-Lune_[4 Verses]_page_1.svg",
         "Au-Clair-de-la-Lune_page_1.svg",
-        "Au-Clair-de-la-Lune.svg",
-        "Au-Clair-de-la-Lune_[4 Verses].svg"
+        "Au-Clair-de-la-Lune_[4 Verses].svg",
+        "Au-Clair-de-la-Lune_[4 Verses]_page_1.svg",
+        "Au-Clair-de-la-Lune.svg"
       ],
       "midi_files": [
         "Au-Clair-de-la-Lune.midi"
       ],
-      "svg": "tunes/Folk_French/Au-Clair-de-la-Lune_%5B4%20Verses%5D_page_1.svg",
+      "svg": "tunes/Folk_French/Au-Clair-de-la-Lune_page_1.svg",
       "midi": "tunes/Folk_French/Au-Clair-de-la-Lune.midi"
     },
     {
@@ -1013,30 +2594,22 @@
       "tune_folder": "Frere-Jacques",
       "variants": [
         {
-          "filename": "Frere-Jacques.ly",
-          "stem": "Frere-Jacques"
-        },
-        {
           "filename": "Frere-Jacques_[Multilingual].ly",
           "stem": "Frere-Jacques_[Multilingual]",
           "arrangement": "Multilingual"
+        },
+        {
+          "filename": "Frere-Jacques.ly",
+          "stem": "Frere-Jacques"
         }
       ],
       "svg_files": [
-        "Frere-Jacques_[what_2]_page_2.svg",
-        "Frere-Jacques_[what]_page_1.svg",
-        "Frere-Jacques_[what_2]_page_1.svg",
-        "Frere-Jacques_[what_2]-2.svg",
-        "Frere-Jacques_[Multilingual]-1.svg",
-        "Frere-Jacques_[what_2]-1.svg",
-        "Frere-Jacques_[what].svg",
-        "Frere-Jacques.svg",
-        "Frere-Jacques_[Multilingual]-2.svg"
+        "Frere-Jacques.svg"
       ],
       "midi_files": [
         "Frere-Jacques.midi"
       ],
-      "svg": "tunes/Folk_French/Frere-Jacques_%5Bwhat_2%5D_page_2.svg",
+      "svg": "tunes/Folk_French/Frere-Jacques.svg",
       "midi": "tunes/Folk_French/Frere-Jacques.midi"
     },
     {
@@ -1060,19 +2633,12 @@
       "tune_folder": "Jean-Petit-qui-danse",
       "variants": [
         {
-          "filename": "Jean-Petit-qui-Danse.ly",
-          "stem": "Jean-Petit-qui-Danse"
+          "filename": "Jean-Petit-qui-danse.ly",
+          "stem": "Jean-Petit-qui-danse"
         }
       ],
-      "svg_files": [
-        "Jean-Petit-qui-Danse_page_1.svg",
-        "Jean-Petit-qui-Danse.svg"
-      ],
-      "midi_files": [
-        "Jean-Petit-qui-Danse.midi"
-      ],
-      "svg": "tunes/Folk_French/Jean-Petit-qui-Danse_page_1.svg",
-      "midi": "tunes/Folk_French/Jean-Petit-qui-Danse.midi"
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "Savez-vous planter des choux ?",
@@ -1100,13 +2666,13 @@
         }
       ],
       "svg_files": [
-        "Savez-vous-planter-les-Choux_page_1.svg",
-        "Savez-vous-planter-les-Choux.svg"
+        "Savez-vous-planter-les-Choux.svg",
+        "Savez-vous-planter-les-Choux_page_1.svg"
       ],
       "midi_files": [
         "Savez-vous-planter-les-Choux.midi"
       ],
-      "svg": "tunes/Folk_French/Savez-vous-planter-les-Choux_page_1.svg",
+      "svg": "tunes/Folk_French/Savez-vous-planter-les-Choux.svg",
       "midi": "tunes/Folk_French/Savez-vous-planter-les-Choux.midi"
     },
     {
@@ -1205,14 +2771,10 @@
           "arrangement": "Duet"
         }
       ],
-      "svg_files": [
-        "Basso_[Duet]-1.svg",
-        "Basso_[Duet]-2.svg"
-      ],
+      "svg_files": [],
       "midi_files": [
         "Basso_[Duet].midi"
       ],
-      "svg": "tunes/Folk_Hungary/Basso_%5BDuet%5D-1.svg",
       "midi": "tunes/Folk_Hungary/Basso_%5BDuet%5D.midi"
     },
     {
@@ -1276,13 +2838,13 @@
         }
       ],
       "svg_files": [
-        "Comme-une-fleur_page_1.svg",
-        "Comme-une-fleur.svg"
+        "Comme-une-fleur.svg",
+        "Comme-une-fleur_page_1.svg"
       ],
       "midi_files": [
         "Comme-une-fleur.midi"
       ],
-      "svg": "tunes/Folk_Hungary/Comme-une-fleur_page_1.svg",
+      "svg": "tunes/Folk_Hungary/Comme-une-fleur.svg",
       "midi": "tunes/Folk_Hungary/Comme-une-fleur.midi"
     },
     {
@@ -1311,13 +2873,13 @@
         }
       ],
       "svg_files": [
-        "Gari-Gari_page_1.svg",
-        "Gari-Gari.svg"
+        "Gari-Gari.svg",
+        "Gari-Gari_page_1.svg"
       ],
       "midi_files": [
         "Gari-Gari.midi"
       ],
-      "svg": "tunes/Folk_Hungary/Gari-Gari_page_1.svg",
+      "svg": "tunes/Folk_Hungary/Gari-Gari.svg",
       "midi": "tunes/Folk_Hungary/Gari-Gari.midi"
     },
     {
@@ -1347,9 +2909,7 @@
       ],
       "svg_files": [
         "La-Rose-Jaune_page_2.svg",
-        "La-Rose-Jaune_page_1.svg",
-        "La-Rose-Jaune-2.svg",
-        "La-Rose-Jaune-1.svg"
+        "La-Rose-Jaune_page_1.svg"
       ],
       "midi_files": [
         "La-Rose-Jaune.midi"
@@ -1392,11 +2952,11 @@
         "Mori-Shej.svg"
       ],
       "midi_files": [
-        "Mori-Shej.midi",
-        "Mori-Shej_[v2].midi"
+        "Mori-Shej_[v2].midi",
+        "Mori-Shej.midi"
       ],
       "svg": "tunes/Folk_Hungary/Mori-Shej_%5Bv2%5D.svg",
-      "midi": "tunes/Folk_Hungary/Mori-Shej.midi"
+      "midi": "tunes/Folk_Hungary/Mori-Shej_%5Bv2%5D.midi"
     },
     {
       "title": "Qu'importe les soucis",
@@ -1493,13 +3053,13 @@
         }
       ],
       "svg_files": [
-        "Yarou-Yarou_page_1.svg",
-        "Yarou-Yarou.svg"
+        "Yarou-Yarou.svg",
+        "Yarou-Yarou_page_1.svg"
       ],
       "midi_files": [
         "Yarou-Yarou.midi"
       ],
-      "svg": "tunes/Folk_Hungary/Yarou-Yarou_page_1.svg",
+      "svg": "tunes/Folk_Hungary/Yarou-Yarou.svg",
       "midi": "tunes/Folk_Hungary/Yarou-Yarou.midi"
     },
     {
@@ -1529,27 +3089,25 @@
       "tune_folder": "Darby-O-Gill_Fox-Chase",
       "variants": [
         {
-          "filename": "Darby-O-Gill_Fox-Chase.ly",
-          "stem": "Darby-O-Gill_Fox-Chase"
-        },
-        {
           "filename": "Darby-O-Gill_Fox-Chase_[Short].ly",
           "stem": "Darby-O-Gill_Fox-Chase_[Short]",
           "arrangement": "Short"
+        },
+        {
+          "filename": "Darby-O-Gill_Fox-Chase.ly",
+          "stem": "Darby-O-Gill_Fox-Chase"
         }
       ],
       "svg_files": [
-        "Darby-O-Gill_Fox-Chase-2.svg",
-        "Darby-O-Gill_Fox-Chase_[Short].svg",
         "Darby-O-Gill_Fox-Chase_page_1.svg",
-        "Darby-O-Gill_Fox-Chase-1.svg"
+        "Darby-O-Gill_Fox-Chase_[Short].svg"
       ],
       "midi_files": [
-        "Darby-O-Gill_Fox-Chase_[Short].midi",
-        "Darby-O-Gill_Fox-Chase.midi"
+        "Darby-O-Gill_Fox-Chase.midi",
+        "Darby-O-Gill_Fox-Chase_[Short].midi"
       ],
-      "svg": "tunes/Folk_Ireland/Darby-O-Gill_Fox-Chase-2.svg",
-      "midi": "tunes/Folk_Ireland/Darby-O-Gill_Fox-Chase_%5BShort%5D.midi"
+      "svg": "tunes/Folk_Ireland/Darby-O-Gill_Fox-Chase_page_1.svg",
+      "midi": "tunes/Folk_Ireland/Darby-O-Gill_Fox-Chase.midi"
     },
     {
       "title": "Dr. Gilbert's Reel",
@@ -1588,16 +3146,16 @@
         }
       ],
       "svg_files": [
-        "Dr-Gilbert_page_1.svg",
+        "Dr-Gilbert_[v2].svg",
         "Dr-Gilbert.svg",
-        "Dr-Gilbert_[v2].svg"
+        "Dr-Gilbert_page_1.svg"
       ],
       "midi_files": [
-        "Dr-Gilbert.midi",
-        "Dr-Gilbert_[v2].midi"
+        "Dr-Gilbert_[v2].midi",
+        "Dr-Gilbert.midi"
       ],
-      "svg": "tunes/Folk_Ireland/Dr-Gilbert_page_1.svg",
-      "midi": "tunes/Folk_Ireland/Dr-Gilbert.midi"
+      "svg": "tunes/Folk_Ireland/Dr-Gilbert_%5Bv2%5D.svg",
+      "midi": "tunes/Folk_Ireland/Dr-Gilbert_%5Bv2%5D.midi"
     },
     {
       "title": "Gary Owen",
@@ -1626,14 +3184,9 @@
       "tune_folder": "Gary-Owen",
       "variants": [
         {
-          "filename": "Gary-Owen_(Bb).ly",
-          "stem": "Gary-Owen_(Bb)",
-          "key_variant": "Bb"
-        },
-        {
-          "filename": "Gary-Owen_(A).ly",
-          "stem": "Gary-Owen_(A)",
-          "key_variant": "A"
+          "filename": "Gary-Owen_(G).ly",
+          "stem": "Gary-Owen_(G)",
+          "key_variant": "G"
         },
         {
           "filename": "Gary-Owen_(D).ly",
@@ -1641,36 +3194,41 @@
           "key_variant": "D"
         },
         {
+          "filename": "Gary-Owen_(A).ly",
+          "stem": "Gary-Owen_(A)",
+          "key_variant": "A"
+        },
+        {
           "filename": "Gary-Owen.ly",
           "stem": "Gary-Owen"
         },
         {
-          "filename": "Gary-Owen_(G).ly",
-          "stem": "Gary-Owen_(G)",
-          "key_variant": "G"
+          "filename": "Gary-Owen_(Bb).ly",
+          "stem": "Gary-Owen_(Bb)",
+          "key_variant": "Bb"
         }
       ],
       "svg_files": [
-        "Gary-Owen_page_1.svg",
-        "Gary-Owen_(Bb)_page_1.svg",
-        "Gary-Owen_(A)_page_1.svg",
-        "Gary-Owen_(D)_page_1.svg",
-        "Gary-Owen_(G).svg",
-        "Gary-Owen_(Bb).svg",
         "Gary-Owen_(A).svg",
+        "Gary-Owen_(Bb)_page_1.svg",
+        "Gary-Owen.svg",
+        "Gary-Owen_(G).svg",
         "Gary-Owen_(D).svg",
-        "Gary-Owen_(G)_page_1.svg",
-        "Gary-Owen.svg"
+        "Gary-Owen_page_1.svg",
+        "Gary-Owen_(A)_page_1.svg",
+        "Gary-Owen_(Bb).svg",
+        "Gary-Owen_(D)_page_1.svg",
+        "Gary-Owen_(G)_page_1.svg"
       ],
       "midi_files": [
-        "Gary-Owen.midi",
-        "Gary-Owen_(G).midi",
-        "Gary-Owen_(A).midi",
+        "Gary-Owen_(D).midi",
         "Gary-Owen_(Bb).midi",
-        "Gary-Owen_(D).midi"
+        "Gary-Owen_(A).midi",
+        "Gary-Owen_(G).midi",
+        "Gary-Owen.midi"
       ],
-      "svg": "tunes/Folk_Ireland/Gary-Owen_page_1.svg",
-      "midi": "tunes/Folk_Ireland/Gary-Owen.midi"
+      "svg": "tunes/Folk_Ireland/Gary-Owen_%28A%29.svg",
+      "midi": "tunes/Folk_Ireland/Gary-Owen_%28D%29.midi"
     },
     {
       "title": "Martin Hayes Medley",
@@ -1751,12 +3309,12 @@
         "Molly-Ban_page_1.svg"
       ],
       "midi_files": [
-        "Molly-Ban-1.midi",
         "Molly-Ban.midi",
-        "Molly-Ban-full-1.midi"
+        "Molly-Ban-full-1.midi",
+        "Molly-Ban-1.midi"
       ],
       "svg": "tunes/Folk_Ireland/Molly-Ban.svg",
-      "midi": "tunes/Folk_Ireland/Molly-Ban-1.midi"
+      "midi": "tunes/Folk_Ireland/Molly-Ban.midi"
     },
     {
       "title": "Paddy Fahey's Jig",
@@ -1830,31 +3388,31 @@
           "stem": "Swallowtail-Jig"
         },
         {
-          "filename": "Swallowtail-Jig_[Easy].ly",
-          "stem": "Swallowtail-Jig_[Easy]",
-          "arrangement": "Easy"
-        },
-        {
           "filename": "Swallowtail-Jig_[Easy]_(G).ly",
           "stem": "Swallowtail-Jig_[Easy]_(G)",
           "key_variant": "G",
+          "arrangement": "Easy"
+        },
+        {
+          "filename": "Swallowtail-Jig_[Easy].ly",
+          "stem": "Swallowtail-Jig_[Easy]",
           "arrangement": "Easy"
         }
       ],
       "svg_files": [
         "Swallowtail-Jig.svg",
+        "Swallowtail-Jig_[Easy].svg",
         "Swallowtail-Jig_[Easy]_(G).svg",
         "Swallowtail-Jig_page_1.svg",
-        "Swallowtail-Jig_[Easy].svg",
         "Swallowtail-Jig_[Easy]_page_1.svg"
       ],
       "midi_files": [
-        "Swallowtail-Jig.midi",
+        "Swallowtail-Jig_[Easy]_(G).midi",
         "Swallowtail-Jig_[Easy].midi",
-        "Swallowtail-Jig_[Easy]_(G).midi"
+        "Swallowtail-Jig.midi"
       ],
       "svg": "tunes/Folk_Ireland/Swallowtail-Jig.svg",
-      "midi": "tunes/Folk_Ireland/Swallowtail-Jig.midi"
+      "midi": "tunes/Folk_Ireland/Swallowtail-Jig_%5BEasy%5D_%28G%29.midi"
     },
     {
       "title": "Tam Lin",
@@ -1884,18 +3442,18 @@
       "tune_folder": "Tam-Lin",
       "variants": [
         {
-          "filename": "tam-lin.ly",
-          "stem": "tam-lin"
+          "filename": "Tam-Lin.ly",
+          "stem": "Tam-Lin"
         }
       ],
       "svg_files": [
-        "Tam-Lin.svg",
-        "Tam-Lin_page_1.svg"
+        "Tam-Lin_page_1.svg",
+        "Tam-Lin.svg"
       ],
       "midi_files": [
         "Tam-Lin.midi"
       ],
-      "svg": "tunes/Folk_Ireland/Tam-Lin.svg",
+      "svg": "tunes/Folk_Ireland/Tam-Lin_page_1.svg",
       "midi": "tunes/Folk_Ireland/Tam-Lin.midi"
     },
     {
@@ -1930,15 +3488,13 @@
         }
       ],
       "svg_files": [
-        "The-Britches-Full-of-Stitches-2.svg",
         "The-Britches-Full-of-Stitches_page_2.svg",
-        "The-Britches-Full-of-Stitches-1.svg",
         "The-Britches-Full-of-Stitches_page_1.svg"
       ],
       "midi_files": [
         "The-Britches-Full-of-Stitches.midi"
       ],
-      "svg": "tunes/Folk_Ireland/The-Britches-Full-of-Stitches-2.svg",
+      "svg": "tunes/Folk_Ireland/The-Britches-Full-of-Stitches_page_2.svg",
       "midi": "tunes/Folk_Ireland/The-Britches-Full-of-Stitches.midi"
     },
     {
@@ -2096,13 +3652,13 @@
         }
       ],
       "svg_files": [
-        "The-Musical-Priest.svg",
-        "The-Musical-Priest_page_1.svg"
+        "The-Musical-Priest_page_1.svg",
+        "The-Musical-Priest.svg"
       ],
       "midi_files": [
         "The-Musical-Priest.midi"
       ],
-      "svg": "tunes/Folk_Ireland/The-Musical-Priest.svg",
+      "svg": "tunes/Folk_Ireland/The-Musical-Priest_page_1.svg",
       "midi": "tunes/Folk_Ireland/The-Musical-Priest.midi"
     },
     {
@@ -2173,8 +3729,8 @@
       "tune_folder": "Trip-to-Pakistan",
       "variants": [
         {
-          "filename": "trip-to-pakistan.ly",
-          "stem": "trip-to-pakistan"
+          "filename": "Trip-to-Pakistan.ly",
+          "stem": "Trip-to-Pakistan"
         }
       ],
       "svg_files": [
@@ -2220,13 +3776,13 @@
         }
       ],
       "svg_files": [
-        "Up-Sligo.svg",
-        "Up-Sligo_page_1.svg"
+        "Up-Sligo_page_1.svg",
+        "Up-Sligo.svg"
       ],
       "midi_files": [
         "Up-Sligo.midi"
       ],
-      "svg": "tunes/Folk_Ireland/Up-Sligo.svg",
+      "svg": "tunes/Folk_Ireland/Up-Sligo_page_1.svg",
       "midi": "tunes/Folk_Ireland/Up-Sligo.midi"
     },
     {
@@ -2262,13 +3818,13 @@
         }
       ],
       "svg_files": [
-        "Whiskey-in-the-Jar_page_1.svg",
-        "Whiskey-in-the-Jar.svg"
+        "Whiskey-in-the-Jar.svg",
+        "Whiskey-in-the-Jar_page_1.svg"
       ],
       "midi_files": [
         "Whiskey-in-the-Jar.midi"
       ],
-      "svg": "tunes/Folk_Ireland/Whiskey-in-the-Jar_page_1.svg",
+      "svg": "tunes/Folk_Ireland/Whiskey-in-the-Jar.svg",
       "midi": "tunes/Folk_Ireland/Whiskey-in-the-Jar.midi"
     },
     {
@@ -2292,13 +3848,18 @@
       "tune_folder": "Bella-Ciao",
       "variants": [
         {
-          "filename": "bella-ciao.ly",
-          "stem": "bella-ciao"
+          "filename": "Bella-Ciao_(Em).ly",
+          "stem": "Bella-Ciao_(Em)",
+          "key_variant": "Em"
         },
         {
-          "filename": "bella-ciao_(Gm).ly",
-          "stem": "bella-ciao_(Gm)",
+          "filename": "Bella-Ciao_(Gm).ly",
+          "stem": "Bella-Ciao_(Gm)",
           "key_variant": "Gm"
+        },
+        {
+          "filename": "Bella-Ciao.ly",
+          "stem": "Bella-Ciao"
         },
         {
           "filename": "Bella-Ciao_[v2].ly",
@@ -2306,38 +3867,61 @@
           "arrangement": "v2"
         },
         {
-          "filename": "bella-ciao_(Am).ly",
-          "stem": "bella-ciao_(Am)",
+          "filename": "Bella-Ciao_(Am).ly",
+          "stem": "Bella-Ciao_(Am)",
           "key_variant": "Am"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
+    },
+    {
+      "title": "Tarantella Napoletana",
+      "composer": "Luigi Ricci",
+      "country": "Italy",
+      "country_flag": "🇮🇹",
+      "genre": "Folk",
+      "subgenre": "Italian",
+      "category": "Folk/Italian",
+      "period": "",
+      "type": "",
+      "key": "B minor",
+      "time_sig": "6/8",
+      "difficulty": "Intermediate",
+      "tags": [
+        "tarantella",
+        "dance",
+        "neapolitan"
+      ],
+      "moods": [
+        "lively",
+        "energetic"
+      ],
+      "session_friendliness": "",
+      "notes": "1852 - Also available in D minor transposition",
+      "genre_folder": "Folk_Italy",
+      "tune_folder": "Tarantella-Napoletana",
+      "variants": [
+        {
+          "filename": "Tarantella-Napoletana.ly",
+          "stem": "Tarantella-Napoletana"
         },
         {
-          "filename": "bella-ciao_(Em).ly",
-          "stem": "bella-ciao_(Em)",
-          "key_variant": "Em"
+          "filename": "Tarantella-Napoletana_(Dm).ly",
+          "stem": "Tarantella-Napoletana_(Dm)",
+          "key_variant": "Dm"
         }
       ],
       "svg_files": [
-        "bella-ciao_(Am)_range.svg",
-        "bella-ciao_page_1.svg",
-        "bella-ciao_(Em)_page_1.svg",
-        "bella-ciao_range.svg",
-        "bella-ciao_(Gm)_page_1.svg",
-        "bella-ciao_(Em)_range.svg",
-        "bella-ciao_(Gm)_range.svg",
-        "bella-ciao_(Am)_page_1.svg",
-        "bella-ciao.svg",
-        "bella-ciao_(Gm).svg",
-        "bella-ciao_(Am).svg",
-        "bella-ciao_(Em).svg"
+        "Tarantella-Napoletana_(Dm)_page_1.svg",
+        "Tarantella-Napoletana_page_1.svg"
       ],
       "midi_files": [
-        "bella-ciao_(Gm).midi",
-        "bella-ciao.midi",
-        "bella-ciao_(Em).midi",
-        "bella-ciao_(Am).midi"
+        "Tarantella-Napoletana.midi",
+        "Tarantella-Napoletana_(Dm).midi"
       ],
-      "svg": "tunes/Folk_Italy/bella-ciao_%28Am%29_range.svg",
-      "midi": "tunes/Folk_Italy/bella-ciao_%28Gm%29.midi"
+      "svg": "tunes/Folk_Italy/Tarantella-Napoletana_%28Dm%29_page_1.svg",
+      "midi": "tunes/Folk_Italy/Tarantella-Napoletana.midi"
     },
     {
       "title": "Chosen Kalle Mazel Tov",
@@ -2375,31 +3959,31 @@
           "key_variant": "Am"
         },
         {
-          "filename": "Chosen-Kalle-Mazel-Tov.ly",
-          "stem": "Chosen-Kalle-Mazel-Tov"
-        },
-        {
           "filename": "Chosen-Kalle-Mazel-Tov_(Gm).ly",
           "stem": "Chosen-Kalle-Mazel-Tov_(Gm)",
           "key_variant": "Gm"
+        },
+        {
+          "filename": "Chosen-Kalle-Mazel-Tov.ly",
+          "stem": "Chosen-Kalle-Mazel-Tov"
         }
       ],
       "svg_files": [
-        "Chosen-Kalle-Mazel-Tov_(Gm).svg",
         "Chosen-Kalle-Mazel-Tov_(Em).svg",
-        "Chosen-Kalle-Mazel-Tov_(Dm).svg",
+        "Chosen-Kalle-Mazel-Tov_(Gm).svg",
         "Chosen-Kalle-Mazel-Tov.svg",
-        "Chosen-Kalle-Mazel-Tov_(Am).svg"
+        "Chosen-Kalle-Mazel-Tov_(Am).svg",
+        "Chosen-Kalle-Mazel-Tov_(Dm).svg"
       ],
       "midi_files": [
-        "Chosen-Kalle-Mazel-Tov_(Dm).midi",
-        "Chosen-Kalle-Mazel-Tov_(Gm).midi",
         "Chosen-Kalle-Mazel-Tov.midi",
+        "Chosen-Kalle-Mazel-Tov_(Dm).midi",
         "Chosen-Kalle-Mazel-Tov_(Am).midi",
+        "Chosen-Kalle-Mazel-Tov_(Gm).midi",
         "Chosen-Kalle-Mazel-Tov_(Em).midi"
       ],
-      "svg": "tunes/Folk_Jewish/Chosen-Kalle-Mazel-Tov_%28Gm%29.svg",
-      "midi": "tunes/Folk_Jewish/Chosen-Kalle-Mazel-Tov_%28Dm%29.midi"
+      "svg": "tunes/Folk_Jewish/Chosen-Kalle-Mazel-Tov_%28Em%29.svg",
+      "midi": "tunes/Folk_Jewish/Chosen-Kalle-Mazel-Tov.midi"
     },
     {
       "title": "Erev shel Shoshanim",
@@ -2422,6 +4006,21 @@
       "tune_folder": "Erev-shel-Shoshanim",
       "variants": [
         {
+          "filename": "Erev-shel-Shoshanim_(Am).ly",
+          "stem": "Erev-shel-Shoshanim_(Am)",
+          "key_variant": "Am"
+        },
+        {
+          "filename": "Erev-shel-Shoshanim_(F#m).ly",
+          "stem": "Erev-shel-Shoshanim_(F#m)",
+          "key_variant": "F#m"
+        },
+        {
+          "filename": "Erev-shel-Shoshanim_(Gm).ly",
+          "stem": "Erev-shel-Shoshanim_(Gm)",
+          "key_variant": "Gm"
+        },
+        {
           "filename": "Erev-shel-Shoshanim_(Fm).ly",
           "stem": "Erev-shel-Shoshanim_(Fm)",
           "key_variant": "Fm"
@@ -2441,24 +4040,9 @@
           "key_variant": "Dm"
         },
         {
-          "filename": "Erev-shel-Shoshanim_(F#m).ly",
-          "stem": "Erev-shel-Shoshanim_(F#m)",
-          "key_variant": "F#m"
-        },
-        {
-          "filename": "Erev-shel-Shoshanim_(Gm).ly",
-          "stem": "Erev-shel-Shoshanim_(Gm)",
-          "key_variant": "Gm"
-        },
-        {
           "filename": "Erev-shel-Shoshanim_(Cm).ly",
           "stem": "Erev-shel-Shoshanim_(Cm)",
           "key_variant": "Cm"
-        },
-        {
-          "filename": "Erev-shel-Shoshanim_(Am).ly",
-          "stem": "Erev-shel-Shoshanim_(Am)",
-          "key_variant": "Am"
         },
         {
           "filename": "Erev-shel-Shoshanim_(Bm).ly",
@@ -2467,38 +4051,38 @@
         }
       ],
       "svg_files": [
-        "Erev-shel-Shoshanim_(Am)_page_1.svg",
-        "Erev-shel-Shoshanim_page_1.svg",
-        "Erev-shel-Shoshanim_(Fm)_page_1.svg",
-        "Erev-shel-Shoshanim_(Cm)_page_1.svg",
-        "Erev-shel-Shoshanim_(Bm)_page_1.svg",
-        "Erev-shel-Shoshanim_(Dm)_page_1.svg",
-        "Erev-shel-Shoshanim_(F#m)_page_1.svg",
-        "Erev-shel-Shoshanim_(Gm)_page_1.svg",
         "Erev-shel-Shoshanim_(Em)_page_1.svg",
-        "Erev-shel-Shoshanim_(Cm).svg",
-        "Erev-shel-Shoshanim_(Dm).svg",
-        "Erev-shel-Shoshanim_(Bm).svg",
+        "Erev-shel-Shoshanim_(Bm)_page_1.svg",
+        "Erev-shel-Shoshanim.svg",
+        "Erev-shel-Shoshanim_(Cm)_page_1.svg",
+        "Erev-shel-Shoshanim_(Dm)_page_1.svg",
+        "Erev-shel-Shoshanim_page_1.svg",
         "Erev-shel-Shoshanim_(Em).svg",
-        "Erev-shel-Shoshanim_(Fm).svg",
         "Erev-shel-Shoshanim_(Gm).svg",
-        "Erev-shel-Shoshanim_(F#m).svg",
+        "Erev-shel-Shoshanim_(Cm).svg",
         "Erev-shel-Shoshanim_(Am).svg",
-        "Erev-shel-Shoshanim.svg"
+        "Erev-shel-Shoshanim_(Fm).svg",
+        "Erev-shel-Shoshanim_(F#m)_page_1.svg",
+        "Erev-shel-Shoshanim_(Fm)_page_1.svg",
+        "Erev-shel-Shoshanim_(Am)_page_1.svg",
+        "Erev-shel-Shoshanim_(Dm).svg",
+        "Erev-shel-Shoshanim_(Gm)_page_1.svg",
+        "Erev-shel-Shoshanim_(F#m).svg",
+        "Erev-shel-Shoshanim_(Bm).svg"
       ],
       "midi_files": [
-        "Erev-shel-Shoshanim.midi",
-        "Erev-shel-Shoshanim_(Gm).midi",
-        "Erev-shel-Shoshanim_(F#m).midi",
-        "Erev-shel-Shoshanim_(Am).midi",
-        "Erev-shel-Shoshanim_(Cm).midi",
-        "Erev-shel-Shoshanim_(Dm).midi",
-        "Erev-shel-Shoshanim_(Em).midi",
         "Erev-shel-Shoshanim_(Bm).midi",
-        "Erev-shel-Shoshanim_(Fm).midi"
+        "Erev-shel-Shoshanim_(Fm).midi",
+        "Erev-shel-Shoshanim_(F#m).midi",
+        "Erev-shel-Shoshanim_(Dm).midi",
+        "Erev-shel-Shoshanim_(Am).midi",
+        "Erev-shel-Shoshanim.midi",
+        "Erev-shel-Shoshanim_(Cm).midi",
+        "Erev-shel-Shoshanim_(Gm).midi",
+        "Erev-shel-Shoshanim_(Em).midi"
       ],
-      "svg": "tunes/Folk_Jewish/Erev-shel-Shoshanim_%28Am%29_page_1.svg",
-      "midi": "tunes/Folk_Jewish/Erev-shel-Shoshanim.midi"
+      "svg": "tunes/Folk_Jewish/Erev-shel-Shoshanim_%28Em%29_page_1.svg",
+      "midi": "tunes/Folk_Jewish/Erev-shel-Shoshanim_%28Bm%29.midi"
     },
     {
       "title": "Hatikvah (The Hope)",
@@ -2521,20 +4105,12 @@
       "tune_folder": "Hatikva",
       "variants": [
         {
-          "filename": "hatikva.ly",
-          "stem": "hatikva"
+          "filename": "Hatikva.ly",
+          "stem": "Hatikva"
         }
       ],
-      "svg_files": [
-        "hatikva_page_1.svg",
-        "hatikva-1.svg",
-        "hatikva-2.svg"
-      ],
-      "midi_files": [
-        "hatikva.midi"
-      ],
-      "svg": "tunes/Folk_Jewish/hatikva_page_1.svg",
-      "midi": "tunes/Folk_Jewish/hatikva.midi"
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "Hevenu shalom aleichem",
@@ -2557,6 +4133,11 @@
       "tune_folder": "Hevenu-Shalom-Aleichem",
       "variants": [
         {
+          "filename": "Hevenu-Shalom-Aleichem_(C#m).ly",
+          "stem": "Hevenu-Shalom-Aleichem_(C#m)",
+          "key_variant": "C#m"
+        },
+        {
           "filename": "Hevenu-Shalom-Aleichem_(Dm).ly",
           "stem": "Hevenu-Shalom-Aleichem_(Dm)",
           "key_variant": "Dm"
@@ -2565,28 +4146,23 @@
           "filename": "Hevenu-Shalom-Aleichem_(Cm).ly",
           "stem": "Hevenu-Shalom-Aleichem_(Cm)",
           "key_variant": "Cm"
-        },
-        {
-          "filename": "Hevenu-Shalom-Aleichem_(C#m).ly",
-          "stem": "Hevenu-Shalom-Aleichem_(C#m)",
-          "key_variant": "C#m"
         }
       ],
       "svg_files": [
         "Hevenu-Shalom-Aleichem_(C#m)_page_1.svg",
-        "Hevenu-Shalom-Aleichem_(Dm)_page_1.svg",
-        "Hevenu-Shalom-Aleichem_(Cm)_page_1.svg",
-        "Hevenu-Shalom-Aleichem_(Dm).svg",
         "Hevenu-Shalom-Aleichem_(C#m).svg",
+        "Hevenu-Shalom-Aleichem_(Cm)_page_1.svg",
+        "Hevenu-Shalom-Aleichem_(Dm)_page_1.svg",
+        "Hevenu-Shalom-Aleichem_(Dm).svg",
         "Hevenu-Shalom-Aleichem_(Cm).svg"
       ],
       "midi_files": [
+        "Hevenu-Shalom-Aleichem_(Dm).midi",
         "Hevenu-Shalom-Aleichem_(Cm).midi",
-        "Hevenu-Shalom-Aleichem_(C#m).midi",
-        "Hevenu-Shalom-Aleichem_(Dm).midi"
+        "Hevenu-Shalom-Aleichem_(C#m).midi"
       ],
       "svg": "tunes/Folk_Jewish/Hevenu-Shalom-Aleichem_%28C%23m%29_page_1.svg",
-      "midi": "tunes/Folk_Jewish/Hevenu-Shalom-Aleichem_%28Cm%29.midi"
+      "midi": "tunes/Folk_Jewish/Hevenu-Shalom-Aleichem_%28Dm%29.midi"
     },
     {
       "title": "Im Hashem Lo Yivneh Bayis",
@@ -2614,13 +4190,13 @@
         }
       ],
       "svg_files": [
-        "Im-Hashem-Lo-Yivneh-Bayis_page_1.svg",
-        "Im-Hashem-Lo-Yivneh-Bayis.svg"
+        "Im-Hashem-Lo-Yivneh-Bayis.svg",
+        "Im-Hashem-Lo-Yivneh-Bayis_page_1.svg"
       ],
       "midi_files": [
         "Im-Hashem-Lo-Yivneh-Bayis.midi"
       ],
-      "svg": "tunes/Folk_Jewish/Im-Hashem-Lo-Yivneh-Bayis_page_1.svg",
+      "svg": "tunes/Folk_Jewish/Im-Hashem-Lo-Yivneh-Bayis.svg",
       "midi": "tunes/Folk_Jewish/Im-Hashem-Lo-Yivneh-Bayis.midi"
     },
     {
@@ -2664,26 +4240,18 @@
         }
       ],
       "svg_files": [
-        "Numi-numi-Hebrew-Lullaby_(Dm)_page_1.svg",
-        "Numi-numi-Hebrew-Lullaby_(Cm)_page_1.svg",
-        "Numi-numi-Hebrew-Lullaby_(Bm)_page_1.svg",
-        "Numi-numi-Hebrew-Lullaby_page_1.svg",
-        "Numi-numi-Hebrew-Lullaby_(Dm).svg",
-        "Numi-numi-Hebrew-Lullaby_(Cm).svg",
-        "Numi-numi-Hebrew-Lullaby_(Bm).svg",
-        "Numi-numi-Hebrew-Lullaby.svg",
         "Numi-numi.svg"
       ],
       "midi_files": [
+        "Numi-numi.midi",
         "Numi-numi-Hebrew-Lullaby_(Cm).midi",
-        "Numi-numi-Hebrew-Lullaby_(Bm).midi",
         "Numi-numi-Hebrew-Lullaby-1.midi",
-        "Numi-numi-Hebrew-Lullaby.midi",
         "Numi-numi-Hebrew-Lullaby_(Dm).midi",
-        "Numi-numi.midi"
+        "Numi-numi-Hebrew-Lullaby_(Bm).midi",
+        "Numi-numi-Hebrew-Lullaby.midi"
       ],
-      "svg": "tunes/Folk_Jewish/Numi-numi-Hebrew-Lullaby_%28Dm%29_page_1.svg",
-      "midi": "tunes/Folk_Jewish/Numi-numi-Hebrew-Lullaby_%28Cm%29.midi"
+      "svg": "tunes/Folk_Jewish/Numi-numi.svg",
+      "midi": "tunes/Folk_Jewish/Numi-numi.midi"
     },
     {
       "title": "Papirosen",
@@ -2706,51 +4274,51 @@
       "tune_folder": "Papirosen",
       "variants": [
         {
-          "filename": "Papirosen_(Dm).ly",
-          "stem": "Papirosen_(Dm)",
-          "key_variant": "Dm"
-        },
-        {
           "filename": "Papirosen_(Am).ly",
           "stem": "Papirosen_(Am)",
           "key_variant": "Am"
         },
         {
-          "filename": "Papirosen_(Cm).ly",
-          "stem": "Papirosen_(Cm)",
-          "key_variant": "Cm"
+          "filename": "Papirosen_(Gm).ly",
+          "stem": "Papirosen_(Gm)",
+          "key_variant": "Gm"
         },
         {
           "filename": "Papirosen.ly",
           "stem": "Papirosen"
         },
         {
-          "filename": "Papirosen_(Gm).ly",
-          "stem": "Papirosen_(Gm)",
-          "key_variant": "Gm"
+          "filename": "Papirosen_(Dm).ly",
+          "stem": "Papirosen_(Dm)",
+          "key_variant": "Dm"
+        },
+        {
+          "filename": "Papirosen_(Cm).ly",
+          "stem": "Papirosen_(Cm)",
+          "key_variant": "Cm"
         }
       ],
       "svg_files": [
-        "Papirosen_(Dm)_page_1.svg",
-        "Papirosen_(Gm)_page_1.svg",
-        "Papirosen_page_1.svg",
-        "Papirosen_(Cm)_page_1.svg",
-        "Papirosen_(Am)_page_1.svg",
-        "Papirosen_(Gm).svg",
         "Papirosen_(Cm).svg",
-        "Papirosen_(Am).svg",
         "Papirosen.svg",
-        "Papirosen_(Dm).svg"
+        "Papirosen_(Am).svg",
+        "Papirosen_(Gm).svg",
+        "Papirosen_(Dm).svg",
+        "Papirosen_(Dm)_page_1.svg",
+        "Papirosen_(Cm)_page_1.svg",
+        "Papirosen_page_1.svg",
+        "Papirosen_(Am)_page_1.svg",
+        "Papirosen_(Gm)_page_1.svg"
       ],
       "midi_files": [
-        "Papirosen_(Gm).midi",
-        "Papirosen_(Dm).midi",
         "Papirosen_(Am).midi",
         "Papirosen_(Cm).midi",
-        "Papirosen.midi"
+        "Papirosen_(Gm).midi",
+        "Papirosen.midi",
+        "Papirosen_(Dm).midi"
       ],
-      "svg": "tunes/Folk_Jewish/Papirosen_%28Dm%29_page_1.svg",
-      "midi": "tunes/Folk_Jewish/Papirosen_%28Gm%29.midi"
+      "svg": "tunes/Folk_Jewish/Papirosen_%28Cm%29.svg",
+      "midi": "tunes/Folk_Jewish/Papirosen_%28Am%29.midi"
     },
     {
       "title": "The Wellerman",
@@ -2778,13 +4346,13 @@
         }
       ],
       "svg_files": [
-        "The-Wellerman_page_1.svg",
-        "The-Wellerman.svg"
+        "The-Wellerman.svg",
+        "The-Wellerman_page_1.svg"
       ],
       "midi_files": [
         "The-Wellerman.midi"
       ],
-      "svg": "tunes/Folk_NewZealand/The-Wellerman_page_1.svg",
+      "svg": "tunes/Folk_NewZealand/The-Wellerman.svg",
       "midi": "tunes/Folk_NewZealand/The-Wellerman.midi"
     },
     {
@@ -2848,13 +4416,13 @@
         }
       ],
       "svg_files": [
-        "Bublitchki_page_1.svg",
-        "Bublitchki.svg"
+        "Bublitchki.svg",
+        "Bublitchki_page_1.svg"
       ],
       "midi_files": [
         "Bublitchki.midi"
       ],
-      "svg": "tunes/Folk_Russia/Bublitchki_page_1.svg",
+      "svg": "tunes/Folk_Russia/Bublitchki.svg",
       "midi": "tunes/Folk_Russia/Bublitchki.midi"
     },
     {
@@ -2883,13 +4451,13 @@
         }
       ],
       "svg_files": [
-        "Cokas-Dance_page_1.svg",
-        "Cokas-Dance.svg"
+        "Cokas-Dance.svg",
+        "Cokas-Dance_page_1.svg"
       ],
       "midi_files": [
         "Cokas-Dance.midi"
       ],
-      "svg": "tunes/Folk_Russia/Cokas-Dance_page_1.svg",
+      "svg": "tunes/Folk_Russia/Cokas-Dance.svg",
       "midi": "tunes/Folk_Russia/Cokas-Dance.midi"
     },
     {
@@ -2928,22 +4496,16 @@
         }
       ],
       "svg_files": [
-        "Dark-Eyes_1_page_1.svg",
         "Dark-Eyes.svg",
-        "Dark-Eyes_1.svg",
-        "Dark-Eyes_3.svg",
         "Dark-Eyes_[v3].svg"
       ],
       "midi_files": [
-        "Dark-Eyes_1.midi",
-        "Dark-Eyes_2.midi",
-        "Dark-Eyes_3.midi",
         "Dark-Eyes_[v3].midi",
         "Dark-Eyes.midi",
         "Dark-Eyes_[v2].midi"
       ],
-      "svg": "tunes/Folk_Russia/Dark-Eyes_1_page_1.svg",
-      "midi": "tunes/Folk_Russia/Dark-Eyes_1.midi"
+      "svg": "tunes/Folk_Russia/Dark-Eyes.svg",
+      "midi": "tunes/Folk_Russia/Dark-Eyes_%5Bv3%5D.midi"
     },
     {
       "title": "Katyusha",
@@ -2966,24 +4528,9 @@
       "tune_folder": "Katyusha",
       "variants": [
         {
-          "filename": "Katyusha_(Bm).ly",
-          "stem": "Katyusha_(Bm)",
-          "key_variant": "Bm"
-        },
-        {
           "filename": "Katyusha_(Em).ly",
           "stem": "Katyusha_(Em)",
           "key_variant": "Em"
-        },
-        {
-          "filename": "Katyusha_(Cm).ly",
-          "stem": "Katyusha_(Cm)",
-          "key_variant": "Cm"
-        },
-        {
-          "filename": "Katyusha_(Gm).ly",
-          "stem": "Katyusha_(Gm)",
-          "key_variant": "Gm"
         },
         {
           "filename": "Katyusha_(Dm).ly",
@@ -2991,47 +4538,62 @@
           "key_variant": "Dm"
         },
         {
-          "filename": "Katyusha.ly",
-          "stem": "Katyusha"
+          "filename": "Katyusha_(Cm).ly",
+          "stem": "Katyusha_(Cm)",
+          "key_variant": "Cm"
+        },
+        {
+          "filename": "Katyusha_(Bm).ly",
+          "stem": "Katyusha_(Bm)",
+          "key_variant": "Bm"
         },
         {
           "filename": "Katyusha_(Am).ly",
           "stem": "Katyusha_(Am)",
           "key_variant": "Am"
+        },
+        {
+          "filename": "Katyusha_(Gm).ly",
+          "stem": "Katyusha_(Gm)",
+          "key_variant": "Gm"
+        },
+        {
+          "filename": "Katyusha.ly",
+          "stem": "Katyusha"
         }
       ],
       "svg_files": [
-        "Katyusha_(Gm)_page_1.svg",
-        "Katyusha_(Cm)_page_1.svg",
-        "Katyusha_(Em)_page_1.svg",
-        "Katyusha_(Am)_page_1.svg",
-        "Katyusha_page_1.svg",
-        "Katyusha_(Dm)_page_1.svg",
         "Katyusha_(Bm)_page_1.svg",
+        "Katyusha_(Em)_page_1.svg",
+        "Katyusha_(Dm)_page_1.svg",
+        "Katyusha_(Cm)_page_1.svg",
+        "Katyusha_page_1.svg",
+        "Katyusha.svg",
+        "Katyusha_(Em).svg",
+        "Katyusha_(Gm).svg",
         "Katyusha_(Cm).svg",
         "Katyusha_(Am).svg",
-        "Katyusha.svg",
+        "Katyusha_(Am)_page_1.svg",
         "Katyusha_(Dm).svg",
-        "Katyusha_(Em).svg",
-        "Katyusha_(Bm).svg",
-        "Katyusha_(Gm).svg"
+        "Katyusha_(Gm)_page_1.svg",
+        "Katyusha_(Bm).svg"
       ],
       "midi_files": [
-        "Katyusha_(Gm).midi",
-        "Katyusha-2.midi",
-        "Katyusha.midi",
-        "Katyusha_(Bm).midi",
-        "Katyusha_(Am).midi",
         "Katyusha-5.midi",
-        "Katyusha_(Em).midi",
-        "Katyusha_(Cm).midi",
-        "Katyusha-1.midi",
+        "Katyusha_(Bm).midi",
         "Katyusha-4.midi",
+        "Katyusha-3.midi",
+        "Katyusha-2.midi",
         "Katyusha_(Dm).midi",
-        "Katyusha-3.midi"
+        "Katyusha-1.midi",
+        "Katyusha_(Am).midi",
+        "Katyusha.midi",
+        "Katyusha_(Cm).midi",
+        "Katyusha_(Gm).midi",
+        "Katyusha_(Em).midi"
       ],
-      "svg": "tunes/Folk_Russia/Katyusha_%28Gm%29_page_1.svg",
-      "midi": "tunes/Folk_Russia/Katyusha_%28Gm%29.midi"
+      "svg": "tunes/Folk_Russia/Katyusha_%28Bm%29_page_1.svg",
+      "midi": "tunes/Folk_Russia/Katyusha-5.midi"
     },
     {
       "title": "Коробейники (Korobeiniki)",
@@ -3059,18 +4621,18 @@
           "key_variant": "Dm"
         },
         {
-          "filename": "Korobeiniki-Tetris_(Gm).ly",
-          "stem": "Korobeiniki-Tetris_(Gm)",
-          "key_variant": "Gm"
+          "filename": "Korobeiniki-Tetris_(Em).ly",
+          "stem": "Korobeiniki-Tetris_(Em)",
+          "key_variant": "Em"
+        },
+        {
+          "filename": "Korobeiniki-Tetris_(Am).ly",
+          "stem": "Korobeiniki-Tetris_(Am)",
+          "key_variant": "Am"
         },
         {
           "filename": "Korobeiniki-Tetris.ly",
           "stem": "Korobeiniki-Tetris"
-        },
-        {
-          "filename": "Korobeiniki-Tetris_(Em).ly",
-          "stem": "Korobeiniki-Tetris_(Em)",
-          "key_variant": "Em"
         },
         {
           "filename": "Korobeiniki-Tetris_(Fm).ly",
@@ -3078,9 +4640,9 @@
           "key_variant": "Fm"
         },
         {
-          "filename": "Korobeiniki-Tetris_(Am).ly",
-          "stem": "Korobeiniki-Tetris_(Am)",
-          "key_variant": "Am"
+          "filename": "Korobeiniki-Tetris_(Gm).ly",
+          "stem": "Korobeiniki-Tetris_(Gm)",
+          "key_variant": "Gm"
         }
       ],
       "svg_files": [
@@ -3113,29 +4675,28 @@
       "tune_folder": "Moscow-Nights",
       "variants": [
         {
-          "filename": "Moscow-Nights.ly",
-          "stem": "Moscow-Nights"
-        },
-        {
           "filename": "Moscow-Nights_(Dm).ly",
           "stem": "Moscow-Nights_(Dm)",
           "key_variant": "Dm"
+        },
+        {
+          "filename": "Moscow-Nights.ly",
+          "stem": "Moscow-Nights"
         }
       ],
       "svg_files": [
-        "Moscow-Nights_page_1.svg",
         "Moscow-Nights_(Dm)_page_1.svg",
-        "Moscow-Nights_(Dm).svg",
-        "Moscow-Nights.svg"
+        "Moscow-Nights.svg",
+        "Moscow-Nights_page_1.svg",
+        "Moscow-Nights_(Dm).svg"
       ],
       "midi_files": [
-        "Moscow-Nights.midi",
         "Moscow-Nights-1.midi",
         "Moscow-Nights_(Dm).midi",
-        "Moscow-Nights.mid"
+        "Moscow-Nights.midi"
       ],
-      "svg": "tunes/Folk_Russia/Moscow-Nights_page_1.svg",
-      "midi": "tunes/Folk_Russia/Moscow-Nights.midi"
+      "svg": "tunes/Folk_Russia/Moscow-Nights_%28Dm%29_page_1.svg",
+      "midi": "tunes/Folk_Russia/Moscow-Nights-1.midi"
     },
     {
       "title": "Polyushko-polye",
@@ -3158,51 +4719,32 @@
       "tune_folder": "Polyushko-pole",
       "variants": [
         {
-          "filename": "Polyushko-Pole_(Gm).ly",
-          "stem": "Polyushko-Pole_(Gm)",
-          "key_variant": "Gm"
-        },
-        {
-          "filename": "Polyushko-Pole_(Am).ly",
-          "stem": "Polyushko-Pole_(Am)",
+          "filename": "Polyushko-pole_(Am).ly",
+          "stem": "Polyushko-pole_(Am)",
           "key_variant": "Am"
         },
         {
-          "filename": "Polyushko-Pole_(Cm).ly",
-          "stem": "Polyushko-Pole_(Cm)",
-          "key_variant": "Cm"
+          "filename": "Polyushko-pole.ly",
+          "stem": "Polyushko-pole"
         },
         {
-          "filename": "Polyushko-Pole_(Dm).ly",
-          "stem": "Polyushko-Pole_(Dm)",
+          "filename": "Polyushko-pole_(Gm).ly",
+          "stem": "Polyushko-pole_(Gm)",
+          "key_variant": "Gm"
+        },
+        {
+          "filename": "Polyushko-pole_(Dm).ly",
+          "stem": "Polyushko-pole_(Dm)",
           "key_variant": "Dm"
         },
         {
-          "filename": "Polyushko-Pole.ly",
-          "stem": "Polyushko-Pole"
+          "filename": "Polyushko-pole_(Cm).ly",
+          "stem": "Polyushko-pole_(Cm)",
+          "key_variant": "Cm"
         }
       ],
-      "svg_files": [
-        "Polyushko-Pole_page_1.svg",
-        "Polyushko-Pole_(Am)_page_1.svg",
-        "Polyushko-Pole_(Cm)_page_1.svg",
-        "Polyushko-Pole_(Dm)_page_1.svg",
-        "Polyushko-Pole_(Gm)_page_1.svg",
-        "Polyushko-Pole_(Am).svg",
-        "Polyushko-Pole.svg",
-        "Polyushko-Pole_(Dm).svg",
-        "Polyushko-Pole_(Gm).svg",
-        "Polyushko-Pole_(Cm).svg"
-      ],
-      "midi_files": [
-        "Polyushko-Pole_(Am).midi",
-        "Polyushko-Pole_(Dm).midi",
-        "Polyushko-Pole_(Gm).midi",
-        "Polyushko-Pole.midi",
-        "Polyushko-Pole_(Cm).midi"
-      ],
-      "svg": "tunes/Folk_Russia/Polyushko-Pole_page_1.svg",
-      "midi": "tunes/Folk_Russia/Polyushko-Pole_%28Am%29.midi"
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "Tsiganisky",
@@ -3225,35 +4767,35 @@
       "tune_folder": "Tsiganisky",
       "variants": [
         {
-          "filename": "Tsiganisky_(Gm).ly",
-          "stem": "Tsiganisky_(Gm)",
-          "key_variant": "Gm"
+          "filename": "Tsiganisky_(Am).ly",
+          "stem": "Tsiganisky_(Am)",
+          "key_variant": "Am"
         },
         {
           "filename": "Tsiganisky.ly",
           "stem": "Tsiganisky"
         },
         {
-          "filename": "Tsiganisky_(Am).ly",
-          "stem": "Tsiganisky_(Am)",
-          "key_variant": "Am"
+          "filename": "Tsiganisky_(Gm).ly",
+          "stem": "Tsiganisky_(Gm)",
+          "key_variant": "Gm"
         }
       ],
       "svg_files": [
         "Tsiganisky_page_1.svg",
-        "Tsiganisky_(Gm)_page_1.svg",
         "Tsiganisky_(Am)_page_1.svg",
+        "Tsiganisky_(Gm)_page_1.svg",
         "Tsiganisky_(Gm).svg",
-        "Tsiganisky.svg",
-        "Tsiganisky_(Am).svg"
+        "Tsiganisky_(Am).svg",
+        "Tsiganisky.svg"
       ],
       "midi_files": [
-        "Tsiganisky.midi",
         "Tsiganisky_(Gm).midi",
+        "Tsiganisky.midi",
         "Tsiganisky_(Am).midi"
       ],
       "svg": "tunes/Folk_Russia/Tsiganisky_page_1.svg",
-      "midi": "tunes/Folk_Russia/Tsiganisky.midi"
+      "midi": "tunes/Folk_Russia/Tsiganisky_%28Gm%29.midi"
     },
     {
       "title": "Two Guitars",
@@ -3281,13 +4823,13 @@
         }
       ],
       "svg_files": [
-        "Two-Guitars_page_1.svg",
-        "Two-Guitars.svg"
+        "Two-Guitars.svg",
+        "Two-Guitars_page_1.svg"
       ],
       "midi_files": [
         "Two-Guitars.midi"
       ],
-      "svg": "tunes/Folk_Russia/Two-Guitars_page_1.svg",
+      "svg": "tunes/Folk_Russia/Two-Guitars.svg",
       "midi": "tunes/Folk_Russia/Two-Guitars.midi"
     },
     {
@@ -3311,9 +4853,8 @@
       "tune_folder": "Auld-Lang-Syne",
       "variants": [
         {
-          "filename": "Auld-Lang-Syne_[multiple keys].ly",
-          "stem": "Auld-Lang-Syne_[multiple keys]",
-          "arrangement": "multiple keys"
+          "filename": "Auld-Lang-Syne_(in-D).ly",
+          "stem": "Auld-Lang-Syne_(in-D)"
         },
         {
           "filename": "Auld-Lang-Syne_[Beethoven].ly",
@@ -3326,51 +4867,41 @@
           "arrangement": "with lyrics"
         },
         {
+          "filename": "Auld-Lang-Syne_[multiple keys].ly",
+          "stem": "Auld-Lang-Syne_[multiple keys]",
+          "arrangement": "multiple keys"
+        },
+        {
           "filename": "Auld-Lang-Syne_[Jig].ly",
           "stem": "Auld-Lang-Syne_[Jig]",
           "arrangement": "Jig"
-        },
-        {
-          "filename": "Auld-Lang-Syne_(in-D).ly",
-          "stem": "Auld-Lang-Syne_(in-D)"
         }
       ],
       "svg_files": [
-        "Auld-Lang-Syne_[Beethoven]_page_4.svg",
-        "Auld-Lang-Syne_[Beethoven]_page_5.svg",
-        "Auld-Lang-Syne_[Beethoven]_page_2.svg",
-        "Auld-Lang-Syne_(in-D)_page_1.svg",
-        "Auld-Lang-Syne_[multiple keys]_page_1.svg",
         "Auld-Lang-Syne_[multiple keys]_page_2.svg",
-        "Auld-Lang-Syne_[with lyrics]_page_1.svg",
+        "Auld-Lang-Syne_[multiple keys]_page_1.svg",
+        "Auld-Lang-Syne_[Jig].svg",
+        "Auld-Lang-Syne_(in-D).svg",
+        "Auld-Lang-Syne_(in-D)_page_1.svg",
+        "Auld-Lang-Syne_[Beethoven]_page_5.svg",
+        "Auld-Lang-Syne_[Beethoven]_page_4.svg",
+        "Auld-Lang-Syne_[Beethoven]_page_6.svg",
         "Auld-Lang-Syne_[Beethoven]_page_7.svg",
         "Auld-Lang-Syne_[Beethoven]_page_3.svg",
-        "Auld-Lang-Syne_[Beethoven]_page_6.svg",
-        "Auld-Lang-Syne_[Beethoven]_page_1.svg",
+        "Auld-Lang-Syne_[with lyrics]_page_1.svg",
         "Auld-Lang-Syne_[Jig]_page_1.svg",
-        "Auld-Lang-Syne_(in-D).svg",
-        "Auld-Lang-Syne_[Beethoven]-1.svg",
+        "Auld-Lang-Syne_[Beethoven]_page_2.svg",
         "Auld-Lang-Syne_[with lyrics].svg",
-        "Auld-Lang-Syne_[Beethoven]-7.svg",
-        "Auld-Lang-Syne_[multiple keys]-2.svg",
-        "Auld-Lang-Syne_[Beethoven]-6.svg",
-        "Auld-Lang-Syne_[Beethoven]-2.svg",
-        "Auld-Lang-Syne_[Beethoven]-5.svg",
-        "Auld-Lang-Syne_[Beethoven]-4.svg",
-        "Auld-Lang-Syne_[multiple keys]-1.svg",
-        "Auld-Lang-Syne_[Jig].svg",
-        "Auld-Lang-Syne_[Beethoven]-3.svg"
+        "Auld-Lang-Syne_[Beethoven]_page_1.svg"
       ],
       "midi_files": [
-        "Auld-Lang-Syne_[Beethoven].midi",
-        "Auld-Lang-Syne_(in-D).midi",
-        "Auld-Lang-Syne_(in-D)-1.midi",
-        "Auld-Lang-Syne_(in-D)-full-1.midi",
         "Auld-Lang-Syne_[with lyrics].midi",
-        "Auld-Lang-Syne_[Jig].midi"
+        "Auld-Lang-Syne_(in-D).midi",
+        "Auld-Lang-Syne_[Jig].midi",
+        "Auld-Lang-Syne_[Beethoven].midi"
       ],
-      "svg": "tunes/Folk_Scotland/Auld-Lang-Syne_%5BBeethoven%5D_page_4.svg",
-      "midi": "tunes/Folk_Scotland/Auld-Lang-Syne_%5BBeethoven%5D.midi"
+      "svg": "tunes/Folk_Scotland/Auld-Lang-Syne_%5Bmultiple%20keys%5D_page_2.svg",
+      "midi": "tunes/Folk_Scotland/Auld-Lang-Syne_%5Bwith%20lyrics%5D.midi"
     },
     {
       "title": "A Gift to You (Everything I Am)",
@@ -3405,13 +4936,13 @@
         }
       ],
       "svg_files": [
-        "A-Gift-to-You-Everything-I-Am_page_1.svg",
-        "A-Gift-to-You-Everything-I-Am.svg"
+        "A-Gift-to-You-Everything-I-Am.svg",
+        "A-Gift-to-You-Everything-I-Am_page_1.svg"
       ],
       "midi_files": [
         "A-Gift-to-You-Everything-I-Am.midi"
       ],
-      "svg": "tunes/Folk_USA/A-Gift-to-You-Everything-I-Am_page_1.svg",
+      "svg": "tunes/Folk_USA/A-Gift-to-You-Everything-I-Am.svg",
       "midi": "tunes/Folk_USA/A-Gift-to-You-Everything-I-Am.midi"
     },
     {
@@ -3442,18 +4973,18 @@
       "tune_folder": "Amazing-Grace",
       "variants": [
         {
-          "filename": "Amazing-grace.ly",
-          "stem": "Amazing-grace"
+          "filename": "Amazing-Grace.ly",
+          "stem": "Amazing-Grace"
         }
       ],
       "svg_files": [
-        "Amazing-Grace.svg",
-        "Amazing-Grace_page_1.svg"
+        "Amazing-Grace_page_1.svg",
+        "Amazing-Grace.svg"
       ],
       "midi_files": [
         "Amazing-Grace.midi"
       ],
-      "svg": "tunes/Folk_USA/Amazing-Grace.svg",
+      "svg": "tunes/Folk_USA/Amazing-Grace_page_1.svg",
       "midi": "tunes/Folk_USA/Amazing-Grace.midi"
     },
     {
@@ -3494,11 +5025,11 @@
         "Ashokan-Farewell.svg"
       ],
       "midi_files": [
-        "Ashokan-Farewell.midi",
-        "Ashokan-Farewell-1.midi"
+        "Ashokan-Farewell-1.midi",
+        "Ashokan-Farewell.midi"
       ],
       "svg": "tunes/Folk_USA/Ashokan-Farewell_page_1.svg",
-      "midi": "tunes/Folk_USA/Ashokan-Farewell.midi"
+      "midi": "tunes/Folk_USA/Ashokan-Farewell-1.midi"
     },
     {
       "title": "Devil's Dream",
@@ -3534,13 +5065,13 @@
         }
       ],
       "svg_files": [
-        "Devil's-Dream_page_1.svg",
-        "Devil's-Dream.svg"
+        "Devil's-Dream.svg",
+        "Devil's-Dream_page_1.svg"
       ],
       "midi_files": [
         "Devil's-Dream.midi"
       ],
-      "svg": "tunes/Folk_USA/Devil%27s-Dream_page_1.svg",
+      "svg": "tunes/Folk_USA/Devil%27s-Dream.svg",
       "midi": "tunes/Folk_USA/Devil%27s-Dream.midi"
     },
     {
@@ -3577,11 +5108,6 @@
           "key_variant": "G"
         },
         {
-          "filename": "Down-To-The-River-To-Pray_(Bb).ly",
-          "stem": "Down-To-The-River-To-Pray_(Bb)",
-          "key_variant": "Bb"
-        },
-        {
           "filename": "Down-To-The-River-To-Pray_(E).ly",
           "stem": "Down-To-The-River-To-Pray_(E)",
           "key_variant": "E"
@@ -3590,26 +5116,31 @@
           "filename": "Down-To-The-River-To-Pray_(A).ly",
           "stem": "Down-To-The-River-To-Pray_(A)",
           "key_variant": "A"
+        },
+        {
+          "filename": "Down-To-The-River-To-Pray_(Bb).ly",
+          "stem": "Down-To-The-River-To-Pray_(Bb)",
+          "key_variant": "Bb"
         }
       ],
       "svg_files": [
-        "Down-To-The-River-To-Pray_(Bb)_page_1.svg",
-        "Down-To-The-River-To-Pray_(Bb).svg",
-        "Down-To-The-River-To-Pray_(A)_page_1.svg",
-        "Down-To-The-River-To-Pray_(E).svg",
-        "Down-To-The-River-To-Pray_(G).svg",
-        "Down-To-The-River-To-Pray_(E)_page_1.svg",
+        "Down-To-The-River-To-Pray_(A).svg",
         "Down-To-The-River-To-Pray_(G)_page_1.svg",
-        "Down-To-The-River-To-Pray_(A).svg"
+        "Down-To-The-River-To-Pray_(G).svg",
+        "Down-To-The-River-To-Pray_(A)_page_1.svg",
+        "Down-To-The-River-To-Pray_(Bb).svg",
+        "Down-To-The-River-To-Pray_(E).svg",
+        "Down-To-The-River-To-Pray_(Bb)_page_1.svg",
+        "Down-To-The-River-To-Pray_(E)_page_1.svg"
       ],
       "midi_files": [
-        "Down-To-The-River-To-Pray_(E).midi",
         "Down-To-The-River-To-Pray_(Bb).midi",
-        "Down-To-The-River-To-Pray_(A).midi",
-        "Down-To-The-River-To-Pray_(G).midi"
+        "Down-To-The-River-To-Pray_(G).midi",
+        "Down-To-The-River-To-Pray_(E).midi",
+        "Down-To-The-River-To-Pray_(A).midi"
       ],
-      "svg": "tunes/Folk_USA/Down-To-The-River-To-Pray_%28Bb%29_page_1.svg",
-      "midi": "tunes/Folk_USA/Down-To-The-River-To-Pray_%28E%29.midi"
+      "svg": "tunes/Folk_USA/Down-To-The-River-To-Pray_%28A%29.svg",
+      "midi": "tunes/Folk_USA/Down-To-The-River-To-Pray_%28Bb%29.midi"
     },
     {
       "title": "Jerusalem Ridge",
@@ -3639,13 +5170,13 @@
       "tune_folder": "Jerusalem-Ridge",
       "variants": [
         {
-          "filename": "Jerusalem-Ridge.ly",
-          "stem": "Jerusalem-Ridge"
-        },
-        {
           "filename": "Jerusalem-Ridge_[Kenny-Baker].ly",
           "stem": "Jerusalem-Ridge_[Kenny-Baker]",
           "arrangement": "Kenny-Baker"
+        },
+        {
+          "filename": "Jerusalem-Ridge.ly",
+          "stem": "Jerusalem-Ridge"
         }
       ],
       "svg_files": [
@@ -3691,13 +5222,13 @@
         }
       ],
       "svg_files": [
-        "The-Devil-Went-Down-to-Georgia.svg",
-        "The-Devil-Went-Down-to-Georgia_page_1.svg"
+        "The-Devil-Went-Down-to-Georgia_page_1.svg",
+        "The-Devil-Went-Down-to-Georgia.svg"
       ],
       "midi_files": [
         "The-Devil-Went-Down-to-Georgia.midi"
       ],
-      "svg": "tunes/Folk_USA/The-Devil-Went-Down-to-Georgia.svg",
+      "svg": "tunes/Folk_USA/The-Devil-Went-Down-to-Georgia_page_1.svg",
       "midi": "tunes/Folk_USA/The-Devil-Went-Down-to-Georgia.midi"
     },
     {
@@ -3769,8 +5300,9 @@
       "tune_folder": "The-Star-Spangled-Banner",
       "variants": [
         {
-          "filename": "The-Star-Spangled-Banner.ly",
-          "stem": "The-Star-Spangled-Banner"
+          "filename": "The-Star-Spangled-Banner_(D).ly",
+          "stem": "The-Star-Spangled-Banner_(D)",
+          "key_variant": "D"
         },
         {
           "filename": "The-Star-Spangled-Banner_(Eb).ly",
@@ -3778,14 +5310,19 @@
           "key_variant": "Eb"
         },
         {
+          "filename": "The-Star-Spangled-Banner_(G).ly",
+          "stem": "The-Star-Spangled-Banner_(G)",
+          "key_variant": "G"
+        },
+        {
           "filename": "The-Star-Spangled-Banner_(C).ly",
           "stem": "The-Star-Spangled-Banner_(C)",
           "key_variant": "C"
         },
         {
-          "filename": "The-Star-Spangled-Banner_(D).ly",
-          "stem": "The-Star-Spangled-Banner_(D)",
-          "key_variant": "D"
+          "filename": "The-Star-Spangled-Banner_(B).ly",
+          "stem": "The-Star-Spangled-Banner_(B)",
+          "key_variant": "B"
         },
         {
           "filename": "The-Star-Spangled-Banner_(A).ly",
@@ -3793,55 +5330,47 @@
           "key_variant": "A"
         },
         {
+          "filename": "The-Star-Spangled-Banner.ly",
+          "stem": "The-Star-Spangled-Banner"
+        },
+        {
           "filename": "The-Star-Spangled-Banner_[SATB].ly",
           "stem": "The-Star-Spangled-Banner_[SATB]",
           "arrangement": "SATB"
-        },
-        {
-          "filename": "The-Star-Spangled-Banner_(G).ly",
-          "stem": "The-Star-Spangled-Banner_(G)",
-          "key_variant": "G"
-        },
-        {
-          "filename": "The-Star-Spangled-Banner_(B).ly",
-          "stem": "The-Star-Spangled-Banner_(B)",
-          "key_variant": "B"
         }
       ],
       "svg_files": [
-        "The-Star-Spangled-Banner_(B)_page_1.svg",
-        "The-Star-Spangled-Banner_(A)_page_2.svg",
-        "The-Star-Spangled-Banner_(Eb)_page_1.svg",
-        "The-Star-Spangled-Banner_(B)_page_2.svg",
-        "The-Star-Spangled-Banner_(A)_page_1.svg",
-        "The-Star-Spangled-Banner_(G).svg",
-        "The-Star-Spangled-Banner_(G)_page_1.svg",
-        "The-Star-Spangled-Banner_(C).svg",
         "The-Star-Spangled-Banner_(A).svg",
-        "The-Star-Spangled-Banner_(B).svg",
-        "The-Star-Spangled-Banner_[SATB]-2.svg",
+        "The-Star-Spangled-Banner_(C)_page_1.svg",
+        "The-Star-Spangled-Banner_(G).svg",
+        "The-Star-Spangled-Banner_(Eb).svg",
         "The-Star-Spangled-Banner_page_1.svg",
         "The-Star-Spangled-Banner.svg",
-        "The-Star-Spangled-Banner_(D)_page_1.svg",
+        "The-Star-Spangled-Banner_(B)_page_2.svg",
+        "The-Star-Spangled-Banner_(Eb)_page_1.svg",
+        "The-Star-Spangled-Banner_(B)_page_1.svg",
+        "The-Star-Spangled-Banner_(G)_page_1.svg",
         "The-Star-Spangled-Banner_(D).svg",
-        "The-Star-Spangled-Banner_[SATB]-1.svg",
-        "The-Star-Spangled-Banner_(Eb).svg",
-        "The-Star-Spangled-Banner_[SATB]_page_1.svg",
+        "The-Star-Spangled-Banner_(D)_page_1.svg",
+        "The-Star-Spangled-Banner_(C).svg",
+        "The-Star-Spangled-Banner_(A)_page_1.svg",
         "The-Star-Spangled-Banner_[SATB]_page_2.svg",
-        "The-Star-Spangled-Banner_(C)_page_1.svg"
+        "The-Star-Spangled-Banner_(B).svg",
+        "The-Star-Spangled-Banner_(A)_page_2.svg",
+        "The-Star-Spangled-Banner_[SATB]_page_1.svg"
       ],
       "midi_files": [
-        "The-Star-Spangled-Banner_(C).midi",
         "The-Star-Spangled-Banner_[SATB].midi",
-        "The-Star-Spangled-Banner_(G).midi",
-        "The-Star-Spangled-Banner_(B).midi",
-        "The-Star-Spangled-Banner_(Eb).midi",
-        "The-Star-Spangled-Banner_(A).midi",
         "The-Star-Spangled-Banner_(D).midi",
-        "The-Star-Spangled-Banner.midi"
+        "The-Star-Spangled-Banner_(Eb).midi",
+        "The-Star-Spangled-Banner_(B).midi",
+        "The-Star-Spangled-Banner.midi",
+        "The-Star-Spangled-Banner_(G).midi",
+        "The-Star-Spangled-Banner_(C).midi",
+        "The-Star-Spangled-Banner_(A).midi"
       ],
-      "svg": "tunes/Folk_USA/The-Star-Spangled-Banner_%28B%29_page_1.svg",
-      "midi": "tunes/Folk_USA/The-Star-Spangled-Banner_%28C%29.midi"
+      "svg": "tunes/Folk_USA/The-Star-Spangled-Banner_%28A%29.svg",
+      "midi": "tunes/Folk_USA/The-Star-Spangled-Banner_%5BSATB%5D.midi"
     },
     {
       "title": "You Are My Sunshine",
@@ -3872,27 +5401,25 @@
       "tune_folder": "You-are-my-sunshine",
       "variants": [
         {
+          "filename": "You-are-my-sunshine.ly",
+          "stem": "You-are-my-sunshine"
+        },
+        {
           "filename": "You-are-my-sunshine_[Piano].ly",
           "stem": "You-are-my-sunshine_[Piano]",
           "arrangement": "Piano"
-        },
-        {
-          "filename": "You-are-my-sunshine.ly",
-          "stem": "You-are-my-sunshine"
         }
       ],
       "svg_files": [
-        "You-are-my-sunshine_[Piano]-2.svg",
         "You-are-my-sunshine.svg",
+        "You-are-my-sunshine_[Piano]_page_2.svg",
         "You-are-my-sunshine_[Piano]_page_1.svg",
-        "You-are-my-sunshine_page_1.svg",
-        "You-are-my-sunshine_[Piano]-1.svg",
-        "You-are-my-sunshine_[Piano]_page_2.svg"
+        "You-are-my-sunshine_page_1.svg"
       ],
       "midi_files": [
         "You-are-my-sunshine_[Piano].midi"
       ],
-      "svg": "tunes/Folk_USA/You-are-my-sunshine_%5BPiano%5D-2.svg",
+      "svg": "tunes/Folk_USA/You-are-my-sunshine.svg",
       "midi": "tunes/Folk_USA/You-are-my-sunshine_%5BPiano%5D.midi"
     },
     {
@@ -3921,13 +5448,13 @@
         }
       ],
       "svg_files": [
-        "Contraband-Police_page_1.svg",
-        "Contraband-Police.svg"
+        "Contraband-Police.svg",
+        "Contraband-Police_page_1.svg"
       ],
       "midi_files": [
         "Contraband-Police.midi"
       ],
-      "svg": "tunes/Games/Contraband-Police_page_1.svg",
+      "svg": "tunes/Games/Contraband-Police.svg",
       "midi": "tunes/Games/Contraband-Police.midi"
     },
     {
@@ -3956,15 +5483,10 @@
         }
       ],
       "svg_files": [
-        "Bistro_Fada.xml-4.svg",
-        "Bistro_Fada.xml-5.svg",
-        "Bistro_Fada.xml_page_1.svg",
-        "Bistro_Fada.xml-1.svg",
-        "Bistro_Fada.xml-3.svg",
-        "Bistro_Fada.xml-2.svg"
+        "Bistro_Fada.xml_page_1.svg"
       ],
       "midi_files": [],
-      "svg": "tunes/Gypsy-Jazz/Bistro_Fada.xml-4.svg"
+      "svg": "tunes/Gypsy-Jazz/Bistro_Fada.xml_page_1.svg"
     },
     {
       "title": "Blue Lou",
@@ -3987,34 +5509,32 @@
       "tune_folder": "Blue-Lou",
       "variants": [
         {
-          "filename": "Blue_Lou_Licks.ly",
-          "stem": "Blue_Lou_Licks"
-        },
-        {
           "filename": "Blue_Lou_Marc.ly",
           "stem": "Blue_Lou_Marc"
         },
         {
           "filename": "Blue-Lou_Chords.ly",
           "stem": "Blue-Lou_Chords"
+        },
+        {
+          "filename": "Blue_Lou_Licks.ly",
+          "stem": "Blue_Lou_Licks"
         }
       ],
       "svg_files": [
-        "Blue-Lou_Chords-1.svg",
-        "Blue_Lou_Licks_page_1.svg",
-        "Blue_Lou_Marc.svg",
-        "Blue-Lou_Chords_page_1.svg",
         "Blue_Lou_Licks.svg",
-        "Blue-Lou_Chords-2.svg",
-        "Blue_Lou_Marc_page_1.svg"
+        "Blue_Lou_Marc_page_1.svg",
+        "Blue-Lou_Chords_page_1.svg",
+        "Blue_Lou_Marc.svg",
+        "Blue_Lou_Licks_page_1.svg"
       ],
       "midi_files": [
-        "Blue_Lou_Marc.midi",
+        "Blue_Lou_Licks.midi",
         "Blue-Lou_Chords.midi",
-        "Blue_Lou_Licks.midi"
+        "Blue_Lou_Marc.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Blue-Lou_Chords-1.svg",
-      "midi": "tunes/Gypsy-Jazz/Blue_Lou_Marc.midi"
+      "svg": "tunes/Gypsy-Jazz/Blue_Lou_Licks.svg",
+      "midi": "tunes/Gypsy-Jazz/Blue_Lou_Licks.midi"
     },
     {
       "title": "Blues en Mineur",
@@ -4037,12 +5557,12 @@
       "tune_folder": "Blues-en-Mineur",
       "variants": [
         {
-          "filename": "Blues-en-Mineur_Chords_Arpeggios.ly",
-          "stem": "Blues-en-Mineur_Chords_Arpeggios"
-        },
-        {
           "filename": "Blues-en-Mineur.ly",
           "stem": "Blues-en-Mineur"
+        },
+        {
+          "filename": "Blues-en-Mineur_Chords_Arpeggios.ly",
+          "stem": "Blues-en-Mineur_Chords_Arpeggios"
         },
         {
           "filename": "Blues-en-Mineur-Serge-Krief.ly",
@@ -4050,18 +5570,16 @@
         }
       ],
       "svg_files": [
-        "Blues-en-Mineur_Chords_Arpeggios_page_1.svg",
-        "Blues-en-Mineur-Serge-Krief.svg",
-        "Blues-en-Mineur-Serge-Krief_page_1.svg",
         "Blues-en-Mineur_page_1.svg",
-        "Blues-en-Mineur-2.svg",
+        "Blues-en-Mineur-Serge-Krief_page_1.svg",
+        "Blues-en-Mineur-Serge-Krief.svg",
         "Blues-en-Mineur_Chords_Arpeggios.svg",
-        "Blues-en-Mineur-1.svg"
+        "Blues-en-Mineur_Chords_Arpeggios_page_1.svg"
       ],
       "midi_files": [
         "Blues-en-Mineur.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Blues-en-Mineur_Chords_Arpeggios_page_1.svg",
+      "svg": "tunes/Gypsy-Jazz/Blues-en-Mineur_page_1.svg",
       "midi": "tunes/Gypsy-Jazz/Blues-en-Mineur.midi"
     },
     {
@@ -4090,13 +5608,13 @@
         }
       ],
       "svg_files": [
-        "Chicago-Grappelli.svg",
-        "Chicago-Grappelli_page_1.svg"
+        "Chicago-Grappelli_page_1.svg",
+        "Chicago-Grappelli.svg"
       ],
       "midi_files": [
         "Chicago-Grappelli.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Chicago-Grappelli.svg",
+      "svg": "tunes/Gypsy-Jazz/Chicago-Grappelli_page_1.svg",
       "midi": "tunes/Gypsy-Jazz/Chicago-Grappelli.midi"
     },
     {
@@ -4151,26 +5669,20 @@
       "session_friendliness": "",
       "notes": "",
       "genre_folder": "Gypsy-Jazz",
-      "tune_folder": "Indifférence_Valse_Musette",
+      "tune_folder": "Indifférence_Valse_Musette",
       "variants": [
         {
-          "filename": "Indifférence.ly",
-          "stem": "Indifférence"
+          "filename": "Indifférence.ly",
+          "stem": "Indifférence"
         },
         {
-          "filename": "Indifférence_[Practice].ly",
-          "stem": "Indifférence_[Practice]",
+          "filename": "Indifférence_[Practice].ly",
+          "stem": "Indifférence_[Practice]",
           "arrangement": "Practice"
         }
       ],
-      "svg_files": [
-        "Indifférence_page_1.svg"
-      ],
-      "midi_files": [
-        "Indifférence.midi"
-      ],
-      "svg": "tunes/Gypsy-Jazz/Indiff%C3%A9rence_page_1.svg",
-      "midi": "tunes/Gypsy-Jazz/Indiff%C3%A9rence.midi"
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "J'attendrai",
@@ -4201,11 +5713,11 @@
         "J'attendrai_Grappelli.svg"
       ],
       "midi_files": [
-        "J'attendrai_Grappelli.mid",
-        "J'attendrai_Grappelli.midi"
+        "J'attendrai_Grappelli.midi",
+        "J'attendrai_Grappelli.mid"
       ],
       "svg": "tunes/Gypsy-Jazz/J%27attendrai_Grappelli.svg",
-      "midi": "tunes/Gypsy-Jazz/J%27attendrai_Grappelli.mid"
+      "midi": "tunes/Gypsy-Jazz/J%27attendrai_Grappelli.midi"
     },
     {
       "title": "Je Cherche Après Titine",
@@ -4228,9 +5740,13 @@
       "tune_folder": "Je-Cherche-Apres-Titine",
       "variants": [
         {
-          "filename": "Je-Cherche-Apres-Titine_[Henri-Crolla].ly",
-          "stem": "Je-Cherche-Apres-Titine_[Henri-Crolla]",
-          "arrangement": "Henri-Crolla"
+          "filename": "Je-Cherche-Apres-Titine_[Quartet].ly",
+          "stem": "Je-Cherche-Apres-Titine_[Quartet]",
+          "arrangement": "Quartet"
+        },
+        {
+          "filename": "Je cherche.ly",
+          "stem": "Je cherche"
         },
         {
           "filename": "Je-Cherche-Apres-Titine_[Melody].ly",
@@ -4238,37 +5754,27 @@
           "arrangement": "Melody"
         },
         {
-          "filename": "Je cherche.ly",
-          "stem": "Je cherche"
-        },
-        {
-          "filename": "Je-Cherche-Apres-Titine_[Quartet].ly",
-          "stem": "Je-Cherche-Apres-Titine_[Quartet]",
-          "arrangement": "Quartet"
+          "filename": "Je-Cherche-Apres-Titine_[Henri-Crolla].ly",
+          "stem": "Je-Cherche-Apres-Titine_[Henri-Crolla]",
+          "arrangement": "Henri-Crolla"
         }
       ],
       "svg_files": [
-        "Je-Cherche-Apres-Titine_[Henri-Crolla]_page_2.svg",
-        "Je-Cherche-Apres-Titine_[Melody].svg",
-        "Je-Cherche-Apres-Titine_[Quartet]-2.svg",
-        "Je-Cherche-Apres-Titine_[Quartet]-3.svg",
-        "Je-Cherche-Apres-Titine_[Henri-Crolla]_page_1.svg",
         "Je-Cherche-Apres-Titine_[Melody]_page_1.svg",
-        "Je-Cherche-Apres-Titine_[Henri-Crolla]-2.svg",
-        "Je-Cherche-Apres-Titine_[Quartet]-1.svg",
+        "Je-Cherche-Apres-Titine_[Henri-Crolla]_page_1.svg",
+        "Je-Cherche-Apres-Titine_[Henri-Crolla]_page_2.svg",
         "Je cherche.svg",
-        "Je-Cherche-Apres-Titine_[Henri-Crolla]-1.svg",
-        "Je-Cherche-Apres-Titine_[Quartet]-4.svg",
+        "Je-Cherche-Apres-Titine_[Melody].svg",
         "Je cherche_page_1.svg"
       ],
       "midi_files": [
+        "Je-Cherche-Apres-Titine_[Henri-Crolla].midi",
         "Je-Cherche-Apres-Titine_[Melody].midi",
         "Je cherche.midi",
-        "Je-Cherche-Apres-Titine_[Henri-Crolla].midi",
         "Je-Cherche-Apres-Titine_[Quartet].midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Je-Cherche-Apres-Titine_%5BHenri-Crolla%5D_page_2.svg",
-      "midi": "tunes/Gypsy-Jazz/Je-Cherche-Apres-Titine_%5BMelody%5D.midi"
+      "svg": "tunes/Gypsy-Jazz/Je-Cherche-Apres-Titine_%5BMelody%5D_page_1.svg",
+      "midi": "tunes/Gypsy-Jazz/Je-Cherche-Apres-Titine_%5BHenri-Crolla%5D.midi"
     },
     {
       "title": "Licks from Grappelli",
@@ -4327,13 +5833,13 @@
         }
       ],
       "svg_files": [
-        "Licks-from-Tchavolo- Schmitt_page_1.svg",
-        "Licks-from-Tchavolo- Schmitt.svg"
+        "Licks-from-Tchavolo- Schmitt.svg",
+        "Licks-from-Tchavolo- Schmitt_page_1.svg"
       ],
       "midi_files": [
         "Licks-from-Tchavolo- Schmitt.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Licks-from-Tchavolo-%20Schmitt_page_1.svg",
+      "svg": "tunes/Gypsy-Jazz/Licks-from-Tchavolo-%20Schmitt.svg",
       "midi": "tunes/Gypsy-Jazz/Licks-from-Tchavolo-%20Schmitt.midi"
     },
     {
@@ -4363,20 +5869,16 @@
         }
       ],
       "svg_files": [
-        "Minor-Swing_[Christiaan van Hemert]-3.svg",
-        "Minor-Swing_[Christiaan van Hemert]_page_1.svg",
-        "Minor-Swing_[Christiaan van Hemert]-1.svg",
         "Minor-Swing_[Christiaan van Hemert]_page_2.svg",
-        "Minor-Swing-van-Hemert_page_1.svg",
         "Minor-Swing_[Christiaan van Hemert]_page_3.svg",
-        "Minor-Swing_[Christiaan van Hemert]-2.svg"
+        "Minor-Swing_[Christiaan van Hemert]_page_1.svg"
       ],
       "midi_files": [
-        "Minor-Swing-van-Hemert.midi",
-        "Minor-Swing_[Christiaan van Hemert].midi"
+        "Minor-Swing_[Christiaan van Hemert].midi",
+        "Minor-Swing-van-Hemert.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Minor-Swing_%5BChristiaan%20van%20Hemert%5D-3.svg",
-      "midi": "tunes/Gypsy-Jazz/Minor-Swing-van-Hemert.midi"
+      "svg": "tunes/Gypsy-Jazz/Minor-Swing_%5BChristiaan%20van%20Hemert%5D_page_2.svg",
+      "midi": "tunes/Gypsy-Jazz/Minor-Swing_%5BChristiaan%20van%20Hemert%5D.midi"
     },
     {
       "title": "Nine by Nine",
@@ -4404,9 +5906,7 @@
         }
       ],
       "svg_files": [
-        "Nine-by-Nine_page_1.svg",
-        "Nine-by-Nine-1.svg",
-        "Nine-by-Nine-2.svg"
+        "Nine-by-Nine_page_1.svg"
       ],
       "midi_files": [
         "Nine-by-Nine.midi"
@@ -4474,32 +5974,27 @@
           "stem": "Rythmes-Gitans"
         },
         {
-          "filename": "Practice-Gypsy-Rythmes-Gitans.ly",
-          "stem": "Practice-Gypsy-Rythmes-Gitans"
-        },
-        {
           "filename": "Rythmes-Gitans_Daisy.ly",
           "stem": "Rythmes-Gitans_Daisy"
+        },
+        {
+          "filename": "Practice-Gypsy-Rythmes-Gitans.ly",
+          "stem": "Practice-Gypsy-Rythmes-Gitans"
         }
       ],
       "svg_files": [
-        "Rythmes-Gitans_Daisy-1.svg",
-        "Rythmes-Gitans_page_1.svg",
-        "Rythmes-Gitans-2.svg",
-        "Rythmes-Gitans_Daisy_page_1.svg",
-        "rythmes-gitans.svg",
         "Practice-Gypsy-Rythmes-Gitans.svg",
+        "Rythmes-Gitans_page_1.svg",
         "Practice-Gypsy-Rythmes-Gitans_page_1.svg",
-        "Rythmes-Gitans_Daisy-2.svg",
-        "Rythmes-Gitans-1.svg"
+        "Rythmes-Gitans_Daisy_page_1.svg"
       ],
       "midi_files": [
-        "Rythmes-Gitans.midi",
         "Practice-Gypsy-Rythmes-Gitans.midi",
-        "Rythmes-Gitans_Daisy.midi"
+        "Rythmes-Gitans_Daisy.midi",
+        "Rythmes-Gitans.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Rythmes-Gitans_Daisy-1.svg",
-      "midi": "tunes/Gypsy-Jazz/Rythmes-Gitans.midi"
+      "svg": "tunes/Gypsy-Jazz/Practice-Gypsy-Rythmes-Gitans.svg",
+      "midi": "tunes/Gypsy-Jazz/Practice-Gypsy-Rythmes-Gitans.midi"
     },
     {
       "title": "Si Tu Savais",
@@ -4522,33 +6017,32 @@
       "tune_folder": "Si-Tu-Savais",
       "variants": [
         {
+          "filename": "Si-tu-savais-copy-Marc’s-iMac.ly",
+          "stem": "Si-tu-savais-copy-Marc’s-iMac"
+        },
+        {
           "filename": "Si-tu-savais-(Cm).ly",
           "stem": "Si-tu-savais-(Cm)"
         },
         {
           "filename": "Si-Tu-Savais.ly",
           "stem": "Si-Tu-Savais"
-        },
-        {
-          "filename": "Si-tu-savais-copy-Marc’s-iMac.ly",
-          "stem": "Si-tu-savais-copy-Marc’s-iMac"
         }
       ],
       "svg_files": [
-        "Si-tu-savais-(Cm)_page_1.svg",
         "Si-Tu-Savais.svg",
+        "Si-tu-savais-(Cm).svg",
         "Si-tu-savais-copy-Marc’s-iMac_page_1.svg",
-        "Si-Tu-Savais_page_1.svg",
-        "Si-tu-savais-(Cm).svg"
+        "Si-tu-savais-(Cm)_page_1.svg",
+        "Si-Tu-Savais_page_1.svg"
       ],
       "midi_files": [
         "Si-Tu-Savais-1.midi",
-        "Si-Tu-Savais.midi",
-        "Si-Tu-Savais.mid",
         "Si-Tu-Savais-full.midi",
-        "Si-tu-savais-copy.midi"
+        "Si-Tu-Savais.midi",
+        "Si-Tu-Savais.mid"
       ],
-      "svg": "tunes/Gypsy-Jazz/Si-tu-savais-%28Cm%29_page_1.svg",
+      "svg": "tunes/Gypsy-Jazz/Si-Tu-Savais.svg",
       "midi": "tunes/Gypsy-Jazz/Si-Tu-Savais-1.midi"
     },
     {
@@ -4609,14 +6103,14 @@
         }
       ],
       "svg_files": [
-        "licks_Swing.svg",
-        "licks_Swing_page_1.svg"
+        "licks_Swing_page_1.svg",
+        "licks_Swing.svg"
       ],
       "midi_files": [
         "licks_Swing.midi",
         "licks_Swing-1.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/licks_Swing.svg",
+      "svg": "tunes/Gypsy-Jazz/licks_Swing_page_1.svg",
       "midi": "tunes/Gypsy-Jazz/licks_Swing.midi"
     },
     {
@@ -4645,18 +6139,53 @@
         }
       ],
       "svg_files": [
-        "Tchavolo-Swing-1.svg",
         "Tchavolo-Swing_page_3.svg",
-        "Tchavolo-Swing-2.svg",
-        "Tchavolo-Swing_page_1.svg",
-        "Tchavolo-Swing-3.svg",
-        "Tchavolo-Swing_page_2.svg"
+        "Tchavolo-Swing_page_2.svg",
+        "Tchavolo-Swing_page_1.svg"
       ],
       "midi_files": [
         "Tchavolo-Swing.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Tchavolo-Swing-1.svg",
+      "svg": "tunes/Gypsy-Jazz/Tchavolo-Swing_page_3.svg",
       "midi": "tunes/Gypsy-Jazz/Tchavolo-Swing.midi"
+    },
+    {
+      "title": "Ain't Misbehavin'",
+      "composer": "Fats Waller",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Jazz",
+      "subgenre": "Gypsy Jazz",
+      "category": "Jazz",
+      "period": "",
+      "type": "",
+      "key": "F major",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "swing",
+        "standard",
+        "grappelli"
+      ],
+      "moods": [
+        "playful",
+        "upbeat"
+      ],
+      "session_friendliness": "",
+      "notes": "As played by Stéphane Grappelli",
+      "genre_folder": "Jazz",
+      "tune_folder": "Aint-Misbehavin",
+      "variants": [
+        {
+          "filename": "Aint-Misbehavin.ly",
+          "stem": "Aint-Misbehavin"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": [
+        "Aint-Misbehavin.midi"
+      ],
+      "midi": "tunes/Jazz/Aint-Misbehavin.midi"
     },
     {
       "title": "All of Me",
@@ -4684,13 +6213,13 @@
         }
       ],
       "svg_files": [
-        "All-of-Me_page_1.svg",
-        "All-of-Me.svg"
+        "All-of-Me.svg",
+        "All-of-Me_page_1.svg"
       ],
       "midi_files": [
         "All-of-Me.midi"
       ],
-      "svg": "tunes/Jazz/All-of-Me_page_1.svg",
+      "svg": "tunes/Jazz/All-of-Me.svg",
       "midi": "tunes/Jazz/All-of-Me.midi"
     },
     {
@@ -4723,8 +6252,7 @@
         "As-Time-Goes-By.svg"
       ],
       "midi_files": [
-        "As-Time-Goes-By.midi",
-        "As-Time-Goes-By.mid"
+        "As-Time-Goes-By.midi"
       ],
       "svg": "tunes/Jazz/As-Time-Goes-By_page_1.svg",
       "midi": "tunes/Jazz/As-Time-Goes-By.midi"
@@ -4760,14 +6288,12 @@
         }
       ],
       "svg_files": [
-        "Autumn-Leaves_1_page_1.svg",
-        "Autumn-leaves.svg",
-        "Autumn-Leaves_1.svg"
+        "Autumn-leaves.svg"
       ],
       "midi_files": [
         "Autumn-leaves.midi"
       ],
-      "svg": "tunes/Jazz/Autumn-Leaves_1_page_1.svg",
+      "svg": "tunes/Jazz/Autumn-leaves.svg",
       "midi": "tunes/Jazz/Autumn-leaves.midi"
     },
     {
@@ -4791,26 +6317,26 @@
       "tune_folder": "Lets-Fall-in-Love",
       "variants": [
         {
-          "filename": "Lets-Fall-in-Love-1.ly",
-          "stem": "Lets-Fall-in-Love-1"
-        },
-        {
           "filename": "Lets-Fall-in-Love.ly",
           "stem": "Lets-Fall-in-Love"
+        },
+        {
+          "filename": "Lets-Fall-in-Love-1.ly",
+          "stem": "Lets-Fall-in-Love-1"
         }
       ],
       "svg_files": [
         "Lets-Fall-in-Love_page_1.svg",
-        "Lets-Fall-in-Love-1_page_1.svg",
         "Lets-Fall-in-Love.svg",
+        "Lets-Fall-in-Love-1_page_1.svg",
         "Lets-Fall-in-Love-1.svg"
       ],
       "midi_files": [
-        "Lets-Fall-in-Love-1.midi",
-        "Lets-Fall-in-Love.midi"
+        "Lets-Fall-in-Love.midi",
+        "Lets-Fall-in-Love-1.midi"
       ],
       "svg": "tunes/Jazz/Lets-Fall-in-Love_page_1.svg",
-      "midi": "tunes/Jazz/Lets-Fall-in-Love-1.midi"
+      "midi": "tunes/Jazz/Lets-Fall-in-Love.midi"
     },
     {
       "title": "Misty",
@@ -4833,6 +6359,11 @@
       "tune_folder": "Misty",
       "variants": [
         {
+          "filename": "Misty_[Grappelli].ly",
+          "stem": "Misty_[Grappelli]",
+          "arrangement": "Grappelli"
+        },
+        {
           "filename": "Misty_[MuseScore].ly",
           "stem": "Misty_[MuseScore]",
           "arrangement": "MuseScore"
@@ -4843,38 +6374,22 @@
           "arrangement": "Piano"
         },
         {
-          "filename": "Misty_[Grappelli].ly",
-          "stem": "Misty_[Grappelli]",
-          "arrangement": "Grappelli"
-        },
-        {
           "filename": "Misty.ly",
           "stem": "Misty"
         }
       ],
       "svg_files": [
-        "Misty-Grap_page_1.svg",
-        "Misty_[As played by Grappelli]_page_1.svg",
-        "Misty-LMOURMW7US_page_1.svg",
         "Misty_page_1.svg",
-        "Misty-LMOURMW7US-1.svg",
-        "Misty-1.svg",
-        "Misty_[Grappelli].svg",
-        "Misty-LMOURMW7US-2.svg",
-        "Misty_[MuseScore]-1.svg",
-        "Misty_[As played by Grappelli].svg",
-        "Misty_[MuseScore]-2.svg",
-        "Misty-2.svg"
+        "Misty_[Grappelli].svg"
       ],
       "midi_files": [
-        "Misty.midi",
-        "Misty_[As played by Grappelli].midi",
-        "Misty_[Grappelli].midi",
         "Misty-LMOURMW7US.midi",
-        "Misty_[MuseScore].midi"
+        "Misty.midi",
+        "Misty_[MuseScore].midi",
+        "Misty_[Grappelli].midi"
       ],
-      "svg": "tunes/Jazz/Misty-Grap_page_1.svg",
-      "midi": "tunes/Jazz/Misty.midi"
+      "svg": "tunes/Jazz/Misty_page_1.svg",
+      "midi": "tunes/Jazz/Misty-LMOURMW7US.midi"
     },
     {
       "title": "On the Sunny Side of the Street",
@@ -4931,29 +6446,26 @@
       "tune_folder": "Summertime",
       "variants": [
         {
-          "filename": "Summertime.ly",
-          "stem": "Summertime"
-        },
-        {
           "filename": "Summertime_[Grappelli].ly",
           "stem": "Summertime_[Grappelli]",
           "arrangement": "Grappelli"
+        },
+        {
+          "filename": "Summertime.ly",
+          "stem": "Summertime"
         }
       ],
       "svg_files": [
-        "Summertime_Grappelli_page_1.svg",
         "Summertime_page_1.svg",
         "Summertime_[Grappelli].svg",
-        "Summertime_Grappelli.svg",
         "Summertime.svg"
       ],
       "midi_files": [
-        "Summertime_Grappelli.midi",
-        "Summertime.midi",
-        "Summertime_[Grappelli].midi"
+        "Summertime_[Grappelli].midi",
+        "Summertime.midi"
       ],
-      "svg": "tunes/Jazz/Summertime_Grappelli_page_1.svg",
-      "midi": "tunes/Jazz/Summertime_Grappelli.midi"
+      "svg": "tunes/Jazz/Summertime_page_1.svg",
+      "midi": "tunes/Jazz/Summertime_%5BGrappelli%5D.midi"
     },
     {
       "title": "Bésame Mucho",
@@ -4962,7 +6474,7 @@
       "country_flag": "🇲🇽",
       "genre": "Latin",
       "subgenre": "Bolero",
-      "category": "Latin",
+      "category": "Latina",
       "period": "",
       "type": "",
       "key": "",
@@ -4976,11 +6488,6 @@
       "tune_folder": "Besame-Mucho",
       "variants": [
         {
-          "filename": "Besame-Mucho_(Dm).ly",
-          "stem": "Besame-Mucho_(Dm)",
-          "key_variant": "Dm"
-        },
-        {
           "filename": "Besame-Mucho.ly",
           "stem": "Besame-Mucho"
         },
@@ -4993,27 +6500,67 @@
           "filename": "Besame-Mucho_(Cm).ly",
           "stem": "Besame-Mucho_(Cm)",
           "key_variant": "Cm"
+        },
+        {
+          "filename": "Besame-Mucho_(Dm).ly",
+          "stem": "Besame-Mucho_(Dm)",
+          "key_variant": "Dm"
         }
       ],
       "svg_files": [
         "Besame-Mucho_(Am)_page_1.svg",
+        "Besame-Mucho_(Dm)_page_1.svg",
         "Besame-Mucho_(Cm)_page_1.svg",
         "Besame-Mucho_page_1.svg",
-        "Besame-Mucho_(Dm)_page_1.svg",
-        "Besame-Mucho_(Cm).svg",
         "Besame-Mucho.svg",
-        "Besame-Mucho_(Dm).svg",
-        "Besame-Mucho_(Am).svg"
+        "Besame-Mucho_(Cm).svg",
+        "Besame-Mucho_(Am).svg",
+        "Besame-Mucho_(Dm).svg"
       ],
       "midi_files": [
         "Besame-Mucho.midi",
         "Besame-Mucho_(Dm).midi",
-        "Besame-Mucho-full.midi",
         "Besame-Mucho_(Am).midi",
-        "Besame-Mucho_(Cm).midi"
+        "Besame-Mucho_(Cm).midi",
+        "Besame-Mucho-full.midi"
       ],
       "svg": "tunes/Latina/Besame-Mucho_%28Am%29_page_1.svg",
       "midi": "tunes/Latina/Besame-Mucho.midi"
+    },
+    {
+      "title": "Historia de Un Amor",
+      "composer": "Carlos Almarán",
+      "country": "Panama",
+      "country_flag": "🌍",
+      "genre": "Latina",
+      "subgenre": "Bolero",
+      "category": "Latina",
+      "period": "",
+      "type": "",
+      "key": "Bb major",
+      "time_sig": "2/2",
+      "difficulty": "Intermediate",
+      "tags": [
+        "bolero",
+        "latin",
+        "romantic"
+      ],
+      "moods": [
+        "romantic",
+        "melancholic"
+      ],
+      "session_friendliness": "",
+      "notes": "Work in progress - stub only",
+      "genre_folder": "Latina",
+      "tune_folder": "Historia-de-Un-Amor",
+      "variants": [
+        {
+          "filename": "Historia-de-Un-Amor.ly",
+          "stem": "Historia-de-Un-Amor"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "Latino Chords",
@@ -5022,7 +6569,7 @@
       "country_flag": "🌍",
       "genre": "Latin",
       "subgenre": "Study",
-      "category": "Latin",
+      "category": "Latina",
       "period": "",
       "type": "",
       "key": "",
@@ -5036,19 +6583,18 @@
       "tune_folder": "Latino-Chords",
       "variants": [
         {
-          "filename": "Latino-chords.ly",
-          "stem": "Latino-chords"
+          "filename": "Latino-Chords.ly",
+          "stem": "Latino-Chords"
         }
       ],
       "svg_files": [
         "Latino-Chords.svg"
       ],
       "midi_files": [
-        "Latino-chords.midi",
         "Latino-Chords.midi"
       ],
       "svg": "tunes/Latina/Latino-Chords.svg",
-      "midi": "tunes/Latina/Latino-chords.midi"
+      "midi": "tunes/Latina/Latino-Chords.midi"
     },
     {
       "title": "Manhã De Carnaval",
@@ -5057,7 +6603,7 @@
       "country_flag": "🇧🇷",
       "genre": "Latin",
       "subgenre": "Bossa Nova",
-      "category": "Latin",
+      "category": "Latina",
       "period": "",
       "type": "",
       "key": "",
@@ -5071,27 +6617,25 @@
       "tune_folder": "Manha-de-Carnaval",
       "variants": [
         {
-          "filename": "Manha-de-Carnaval_(Am).ly",
-          "stem": "Manha-de-Carnaval_(Am)",
-          "key_variant": "Am"
-        },
-        {
           "filename": "Manha-de-Carnaval_(Gm)_[Perlman].ly",
           "stem": "Manha-de-Carnaval_(Gm)_[Perlman]",
           "arrangement": "Perlman"
+        },
+        {
+          "filename": "Manha-de-Carnaval_(Am).ly",
+          "stem": "Manha-de-Carnaval_(Am)",
+          "key_variant": "Am"
         }
       ],
       "svg_files": [
-        "Manha-de-Carnaval_(Gm)_[Perlman]-1.svg",
-        "Manha-de-Carnaval_(Gm)_[Perlman]-2.svg",
         "Manha-de-Carnaval_(Am).svg"
       ],
       "midi_files": [
-        "Manha-de-Carnaval_(Am).midi",
-        "Manha-de-Carnaval_(Gm)_[Perlman].midi"
+        "Manha-de-Carnaval_(Gm)_[Perlman].midi",
+        "Manha-de-Carnaval_(Am).midi"
       ],
-      "svg": "tunes/Latina/Manha-de-Carnaval_%28Gm%29_%5BPerlman%5D-1.svg",
-      "midi": "tunes/Latina/Manha-de-Carnaval_%28Am%29.midi"
+      "svg": "tunes/Latina/Manha-de-Carnaval_%28Am%29.svg",
+      "midi": "tunes/Latina/Manha-de-Carnaval_%28Gm%29_%5BPerlman%5D.midi"
     },
     {
       "title": "Quizás, quizás, quizás",
@@ -5100,7 +6644,7 @@
       "country_flag": "🇨🇺",
       "genre": "Latin",
       "subgenre": "Bolero",
-      "category": "Latin",
+      "category": "Latina",
       "period": "",
       "type": "",
       "key": "",
@@ -5126,6 +6670,72 @@
       ],
       "svg": "tunes/Latina/Quizas-Quizas-Quizas.svg",
       "midi": "tunes/Latina/Quizas-Quizas-Quizas.midi"
+    },
+    {
+      "title": "The Peanut Vendor",
+      "composer": "Moisés Simons",
+      "country": "Cuba",
+      "country_flag": "🇨🇺",
+      "genre": "Latina",
+      "subgenre": "Son cubano",
+      "category": "Latina",
+      "period": "",
+      "type": "",
+      "key": "C minor",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "cuban",
+        "latin",
+        "classic"
+      ],
+      "moods": [
+        "lively",
+        "rhythmic"
+      ],
+      "session_friendliness": "",
+      "notes": "One of the first Cuban songs to become an international hit (1930)",
+      "genre_folder": "Latina",
+      "tune_folder": "The-Peanut-Vendor",
+      "variants": [
+        {
+          "filename": "The-Peanut-Vendor.ly",
+          "stem": "The-Peanut-Vendor"
+        }
+      ],
+      "svg_files": [
+        "The-Peanut-Vendor_page_1.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Latina/The-Peanut-Vendor_page_1.svg"
+    },
+    {
+      "title": "My Tune",
+      "composer": "Marc Mouries",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Original",
+      "subgenre": "",
+      "category": "Original",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "3/4",
+      "difficulty": "Intermediate",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "Original composition - title pending",
+      "genre_folder": "Marc-Mouries",
+      "tune_folder": "My-Tune",
+      "variants": [
+        {
+          "filename": "My-Tune.ly",
+          "stem": "My-Tune"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "Spring is Coming",
@@ -5160,6 +6770,47 @@
       ],
       "svg": "tunes/Marc-Mouries/Spring-is-coming.svg",
       "midi": "tunes/Marc-Mouries/Spring-is-coming.midi"
+    },
+    {
+      "title": "All of Me",
+      "composer": "John Legend",
+      "country": "USA",
+      "country_flag": "🇺🇸",
+      "genre": "Pop",
+      "subgenre": "",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "E minor",
+      "time_sig": "4/4",
+      "difficulty": "Beginner",
+      "tags": [
+        "ballad",
+        "wedding",
+        "love song"
+      ],
+      "moods": [
+        "romantic",
+        "emotional"
+      ],
+      "session_friendliness": "",
+      "notes": "From the 2013 album Love in the Future",
+      "genre_folder": "Pop",
+      "tune_folder": "All-of-Me",
+      "variants": [
+        {
+          "filename": "All-of-Me.ly",
+          "stem": "All-of-Me"
+        }
+      ],
+      "svg_files": [
+        "All-of-Me_page_1.svg"
+      ],
+      "midi_files": [
+        "All-of-Me.midi"
+      ],
+      "svg": "tunes/Pop/All-of-Me_page_1.svg",
+      "midi": "tunes/Pop/All-of-Me.midi"
     },
     {
       "title": "Can't Help Falling in Love",
@@ -5281,25 +6932,25 @@
       "tune_folder": "Happy-Birthday",
       "variants": [
         {
-          "filename": "Happy-Birthday-Quartet.ly",
-          "stem": "Happy-Birthday-Quartet"
-        },
-        {
           "filename": "Happy-Birthday.ly",
           "stem": "Happy-Birthday"
+        },
+        {
+          "filename": "Happy-Birthday-Quartet.ly",
+          "stem": "Happy-Birthday-Quartet"
         }
       ],
       "svg_files": [
-        "Happy-Birthday-Quartet_page_1.svg",
-        "Happy-Birthday_page_1.svg"
+        "Happy-Birthday_page_1.svg",
+        "Happy-Birthday-Quartet_page_1.svg"
       ],
       "midi_files": [
-        "Happy-Birthday-full-1.midi",
         "Happy-Birthday.midi",
+        "Happy-Birthday-full-1.midi",
         "Happy-Birthday-1.midi"
       ],
-      "svg": "tunes/Pop/Happy-Birthday-Quartet_page_1.svg",
-      "midi": "tunes/Pop/Happy-Birthday-full-1.midi"
+      "svg": "tunes/Pop/Happy-Birthday_page_1.svg",
+      "midi": "tunes/Pop/Happy-Birthday.midi"
     },
     {
       "title": "Hedgehog Video Music",
@@ -5330,12 +6981,12 @@
         "hedgehog-video-music_page_1.svg"
       ],
       "midi_files": [
-        "hedgehog-video-music-1.midi",
         "hedgehog-video-music-full-1.midi",
+        "hedgehog-video-music-1.midi",
         "hedgehog-video-music.midi"
       ],
       "svg": "tunes/Pop/hedgehog-video-music_page_1.svg",
-      "midi": "tunes/Pop/hedgehog-video-music-1.midi"
+      "midi": "tunes/Pop/hedgehog-video-music-full-1.midi"
     },
     {
       "title": "Hier Encore",
@@ -5372,6 +7023,47 @@
       "midi": "tunes/Pop/Charles-Aznavour-Hier-Encore.midi"
     },
     {
+      "title": "Je Me Suis Fait Tout Petit",
+      "composer": "Georges Brassens",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "B minor",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "chanson",
+        "french",
+        "brassens"
+      ],
+      "moods": [
+        "tender",
+        "humorous"
+      ],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Pop",
+      "tune_folder": "Je-me-suis-fait-tout-petit",
+      "variants": [
+        {
+          "filename": "Je-me-suis-fait-tout-petit.ly",
+          "stem": "Je-me-suis-fait-tout-petit"
+        }
+      ],
+      "svg_files": [
+        "Je-me-suis-fait-tout-petit_page_1.svg"
+      ],
+      "midi_files": [
+        "Je-me-suis-fait-tout-petit.midi"
+      ],
+      "svg": "tunes/Pop/Je-me-suis-fait-tout-petit_page_1.svg",
+      "midi": "tunes/Pop/Je-me-suis-fait-tout-petit.midi"
+    },
+    {
       "title": "La Bohème",
       "composer": "Charles Aznavour",
       "country": "France",
@@ -5406,6 +7098,44 @@
       "midi": "tunes/Pop/La-Boheme.midi"
     },
     {
+      "title": "La Vie en Rose",
+      "composer": "Louiguy",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Pop",
+      "subgenre": "",
+      "category": "Pop",
+      "period": "",
+      "type": "",
+      "key": "C major",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "chanson",
+        "french",
+        "classic"
+      ],
+      "moods": [
+        "romantic",
+        "nostalgic"
+      ],
+      "session_friendliness": "",
+      "notes": "Iconic French song, originally recorded by Edith Piaf in 1947",
+      "genre_folder": "Pop",
+      "tune_folder": "La-Vie-en-Rose",
+      "variants": [
+        {
+          "filename": "La-Vie-en-Rose.ly",
+          "stem": "La-Vie-en-Rose"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": [
+        "La-Vie-en-Rose.midi"
+      ],
+      "midi": "tunes/Pop/La-Vie-en-Rose.midi"
+    },
+    {
       "title": "Le Pornographe",
       "composer": "Georges Brassens",
       "country": "France",
@@ -5426,9 +7156,8 @@
       "tune_folder": "Le-Pornographe",
       "variants": [
         {
-          "filename": "Le-Pornographe_(Dm).ly",
-          "stem": "Le-Pornographe_(Dm)",
-          "key_variant": "Dm"
+          "filename": "Le-Pornographe.ly",
+          "stem": "Le-Pornographe"
         },
         {
           "filename": "Le-Pornographe_(Am).ly",
@@ -5436,26 +7165,27 @@
           "key_variant": "Am"
         },
         {
-          "filename": "Le-Pornographe.ly",
-          "stem": "Le-Pornographe"
+          "filename": "Le-Pornographe_(Dm).ly",
+          "stem": "Le-Pornographe_(Dm)",
+          "key_variant": "Dm"
         }
       ],
       "svg_files": [
+        "Le-Pornographe_page_1.svg",
         "Le-Pornographe_(Dm)_page_1.svg",
-        "Le-Pornographe_(Am)_page_1.svg",
-        "Le-Pornographe_page_1.svg"
+        "Le-Pornographe_(Am)_page_1.svg"
       ],
       "midi_files": [
-        "Le-Pornographe_(Am).midi",
         "Le-Pornographe.midi",
-        "Le-Pornographe-1.midi",
-        "Le-Pornographe.mid",
+        "Le-Pornographe_(Am).midi",
         "Le-Pornographe-copy-1.midi",
+        "Le-Pornographe-1.midi",
+        "Le-Pornographe_(Dm).midi",
         "Le-Pornographe-copy.midi",
-        "Le-Pornographe_(Dm).midi"
+        "Le-Pornographe.mid"
       ],
-      "svg": "tunes/Pop/Le-Pornographe_%28Dm%29_page_1.svg",
-      "midi": "tunes/Pop/Le-Pornographe_%28Am%29.midi"
+      "svg": "tunes/Pop/Le-Pornographe_page_1.svg",
+      "midi": "tunes/Pop/Le-Pornographe.midi"
     },
     {
       "title": "Lovin' You",
@@ -5662,6 +7392,48 @@
       "midi": "tunes/Pop/wrong-roads-.midi"
     },
     {
+      "title": "Chi Mai",
+      "composer": "Ennio Morricone",
+      "country": "Italy",
+      "country_flag": "🇮🇹",
+      "genre": "Soundtrack",
+      "subgenre": "",
+      "category": "Soundtrack",
+      "period": "",
+      "type": "",
+      "key": "A major",
+      "time_sig": "12/8",
+      "difficulty": "Intermediate",
+      "tags": [
+        "film",
+        "morricone",
+        "le professionnel"
+      ],
+      "moods": [
+        "melancholic",
+        "dramatic",
+        "nostalgic"
+      ],
+      "session_friendliness": "",
+      "notes": "Theme from the 1981 French film Le Professionnel",
+      "genre_folder": "Soundtrack",
+      "tune_folder": "Chi-Mai",
+      "variants": [
+        {
+          "filename": "Chi-Mai.ly",
+          "stem": "Chi-Mai"
+        }
+      ],
+      "svg_files": [
+        "Chi-Mai_page_1.svg"
+      ],
+      "midi_files": [
+        "Chi-Mai.midi"
+      ],
+      "svg": "tunes/Soundtrack/Chi-Mai_page_1.svg",
+      "midi": "tunes/Soundtrack/Chi-Mai.midi"
+    },
+    {
       "title": "Color Purple",
       "composer": "Quincy Jones",
       "country": "USA",
@@ -5718,9 +7490,8 @@
       "tune_folder": "In-the-Mood-for-Love",
       "variants": [
         {
-          "filename": "In-the-Mood-for-Love_[Accompaniment].ly",
-          "stem": "In-the-Mood-for-Love_[Accompaniment]",
-          "arrangement": "Accompaniment"
+          "filename": "In-the-Mood-for-Love.ly",
+          "stem": "In-the-Mood-for-Love"
         },
         {
           "filename": "In-the-Mood-for-Love_[Practice].ly",
@@ -5728,29 +7499,24 @@
           "arrangement": "Practice"
         },
         {
-          "filename": "In-the-Mood-for-Love.ly",
-          "stem": "In-the-Mood-for-Love"
+          "filename": "In-the-Mood-for-Love_[Accompaniment].ly",
+          "stem": "In-the-Mood-for-Love_[Accompaniment]",
+          "arrangement": "Accompaniment"
         }
       ],
       "svg_files": [
-        "In-the-Mood-for-Love_[Practice]_page_1.svg",
         "In-the-Mood-for-Love_page_1.svg",
-        "In-the-Mood-for-Love_[Accompaniment]-2.svg",
-        "In-the-Mood-for-Love_[Accompaniment]-1.svg",
-        "In-the-Mood-for-Love.svg",
-        "In-the-Mood-for-Love_[Practice].svg"
+        "In-the-Mood-for-Love_[Practice]_page_1.svg",
+        "In-the-Mood-for-Love_[Practice].svg",
+        "In-the-Mood-for-Love.svg"
       ],
       "midi_files": [
-        "In-the-Mood-for-Love-full.midi",
-        "In-the-Mood-for-Love_lily-full.midi",
-        "In-the-Mood-for-Love_lily-1.midi",
-        "in-the-mood-for-love_lily.midi",
         "In-the-Mood-for-Love.midi",
-        "In-the-Mood-for-Love_lily.mid",
-        "In-the-Mood-for-Love_[Accompaniment].midi"
+        "In-the-Mood-for-Love_[Accompaniment].midi",
+        "In-the-Mood-for-Love-full.midi"
       ],
-      "svg": "tunes/Soundtrack/In-the-Mood-for-Love_%5BPractice%5D_page_1.svg",
-      "midi": "tunes/Soundtrack/In-the-Mood-for-Love-full.midi"
+      "svg": "tunes/Soundtrack/In-the-Mood-for-Love_page_1.svg",
+      "midi": "tunes/Soundtrack/In-the-Mood-for-Love.midi"
     },
     {
       "title": "Love Story",
@@ -5778,13 +7544,13 @@
         }
       ],
       "svg_files": [
-        "Love-Story_page_1.svg",
-        "Love-Story.svg"
+        "Love-Story.svg",
+        "Love-Story_page_1.svg"
       ],
       "midi_files": [
         "Love-Story.midi"
       ],
-      "svg": "tunes/Soundtrack/Love-Story_page_1.svg",
+      "svg": "tunes/Soundtrack/Love-Story.svg",
       "midi": "tunes/Soundtrack/Love-Story.midi"
     },
     {
@@ -5813,9 +7579,7 @@
         }
       ],
       "svg_files": [
-        "Midnight-in-Paris_Tango-Flambe_page_1.svg",
-        "Midnight-in-Paris_Tango-Flambe-1.svg",
-        "Midnight-in-Paris_Tango-Flambe-2.svg"
+        "Midnight-in-Paris_Tango-Flambe_page_1.svg"
       ],
       "midi_files": [
         "Midnight-in-Paris_Tango-Flambe.midi"
@@ -5878,9 +7642,8 @@
       "tune_folder": "Schindlers_List",
       "variants": [
         {
-          "filename": "Schindlers_List_[Strings].ly",
-          "stem": "Schindlers_List_[Strings]",
-          "arrangement": "Strings"
+          "filename": "Schindlers_List.ly",
+          "stem": "Schindlers_List"
         },
         {
           "filename": "Schindlers_List_[Quartet].ly",
@@ -5888,32 +7651,18 @@
           "arrangement": "Quartet"
         },
         {
-          "filename": "Schindlers_List.ly",
-          "stem": "Schindlers_List"
+          "filename": "Schindlers_List_[Strings].ly",
+          "stem": "Schindlers_List_[Strings]",
+          "arrangement": "Strings"
         }
       ],
       "svg_files": [
-        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_1.svg",
-        "Schindlers_List_Theme_Solo_Violin_page_1.svg",
-        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_2.svg",
-        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_4.svg",
-        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_5.svg",
-        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_3.svg",
-        "Schindlers_List.svg",
-        "Schindlers_List_[Strings]-5.svg",
-        "Schindlers_List_[Quartet]-4.svg",
-        "Schindlers_List_[Quartet]-2.svg",
-        "Schindlers_List_[Strings]-4.svg",
-        "Schindlers_List_[Quartet]-3.svg",
-        "Schindlers_List_[Strings]-1.svg",
-        "Schindlers_List_[Quartet]-1.svg",
-        "Schindlers_List_[Strings]-2.svg",
-        "Schindlers_List_[Strings]-3.svg"
+        "Schindlers_List.svg"
       ],
       "midi_files": [
         "Schindlers_List.midi"
       ],
-      "svg": "tunes/Soundtrack/Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_1.svg",
+      "svg": "tunes/Soundtrack/Schindlers_List.svg",
       "midi": "tunes/Soundtrack/Schindlers_List.midi"
     },
     {
@@ -5976,16 +7725,10 @@
         }
       ],
       "svg_files": [
-        "Tous-les-matins-du-monde.svg",
-        "tous-les-matins-du-monde_page_1.svg"
+        "Tous-les-matins-du-monde.svg"
       ],
-      "midi_files": [
-        "tous-les-matins-du-monde.midi",
-        "Tous-les-matins-du-monde.midi",
-        "tous-les-matins-du-monde-1.midi"
-      ],
-      "svg": "tunes/Soundtrack/Tous-les-matins-du-monde.svg",
-      "midi": "tunes/Soundtrack/tous-les-matins-du-monde.midi"
+      "midi_files": [],
+      "svg": "tunes/Soundtrack/Tous-les-matins-du-monde.svg"
     },
     {
       "title": "Wedding March",
@@ -6008,47 +7751,27 @@
       "tune_folder": "Mendelssohn_Wedding-March",
       "variants": [
         {
+          "filename": "Mendelssohn_Wedding-March.ly",
+          "stem": "Mendelssohn_Wedding-March"
+        },
+        {
           "filename": "Mendelssohn_Wedding-March_[Organ].ly",
           "stem": "Mendelssohn_Wedding-March_[Organ]",
           "arrangement": "Organ"
-        },
-        {
-          "filename": "Mendelssohn_Wedding-March.ly",
-          "stem": "Mendelssohn_Wedding-March"
         }
       ],
       "svg_files": [
-        "Mendelssohn_Wedding-March-(For-Violin)_page_1.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)_page_3.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)_page_6.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)_page_1.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)_page_4.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)_page_2.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)_page_5.svg",
-        "Mendelssohn_Wedding-March_[Organ]-2.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-6.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-5.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-1.svg",
-        "Mendelssohn_Wedding-March_[Organ]-4.svg",
-        "Mendelssohn_Wedding-March_[Organ]-1.svg",
-        "Mendelssohn_Wedding-March_[Organ]-3.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-3.svg",
-        "Mendelssohn_Wedding-March-(For-Violin).svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-4.svg",
-        "Mendelssohn_Wedding-March.svg",
-        "Mendelssohn_Wedding-March-(For-Organ)-2.svg",
-        "Mendelssohn_Wedding-March_[Organ]-6.svg",
-        "Mendelssohn_Wedding-March_[Organ]-5.svg"
+        "Mendelssohn_Wedding-March.svg"
       ],
       "midi_files": [
-        "Mendelssohn_Wedding-March-(For-Organ)-full.midi",
         "Mendelssohn_Wedding-March-(For-Violin).midi",
-        "Mendelssohn_Wedding-March-(For-Organ).midi",
         "Mendelssohn_Wedding-March_[Organ].midi",
-        "Mendelssohn_Wedding-March.midi"
+        "Mendelssohn_Wedding-March-(For-Organ)-full.midi",
+        "Mendelssohn_Wedding-March.midi",
+        "Mendelssohn_Wedding-March-(For-Organ).midi"
       ],
-      "svg": "tunes/Wedding/Mendelssohn_Wedding-March-%28For-Violin%29_page_1.svg",
-      "midi": "tunes/Wedding/Mendelssohn_Wedding-March-%28For-Organ%29-full.midi"
+      "svg": "tunes/Wedding/Mendelssohn_Wedding-March.svg",
+      "midi": "tunes/Wedding/Mendelssohn_Wedding-March-%28For-Violin%29.midi"
     }
   ]
 }
