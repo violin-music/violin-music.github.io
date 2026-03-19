@@ -282,6 +282,7 @@
                 renderTunes();
                 restoreFilterState();
                 checkMobileView();
+                checkUrlForTune();
 
             } catch (err) {
                 console.error('Error loading catalog:', err);
@@ -496,8 +497,9 @@
 
             filteredTunes.forEach((tune, index) => {
                 const row = document.createElement('tr');
-                row.dataset.tuneSlug = createSlug(tune.title);
-                row.onclick = (e) => navigateToTune(e, row.dataset.tuneSlug);
+                const tuneSlug = createSlug(tune.title);
+                row.dataset.tuneSlug = tuneSlug;
+                row.onclick = (e) => openTuneDetail(e, tune);
 
                 const difficultyHtml = renderDifficultyStars(tune.difficulty);
 
@@ -525,15 +527,16 @@
             filteredTunes.forEach((tune, index) => {
                 const card = document.createElement('div');
                 card.className = 'card';
-                card.dataset.tuneSlug = createSlug(tune.title);
-                card.onclick = (e) => navigateToTune(e, card.dataset.tuneSlug);
+                const tuneSlug = createSlug(tune.title);
+                card.dataset.tuneSlug = tuneSlug;
+                card.onclick = (e) => openTuneDetail(e, tune);
 
                 const difficultyHtml = renderDifficultyStars(tune.difficulty);
 
-                // Thumbnail
+                // Thumbnail - wrap img in div for CSS selector compatibility
                 let thumbnailHtml;
                 if (tune.svg) {
-                    thumbnailHtml = `<img class="card-thumbnail" src="${tune.svg}" alt="${escapeHtml(tune.title)}" loading="lazy" onclick="event.stopPropagation(); openLightbox('${tune.svg}', '${escapeHtml(tune.title)}')">`;
+                    thumbnailHtml = `<div class="card-thumbnail"><img src="${tune.svg}" alt="${escapeHtml(tune.title)}" loading="lazy" onclick="event.stopPropagation(); openLightbox('${tune.svg}', '${escapeHtml(tune.title)}')"></div>`;
                 } else {
                     thumbnailHtml = '<div class="card-thumbnail no-preview">No preview available</div>';
                 }
@@ -777,9 +780,9 @@
         }
 
         // ============================================
-        // Navigation
+        // Navigation & Tune Detail View
         // ============================================
-        function navigateToTune(event, tuneSlug) {
+        function openTuneDetail(event, tune) {
             // Don't navigate if clicking on links, buttons, or actions
             if (event.target.closest('.card-actions') ||
                 event.target.tagName === 'A' ||
@@ -789,14 +792,264 @@
                 return;
             }
 
+            const tuneSlug = createSlug(tune.title);
+
             // Update URL without page reload
             const url = new URL(window.location);
             url.searchParams.set('tune', tuneSlug);
             window.history.pushState({}, '', url);
 
-            // Show tune detail view (function from tune-detail-view.js)
-            if (typeof showTuneDetailView === 'function') {
-                showTuneDetailView(tuneSlug);
+            // Show tune detail view
+            showTuneDetail(tune);
+        }
+
+        function showTuneDetail(tune) {
+            // Hide the normal view
+            document.getElementById('table-container').style.display = 'none';
+            document.getElementById('cards-container').style.display = 'none';
+            document.querySelector('.filters').style.display = 'none';
+            document.querySelector('.stats').style.display = 'none';
+
+            // Create detail view if it doesn't exist
+            let detailView = document.getElementById('tune-detail-view');
+            if (!detailView) {
+                detailView = document.createElement('div');
+                detailView.id = 'tune-detail-view';
+                document.querySelector('.container').appendChild(detailView);
+            }
+
+            // Get navigation info
+            const tuneSlug = createSlug(tune.title);
+            const currentIndex = filteredTunes.findIndex(t => createSlug(t.title) === tuneSlug);
+            const prevTune = currentIndex > 0 ? filteredTunes[currentIndex - 1] : null;
+            const nextTune = currentIndex < filteredTunes.length - 1 ? filteredTunes[currentIndex + 1] : null;
+
+            // Generate difficulty stars
+            const level = getDifficultyLevel(tune.difficulty);
+            const stars = '⭐'.repeat(level);
+
+            // Build detail HTML
+            let detailHTML = `
+                <style>
+                    #tune-detail-view {
+                        padding: 1rem;
+                        background: var(--bg-container);
+                        color: var(--text-primary);
+                    }
+                    #tune-detail-view .back-link {
+                        color: var(--ocean-mid);
+                        text-decoration: none;
+                        font-weight: 600;
+                    }
+                    #tune-detail-view .nav-btn {
+                        padding: 8px 16px;
+                        background: var(--ocean-mid);
+                        color: white;
+                        text-decoration: none;
+                        border-radius: 6px;
+                        font-weight: 600;
+                        border: none;
+                        cursor: pointer;
+                    }
+                    #tune-detail-view .nav-btn:hover {
+                        background: var(--ocean-deep);
+                    }
+                    #tune-detail-view h1 {
+                        color: var(--ocean-deep);
+                        font-family: 'Crimson Pro', serif;
+                        margin: 0;
+                    }
+                    #tune-detail-view .metadata-grid {
+                        display: grid;
+                        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+                        gap: 20px;
+                        margin: 25px 0;
+                        padding: 20px;
+                        background: var(--bg-filter);
+                        border-radius: 8px;
+                    }
+                    #tune-detail-view .preview-container {
+                        margin: 30px 0;
+                        background: white;
+                        border-radius: 8px;
+                        padding: 1rem;
+                    }
+                    #tune-detail-view .preview-img {
+                        width: 100%;
+                        max-width: 100%;
+                        height: auto;
+                        border-radius: 8px;
+                        cursor: pointer;
+                    }
+                    [data-theme="dark"] #tune-detail-view .preview-img {
+                        filter: invert(1) hue-rotate(180deg);
+                    }
+                    #tune-detail-view .action-btn {
+                        padding: 12px 24px;
+                        border: none;
+                        border-radius: 6px;
+                        font-weight: 600;
+                        cursor: pointer;
+                        display: inline-flex;
+                        align-items: center;
+                        gap: 8px;
+                        text-decoration: none;
+                        color: white;
+                    }
+                    #tune-detail-view .btn-play { background: #27ae60; }
+                    #tune-detail-view .btn-view { background: var(--ocean-mid); }
+                </style>
+
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; flex-wrap: wrap; gap: 15px;">
+                    <a href="javascript:void(0)" onclick="hideTuneDetail()" class="back-link">← Back to Collection</a>
+                    <div style="display: flex; align-items: center; gap: 15px;">
+                        <span style="color: var(--text-secondary); font-size: 14px;">${currentIndex + 1} of ${filteredTunes.length}</span>
+                        <div style="display: flex; gap: 8px;">
+                            ${prevTune ? `<button class="nav-btn" onclick="showTuneDetail(filteredTunes[${currentIndex - 1}]); updateTuneUrl('${createSlug(prevTune.title)}')">← Previous</button>` : ''}
+                            ${nextTune ? `<button class="nav-btn" onclick="showTuneDetail(filteredTunes[${currentIndex + 1}]); updateTuneUrl('${createSlug(nextTune.title)}')">Next →</button>` : ''}
+                        </div>
+                    </div>
+                </div>
+
+                <div style="display: flex; align-items: center; gap: 15px; margin: 20px 0; padding-bottom: 15px; border-bottom: 3px solid var(--ocean-mid);">
+                    <h1>${escapeHtml(tune.title)}</h1>
+                    ${tune.key ? `<span style="padding: 6px 12px; background: var(--bg-filter); border: 2px solid var(--ocean-mid); border-radius: 8px; font-weight: 700;">${escapeHtml(tune.key)}</span>` : ''}
+                </div>
+
+                <div class="metadata-grid">
+                    <div><strong>Composer:</strong><br>${escapeHtml(tune.composer || '—')}</div>
+                    <div><strong>Country:</strong><br>${tune.country_flag || '🌍'} ${escapeHtml(tune.country || '—')}</div>
+                    <div><strong>Genre:</strong><br>${escapeHtml(tune.genre || '—')}${tune.subgenre ? `<br><small style="color: var(--text-secondary);">${escapeHtml(tune.subgenre)}</small>` : ''}</div>
+                    <div><strong>Difficulty:</strong><br>${stars || '⭐⭐⭐'}</div>
+                </div>
+            `;
+
+            // Add score preview
+            if (tune.svg) {
+                detailHTML += `
+                    <div class="preview-container">
+                        <img class="preview-img" src="${tune.svg}" alt="${escapeHtml(tune.title)}" onclick="openLightbox('${tune.svg}', '${escapeHtml(tune.title)}')">
+                    </div>
+                `;
+            }
+
+            // Add action buttons
+            detailHTML += `<div style="display: flex; gap: 15px; margin: 30px 0; flex-wrap: wrap;">`;
+            if (tune.midi) {
+                detailHTML += `<button class="action-btn btn-play" onclick="playMidi('${tune.midi}', '${escapeHtml(tune.title)}')">🎵 Play MIDI</button>`;
+            }
+            if (tune.svg) {
+                detailHTML += `<button class="action-btn btn-view" onclick="openLightbox('${tune.svg}', '${escapeHtml(tune.title)}')">📄 View Full Score</button>`;
+            }
+            detailHTML += `</div>`;
+
+            // Add tags and moods if available
+            if ((tune.tags && tune.tags.length) || (tune.moods && tune.moods.length)) {
+                detailHTML += `<div style="margin-top: 20px; padding: 15px; background: var(--bg-filter); border-radius: 8px;">`;
+                if (tune.tags && tune.tags.length) {
+                    detailHTML += `<div style="margin-bottom: 10px;"><strong>Tags:</strong> ${tune.tags.map(t => `<span style="padding: 2px 8px; background: var(--ocean-bright); color: white; border-radius: 4px; margin: 2px; display: inline-block;">${escapeHtml(t)}</span>`).join(' ')}</div>`;
+                }
+                if (tune.moods && tune.moods.length) {
+                    detailHTML += `<div><strong>Moods:</strong> ${tune.moods.map(m => `<span style="padding: 2px 8px; background: var(--coral); color: white; border-radius: 4px; margin: 2px; display: inline-block;">${escapeHtml(m)}</span>`).join(' ')}</div>`;
+                }
+                detailHTML += `</div>`;
+            }
+
+            // Keyboard shortcuts hint
+            detailHTML += `
+                <div style="margin-top: 40px; padding: 15px; background: var(--bg-filter); border-left: 4px solid var(--ocean-mid); border-radius: 4px; font-size: 13px;">
+                    <strong>⌨️ Keyboard Shortcuts:</strong><br>
+                    <span style="display: inline-block; margin-top: 8px;">
+                        ${prevTune ? '<kbd style="padding: 2px 6px; background: var(--bg-input); border: 1px solid var(--border-color); border-radius: 3px;">←</kbd> Previous tune &nbsp;&nbsp;' : ''}
+                        ${nextTune ? '<kbd style="padding: 2px 6px; background: var(--bg-input); border: 1px solid var(--border-color); border-radius: 3px;">→</kbd> Next tune &nbsp;&nbsp;' : ''}
+                        <kbd style="padding: 2px 6px; background: var(--bg-input); border: 1px solid var(--border-color); border-radius: 3px;">Esc</kbd> Back to collection
+                    </span>
+                </div>
+            `;
+
+            detailView.innerHTML = detailHTML;
+            detailView.style.display = 'block';
+
+            // Update page title
+            document.title = tune.title + ' - Mouries\' Music';
+
+            // Set up keyboard navigation
+            setupDetailKeyboardNav(currentIndex);
+        }
+
+        function updateTuneUrl(tuneSlug) {
+            const url = new URL(window.location);
+            url.searchParams.set('tune', tuneSlug);
+            window.history.pushState({}, '', url);
+        }
+
+        function hideTuneDetail() {
+            const detailView = document.getElementById('tune-detail-view');
+            if (detailView) {
+                detailView.style.display = 'none';
+            }
+
+            // Show normal view
+            if (currentView === 'table') {
+                document.getElementById('table-container').style.display = 'block';
+            } else {
+                document.getElementById('cards-container').style.display = 'grid';
+            }
+            document.querySelector('.filters').style.display = 'flex';
+            document.querySelector('.stats').style.display = 'flex';
+
+            // Reset page title
+            document.title = 'Mouries\' Music 🎵';
+
+            // Update URL - remove tune parameter
+            const url = new URL(window.location);
+            url.searchParams.delete('tune');
+            window.history.pushState({}, '', url);
+
+            // Remove keyboard handler
+            if (window.detailKeyboardHandler) {
+                document.removeEventListener('keydown', window.detailKeyboardHandler);
+            }
+        }
+
+        function setupDetailKeyboardNav(currentIndex) {
+            // Remove any existing handler
+            if (window.detailKeyboardHandler) {
+                document.removeEventListener('keydown', window.detailKeyboardHandler);
+            }
+
+            window.detailKeyboardHandler = function(e) {
+                // Ignore if typing in input
+                if (['INPUT', 'TEXTAREA', 'SELECT'].includes(e.target.tagName)) return;
+
+                if (e.key === 'ArrowLeft' && currentIndex > 0) {
+                    e.preventDefault();
+                    const prevTune = filteredTunes[currentIndex - 1];
+                    showTuneDetail(prevTune);
+                    updateTuneUrl(createSlug(prevTune.title));
+                } else if (e.key === 'ArrowRight' && currentIndex < filteredTunes.length - 1) {
+                    e.preventDefault();
+                    const nextTune = filteredTunes[currentIndex + 1];
+                    showTuneDetail(nextTune);
+                    updateTuneUrl(createSlug(nextTune.title));
+                } else if (e.key === 'Escape') {
+                    e.preventDefault();
+                    hideTuneDetail();
+                }
+            };
+
+            document.addEventListener('keydown', window.detailKeyboardHandler);
+        }
+
+        // Handle URL tune parameter on page load
+        function checkUrlForTune() {
+            const params = new URLSearchParams(window.location.search);
+            if (params.has('tune')) {
+                const tuneSlug = params.get('tune');
+                const tune = allTunes.find(t => createSlug(t.title) === tuneSlug);
+                if (tune) {
+                    showTuneDetail(tune);
+                }
             }
         }
 
