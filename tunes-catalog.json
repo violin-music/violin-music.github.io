@@ -206,13 +206,13 @@
         }
       ],
       "svg_files": [
-        "Jingle-Bells.svg",
-        "Jingle-Bells_page_1.svg"
+        "Jingle-Bells_page_1.svg",
+        "Jingle-Bells.svg"
       ],
       "midi_files": [
         "Jingle-Bells.midi"
       ],
-      "svg": "tunes/Christmas/Jingle-Bells.svg",
+      "svg": "tunes/Christmas/Jingle-Bells_page_1.svg",
       "midi": "tunes/Christmas/Jingle-Bells.midi"
     },
     {
@@ -351,10 +351,14 @@
         }
       ],
       "svg_files": [
-        "Petit-Papa-Noel_page_1.svg"
+        "Petit-Papa-Noel_page_1.svg",
+        "Petit-Papa-Noel.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Christmas/Petit-Papa-Noel_page_1.svg"
+      "midi_files": [
+        "Petit-Papa-Noel.midi"
+      ],
+      "svg": "tunes/Christmas/Petit-Papa-Noel_page_1.svg",
+      "midi": "tunes/Christmas/Petit-Papa-Noel.midi"
     },
     {
       "title": "Silent Night",
@@ -526,9 +530,9 @@
         "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_[Practice]_page_1.svg",
         "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_page_1.svg",
         "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_page_2.svg",
-        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_[Practice].svg",
         "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore-1.svg",
-        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore-2.svg"
+        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore-2.svg",
+        "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore_[Practice].svg"
       ],
       "midi_files": [
         "Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore.midi",
@@ -639,8 +643,11 @@
         "Bach_Violin-Sonata-No.1_4_Presto-2.svg",
         "Bach_Violin-Sonata-No.1_4_Presto-1.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Bach_Violin-Sonata-No.1_4_Presto_page_1.svg"
+      "midi_files": [
+        "Bach_Violin-Sonata-No.1_4_Presto.midi"
+      ],
+      "svg": "tunes/Classical/Bach_Violin-Sonata-No.1_4_Presto_page_1.svg",
+      "midi": "tunes/Classical/Bach_Violin-Sonata-No.1_4_Presto.midi"
     },
     {
       "title": "Berceuse",
@@ -673,8 +680,11 @@
         "Brahms-Berceuse-1.svg",
         "Brahms-Berceuse-2.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Brahms-Berceuse_page_1.svg"
+      "midi_files": [
+        "Brahms-Berceuse.midi"
+      ],
+      "svg": "tunes/Classical/Brahms-Berceuse_page_1.svg",
+      "midi": "tunes/Classical/Brahms-Berceuse.midi"
     },
     {
       "title": "Hungarian Dance 4",
@@ -792,8 +802,11 @@
       "svg_files": [
         "Carmen-Fantasy.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Carmen-Fantasy.svg"
+      "midi_files": [
+        "Carmen-Fantasy.midi"
+      ],
+      "svg": "tunes/Classical/Carmen-Fantasy.svg",
+      "midi": "tunes/Classical/Carmen-Fantasy.midi"
     },
     {
       "title": "Can She Excuse My Wrongs",
@@ -1170,17 +1183,17 @@
       ],
       "svg_files": [
         "Kreisler_Praeludium-&-Allegro_page_2.svg",
-        "Kreisler_Praeludium-&-Allegro-2.svg",
         "Kreisler_Praeludium-&-Allegro_page_4.svg",
-        "Kreisler_Praeludium-&-Allegro-4.svg",
         "Kreisler_Praeludium-&-Allegro_page_1.svg",
         "Kreisler_Praeludium-&-Allegro_page_5.svg",
+        "Kreisler_Praeludium-&-Allegro_page_3.svg",
+        "Practice-Praeludium_page_1.svg",
+        "Practice-Praeludium.svg",
+        "Kreisler_Praeludium-&-Allegro-2.svg",
+        "Kreisler_Praeludium-&-Allegro-4.svg",
         "Kreisler_Praeludium-&-Allegro-3.svg",
         "Kreisler_Praeludium-&-Allegro-5.svg",
-        "Kreisler_Praeludium-&-Allegro_page_3.svg",
-        "Kreisler_Praeludium-&-Allegro-1.svg",
-        "Practice-Praeludium_page_1.svg",
-        "Practice-Praeludium.svg"
+        "Kreisler_Praeludium-&-Allegro-1.svg"
       ],
       "midi_files": [
         "Practice-Praeludium.midi",
@@ -1829,8 +1842,11 @@
         "Rondo-Veneziano_Odissea-veneziana-1.svg",
         "Rondo-Veneziano_Odissea-veneziana-2.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Rondo-Veneziano_Odissea-veneziana_page_1.svg"
+      "midi_files": [
+        "Rondo-Veneziano_Odissea-veneziana.midi"
+      ],
+      "svg": "tunes/Classical/Rondo-Veneziano_Odissea-veneziana_page_1.svg",
+      "midi": "tunes/Classical/Rondo-Veneziano_Odissea-veneziana.midi"
     },
     {
       "title": "Serenade",
@@ -1866,17 +1882,17 @@
         }
       ],
       "svg_files": [
-        "Serenade_Overlay_Fingerings.svg",
         "Practice_Arpeggios_Schubert_Serenade_page_1.svg",
         "Schubert_Serenade_page_1.svg",
         "Serenade_Overlay_Fingerings_page_1.svg",
+        "Serenade_Overlay_Fingerings.svg",
         "Schubert_Serenade.svg",
         "Practice_Arpeggios_Schubert_Serenade.svg"
       ],
       "midi_files": [
         "Serenade_Overlay_Fingerings.midi"
       ],
-      "svg": "tunes/Classical/Serenade_Overlay_Fingerings.svg",
+      "svg": "tunes/Classical/Practice_Arpeggios_Schubert_Serenade_page_1.svg",
       "midi": "tunes/Classical/Serenade_Overlay_Fingerings.midi"
     },
     {
@@ -1948,8 +1964,11 @@
         "Tambourin_Gretry-2.svg",
         "Tambourin_Gretry-1.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Tambourin_Gretry_page_1.svg"
+      "midi_files": [
+        "Tambourin_Gretry.midi"
+      ],
+      "svg": "tunes/Classical/Tambourin_Gretry_page_1.svg",
+      "midi": "tunes/Classical/Tambourin_Gretry.midi"
     },
     {
       "title": "The Lark Ascending",
@@ -1978,16 +1997,14 @@
         }
       ],
       "svg_files": [
-        "The-Lark-Ascending_[Practice].svg",
-        "The-Lark-Ascending_[Practice]_page_1.svg"
+        "The-Lark-Ascending_[Practice]_page_1.svg",
+        "The-Lark-Ascending_[Practice].svg"
       ],
       "midi_files": [
-        "The-Lark-Ascending_[Practice]-1.midi",
-        "The-Lark-Ascending_[Practice].midi",
-        "The-Lark-Ascending_[Practice]-2.midi"
+        "The-Lark-Ascending_[Practice].midi"
       ],
-      "svg": "tunes/Classical/The-Lark-Ascending_%5BPractice%5D.svg",
-      "midi": "tunes/Classical/The-Lark-Ascending_%5BPractice%5D-1.midi"
+      "svg": "tunes/Classical/The-Lark-Ascending_%5BPractice%5D_page_1.svg",
+      "midi": "tunes/Classical/The-Lark-Ascending_%5BPractice%5D.midi"
     },
     {
       "title": "Vivaldi Style Rosalia",
@@ -2073,64 +2090,39 @@
         }
       ],
       "svg_files": [
-        "summer-violin1-3.svg",
-        "summer-violin2-3.svg",
-        "summer-violin1-1.svg",
-        "summer-cello-3.svg",
-        "summer-solo-6.svg",
         "summer-viola_page_2.svg",
-        "summer-violin1-4.svg",
         "summer-score_page_1.svg",
-        "summer-violin2-2.svg",
-        "summer-presto-solo-1.svg",
-        "summer-presto-solo-4.svg",
         "summer-solo_page_6.svg",
         "summer-score_page_11.svg",
-        "summer-cello-2.svg",
         "summer-presto-solo_page_4.svg",
         "summer-score_page_18.svg",
         "summer-score_page_22.svg",
-        "summer-cello-1.svg",
         "summer-score_page_3.svg",
         "summer-presto-solo_page_1.svg",
         "summer-violin1_page_5.svg",
         "summer-violin2_page_3.svg",
-        "summer-solo-2.svg",
-        "summer-solo-5.svg",
         "summer-solo_page_5.svg",
-        "summer-solo-3.svg",
         "summer-score_page_16.svg",
         "summer-score_page_13.svg",
         "summer-violin1_page_3.svg",
         "summer-violin1_page_6.svg",
         "summer-cello_page_4.svg",
-        "summer-viola-3.svg",
         "summer-solo_page_2.svg",
-        "summer-cello-5.svg",
         "summer-solo_page_3.svg",
         "summer-score_page_17.svg",
         "summer-viola_page_3.svg",
-        "summer-solo-4.svg",
         "summer-score_page_15.svg",
-        "summer-violin1-5.svg",
         "summer-score_page_19.svg",
         "summer-cello_page_5.svg",
         "summer-presto-solo_page_2.svg",
-        "summer-solo-1.svg",
-        "summer-violin1-6.svg",
-        "summer-cello-4.svg",
-        "summer-presto-solo-3.svg",
         "summer-score_page_6.svg",
         "summer-score_page_24.svg",
-        "summer-violin2-1.svg",
         "summer-violin2_page_4.svg",
-        "summer-viola-1.svg",
         "summer-score_page_8.svg",
         "summer-score_page_2.svg",
         "summer-violin1_page_1.svg",
         "summer-cello_page_2.svg",
         "summer-score_page_20.svg",
-        "summer-presto-solo-2.svg",
         "summer-score_page_23.svg",
         "summer-score_page_7.svg",
         "summer-score_page_14.svg",
@@ -2140,71 +2132,86 @@
         "summer-score_page_4.svg",
         "summer-cello_page_1.svg",
         "summer-violin1_page_2.svg",
-        "summer-viola-4.svg",
         "summer-cello_page_3.svg",
-        "summer-violin1-2.svg",
-        "summer-violin2-4.svg",
         "summer-viola_page_4.svg",
         "summer-viola_page_1.svg",
         "summer-score_page_10.svg",
         "summer-score_page_5.svg",
         "summer-presto-solo_page_3.svg",
-        "summer-violin2-5.svg",
         "summer-violin1_page_4.svg",
-        "summer-viola-2.svg",
         "summer-score_page_21.svg",
         "summer-violin2_page_1.svg",
         "summer-solo_page_4.svg",
         "summer-score_page_9.svg",
         "summer-score_page_12.svg",
         "summer-score-22.svg",
+        "summer-violin1-3.svg",
+        "summer-violin2-3.svg",
+        "summer-violin1-1.svg",
+        "summer-cello-3.svg",
+        "summer-solo-6.svg",
         "summer-score-17.svg",
         "summer-score-12.svg",
         "summer-score-15.svg",
+        "summer-violin1-4.svg",
+        "summer-violin2-2.svg",
+        "summer-presto-solo-1.svg",
         "summer-score-10.svg",
         "summer-score-8.svg",
+        "summer-presto-solo-4.svg",
+        "summer-cello-2.svg",
         "summer-score-5.svg",
+        "summer-cello-1.svg",
         "summer-score-11.svg",
+        "summer-solo-2.svg",
+        "summer-solo-5.svg",
+        "summer-solo-3.svg",
+        "summer-viola-3.svg",
+        "summer-cello-5.svg",
         "summer-score-4.svg",
         "summer-score-18.svg",
         "summer-score-6.svg",
         "summer-score-19.svg",
         "summer-score-1.svg",
+        "summer-solo-4.svg",
+        "summer-violin1-5.svg",
         "summer-score-13.svg",
+        "summer-solo-1.svg",
+        "summer-violin1-6.svg",
+        "summer-cello-4.svg",
+        "summer-presto-solo-3.svg",
         "summer-score-3.svg",
         "summer-score-21.svg",
+        "summer-violin2-1.svg",
+        "summer-viola-1.svg",
         "summer-score-7.svg",
+        "summer-presto-solo-2.svg",
         "summer-score-20.svg",
         "summer-score-23.svg",
         "summer-score-2.svg",
+        "summer-viola-4.svg",
+        "summer-violin1-2.svg",
+        "summer-violin2-4.svg",
         "summer-score-9.svg",
         "summer-score-24.svg",
+        "summer-violin2-5.svg",
+        "summer-viola-2.svg",
         "summer-score-14.svg",
         "summer-score-16.svg"
       ],
       "midi_files": [
-        "summer-cello-1.midi",
-        "summer-cello-2.midi",
-        "summer-solo.midi",
-        "summer-violin1.midi",
-        "summer-violin2-2.midi",
-        "summer-viola-1.midi",
-        "summer-viola-2.midi",
-        "summer-cello.midi",
         "summer-score-2.midi",
-        "summer-violin1-1.midi",
-        "summer-violin2.midi",
-        "summer-solo-1.midi",
         "summer-score.midi",
         "summer-score-1.midi",
-        "summer-solo-2.midi",
+        "summer-solo.midi",
+        "summer-violin1.midi",
+        "summer-cello.midi",
+        "summer-violin2.midi",
         "summer-viola.midi",
-        "summer-violin1-2.midi",
-        "summer-violin2-1.midi",
         "summer-presto-solo.midi"
       ],
-      "svg": "tunes/Classical/summer-violin1-3.svg",
-      "midi": "tunes/Classical/summer-cello-1.midi"
+      "svg": "tunes/Classical/summer-viola_page_2.svg",
+      "midi": "tunes/Classical/summer-score-2.midi"
     },
     {
       "title": "Concerto Sol Minor rv316",
@@ -2313,8 +2320,11 @@
         "Vocalise_Rachmaninoff_(Em).svg",
         "Vocalise_Rachmaninoff.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Classical/Vocalise_Rachmaninoff_page_1.svg"
+      "midi_files": [
+        "Vocalise_Rachmaninoff.midi"
+      ],
+      "svg": "tunes/Classical/Vocalise_Rachmaninoff_page_1.svg",
+      "midi": "tunes/Classical/Vocalise_Rachmaninoff.midi"
     },
     {
       "title": "Kreutzer Étude No. 2",
@@ -2361,26 +2371,26 @@
         }
       ],
       "svg_files": [
-        "Position-Markup-Styles-Comparison-1.svg",
         "Kreutzer_Etude-No.-2_(A)_page_1.svg",
         "Kreutzer_Etude-No.-2_page_1.svg",
-        "Kreutzer_Etude-No.-2_(A).svg",
         "Position-Markup-Styles-Comparison_page_1.svg",
-        "Position-Markup-Styles-Comparison-2.svg",
         "Kreutzer_Etude-No.-2_[Shifting]_page_1.svg",
         "Kreutzer_Etude-No.-2_[Practice]_page_1.svg",
-        "Kreutzer_Etude-No.-2_[Shifting].svg",
+        "Position-Markup-Styles-Comparison-1.svg",
         "Kreutzer_Etude-No.-2.svg",
-        "Kreutzer_Etude-No.-2_[Practice].svg"
+        "Kreutzer_Etude-No.-2_[Practice].svg",
+        "Kreutzer_Etude-No.-2_(A).svg",
+        "Position-Markup-Styles-Comparison-2.svg",
+        "Kreutzer_Etude-No.-2_[Shifting].svg"
       ],
       "midi_files": [
+        "Kreutzer_Etude-No.-2.midi",
         "Kreutzer_Etude-No.-2_(A).midi",
         "Kreutzer_Etude-No.-2_[Shifting].midi",
-        "Position-Markup-Styles-Comparison.midi",
-        "Kreutzer_Etude-No.-2.midi"
+        "Position-Markup-Styles-Comparison.midi"
       ],
-      "svg": "tunes/Etudes/Position-Markup-Styles-Comparison-1.svg",
-      "midi": "tunes/Etudes/Kreutzer_Etude-No.-2_%28A%29.midi"
+      "svg": "tunes/Etudes/Kreutzer_Etude-No.-2_%28A%29_page_1.svg",
+      "midi": "tunes/Etudes/Kreutzer_Etude-No.-2.midi"
     },
     {
       "title": "L'Air Mignonne",
@@ -2856,20 +2866,20 @@
       "svg_files": [
         "Frere-Jacques_[what_2]_page_2.svg",
         "Frere-Jacques_[what]_page_1.svg",
-        "Frere-Jacques_[Multilingual]-1.svg",
         "Frere-Jacques_[what_2]_page_1.svg",
-        "Frere-Jacques_[Multilingual]-2.svg",
         "Frere-Jacques_[what_2]-2.svg",
+        "Frere-Jacques_[Multilingual]-1.svg",
         "Frere-Jacques_[what_2]-1.svg",
         "Frere-Jacques_[what].svg",
-        "Frere-Jacques.svg"
+        "Frere-Jacques.svg",
+        "Frere-Jacques_[Multilingual]-2.svg"
       ],
       "midi_files": [
-        "Frere-Jacques_[Multilingual].midi",
-        "Frere-Jacques.midi"
+        "Frere-Jacques.midi",
+        "Frere-Jacques_[Multilingual].midi"
       ],
       "svg": "tunes/Folk_French/Frere-Jacques_%5Bwhat_2%5D_page_2.svg",
-      "midi": "tunes/Folk_French/Frere-Jacques_%5BMultilingual%5D.midi"
+      "midi": "tunes/Folk_French/Frere-Jacques.midi"
     },
     {
       "title": "Jean Petit qui danse",
@@ -3414,18 +3424,20 @@
           "stem": "Dr-Gilbert"
         },
         {
-          "filename": "Dr-Gilbert_[v2].ly",
-          "stem": "Dr-Gilbert_[v2]",
-          "arrangement": "v2"
+          "filename": "Dr-Gilbert_[Matt Cranitch's Book].ly",
+          "stem": "Dr-Gilbert_[Matt Cranitch's Book]",
+          "arrangement": "Matt Cranitch's Book"
         }
       ],
       "svg_files": [
         "Dr-Gilbert_page_1.svg",
+        "Dr-Gilbert_[Matt Cranitch's Book].svg",
         "Dr-Gilbert.svg",
         "Dr-Gilbert_[v2].svg"
       ],
       "midi_files": [
         "Dr-Gilbert.midi",
+        "Dr-Gilbert_[Matt Cranitch's Book].midi",
         "Dr-Gilbert_[v2].midi"
       ],
       "svg": "tunes/Folk_Ireland/Dr-Gilbert_page_1.svg",
@@ -5219,12 +5231,10 @@
         "Auld-Lang-Syne_[Beethoven]_page_5.svg",
         "Auld-Lang-Syne_[Beethoven]_page_2.svg",
         "Auld-Lang-Syne_(in-D)_page_1.svg",
-        "Auld-Lang-Syne_[multiple keys]-2.svg",
         "Auld-Lang-Syne_[multiple keys]_page_1.svg",
         "Auld-Lang-Syne_[multiple keys]_page_2.svg",
         "Auld-Lang-Syne_[with lyrics]_page_1.svg",
         "Auld-Lang-Syne_[Beethoven]_page_7.svg",
-        "Auld-Lang-Syne_[multiple keys]-1.svg",
         "Auld-Lang-Syne_[Beethoven]_page_3.svg",
         "Auld-Lang-Syne_[Beethoven]_page_6.svg",
         "Auld-Lang-Syne_[Beethoven]_page_1.svg",
@@ -5233,26 +5243,26 @@
         "Auld-Lang-Syne_[Beethoven]-1.svg",
         "Auld-Lang-Syne_[with lyrics].svg",
         "Auld-Lang-Syne_[Beethoven]-7.svg",
+        "Auld-Lang-Syne_[multiple keys]-2.svg",
         "Auld-Lang-Syne_[Beethoven]-6.svg",
         "Auld-Lang-Syne_[Beethoven]-2.svg",
         "Auld-Lang-Syne_[Beethoven]-5.svg",
         "Auld-Lang-Syne_[Beethoven]-4.svg",
+        "Auld-Lang-Syne_[multiple keys]-1.svg",
         "Auld-Lang-Syne_[Jig].svg",
         "Auld-Lang-Syne_[Beethoven]-3.svg"
       ],
       "midi_files": [
-        "Auld-Lang-Syne_[multiple keys].midi",
         "Auld-Lang-Syne_[Beethoven].midi",
         "Auld-Lang-Syne_(in-D).midi",
-        "Auld-Lang-Syne_[multiple keys]-1.midi",
         "Auld-Lang-Syne_(in-D)-1.midi",
         "Auld-Lang-Syne_(in-D)-full-1.midi",
-        "Auld-Lang-Syne_[multiple keys]-2.midi",
+        "Auld-Lang-Syne_[multiple keys].midi",
         "Auld-Lang-Syne_[with lyrics].midi",
         "Auld-Lang-Syne_[Jig].midi"
       ],
       "svg": "tunes/Folk_Scotland/Auld-Lang-Syne_%5BBeethoven%5D_page_4.svg",
-      "midi": "tunes/Folk_Scotland/Auld-Lang-Syne_%5Bmultiple%20keys%5D.midi"
+      "midi": "tunes/Folk_Scotland/Auld-Lang-Syne_%5BBeethoven%5D.midi"
     },
     {
       "title": "A Gift to You (Everything I Am)",
@@ -5764,8 +5774,8 @@
         }
       ],
       "svg_files": [
-        "You-are-my-sunshine.svg",
         "You-are-my-sunshine_[Piano]-2.svg",
+        "You-are-my-sunshine.svg",
         "You-are-my-sunshine_[Piano]_page_1.svg",
         "You-are-my-sunshine_page_1.svg",
         "You-are-my-sunshine_[Piano]-1.svg",
@@ -5775,7 +5785,7 @@
         "You-are-my-sunshine.midi",
         "You-are-my-sunshine_[Piano].midi"
       ],
-      "svg": "tunes/Folk_USA/You-are-my-sunshine.svg",
+      "svg": "tunes/Folk_USA/You-are-my-sunshine_%5BPiano%5D-2.svg",
       "midi": "tunes/Folk_USA/You-are-my-sunshine.midi"
     },
     {
@@ -5841,10 +5851,10 @@
       "svg_files": [
         "Bistro_Fada.xml-4.svg",
         "Bistro_Fada.xml-5.svg",
+        "Bistro_Fada.xml_page_1.svg",
         "Bistro_Fada.xml-1.svg",
         "Bistro_Fada.xml-3.svg",
-        "Bistro_Fada.xml-2.svg",
-        "Bistro_Fada.xml_page_1.svg"
+        "Bistro_Fada.xml-2.svg"
       ],
       "midi_files": [
         "Bistro_Fada.xml.midi"
@@ -5936,19 +5946,19 @@
         }
       ],
       "svg_files": [
-        "Blues-en-Mineur-2.svg",
-        "Blues-en-Mineur_Chords_Arpeggios.svg",
-        "Blues-en-Mineur-1.svg",
         "Blues-en-Mineur_Chords_Arpeggios_page_1.svg",
         "Blues-en-Mineur-Serge-Krief.svg",
         "Blues-en-Mineur-Serge-Krief_page_1.svg",
-        "Blues-en-Mineur_page_1.svg"
+        "Blues-en-Mineur_page_1.svg",
+        "Blues-en-Mineur-2.svg",
+        "Blues-en-Mineur_Chords_Arpeggios.svg",
+        "Blues-en-Mineur-1.svg"
       ],
       "midi_files": [
         "Blues-en-Mineur_Chords_Arpeggios.midi",
         "Blues-en-Mineur.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Blues-en-Mineur-2.svg",
+      "svg": "tunes/Gypsy-Jazz/Blues-en-Mineur_Chords_Arpeggios_page_1.svg",
       "midi": "tunes/Gypsy-Jazz/Blues-en-Mineur_Chords_Arpeggios.midi"
     },
     {
@@ -6425,11 +6435,11 @@
         }
       ],
       "svg_files": [
-        "Si-tu-savais-(Cm).svg",
         "Si-tu-savais-(Cm)_page_1.svg",
         "Si-Tu-Savais.svg",
         "Si-tu-savais-copy-Marc’s-iMac_page_1.svg",
-        "Si-Tu-Savais_page_1.svg"
+        "Si-Tu-Savais_page_1.svg",
+        "Si-tu-savais-(Cm).svg"
       ],
       "midi_files": [
         "Si-tu-savais-(Cm).midi",
@@ -6439,7 +6449,7 @@
         "Si-Tu-Savais-full.midi",
         "Si-tu-savais-copy.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Si-tu-savais-%28Cm%29.svg",
+      "svg": "tunes/Gypsy-Jazz/Si-tu-savais-%28Cm%29_page_1.svg",
       "midi": "tunes/Gypsy-Jazz/Si-tu-savais-%28Cm%29.midi"
     },
     {
@@ -6468,13 +6478,13 @@
         }
       ],
       "svg_files": [
-        "Style-Musette.svg",
-        "Style-Musette_page_1.svg"
+        "Style-Musette_page_1.svg",
+        "Style-Musette.svg"
       ],
       "midi_files": [
         "Style-Musette.midi"
       ],
-      "svg": "tunes/Gypsy-Jazz/Style-Musette.svg",
+      "svg": "tunes/Gypsy-Jazz/Style-Musette_page_1.svg",
       "midi": "tunes/Gypsy-Jazz/Style-Musette.midi"
     },
     {
@@ -6584,10 +6594,13 @@
           "stem": "Aint-Misbehavin"
         }
       ],
-      "svg_files": [],
+      "svg_files": [
+        "Aint-Misbehavin.svg"
+      ],
       "midi_files": [
         "Aint-Misbehavin.midi"
       ],
+      "svg": "tunes/Jazz/Aint-Misbehavin.svg",
       "midi": "tunes/Jazz/Aint-Misbehavin.midi"
     },
     {
@@ -6979,8 +6992,14 @@
           "stem": "Historia-de-Un-Amor"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "Historia-de-Un-Amor.svg"
+      ],
+      "midi_files": [
+        "Historia-de-Un-Amor.midi"
+      ],
+      "svg": "tunes/Latina/Historia-de-Un-Amor.svg",
+      "midi": "tunes/Latina/Historia-de-Un-Amor.midi"
     },
     {
       "title": "Latino Chords",
@@ -7160,8 +7179,14 @@
           "stem": "My-Tune"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "My-Tune.svg"
+      ],
+      "midi_files": [
+        "My-Tune.midi"
+      ],
+      "svg": "tunes/Marc-Mouries/My-Tune.svg",
+      "midi": "tunes/Marc-Mouries/My-Tune.midi"
     },
     {
       "title": "Spring is Coming",
@@ -7298,10 +7323,14 @@
         }
       ],
       "svg_files": [
+        "Douce-France.svg",
         "Douce-France_page_1.svg"
       ],
-      "midi_files": [],
-      "svg": "tunes/Pop/Douce-France_page_1.svg"
+      "midi_files": [
+        "Douce-France.midi"
+      ],
+      "svg": "tunes/Pop/Douce-France.svg",
+      "midi": "tunes/Pop/Douce-France.midi"
     },
     {
       "title": "Hallelujah",
@@ -7367,18 +7396,18 @@
         }
       ],
       "svg_files": [
-        "Happy-Birthday-Quartet.svg",
         "Happy-Birthday-Quartet_page_1.svg",
-        "Happy-Birthday_page_1.svg"
+        "Happy-Birthday_page_1.svg",
+        "Happy-Birthday-Quartet.svg"
       ],
       "midi_files": [
-        "Happy-Birthday-Quartet.midi",
         "Happy-Birthday-full-1.midi",
+        "Happy-Birthday-Quartet.midi",
         "Happy-Birthday.midi",
         "Happy-Birthday-1.midi"
       ],
-      "svg": "tunes/Pop/Happy-Birthday-Quartet.svg",
-      "midi": "tunes/Pop/Happy-Birthday-Quartet.midi"
+      "svg": "tunes/Pop/Happy-Birthday-Quartet_page_1.svg",
+      "midi": "tunes/Pop/Happy-Birthday-full-1.midi"
     },
     {
       "title": "Hedgehog Video Music",
@@ -7938,19 +7967,19 @@
       "svg_files": [
         "In-the-Mood-for-Love_[Practice]_page_1.svg",
         "In-the-Mood-for-Love_page_1.svg",
-        "In-the-Mood-for-Love_[Practice].svg",
         "In-the-Mood-for-Love_[Accompaniment]-2.svg",
         "In-the-Mood-for-Love_[Accompaniment]-1.svg",
-        "In-the-Mood-for-Love.svg"
+        "In-the-Mood-for-Love.svg",
+        "In-the-Mood-for-Love_[Practice].svg"
       ],
       "midi_files": [
         "In-the-Mood-for-Love-full.midi",
         "In-the-Mood-for-Love_lily-full.midi",
-        "In-the-Mood-for-Love_[Practice].midi",
         "In-the-Mood-for-Love_lily-1.midi",
         "in-the-mood-for-love_lily.midi",
         "In-the-Mood-for-Love.midi",
         "In-the-Mood-for-Love_lily.mid",
+        "In-the-Mood-for-Love_[Practice].midi",
         "In-the-Mood-for-Love_[Accompaniment].midi"
       ],
       "svg": "tunes/Soundtrack/In-the-Mood-for-Love_%5BPractice%5D_page_1.svg",
@@ -8017,14 +8046,14 @@
         }
       ],
       "svg_files": [
+        "Midnight-in-Paris_Tango-Flambe_page_1.svg",
         "Midnight-in-Paris_Tango-Flambe-1.svg",
-        "Midnight-in-Paris_Tango-Flambe-2.svg",
-        "Midnight-in-Paris_Tango-Flambe_page_1.svg"
+        "Midnight-in-Paris_Tango-Flambe-2.svg"
       ],
       "midi_files": [
         "Midnight-in-Paris_Tango-Flambe.midi"
       ],
-      "svg": "tunes/Soundtrack/Midnight-in-Paris_Tango-Flambe-1.svg",
+      "svg": "tunes/Soundtrack/Midnight-in-Paris_Tango-Flambe_page_1.svg",
       "midi": "tunes/Soundtrack/Midnight-in-Paris_Tango-Flambe.midi"
     },
     {
@@ -8097,29 +8126,29 @@
         }
       ],
       "svg_files": [
-        "Schindlers_List_[Strings]-5.svg",
         "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_1.svg",
         "Schindlers_List_Theme_Solo_Violin_page_1.svg",
         "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_2.svg",
+        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_4.svg",
+        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_5.svg",
+        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_3.svg",
+        "Schindlers_List.svg",
+        "Schindlers_List_[Strings]-5.svg",
         "Schindlers_List_[Quartet]-4.svg",
         "Schindlers_List_[Quartet]-2.svg",
         "Schindlers_List_[Strings]-4.svg",
         "Schindlers_List_[Quartet]-3.svg",
-        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_4.svg",
         "Schindlers_List_[Strings]-1.svg",
         "Schindlers_List_[Quartet]-1.svg",
-        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_5.svg",
         "Schindlers_List_[Strings]-2.svg",
-        "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_3.svg",
-        "Schindlers_List_[Strings]-3.svg",
-        "Schindlers_List.svg"
+        "Schindlers_List_[Strings]-3.svg"
       ],
       "midi_files": [
         "Schindlers_List_[Quartet].midi",
         "Schindlers_List_[Strings].midi",
         "Schindlers_List.midi"
       ],
-      "svg": "tunes/Soundtrack/Schindlers_List_%5BStrings%5D-5.svg",
+      "svg": "tunes/Soundtrack/Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_1.svg",
       "midi": "tunes/Soundtrack/Schindlers_List_%5BQuartet%5D.midi"
     },
     {
