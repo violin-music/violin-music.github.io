@@ -268,6 +268,9 @@ def main():
 
     tunes = scan_tunes()
 
+    # Sort alphabetically by title
+    tunes.sort(key=lambda t: (t.get('title') or '').lower())
+
     # Count stats
     with_svg = sum(1 for t in tunes if t.get('svg'))
     with_midi = sum(1 for t in tunes if t.get('midi'))
