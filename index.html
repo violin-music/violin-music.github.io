@@ -62,6 +62,7 @@
             <div class="stat-item">
                 <span class="stat-number" id="total-count">0</span>
                 <span>Total Tunes</span>
+                <small id="versions-summary" style="display:none; color: #888; font-size: 0.75rem;"></small>
             </div>
             <div class="stat-item">
                 <span class="stat-number" id="category-count">0</span>
@@ -94,6 +95,10 @@
 
             <select id="country-filter" onchange="filterItems()">
                 <option value="">All Countries</option>
+            </select>
+
+            <select id="composer-filter" onchange="filterItems()">
+                <option value="">All Composers</option>
             </select>
 
             <select id="difficulty-filter" onchange="filterItems()">
@@ -302,14 +307,28 @@
             const categories = [...new Set(allTunes.map(t => t.category).filter(Boolean))].sort();
             populateSelect('category-filter', categories);
 
-            // Countries with flags
+            // Countries with flags and counts
+            const countryCounts = allTunes.reduce((acc, t) => {
+                if (t.country) acc[t.country] = (acc[t.country] || 0) + 1;
+                return acc;
+            }, {});
             const countriesWithFlags = [...new Set(allTunes.map(t => t.country).filter(Boolean))]
                 .sort()
                 .map(country => {
                     const flag = allTunes.find(t => t.country === country)?.country_flag || '🌍';
-                    return { value: country, label: `${flag} ${country}` };
+                    return { value: country, label: `${flag} ${country} (${countryCounts[country]})` };
                 });
             populateSelectWithLabels('country-filter', countriesWithFlags);
+
+            // Composers with counts
+            const composerCounts = allTunes.reduce((acc, t) => {
+                if (t.composer) acc[t.composer] = (acc[t.composer] || 0) + 1;
+                return acc;
+            }, {});
+            const composersWithCounts = [...new Set(allTunes.map(t => t.composer).filter(Boolean))]
+                .sort()
+                .map(composer => ({ value: composer, label: `${composer} (${composerCounts[composer]})` }));
+            populateSelectWithLabels('composer-filter', composersWithCounts);
 
             // Tags
             const tags = [...new Set(allTunes.flatMap(t => t.tags || []))].sort();
@@ -383,6 +402,7 @@
             const genreFilter = document.getElementById('genre-filter').value;
             const subgenreFilter = document.getElementById('subgenre-filter').value;
             const moodFilter = document.getElementById('mood-filter').value;
+            const composerFilter = document.getElementById('composer-filter').value;
 
             // Save filter state to URL
             const params = new URLSearchParams(window.location.search);
@@ -402,6 +422,8 @@
             else params.delete('subgenre');
             if (moodFilter) params.set('mood', moodFilter);
             else params.delete('mood');
+            if (composerFilter) params.set('composer', composerFilter);
+            else params.delete('composer');
 
             const newUrl = params.toString() ? `?${params.toString()}` : window.location.pathname;
             window.history.replaceState({}, '', newUrl);
@@ -447,6 +469,9 @@
                 // Mood
                 if (moodFilter && !(tune.moods || []).includes(moodFilter)) return false;
 
+                // Composer
+                if (composerFilter && tune.composer !== composerFilter) return false;
+
                 return true;
             });
 
@@ -470,14 +495,56 @@
         }
 
         function updateVisibleCount() {
-            document.getElementById('total-count').textContent = filteredTunes.length;
-            document.getElementById('no-results').style.display = filteredTunes.length === 0 ? 'block' : 'none';
+            const tuneCount = filteredTunes.length;
+            document.getElementById('total-count').textContent = tuneCount;
 
-            if (currentView === 'table') {
-                document.getElementById('table-container').style.display = filteredTunes.length === 0 ? 'none' : 'block';
+            // Show versions summary when tunes have multiple variants
+            const totalVariants = filteredTunes.reduce((sum, t) => sum + ((t.variants || []).length || 1), 0);
+            const versionsSummary = document.getElementById('versions-summary');
+            if (totalVariants > tuneCount) {
+                versionsSummary.textContent = `(${totalVariants} versions)`;
+                versionsSummary.style.display = 'block';
             } else {
-                document.getElementById('cards-container').style.display = filteredTunes.length === 0 ? 'none' : 'grid';
+                versionsSummary.style.display = 'none';
             }
+
+            document.getElementById('no-results').style.display = tuneCount === 0 ? 'block' : 'none';
+            if (currentView === 'table') {
+                document.getElementById('table-container').style.display = tuneCount === 0 ? 'none' : 'block';
+            } else {
+                document.getElementById('cards-container').style.display = tuneCount === 0 ? 'none' : 'grid';
+            }
+        }
+
+        // ============================================
+        // Variant helpers
+        // ============================================
+        function getVariantLabel(variant) {
+            if (!variant.arrangement && !variant.key_variant) return 'Standard';
+            if (variant.arrangement && variant.key_variant) return `${variant.arrangement} (${variant.key_variant})`;
+            if (variant.arrangement) return variant.arrangement;
+            return `Key: ${variant.key_variant}`;
+        }
+
+        function getVariantSvgPath(tune, variant) {
+            return `tunes/${tune.genre_folder}/${variant.stem}.svg`;
+        }
+
+        function getVariantMidiPath(tune, variant) {
+            return `tunes/${tune.genre_folder}/${variant.stem}.midi`;
+        }
+
+        function buildVariantsHtml(tune) {
+            const variants = tune.variants || [];
+            if (variants.length <= 1) return '';
+            const chips = variants.map(v => {
+                const label = getVariantLabel(v);
+                const svgPath = getVariantSvgPath(tune, v);
+                const midiPath = getVariantMidiPath(tune, v);
+                const title = variants.length > 1 ? `${tune.title} — ${label}` : tune.title;
+                return `<button class="version-chip" onclick="event.stopPropagation(); openLightbox('${svgPath}', '${escapeHtml(title)}')">${escapeHtml(label)}</button>`;
+            }).join('');
+            return `<div class="card-versions"><span class="versions-label">${variants.length} versions:</span>${chips}</div>`;
         }
 
         // ============================================
@@ -561,6 +628,7 @@
                             ${tune.key ? `<span class="card-tag">🎹 ${escapeHtml(tune.key)}</span>` : ''}
                         </div>
                         <div class="card-difficulty">${difficultyHtml}</div>
+                        ${buildVariantsHtml(tune)}
                         <div class="card-actions">${actionsHtml}</div>
                     </div>
                 `;
@@ -721,6 +789,7 @@
             document.getElementById('genre-filter').value = '';
             document.getElementById('subgenre-filter').value = '';
             document.getElementById('mood-filter').value = '';
+            document.getElementById('composer-filter').value = '';
 
             if (updateUI) {
                 document.querySelectorAll('.quick-filter-btn').forEach(btn => btn.classList.remove('active'));
@@ -773,6 +842,7 @@
             if (params.has('genre')) document.getElementById('genre-filter').value = params.get('genre');
             if (params.has('subgenre')) document.getElementById('subgenre-filter').value = params.get('subgenre');
             if (params.has('mood')) document.getElementById('mood-filter').value = params.get('mood');
+            if (params.has('composer')) document.getElementById('composer-filter').value = params.get('composer');
 
             if (params.toString()) {
                 filterItems();
