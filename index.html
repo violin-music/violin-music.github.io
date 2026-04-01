@@ -574,6 +574,7 @@
                     <td>
                         <strong>${escapeHtml(tune.title)}</strong>
                         ${tune.subgenre ? `<br><small style="color: #7f8c8d;">${escapeHtml(tune.subgenre)}</small>` : ''}
+                        ${buildVariantsHtml(tune)}
                     </td>
                     <td>${escapeHtml(tune.composer || '—')}</td>
                     <td>${tune.country ? `${tune.country_flag || '🌍'} ${escapeHtml(tune.country)}` : '—'}</td>
