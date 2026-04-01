@@ -2962,12 +2962,12 @@
       "midi": "tunes/Folk_French/Savez-vous-planter-les-Choux.midi"
     },
     {
-      "title": "Tri martolod (Trad. Breton)",
-      "composer": "Trad.",
-      "country": "",
-      "country_flag": "🌍",
+      "title": "Tri martolod",
+      "composer": "Traditional Breton",
+      "country": "France",
+      "country_flag": "🇫🇷",
       "genre": "Folk",
-      "subgenre": "",
+      "subgenre": "Breton",
       "category": "Folk/French",
       "period": "",
       "type": "",
@@ -2987,13 +2987,13 @@
         }
       ],
       "svg_files": [
-        "Tri-Martolod_page_1.svg",
-        "Tri-Martolod.svg"
+        "Tri-Martolod.svg",
+        "Tri-Martolod_page_1.svg"
       ],
       "midi_files": [
         "Tri-Martolod.midi"
       ],
-      "svg": "tunes/Folk_French/Tri-Martolod_page_1.svg",
+      "svg": "tunes/Folk_French/Tri-Martolod.svg",
       "midi": "tunes/Folk_French/Tri-Martolod.midi"
     },
     {
@@ -3702,6 +3702,7 @@
       ],
       "svg_files": [
         "Swallowtail-Jig_[Easy].svg",
+        "Swallowtail-Jig_[Ornaments].svg",
         "Swallowtail-Jig_[Easy]_(G).svg",
         "Swallowtail-Jig_[Easy]_page_1.svg",
         "Swallowtail-Jig_page_1.svg",
