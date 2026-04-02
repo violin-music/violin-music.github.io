@@ -471,34 +471,38 @@ tbody tr td.links button {
     flex-wrap: wrap;
 }
 
-.card-versions {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-    margin-top: 0.6rem;
+.card-variants {
+    list-style: none;
+    margin: 0.4rem 0 0 0;
+    padding: 0;
 }
 
-.versions-label {
-    font-size: 0.75rem;
-    color: var(--ocean-mid, #666);
-    white-space: nowrap;
+.card-variants li {
+    padding: 0;
 }
 
-.version-chip {
-    padding: 0.2rem 0.55rem;
-    border: 1px solid var(--ocean-bright, #2d8a9f);
-    border-radius: 12px;
-    background: transparent;
+.variant-item {
+    display: block;
+    width: 100%;
+    padding: 0.15rem 0 0.15rem 1rem;
+    background: none;
+    border: none;
+    text-align: left;
+    font-size: 0.8rem;
     color: var(--ocean-bright, #2d8a9f);
-    font-size: 0.75rem;
     cursor: pointer;
-    transition: background 0.15s, color 0.15s;
+    position: relative;
 }
 
-.version-chip:hover {
-    background: var(--ocean-bright, #2d8a9f);
-    color: #fff;
+.variant-item::before {
+    content: '›';
+    position: absolute;
+    left: 0.2rem;
+    color: var(--ocean-mid, #888);
+}
+
+.variant-item:hover {
+    text-decoration: underline;
 }
 
 /* MIDI Controls */

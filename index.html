@@ -537,14 +537,13 @@
         function buildVariantsHtml(tune) {
             const variants = tune.variants || [];
             if (variants.length <= 1) return '';
-            const chips = variants.map(v => {
+            const items = variants.map(v => {
                 const label = getVariantLabel(v);
                 const svgPath = getVariantSvgPath(tune, v);
-                const midiPath = getVariantMidiPath(tune, v);
-                const title = variants.length > 1 ? `${tune.title} — ${label}` : tune.title;
-                return `<button class="version-chip" onclick="event.stopPropagation(); openLightbox('${svgPath}', '${escapeHtml(title)}')">${escapeHtml(label)}</button>`;
+                const title = `${tune.title} — ${label}`;
+                return `<li><button class="variant-item" onclick="event.stopPropagation(); openLightbox('${svgPath}', '${escapeHtml(title)}')">${escapeHtml(label)}</button></li>`;
             }).join('');
-            return `<div class="card-versions"><span class="versions-label">${variants.length} versions:</span>${chips}</div>`;
+            return `<ul class="card-variants">${items}</ul>`;
         }
 
         // ============================================
