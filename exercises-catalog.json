@@ -1,0 +1,505 @@
+{
+  "generated": "2026-07-16T03:22:22.797Z",
+  "exercises": [
+    {
+      "id": "major-arpeggios-circle-of-fifths",
+      "file": "exercises/Major-Arpeggios_Circle-of-Fifths.ly",
+      "scoreIndex": 0,
+      "title": "Major Arpeggios — Circle of Fifths",
+      "category": "Arpeggios",
+      "bars": 12,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": true,
+      "bpm": 60,
+      "tags": [
+        "circle-of-fifths",
+        "daily-routine"
+      ]
+    },
+    {
+      "id": "minor-arpeggios-circle-of-fifths",
+      "file": "exercises/Minor-Arpeggios_Circle-of-Fifths.ly",
+      "scoreIndex": 0,
+      "title": "Minor Arpeggios — Circle of Fifths",
+      "category": "Arpeggios",
+      "bars": 12,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": true,
+      "bpm": 60,
+      "tags": [
+        "circle-of-fifths",
+        "daily-routine"
+      ]
+    },
+    {
+      "id": "major-scales-circle-of-fifths",
+      "file": "exercises/Major-Scales_Circle-of-Fifths.ly",
+      "scoreIndex": 0,
+      "title": "Major Scales — Circle of Fifths",
+      "category": "Scales",
+      "bars": 24,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": true,
+      "bpm": 60,
+      "tags": [
+        "circle-of-fifths",
+        "daily-routine"
+      ]
+    },
+    {
+      "id": "dominant-7th-arpeggios-circle-of-fourths",
+      "file": "exercises/Dominant-7th-Arpeggios_Circle-of-Fourths.ly",
+      "scoreIndex": 0,
+      "title": "Dominant 7th Arpeggios — Circle of Fourths",
+      "category": "Arpeggios",
+      "bars": 12,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": true,
+      "bpm": 60,
+      "tags": [
+        "circle-of-fourths",
+        "jazz"
+      ]
+    },
+    {
+      "id": "minuet-in-g-petzold",
+      "file": "exercises/Minuet-in-G_Petzold.ly",
+      "scoreIndex": 0,
+      "title": "Minuet in G (Petzold, attr. Bach)",
+      "category": "Tunes",
+      "bars": 8,
+      "timeSig": "3/4",
+      "key": "G",
+      "hasChords": true,
+      "bpm": 104,
+      "tags": [
+        "baroque",
+        "3/4"
+      ]
+    },
+    {
+      "id": "ode-to-joy-beethoven-d",
+      "file": "exercises/Ode-to-Joy_Beethoven_(D).ly",
+      "scoreIndex": 0,
+      "title": "Ode to Joy (Beethoven)",
+      "category": "Tunes",
+      "bars": 8,
+      "timeSig": "4/4",
+      "key": "D",
+      "hasChords": true,
+      "bpm": 100,
+      "tags": [
+        "classical",
+        "beginner"
+      ]
+    },
+    {
+      "id": "charlie-parker-minor-lick",
+      "file": "exercises/Charlie-Parker-Minor-Lick.ly",
+      "scoreIndex": 0,
+      "title": "Charlie Parker Minor Lick",
+      "subtitle": "Around the Circle of Fourths",
+      "category": "Licks",
+      "bars": 12,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": true,
+      "tags": [
+        "jazz",
+        "circle-of-fourths"
+      ]
+    },
+    {
+      "id": "bluegrass-e7-lick",
+      "file": "exercises/Bluegrass_E7-Lick.ly",
+      "scoreIndex": 0,
+      "title": "Bluegrass E7 Lick",
+      "category": "Licks",
+      "bars": 4,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": false,
+      "tags": [
+        "bluegrass"
+      ]
+    },
+    {
+      "id": "blues-mineur-guitar-lick",
+      "file": "exercises/blues-mineur-guitar-lick.ly",
+      "scoreIndex": 0,
+      "title": "Minor Blues Lick",
+      "category": "Licks",
+      "bars": 8,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": true,
+      "bpm": 100,
+      "tags": [
+        "blues"
+      ]
+    },
+    {
+      "id": "practice-arpeggios-major-7th-arpegios-circle-of-fifth-s0",
+      "file": "exercises/Practice_Arpeggios_Major-7th_Arpegios_-Circle_of_Fifth.ly",
+      "scoreIndex": 0,
+      "title": "Major 7th Arpeggios — Circle of Fourths (First Position)",
+      "category": "Arpeggios",
+      "bars": 12,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": true,
+      "tags": [
+        "circle-of-fourths"
+      ]
+    },
+    {
+      "id": "practice-arpeggios-major-7th-arpegios-circle-of-fifth-s1",
+      "file": "exercises/Practice_Arpeggios_Major-7th_Arpegios_-Circle_of_Fifth.ly",
+      "scoreIndex": 1,
+      "title": "Major 7th Arpeggios — Circle of Fourths (Third Position)",
+      "category": "Arpeggios",
+      "bars": 5,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": true,
+      "tags": [
+        "circle-of-fourths"
+      ]
+    },
+    {
+      "id": "practice-arpeggios-major-7th-arpegios-circle-of-fifth-s3",
+      "file": "exercises/Practice_Arpeggios_Major-7th_Arpegios_-Circle_of_Fifth.ly",
+      "scoreIndex": 3,
+      "title": "Practice Arpeggios — Schubert Serenade",
+      "category": "Arpeggios",
+      "bars": 6,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": false,
+      "tags": [
+        "circle-of-fourths"
+      ]
+    },
+    {
+      "id": "flesch-arpeggios-s0",
+      "file": "exercises/Flesch-Arpeggios.ly",
+      "scoreIndex": 0,
+      "title": "Flesch One-Octave Arpeggios — Part 1",
+      "category": "Arpeggios",
+      "bars": 5,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": false,
+      "tags": [
+        "flesch"
+      ]
+    },
+    {
+      "id": "flesch-arpeggios-s1",
+      "file": "exercises/Flesch-Arpeggios.ly",
+      "scoreIndex": 1,
+      "title": "Flesch One-Octave Arpeggios — Part 2",
+      "category": "Arpeggios",
+      "bars": 5,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": false,
+      "tags": [
+        "flesch"
+      ]
+    },
+    {
+      "id": "arpeggio-cm",
+      "file": "exercises/arpeggio_Cm.ly",
+      "scoreIndex": 0,
+      "title": "C Minor Arpeggio",
+      "category": "Arpeggios",
+      "bars": 2,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": true,
+      "bpm": 100,
+      "tags": []
+    },
+    {
+      "id": "arp-waterfall",
+      "file": "exercises/arp_waterfall.ly",
+      "scoreIndex": 0,
+      "title": "Arpeggio Waterfall",
+      "category": "Arpeggios",
+      "bars": 3,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": true,
+      "tags": []
+    },
+    {
+      "id": "a-major-pentatonic-7",
+      "file": "exercises/A-major-pentatonic-7.ly",
+      "scoreIndex": 0,
+      "title": "A Major Pentatonic",
+      "category": "Scales",
+      "bars": 9,
+      "timeSig": "4/4",
+      "key": "A",
+      "hasChords": false,
+      "tags": []
+    },
+    {
+      "id": "violin-spanish-gypsy-scale",
+      "file": "exercises/Violin_Spanish-Gypsy-Scale.ly",
+      "scoreIndex": 0,
+      "title": "Spanish Gypsy Scale",
+      "category": "Scales",
+      "bars": 15,
+      "timeSig": "2/4",
+      "key": "G",
+      "hasChords": false,
+      "bpm": 88,
+      "tags": [
+        "gypsy"
+      ]
+    },
+    {
+      "id": "violin-scales-b-harmonic-minor-descending-b-major-2-octaves-ascending",
+      "file": "exercises/Violin-Scales-B-Harmonic-Minor-descending-B-Major-2-octaves-ascending.ly",
+      "scoreIndex": 0,
+      "title": "Scale & Arpeggio in B",
+      "category": "Scales",
+      "bars": 6,
+      "timeSig": "2/4",
+      "key": "D",
+      "hasChords": false,
+      "tags": []
+    },
+    {
+      "id": "jig-rhythm",
+      "file": "exercises/Jig-Rhythm.ly",
+      "scoreIndex": 0,
+      "title": "Jig Rhythm",
+      "category": "Rhythm",
+      "bars": 2,
+      "timeSig": "6/8",
+      "key": "C",
+      "hasChords": true,
+      "bpm": 100,
+      "tags": [
+        "jig",
+        "irish"
+      ]
+    },
+    {
+      "id": "jig-pulse-10-minute-daily-routine-s0",
+      "file": "exercises/Jig-Pulse-10-Minute-Daily-Routine.ly",
+      "scoreIndex": 0,
+      "title": "Jig Pulse Daily Routine — Part 1",
+      "category": "Rhythm",
+      "bars": 4,
+      "timeSig": "6/8",
+      "key": "C",
+      "hasChords": false,
+      "bpm": 120,
+      "tags": [
+        "jig",
+        "irish",
+        "routine"
+      ]
+    },
+    {
+      "id": "jig-pulse-10-minute-daily-routine-s1",
+      "file": "exercises/Jig-Pulse-10-Minute-Daily-Routine.ly",
+      "scoreIndex": 1,
+      "title": "Jig Pulse Daily Routine — Part 2",
+      "category": "Rhythm",
+      "bars": 4,
+      "timeSig": "6/8",
+      "key": "C",
+      "hasChords": false,
+      "bpm": 120,
+      "tags": [
+        "jig",
+        "irish",
+        "routine"
+      ]
+    },
+    {
+      "id": "jig-pulse-10-minute-daily-routine-s2",
+      "file": "exercises/Jig-Pulse-10-Minute-Daily-Routine.ly",
+      "scoreIndex": 2,
+      "title": "Jig Pulse Daily Routine — Part 3",
+      "category": "Rhythm",
+      "bars": 2,
+      "timeSig": "12/8",
+      "key": "C",
+      "hasChords": false,
+      "bpm": 120,
+      "tags": [
+        "jig",
+        "irish",
+        "routine"
+      ]
+    },
+    {
+      "id": "jig-pulse-10-minute-daily-routine-s3",
+      "file": "exercises/Jig-Pulse-10-Minute-Daily-Routine.ly",
+      "scoreIndex": 3,
+      "title": "Jig Pulse Daily Routine — Part 4",
+      "category": "Rhythm",
+      "bars": 4,
+      "timeSig": "6/8",
+      "key": "C",
+      "hasChords": false,
+      "bpm": 84,
+      "tags": [
+        "jig",
+        "irish",
+        "routine"
+      ]
+    },
+    {
+      "id": "jig-pulse-10-minute-daily-routine-s4",
+      "file": "exercises/Jig-Pulse-10-Minute-Daily-Routine.ly",
+      "scoreIndex": 4,
+      "title": "Jig Pulse Daily Routine — Part 5",
+      "category": "Rhythm",
+      "bars": 4,
+      "timeSig": "6/8",
+      "key": "C",
+      "hasChords": false,
+      "bpm": 84,
+      "tags": [
+        "jig",
+        "irish",
+        "routine"
+      ]
+    },
+    {
+      "id": "jig-pulse-10-minute-daily-routine-s5",
+      "file": "exercises/Jig-Pulse-10-Minute-Daily-Routine.ly",
+      "scoreIndex": 5,
+      "title": "Jig Pulse Daily Routine — Part 6",
+      "category": "Rhythm",
+      "bars": 4,
+      "timeSig": "6/8",
+      "key": "D",
+      "hasChords": false,
+      "bpm": 84,
+      "tags": [
+        "jig",
+        "irish",
+        "routine"
+      ]
+    },
+    {
+      "id": "jig-pulse-10-minute-daily-routine-s6",
+      "file": "exercises/Jig-Pulse-10-Minute-Daily-Routine.ly",
+      "scoreIndex": 6,
+      "title": "Jig Pulse Daily Routine — Part 7",
+      "category": "Rhythm",
+      "bars": 4,
+      "timeSig": "6/8",
+      "key": "C",
+      "hasChords": false,
+      "bpm": 84,
+      "tags": [
+        "jig",
+        "irish",
+        "routine"
+      ]
+    },
+    {
+      "id": "jig-pulse-10-minute-daily-routine-s7",
+      "file": "exercises/Jig-Pulse-10-Minute-Daily-Routine.ly",
+      "scoreIndex": 7,
+      "title": "Jig Pulse Daily Routine — Part 8",
+      "category": "Rhythm",
+      "bars": 2,
+      "timeSig": "6/8",
+      "key": "D",
+      "hasChords": false,
+      "bpm": 84,
+      "tags": [
+        "jig",
+        "irish",
+        "routine"
+      ]
+    },
+    {
+      "id": "practice-double-stops",
+      "file": "exercises/practice-double-stops.ly",
+      "scoreIndex": 0,
+      "title": "Practice Double Stops",
+      "subtitle": "https://youtube.com/shorts/QYJfU_ZCEq0",
+      "category": "Technique",
+      "bars": 6,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": false,
+      "tags": [
+        "double-stops"
+      ]
+    },
+    {
+      "id": "practice-shifts-s0",
+      "file": "exercises/Practice_Shifts.ly",
+      "scoreIndex": 0,
+      "title": "Shifting Practice — Part 1",
+      "category": "Technique",
+      "bars": 4,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": false,
+      "bpm": 40,
+      "tags": [
+        "shifting"
+      ]
+    },
+    {
+      "id": "practice-shifts-s1",
+      "file": "exercises/Practice_Shifts.ly",
+      "scoreIndex": 1,
+      "title": "Shifting Practice — Part 2",
+      "category": "Technique",
+      "bars": 6,
+      "timeSig": "2/4",
+      "key": "C",
+      "hasChords": false,
+      "tags": [
+        "shifting"
+      ]
+    },
+    {
+      "id": "practice-shifts-s2",
+      "file": "exercises/Practice_Shifts.ly",
+      "scoreIndex": 2,
+      "title": "Shifting Practice — Part 3",
+      "category": "Technique",
+      "bars": 4,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": false,
+      "tags": [
+        "shifting"
+      ]
+    },
+    {
+      "id": "practice-shifts-s3",
+      "file": "exercises/Practice_Shifts.ly",
+      "scoreIndex": 3,
+      "title": "Shifting Practice — Part 4",
+      "category": "Technique",
+      "bars": 4,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": false,
+      "bpm": 40,
+      "tags": [
+        "shifting"
+      ]
+    }
+  ]
+}
