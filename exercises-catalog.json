@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T03:22:22.797Z",
+  "generated": "2026-07-16T12:17:55.976Z",
   "exercises": [
     {
       "id": "major-arpeggios-circle-of-fifths",
@@ -302,7 +302,7 @@
       "timeSig": "6/8",
       "key": "C",
       "hasChords": false,
-      "bpm": 120,
+      "bpm": 60,
       "tags": [
         "jig",
         "irish",
@@ -319,7 +319,7 @@
       "timeSig": "6/8",
       "key": "C",
       "hasChords": false,
-      "bpm": 120,
+      "bpm": 60,
       "tags": [
         "jig",
         "irish",
@@ -336,7 +336,7 @@
       "timeSig": "12/8",
       "key": "C",
       "hasChords": false,
-      "bpm": 120,
+      "bpm": 60,
       "tags": [
         "jig",
         "irish",
@@ -353,7 +353,7 @@
       "timeSig": "6/8",
       "key": "C",
       "hasChords": false,
-      "bpm": 84,
+      "bpm": 126,
       "tags": [
         "jig",
         "irish",
@@ -370,7 +370,7 @@
       "timeSig": "6/8",
       "key": "C",
       "hasChords": false,
-      "bpm": 84,
+      "bpm": 126,
       "tags": [
         "jig",
         "irish",
@@ -387,7 +387,7 @@
       "timeSig": "6/8",
       "key": "D",
       "hasChords": false,
-      "bpm": 84,
+      "bpm": 126,
       "tags": [
         "jig",
         "irish",
@@ -404,7 +404,7 @@
       "timeSig": "6/8",
       "key": "C",
       "hasChords": false,
-      "bpm": 84,
+      "bpm": 126,
       "tags": [
         "jig",
         "irish",
@@ -421,7 +421,7 @@
       "timeSig": "6/8",
       "key": "D",
       "hasChords": false,
-      "bpm": 84,
+      "bpm": 126,
       "tags": [
         "jig",
         "irish",

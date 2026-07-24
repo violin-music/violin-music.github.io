@@ -121,7 +121,7 @@ exercise_Slow_Practice_C = {
 % F — Generic jig phrase (application)
 exercise_phrase_generic = {
   \time 6/8
-  \tempo 1. = 84
+  \tempo 4. = 84
   \key d \major
   d'8. e'16 fs'8   g'8. a'16 b'8 |
   a'8. g'16 fs'8   e'8. d'16 d'8
@@ -131,7 +131,7 @@ exercise_phrase_generic = {
 % A — Open-string pulse (D string)
 exercise_open_string_d = {
   \time 6/8
-  \tempo 1. = 84
+  \tempo 4. = 84
   % 4 bars of [8. 16 8] ×2 per bar on open D
   d'8. d'16 d'8  d'8. d'16 d'8 |
   d'8. d'16 d'8  d'8. d'16 d'8 |
@@ -149,7 +149,7 @@ exercise_open_string_d = {
 % B — Metronome on 1 & 4
 exercise_clicks_one_four = {
   \time 6/8
-  \tempo 1. = 84
+  \tempo 4. = 84
   % Bars one–two: play only on the “clicks” (beats 1 & 4).
   d'4.\accent r4. |
   d'4.\accent r4. |
@@ -168,7 +168,7 @@ exercise_clicks_one_four = {
 % C — D major scale in jig rhythm
 exercise_scale_d_jig = {
   \time 6/8
-  \tempo 1. = 84
+  \tempo 4. = 84
   \key d \major
   d'8. d'16 e'8   fs'8. fs'16 g'8 |
   a'8. a'16 b'8   cs''8. cs''16 d''8 |
@@ -186,7 +186,7 @@ exercise_scale_d_jig = {
 % D — Bow-stop & micro-lift
 exercise_bow_stop_lift = {
   \time 6/8
-  \tempo 1. = 84
+  \tempo 4. = 84
   d'8.-\tenuto d'16-\staccatissimo d'8  d'8.-\tenuto d'16-\staccatissimo d'8 |
   d'8.-\tenuto d'16-\staccatissimo d'8  d'8.-\tenuto d'16-\staccatissimo d'8 |
   d'8.\< d'16 d'8\!   d'8.\< d'16 d'8\! |

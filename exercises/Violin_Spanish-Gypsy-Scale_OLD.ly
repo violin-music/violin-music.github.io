@@ -1,6 +1,8 @@
 \version "2.24"
 \language "english"
-
+\paper {
+  page-breaking = #ly:one-page-breaking
+}
 \header {
   title = "Spanish Gypsy: Scale & Arpeggio"
   tagline = ""
@@ -47,9 +49,7 @@ music = \relative b'' {
 
 
 scaleBPhrygianDominantDesc = \relative b'' {
-
   \key e \minor
-
   \mark \markup \box "Scale: B Phrygian Dominant (descending)"
 
   % One-octave descending: B A G F# | E D# C B
