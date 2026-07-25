@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T12:17:55.976Z",
+  "generated": "2026-07-25T00:30:36.571Z",
   "exercises": [
     {
       "id": "major-arpeggios-circle-of-fifths",
@@ -250,16 +250,16 @@
       "tags": []
     },
     {
-      "id": "violin-spanish-gypsy-scale",
-      "file": "exercises/Violin_Spanish-Gypsy-Scale.ly",
+      "id": "spanish-gypsy-scale-arpeggio",
+      "file": "exercises/Spanish-Gypsy-Scale-Arpeggio.ly",
       "scoreIndex": 0,
-      "title": "Spanish Gypsy Scale",
+      "title": "Spanish Gypsy Scale & Arpeggio",
+      "subtitle": "Complete 2-Octave Ascending & Descending Exercise",
       "category": "Scales",
-      "bars": 15,
-      "timeSig": "2/4",
-      "key": "G",
-      "hasChords": false,
-      "bpm": 88,
+      "bars": 12,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": true,
       "tags": [
         "gypsy"
       ]
