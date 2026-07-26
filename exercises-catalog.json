@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T00:30:36.571Z",
+  "generated": "2026-07-25T20:42:02.872Z",
   "exercises": [
     {
       "id": "major-arpeggios-circle-of-fifths",
@@ -497,6 +497,20 @@
       "key": "C",
       "hasChords": false,
       "bpm": 40,
+      "tags": [
+        "shifting"
+      ]
+    },
+    {
+      "id": "broken-thirds-from-1st-to-5th-position",
+      "file": "exercises/Broken-Thirds-from-1st-to-5th-Position.ly",
+      "scoreIndex": 0,
+      "title": "Broken Thirds (from 1st to 5th Position)",
+      "category": "Technique",
+      "bars": 4,
+      "timeSig": "4/4",
+      "key": "C",
+      "hasChords": false,
       "tags": [
         "shifting"
       ]

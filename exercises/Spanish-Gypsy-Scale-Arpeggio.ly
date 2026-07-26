@@ -11,13 +11,14 @@
   tagline = ##f
 }
 
-% Realigned harmonies to support both directions of the scale
+% Harmonies follow the scale's tonic: bar 1 is B C D# E (B Phrygian dominant),
+% so the B chord sits under the tonic bar and C is the flat-II answer.
 harmonies = \chordmode {
   % Section 1: The Scale (Ascending)
-  c1 | b1 | c1 | b1 |
-  
+  b1 | c1 | b1 | c1
+
   % Section 1: The Scale (Descending)
-  c1 | b1 | c1 | b1 |
+  b1 | c1 | b1 | c1
   
   % Section 2: The Arpeggio stays firmly on B major
   b1 | b1 | b1 | b1 |
