@@ -2538,10 +2538,6 @@
           "stem": "Kreutzer_Etude-No.-2"
         },
         {
-          "filename": "Position-Markup-Styles-Comparison.ly",
-          "stem": "Position-Markup-Styles-Comparison"
-        },
-        {
           "filename": "Kreutzer_Etude-No.-2_(A).ly",
           "stem": "Kreutzer_Etude-No.-2_(A)",
           "key_variant": "A"
@@ -2550,24 +2546,20 @@
       "svg_files": [
         "Kreutzer_Etude-No.-2_(A)_page_1.svg",
         "Kreutzer_Etude-No.-2_page_1.svg",
-        "Position-Markup-Styles-Comparison_page_1.svg",
         "Kreutzer_Etude-No.-2_[Practice]_page_1.svg",
         "Kreutzer_Etude-No.-2_[Shifting]_page_1.svg",
         "Kreutzer_Etude-No.-2_(A).svg",
-        "Position-Markup-Styles-Comparison-1.svg",
         "Kreutzer_Etude-No.-2_[Shifting].svg",
-        "Position-Markup-Styles-Comparison-2.svg",
         "Kreutzer_Etude-No.-2_[Practice].svg",
         "Kreutzer_Etude-No.-2.svg"
       ],
       "midi_files": [
-        "Position-Markup-Styles-Comparison.midi",
         "Kreutzer_Etude-No.-2_[Shifting].midi",
         "Kreutzer_Etude-No.-2_(A).midi",
         "Kreutzer_Etude-No.-2.midi"
       ],
       "svg": "tunes/Etudes/Kreutzer_Etude-No.-2_%28A%29_page_1.svg",
-      "midi": "tunes/Etudes/Position-Markup-Styles-Comparison.midi"
+      "midi": "tunes/Etudes/Kreutzer_Etude-No.-2_%5BShifting%5D.midi"
     },
     {
       "title": "L'Air Mignonne",
