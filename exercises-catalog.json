@@ -1,6 +1,25 @@
 {
-  "generated": "2026-07-29T12:26:02.551Z",
+  "generated": "2026-08-02T17:16:23.827Z",
   "exercises": [
+    {
+      "id": "merry-go-round-of-life",
+      "file": "exercises/Merry-go-round_of_Life.ly",
+      "scoreIndex": 0,
+      "title": "Merry-Go-Round of Life",
+      "subtitle": "from Howl's Moving Castle",
+      "category": "Tunes",
+      "bars": 20,
+      "timeSig": "3/4",
+      "key": "Bb",
+      "hasChords": true,
+      "bpm": 132,
+      "tags": [
+        "soundtrack",
+        "waltz",
+        "3/4",
+        "hisaishi"
+      ]
+    },
     {
       "id": "major-arpeggios-circle-of-fifths",
       "file": "exercises/Major-Arpeggios_Circle-of-Fifths.ly",
@@ -505,12 +524,13 @@
       "id": "broken-thirds-from-1st-to-5th-position",
       "file": "exercises/Broken-Thirds-from-1st-to-5th-Position.ly",
       "scoreIndex": 0,
-      "title": "Broken Thirds (from 1st to 5th Position)",
+      "title": "Broken Thirds",
+      "subtitle": "From 1 st  to  5 th  Position",
       "category": "Technique",
       "bars": 4,
       "timeSig": "4/4",
       "key": "C",
-      "hasChords": false,
+      "hasChords": true,
       "tags": [
         "shifting"
       ]
