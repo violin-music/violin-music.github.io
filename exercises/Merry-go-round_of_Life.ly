@@ -9,7 +9,7 @@
 }
 
 global = {
-  \key bf \major
+  \key g \minor
   \time 3/4
   \tempo "Vivace" 4 = 132
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T17:27:12.920Z",
+  "generated": "2026-08-02T21:17:46.126Z",
   "exercises": [
     {
       "id": "merry-go-round-of-life",
@@ -10,7 +10,7 @@
       "category": "Tunes",
       "bars": 20,
       "timeSig": "3/4",
-      "key": "Bb",
+      "key": "Gm",
       "hasChords": true,
       "bpm": 132,
       "backing": "waltz",
@@ -292,7 +292,7 @@
       "category": "Scales",
       "bars": 6,
       "timeSig": "2/4",
-      "key": "D",
+      "key": "Bm",
       "hasChords": false,
       "tags": []
     },
