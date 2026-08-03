@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T21:17:46.126Z",
+  "generated": "2026-08-03T02:29:43.366Z",
   "exercises": [
     {
       "id": "merry-go-round-of-life",
@@ -13,7 +13,7 @@
       "key": "Gm",
       "hasChords": true,
       "bpm": 132,
-      "backing": "waltz",
+      "backing": "orchestra",
       "tags": [
         "soundtrack",
         "waltz",
