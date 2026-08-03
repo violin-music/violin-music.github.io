@@ -2,61 +2,13 @@
 \language "english"
 
 \header {
-  title = "Broken Thirds"
-  subtitle = \markup {
-    "From" \concat { "1" \super "st" } " to " \concat { "5" \super "th" } " Position"
-  }
+  title = "Broken Thirds (from 1st to 5th Position)"
 }
-
-chordNames = \chordmode {
-  | c2 d2:m
-  | e2:m f2
-  | g2 d2:m
-  | c2  b2:dim 
-}
-
-broken_Thirds = {
-      \relative c'' {
-
-      <c\glide-2>4  <e-2>4
-
-      d-1 f-3
-
-      <e\glide-2>4  <g-2>4
-
-      f-1 a-3
-
-      <g\glide-2>4  <e-2>4
-
-      f d
-
-      <e\glide-2>4  <c-2>4
-
-      d b
-    }
-}
-
-\score {
-  <<
-    \new ChordNames { \chordNames }
-
-    \new Staff {
-      \broken_Thirds
-    }
-  >>
-  \layout {
-    ragged-right = ##f
-  }
-}
-
-
-
 
 \score {
   \new Staff {
-
-  }
-  \layout {
-    ragged-right = ##f
+    \relative c'' {
+      c4-2 e-2 d f-3 e g-2 f-1 a-3 g e-2 f d e c-2 d b  
+    }
   }
 }
