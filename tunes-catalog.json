@@ -883,8 +883,12 @@
           "stem": "La-Plus-que-Lente_(Marc)"
         }
       ],
-      "svg_files": [],
-      "midi_files": []
+      "svg_files": [
+        "La-Plus-que-Lente_(Marc)-1.svg",
+        "La-Plus-que-Lente_(Marc)-2.svg"
+      ],
+      "midi_files": [],
+      "svg": "tunes/Classical/La-Plus-que-Lente_%28Marc%29-1.svg"
     },
     {
       "title": "Can She Excuse My Wrongs",
