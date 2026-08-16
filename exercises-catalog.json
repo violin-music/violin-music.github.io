@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T02:59:10.893Z",
+  "generated": "2026-08-16T16:22:19.589Z",
   "exercises": [
     {
       "id": "merry-go-round-of-life",
@@ -525,12 +525,13 @@
       "id": "broken-thirds-from-1st-to-5th-position",
       "file": "exercises/Broken-Thirds-from-1st-to-5th-Position.ly",
       "scoreIndex": 0,
-      "title": "Broken Thirds (from 1st to 5th Position)",
+      "title": "Broken Thirds",
+      "subtitle": "From 1 st  to  5 th  Position",
       "category": "Technique",
       "bars": 4,
       "timeSig": "4/4",
       "key": "C",
-      "hasChords": false,
+      "hasChords": true,
       "tags": [
         "shifting"
       ]
