@@ -1140,20 +1140,10 @@
           "stem": "Berceuse_Opus_16_for_Viola__Harp_"
         }
       ],
-      "svg_files": [
-        "Berceuse_Opus_16_for_Viola__Harp_-1.svg",
-        "Berceuse_Opus_16_for_Viola__Harp_-6.svg",
-        "Berceuse_Violin-1.svg",
-        "Berceuse_Opus_16_for_Viola__Harp_-5.svg",
-        "Berceuse_Opus_16_for_Viola__Harp_-3.svg",
-        "Berceuse_Opus_16_for_Viola__Harp_-4.svg",
-        "Berceuse_Violin-2.svg",
-        "Berceuse_Opus_16_for_Viola__Harp_-2.svg"
-      ],
+      "svg_files": [],
       "midi_files": [
         "Berceuse_Opus_16_for_Viola__Harp_.midi"
       ],
-      "svg": "tunes/Classical/Berceuse_Opus_16_for_Viola__Harp_-1.svg",
       "midi": "tunes/Classical/Berceuse_Opus_16_for_Viola__Harp_.midi"
     },
     {
