@@ -1462,12 +1462,13 @@
         }
       ],
       "svg_files": [
+        "La-Campanella.svg",
         "La-Campanella_page_1.svg"
       ],
       "midi_files": [
         "La-Campanella.midi"
       ],
-      "svg": "tunes/Classical/La-Campanella_page_1.svg",
+      "svg": "tunes/Classical/La-Campanella.svg",
       "midi": "tunes/Classical/La-Campanella.midi"
     },
     {
