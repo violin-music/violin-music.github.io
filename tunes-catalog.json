@@ -53,13 +53,21 @@
         }
       ],
       "svg_files": [
+        "Carol-of-the-bells_SATB-1.svg",
         "Carol-of-the-bells_SATB_page_1.svg",
+        "Carol-of-the-bells_SATB-2.svg",
         "Carol-of-the-bells_SATB_page_2.svg",
+        "Carol-of-the-bells_SATB-3.svg",
         "Carol-of-the-bells_SATB_page_3.svg",
+        "Carol-of-the-bells_SATB-4.svg",
         "Carol-of-the-bells_SATB_page_4.svg",
+        "Carol-of-the-bells_SATB-5.svg",
         "Carol-of-the-bells_SATB_page_5.svg",
+        "Carol-of-the-bells_SATB-6.svg",
         "Carol-of-the-bells_SATB_page_6.svg",
+        "Carol-of-the-bells_SATB-7.svg",
         "Carol-of-the-bells_SATB_page_7.svg",
+        "Carol-of-the-bells_SATB-8.svg",
         "Carol-of-the-bells_Violin_(Am)_page_1.svg",
         "Carol-of-the-bells_Violin_(Dm)_page_1.svg",
         "Carol-of-the-bells_Violin_(Em)_page_1.svg",
@@ -75,7 +83,7 @@
         "Carol-of-the-bells_Violin_(Gm).midi",
         "Practice-Carol-of-the-Bells.midi"
       ],
-      "svg": "tunes/Christmas/Carol-of-the-bells_SATB_page_1.svg",
+      "svg": "tunes/Christmas/Carol-of-the-bells_SATB-1.svg",
       "midi": "tunes/Christmas/Carol-of-the-bells_SATB-full.midi"
     },
     {
@@ -454,6 +462,8 @@
       ],
       "svg_files": [
         "The-First-Noel_page_1.svg",
+        "The-First-Noel-16.svg",
+        "The-First-Noel-17.svg",
         "The-First-Noel_Duet_page_1.svg"
       ],
       "midi_files": [
