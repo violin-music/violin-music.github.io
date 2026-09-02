@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-19T13:02:52.278Z",
+  "generated": "2026-09-02T02:10:49.493Z",
   "exercises": [
     {
       "id": "merry-go-round-of-life",
@@ -512,7 +512,7 @@
       "scoreIndex": 3,
       "title": "Shifting Practice — Part 4",
       "category": "Technique",
-      "bars": 4,
+      "bars": 5,
       "timeSig": "4/4",
       "key": "C",
       "hasChords": false,
