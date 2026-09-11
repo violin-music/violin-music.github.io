@@ -15,11 +15,12 @@ global = {
 }
 
 chordNames = \chordmode {
-  g2.:m   |  g2.:m     |  d2.    |  g2.:m7     |
-  g2.:m   |  c2.:m9    |  d2.:7  |  g2.:m7     | 
-  g2.:m   |  c2.:m9    |  f2.:7  |  bf2.:maj7  | 
-  d2.:m   |  e2.:m7    |  a2.:7  |  bf2.:maj7  | 
-  d2.:m   |  bf2.:maj7 |  a2.:7  |  d2.:m      | 
+ %1234567890|1234567890|1234567890|1234567890|
+  g2.:m     | g2.:m    | d2.      | g2.:m7   |
+  g2.:m     | c2.:m9   | d2.:7    | g2.:m7   | 
+  g2.:m     | c2.:m9   | f2.:7    | bf2.:maj7| 
+  d2.:m     | e2.:m7   | a2.:7    | bf2.:maj7| 
+  d2.:m     | bf2.:maj7| a2.:7    | d2.:m    | 
 }
 
 melody = \relative c' {
@@ -28,20 +29,20 @@ melody = \relative c' {
   R2. R2. R2. R2.
   \break
 
-  |  d4 g4( bf4) 
-  |  d2 d4
+  |  d4_2 g4-1( bf4-1) 
+  |  d2-3 d4
   |  c4 bf4 a4
-  |  bf2.
+  |  bf2.-3
   \break
   
-  |  g4 bf d
+  |  g4-1 bf d
   |  g2 g4
   |  g4 f ef4 
   | f2.-3
   
   \break
   
-  | a,4 ( d4 f4) |
+  | a,4_2 ( d4 f4) |
   | a2 g4
   | f4 e4 f4 
   | g2( f4)
