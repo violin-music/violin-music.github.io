@@ -655,6 +655,14 @@
           "arrangement": "Practice"
         },
         {
+          "filename": "bwv1001-presto-practice-sections-v3.ly",
+          "stem": "bwv1001-presto-practice-sections-v3"
+        },
+        {
+          "filename": "bwv1001-presto-practice-sections.ly",
+          "stem": "bwv1001-presto-practice-sections"
+        },
+        {
           "filename": "Annotation-Styles-Example.ly",
           "stem": "Annotation-Styles-Example"
         }
@@ -669,7 +677,12 @@
         "Bach_Violin-Sonata-No.1_4_Presto_[Practice]-3.svg",
         "Bach_Violin-Sonata-No.1_4_Presto_[Practice]-4.svg",
         "Bach_Violin-Sonata-No.1_4_Presto_[Practice]-5.svg",
-        "Bach_Violin-Sonata-No.1_4_Presto_[Practice]-6.svg"
+        "Bach_Violin-Sonata-No.1_4_Presto_[Practice]-6.svg",
+        "bwv1001-presto-practice-sections-v3-1.svg",
+        "bwv1001-presto-practice-sections-v3-2.svg",
+        "bwv1001-presto-practice-sections-v3-3.svg",
+        "bwv1001-presto-practice-sections-v3-4.svg",
+        "bwv1001-presto-practice-sections-v3-5.svg"
       ],
       "midi_files": [
         "Bach_Violin-Sonata-No.1_4_Presto.midi",
@@ -8452,12 +8465,17 @@
           "arrangement": "Strings"
         },
         {
+          "filename": "Practice-Theme-from-Schindler-s-List.ly",
+          "stem": "Practice-Theme-from-Schindler-s-List"
+        },
+        {
           "filename": "Schindlers_List_[Quartet].ly",
           "stem": "Schindlers_List_[Quartet]",
           "arrangement": "Quartet"
         }
       ],
       "svg_files": [
+        "Practice-Theme-from-Schindler-s-List.svg",
         "Schindlers_List.svg",
         "Schindlers_List_Theme_Solo_Violin_page_1.svg",
         "Schindlers_List_Theme_for_Strings_and_Solo_Violin_page_1.svg",
@@ -8480,7 +8498,7 @@
         "Schindlers_List_[Quartet].midi",
         "Schindlers_List_[Strings].midi"
       ],
-      "svg": "tunes/Soundtrack/Schindlers_List.svg",
+      "svg": "tunes/Soundtrack/Practice-Theme-from-Schindler-s-List.svg",
       "midi": "tunes/Soundtrack/Schindlers_List.midi"
     },
     {
