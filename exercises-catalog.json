@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T20:01:04.470Z",
+  "generated": "2026-10-10T20:48:26.689Z",
   "exercises": [
     {
       "id": "merry-go-round-of-life",
@@ -139,7 +139,7 @@
       "scoreIndex": 0,
       "title": "Bluegrass E7 Lick",
       "category": "Licks",
-      "bars": 4,
+      "bars": 5,
       "timeSig": "4/4",
       "key": "C",
       "hasChords": false,
@@ -182,7 +182,7 @@
       "scoreIndex": 1,
       "title": "Major 7th Arpeggios — Circle of Fourths (Third Position)",
       "category": "Arpeggios",
-      "bars": 5,
+      "bars": 4,
       "timeSig": "4/4",
       "key": "C",
       "hasChords": true,
@@ -512,7 +512,7 @@
       "scoreIndex": 3,
       "title": "Shifting Practice — Part 4",
       "category": "Technique",
-      "bars": 5,
+      "bars": 4,
       "timeSig": "4/4",
       "key": "C",
       "hasChords": false,
