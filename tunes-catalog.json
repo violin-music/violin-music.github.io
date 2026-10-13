@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 194,
+  "tune_count": 196,
   "tunes": [
     {
       "title": "Carol of the Bells",
@@ -119,6 +119,37 @@
       ],
       "svg": "tunes/Christmas/Deck-the-halls_page_1.svg",
       "midi": "tunes/Christmas/Deck-the-halls.midi"
+    },
+    {
+      "title": "Ding Dong Merrily on High",
+      "composer": "16th-century French melody, arr. Charles Wood",
+      "country": "France",
+      "country_flag": "🇫🇷",
+      "genre": "Christmas",
+      "subgenre": "SATB",
+      "category": "Christmas",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Beginner",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Christmas",
+      "tune_folder": "Ding-Dong-Merrily-on-High",
+      "variants": [
+        {
+          "filename": "Ding-Dong-Merrily-on-High_SATB.ly",
+          "stem": "Ding-Dong-Merrily-on-High_SATB"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": [
+        "Ding-Dong-Merrily-on-High_SATB.midi"
+      ],
+      "midi": "tunes/Christmas/Ding-Dong-Merrily-on-High_SATB.midi"
     },
     {
       "title": "The First Noel",
@@ -550,42 +581,6 @@
       "midi": "tunes/Classical/Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore.midi"
     },
     {
-      "title": "Badinerie",
-      "composer": "Bach",
-      "country": "",
-      "country_flag": "🌍",
-      "genre": "Classical",
-      "subgenre": "",
-      "category": "Classical",
-      "period": "",
-      "type": "",
-      "key": "",
-      "time_sig": "",
-      "difficulty": "Advanced",
-      "tags": [],
-      "moods": [],
-      "session_friendliness": "",
-      "notes": "",
-      "genre_folder": "Classical",
-      "tune_folder": "Bach_Badinerie",
-      "variants": [
-        {
-          "filename": "Bach-Badinerie.ly",
-          "stem": "Bach-Badinerie"
-        }
-      ],
-      "svg_files": [
-        "Bach-Badinerie-1.svg",
-        "Bach-Badinerie_page_1.svg",
-        "Bach-Badinerie-2.svg"
-      ],
-      "midi_files": [
-        "Bach-Badinerie.midi"
-      ],
-      "svg": "tunes/Classical/Bach-Badinerie-1.svg",
-      "midi": "tunes/Classical/Bach-Badinerie.midi"
-    },
-    {
       "title": "Bourrée in E minor",
       "composer": "Bach",
       "country": "",
@@ -603,7 +598,7 @@
       "session_friendliness": "",
       "notes": "",
       "genre_folder": "Classical",
-      "tune_folder": "Bach_Bourrée-in-E-minor",
+      "tune_folder": "Bach_BWV-0996_Bourrée-in-E-minor",
       "variants": [
         {
           "filename": "Bach_Bourrée-in-E-minor.ly",
@@ -638,7 +633,7 @@
       "session_friendliness": "",
       "notes": "",
       "genre_folder": "Classical",
-      "tune_folder": "Bach_Violin-Sonata-No.1_bwv-1001_4_Presto",
+      "tune_folder": "Bach_BWV-1001_Violin-Sonata-No.1_4_Presto",
       "variants": [
         {
           "filename": "Bach_Violin-Sonata-No.1_4_Presto_[Fingered].ly",
@@ -690,6 +685,42 @@
       ],
       "svg": "tunes/Classical/Bach_Violin-Sonata-No.1_4_Presto-1.svg",
       "midi": "tunes/Classical/Bach_Violin-Sonata-No.1_4_Presto.midi"
+    },
+    {
+      "title": "Badinerie",
+      "composer": "Bach",
+      "country": "",
+      "country_flag": "🌍",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "Advanced",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Classical",
+      "tune_folder": "Bach_BWV-1067_Badinerie",
+      "variants": [
+        {
+          "filename": "Bach-Badinerie.ly",
+          "stem": "Bach-Badinerie"
+        }
+      ],
+      "svg_files": [
+        "Bach-Badinerie-1.svg",
+        "Bach-Badinerie_page_1.svg",
+        "Bach-Badinerie-2.svg"
+      ],
+      "midi_files": [
+        "Bach-Badinerie.midi"
+      ],
+      "svg": "tunes/Classical/Bach-Badinerie-1.svg",
+      "midi": "tunes/Classical/Bach-Badinerie.midi"
     },
     {
       "title": "Ode to Joy",
@@ -3596,6 +3627,34 @@
       ],
       "svg": "tunes/Folk_Hungary/Romances-et-Danses-Caucasiennes.svg",
       "midi": "tunes/Folk_Hungary/Romances-et-Danses-Caucasiennes.midi"
+    },
+    {
+      "title": "Souvenir of Toronto",
+      "composer": "Sandor Jaroka",
+      "country": "Hungary",
+      "country_flag": "🇭🇺",
+      "genre": "Folk",
+      "subgenre": "",
+      "category": "Folk/Hungarian",
+      "period": "",
+      "type": "",
+      "key": "",
+      "time_sig": "",
+      "difficulty": "",
+      "tags": [],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "",
+      "genre_folder": "Folk_Hungary",
+      "tune_folder": "Souvenir-of-Toronto",
+      "variants": [
+        {
+          "filename": "Souvenir-of-Toronto.ly",
+          "stem": "Souvenir-of-Toronto"
+        }
+      ],
+      "svg_files": [],
+      "midi_files": []
     },
     {
       "title": "Yarou, Yarou",
