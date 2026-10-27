@@ -483,6 +483,10 @@
       "tune_folder": "The-First-Noel",
       "variants": [
         {
+          "filename": "The-First-Noel_no-spacing.ly",
+          "stem": "The-First-Noel_no-spacing"
+        },
+        {
           "filename": "The-First-Noel_Duet.ly",
           "stem": "The-First-Noel_Duet"
         },
@@ -493,10 +497,13 @@
       ],
       "svg_files": [
         "The-First-Noel_page_1.svg",
-        "The-First-Noel_Duet_page_1.svg"
+        "The-First-Noel_Duet_page_1.svg",
+        "The-First-Noel_no-spacing-16.svg",
+        "The-First-Noel_no-spacing-17.svg"
       ],
       "midi_files": [
-        "The-First-Noel.midi"
+        "The-First-Noel.midi",
+        "The-First-Noel_no-spacing.midi"
       ],
       "svg": "tunes/Christmas/The-First-Noel_page_1.svg",
       "midi": "tunes/Christmas/The-First-Noel.midi"
@@ -1241,6 +1248,11 @@
       "genre_folder": "Classical",
       "tune_folder": "Folia",
       "variants": [
+        {
+          "filename": "Folia_[Vivaldi-RV63].ly",
+          "stem": "Folia_[Vivaldi-RV63]",
+          "arrangement": "Vivaldi-RV63"
+        },
         {
           "filename": "Folia.ly",
           "stem": "Folia"

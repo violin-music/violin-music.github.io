@@ -157,21 +157,6 @@ c0 43 -20 70 -61 70c-34 0 -71 -8 -71 -38c0 -19 32 -23 32 -42c0 -28 -23 -51 -51 -
 <path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(49.7283, 32.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(33.5727, 32.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(97.5557, 32.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(73.5170, 32.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(113.6210, 32.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
 <g transform="translate(5.6906, 34.9075)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
@@ -199,6 +184,24 @@ c0 43 -20 70 -61 70c-34 0 -71 -8 -71 -38c0 -19 32 -23 32 -42c0 -28 -23 -51 -51 -
 <g transform="translate(5.6906, 37.1075)">
 <rect x="62.8741" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
 </g>
+<g transform="translate(33.5727, 32.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(49.7283, 32.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(73.5170, 32.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(113.6210, 32.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(97.5557, 32.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(84.4403, 32.7075)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:44:23:24">
 <g transform="translate(83.2011, 35.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
@@ -207,9 +210,14 @@ c0 43 -20 70 -61 70c-34 0 -71 -8 -71 -38c0 -19 32 -23 32 -42c0 -28 -23 -51 -51 -
 <g transform="translate(84.9553, 35.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(84.4403, 32.7075)">
-<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+<g transform="translate(60.6516, 32.7075)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:44:21:22">
+<g transform="translate(75.3791, 32.7075)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6216 3.2950C2.1262 4.7954 6.7439 5.1201 8.4436 3.8450L8.4436 3.8450C6.7523 5.0004 2.1346 4.6757 0.6216 3.2950z"/>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:43:15:16">
 <g transform="translate(68.8907, 37.1075)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
@@ -220,6 +228,9 @@ c0 43 -20 70 -61 70c-34 0 -71 -8 -71 -38c0 -19 32 -23 32 -42c0 -28 -23 -51 -51 -
 </g>
 <g transform="translate(70.1949, 32.7475)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(76.6183, 32.7075)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:44:6:7">
 <g transform="translate(75.3791, 34.9075)">
@@ -243,14 +254,6 @@ c0 43 -20 70 -61 70c-34 0 -71 -8 -71 -38c0 -19 32 -23 32 -42c0 -28 -23 -51 -51 -
 <path transform="scale(0.0040, -0.0040)" d="M-178 333h356c6 0 10 -4 10 -10v-308c0 -8 -7 -15 -15 -15s-16 7 -16 15v185h-314v-185c0 -8 -7 -15 -15 -15s-16 7 -16 15v308c0 6 4 10 10 10z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:44:21:22">
-<g transform="translate(75.3791, 32.7075)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6216 3.2950C2.1262 4.7954 6.7439 5.1201 8.4436 3.8450L8.4436 3.8450C6.7523 5.0004 2.1346 4.6757 0.6216 3.2950z"/>
-</g>
-</a>
-<g transform="translate(76.6183, 32.7075)">
-<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:41:8:9">
 <g transform="translate(11.4906, 32.7075)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6735 -1.6664C2.3447 -3.0583 6.9609 -2.8311 8.4955 -1.2814L8.4955 -1.2814C6.9550 -2.7112 2.3388 -2.9385 0.6735 -1.6664z"/>
@@ -259,6 +262,12 @@ c0 43 -20 70 -61 70c-34 0 -71 -8 -71 -38c0 -19 32 -23 32 -42c0 -28 -23 -51 -51 -
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:43:8:9">
 <g transform="translate(51.5904, 32.7075)">
 <path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6826 3.2950C2.3823 4.5701 7.0000 4.2454 8.5046 2.7450L8.5046 2.7450C6.9916 4.1257 2.3739 4.4504 0.6826 3.2950z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:45:6:7">
+<g transform="translate(100.4178, 36.5575)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:44:28:29">
@@ -272,20 +281,11 @@ c0 43 -20 70 -61 70c-34 0 -71 -8 -71 -38c0 -19 32 -23 32 -42c0 -28 -23 -51 -51 -
 <g transform="translate(94.2336, 32.1975)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:45:6:7">
-<g transform="translate(100.4178, 36.5575)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
 <g transform="translate(102.2452, 36.5575)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
 <g transform="translate(101.7302, 32.7075)">
 <rect x="-0.0650" y="-0.0000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(30.1856, 32.7075)">
-<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:41:10:11">
 <g transform="translate(19.3125, 32.7075)">
@@ -298,11 +298,17 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <g transform="translate(19.3775, 32.7075)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
 </g>
+<g transform="translate(11.5556, 32.7075)">
+<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:41:15:16">
 <g transform="translate(28.9463, 33.8075)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
+<g transform="translate(30.1856, 32.7075)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
 <g transform="translate(30.2506, 29.9975)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
@@ -317,28 +323,32 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <path transform="scale(0.0040, -0.0040)" d="M-178 333h356c6 0 10 -4 10 -10v-308c0 -8 -7 -15 -15 -15s-16 7 -16 15v185h-314v-185c0 -8 -7 -15 -15 -15s-16 7 -16 15v308c0 6 4 10 10 10z" fill="currentColor"/>
 </g>
 </a>
+<g transform="translate(4.5638, 29.4328)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:45:10:11">
+<g transform="translate(100.4178, 32.7075)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5773 4.4000C2.8738 5.3545 11.7067 5.3545 13.0032 4.4000L13.0032 4.4000C11.7067 5.2345 2.8738 5.2345 1.5773 4.4000z"/>
+</g>
+</a>
 <g transform="translate(6.4906, 33.8075)">
 <path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
 c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
 c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
 c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<g transform="translate(4.5638, 29.4328)">
-<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
-<tspan>5</tspan>
-</text>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:43:10:11">
+<g transform="translate(59.4124, 34.3575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
-<g transform="translate(61.1666, 34.3575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:41:6:7">
 <g transform="translate(11.4906, 32.1575)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(11.5556, 32.7075)">
-<rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:43:6:7">
 <g transform="translate(51.5904, 34.9075)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
@@ -347,16 +357,11 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 <g transform="translate(52.8296, 32.7075)">
 <rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(38.2621, 34.3575)">
+<g transform="translate(61.1666, 34.3575)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:43:10:11">
-<g transform="translate(59.4124, 34.3575)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(60.6516, 32.7075)">
-<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+<g transform="translate(38.2621, 34.3575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
 <g transform="translate(37.7471, 32.7075)">
 <rect x="-0.0650" y="-1.6500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
@@ -376,107 +381,113 @@ c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 
 <g transform="translate(5.6906, 46.5075)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(25.6028, 48.7075)">
+<g transform="translate(5.6906, 52.0075)">
+<rect x="5.4739" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(30.2338, 48.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(50.5570, 48.7075)">
+<g transform="translate(74.3099, 48.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(96.8841, 48.7075)">
+<g transform="translate(53.8894, 48.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(72.1485, 48.7075)">
+<g transform="translate(97.7469, 48.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(113.6210, 48.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(93.3502, 48.7075)">
-<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:50:10:11">
-<g transform="translate(82.0977, 48.7075)">
+<g transform="translate(83.7416, 48.7075)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(83.8520, 48.1575)">
+<g transform="translate(85.4958, 48.1575)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(82.1627, 48.7075)">
+<g transform="translate(83.8066, 48.7075)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:50:15:16">
-<g transform="translate(92.1110, 49.8075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(74.2972, 48.7075)">
-<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:50:6:7">
-<g transform="translate(74.2322, 47.6075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(64.2644, 48.7075)">
+<g transform="translate(66.8615, 48.7075)">
 <rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:50:8:9">
+<g transform="translate(76.3118, 48.7075)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7158 -2.3600C2.4609 -3.4789 6.7995 -2.8366 8.1456 -1.2600L8.1456 -1.2600C6.7819 -2.7179 2.4434 -3.3602 0.7158 -2.3600z"/>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:49:9:10">
-<g transform="translate(64.1994, 48.1575)">
+<g transform="translate(66.7965, 48.1575)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:50:8:9">
-<g transform="translate(74.2322, 48.7075)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7123 -2.3600C2.5097 -3.5218 7.1682 -2.8704 8.5779 -1.2600L8.5779 -1.2600C7.1515 -2.7515 2.4931 -3.4030 0.7123 -2.3600z"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:50:6:7">
+<g transform="translate(76.3118, 47.6075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
+<g transform="translate(76.3768, 48.7075)">
+<rect x="-0.0650" y="-0.9139" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:48:17:18">
-<g transform="translate(27.6551, 48.7075)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6727 -1.6617C2.3804 -3.0609 7.2146 -2.8316 8.7883 -1.2767L8.7883 -1.2767C7.2090 -2.7117 2.3747 -2.9410 0.6727 -1.6617z"/>
+<g transform="translate(32.2043, 48.7075)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6739 -1.6687C2.3271 -3.0570 6.8384 -2.8309 8.3537 -1.2837L8.3537 -1.2837C6.8324 -2.7110 2.3211 -2.9372 0.6739 -1.6687z"/>
 </g>
 </a>
-<g transform="translate(101.1136, 48.7075)">
-<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:50:15:16">
+<g transform="translate(93.1917, 49.8075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
-<g transform="translate(101.6286, 50.3575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</a>
+<g transform="translate(94.4309, 48.7075)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(94.4959, 45.9975)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:51:6:7">
-<g transform="translate(99.8013, 50.9075)">
+<g transform="translate(100.5823, 50.9075)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(93.4152, 45.9975)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+<g transform="translate(102.4097, 50.3575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
+<g transform="translate(101.8947, 48.7075)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(12.7298, 48.7075)">
+<rect x="-0.0650" y="-0.0000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:47:9:10">
+<g transform="translate(19.1704, 48.7075)">
+<path transform="scale(0.0040, -0.0040)" d="M365 0h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:47:6:7">
+<g transform="translate(11.4906, 52.5575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:48:6:7">
+<g transform="translate(32.2043, 48.1575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:48:9:10">
-<g transform="translate(28.3072, 46.1825)">
+<g transform="translate(32.8564, 46.1825)">
 <path transform="scale(0.0040, -0.0040)" d="M-178 333h356c6 0 10 -4 10 -10v-308c0 -8 -7 -15 -15 -15s-16 7 -16 15v185h-314v-185c0 -8 -7 -15 -15 -15s-16 7 -16 15v308c0 6 4 10 10 10z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(27.7201, 48.7075)">
+<g transform="translate(32.2693, 48.7075)">
 <rect x="-0.0650" y="-0.3639" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:48:6:7">
-<g transform="translate(27.6551, 48.1575)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:48:19:20">
-<g transform="translate(35.7706, 48.7075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(3.4371, 45.4328)">
-<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
-<tspan>10</tspan>
-</text>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:47:6:7">
-<g transform="translate(16.5792, 47.6075)">
-<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:45:10:11">
+<g transform="translate(5.6906, 48.7075)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M3.5650 4.4000C4.0592 4.9799 5.1058 4.9799 5.6000 4.4000L5.6000 4.4000C5.1058 4.8599 4.0592 4.8599 3.5650 4.4000z"/>
 </g>
 </a>
 <g transform="translate(6.4906, 49.8075)">
@@ -485,30 +496,40 @@ c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -
 c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
 c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<g transform="translate(47.0881, 45.9975)">
+<g transform="translate(3.4371, 45.4328)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>10</tspan>
+</text>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:48:24:25">
+<g transform="translate(49.3342, 49.8075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(50.5734, 48.7075)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(50.6384, 45.9975)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
-<g transform="translate(52.6701, 48.7075)">
-<rect x="-0.0650" y="-0.2910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
-</g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:49:6:7">
-<g transform="translate(52.6051, 48.1575)">
+<g transform="translate(55.8558, 48.1575)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:48:24:25">
-<g transform="translate(45.7839, 49.8075)">
+<g transform="translate(55.9208, 48.7075)">
+<rect x="-0.0650" y="-0.2910" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(41.6383, 48.1575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:48:19:20">
+<g transform="translate(39.8841, 48.7075)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(47.0231, 48.7075)">
-<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(37.5248, 48.1575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(35.8356, 48.7075)">
+<g transform="translate(39.9491, 48.7075)">
 <rect x="-0.0650" y="0.1861" width="0.1300" height="3.4806" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 66.9075)">
@@ -526,145 +547,84 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <g transform="translate(5.6906, 62.5075)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(73.9701, 64.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
 <g transform="translate(113.6210, 64.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(89.7037, 64.7075)">
+<g transform="translate(39.0299, 64.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(32.9656, 64.7075)">
+<g transform="translate(71.4443, 64.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(58.1515, 64.7075)">
+<g transform="translate(92.0657, 64.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 68.0075)">
-<rect x="54.9553" y="-0.1050" width="2.0660" height="0.2100" ry="0.1050" fill="currentColor"/>
+<rect x="68.7030" y="-0.1050" width="2.0660" height="0.2100" ry="0.1050" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 68.0075)">
-<rect x="47.4198" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+<rect x="59.4998" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:57:6:7">
-<g transform="translate(91.5424, 66.9075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<g transform="translate(76.0502, 64.7075)">
+<rect x="-0.0650" y="-0.0000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:57:8:9">
-<g transform="translate(92.1945, 62.1825)">
-<path transform="scale(0.0040, -0.0040)" d="M128 508c2 7 9 12 17 12c10 0 18 -7 18 -17c0 -2 -1 -4 -1 -6l-145 -485c-2 -7 -9 -12 -17 -12s-15 5 -17 12l-145 485v6c0 10 7 17 17 17c8 0 15 -5 17 -12l88 -295l40 -164l40 164z" fill="currentColor"/>
+<g transform="translate(76.5652, 68.5575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-</a>
-<g transform="translate(92.7816, 64.7075)">
-<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+<g transform="translate(55.2651, 64.7075)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:55:6:7">
-<g transform="translate(60.9902, 68.5575)">
+<g transform="translate(74.7379, 68.5575)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(62.8176, 68.5575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<g transform="translate(66.7556, 64.7075)">
+<rect x="-0.0650" y="-0.0024" width="0.1300" height="3.1163" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(62.3026, 64.7075)">
-<rect x="-0.0650" y="-0.0000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:53:9:10">
-<g transform="translate(11.4906, 64.7075)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8887 3.0000C2.1475 3.9457 10.1604 3.9457 11.4192 3.0000L11.4192 3.0000C10.1604 3.8257 2.1475 3.8257 0.8887 3.0000z"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:9:10">
-<g transform="translate(34.8044, 64.7075)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6272 3.2950C2.3526 4.9158 8.2945 5.2574 10.1944 3.8450L10.1944 3.8450C8.3014 5.1376 2.3595 4.7960 0.6272 3.2950z"/>
-</g>
-</a>
-<g transform="translate(23.6319, 63.3935)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="7.4933 -0.8960 7.4933 -0.4480 0.0400 0.2240 0.0400 -0.2240"/>
-</g>
-<g transform="translate(28.1326, 63.8780)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.9925 -0.4945 2.9925 -0.0465 0.0400 0.2240 0.0400 -0.2240"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:13:14">
-<g transform="translate(44.3716, 64.7075)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 3.3000C2.1355 3.9849 3.7327 3.9849 4.3640 3.3000L4.3640 3.3000C3.7327 3.8649 2.1355 3.8649 1.5042 3.3000z"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:18:19">
-<g transform="translate(50.1099, 64.4935)">
-<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.5908 -0.0100 4.5908 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:56:6:7">
-<g transform="translate(81.1819, 63.6075)">
-<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(101.2440, 65.2575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:57:15:16">
-<g transform="translate(99.4897, 65.2575)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:20:21">
+<g transform="translate(65.5164, 68.0075)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(100.7290, 64.7075)">
-<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+<g transform="translate(61.0420, 64.7075)">
+<rect x="-0.0650" y="-0.2116" width="0.1300" height="2.7755" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:57:19:20">
-<g transform="translate(109.0570, 65.2575)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:16:17">
+<g transform="translate(59.8028, 67.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(110.2962, 64.7075)">
-<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(110.3612, 61.4475)">
+<g transform="translate(55.3301, 63.6475)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:53:11:12">
-<g transform="translate(22.4576, 66.9075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:18:19">
+<g transform="translate(60.9770, 64.4935)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.8036 -0.0100 5.8036 0.4380 0.0400 0.2240 0.0400 -0.2240"/>
 </g>
 </a>
-<g transform="translate(23.6969, 64.7075)">
-<rect x="-0.0650" y="-1.3198" width="0.1300" height="3.3337" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:53:15:16">
-<g transform="translate(26.9584, 66.3575)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:13:14">
+<g transform="translate(54.0259, 64.7075)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5042 3.3000C2.2971 4.0806 4.7840 4.0806 5.5769 3.3000L5.5769 3.3000C4.7840 3.9606 2.2971 3.9606 1.5042 3.3000z"/>
 </g>
 </a>
-<g transform="translate(28.1976, 64.7075)">
-<rect x="-0.0650" y="-1.7213" width="0.1300" height="3.1852" ry="0.0400" fill="currentColor"/>
+<g transform="translate(27.2704, 63.3935)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.3126 -0.8960 9.3126 -0.4480 0.0400 0.2240 0.0400 -0.2240"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:53:19:20">
-<g transform="translate(29.8609, 65.8075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<g transform="translate(32.9841, 63.8689)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.5989 -0.4855 3.5989 -0.0375 0.0400 0.2240 0.0400 -0.2240"/>
 </g>
-</a>
-<g transform="translate(31.1002, 64.7075)">
-<rect x="-0.0650" y="-1.9802" width="0.1300" height="2.8941" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:6:7">
-<g transform="translate(34.8044, 66.9075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:9:10">
+<g transform="translate(41.3234, 64.7075)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6333 3.2950C2.6814 5.0640 11.1424 5.4303 13.3357 3.8450L13.3357 3.8450C11.1476 5.3104 2.6866 4.9441 0.6333 3.2950z"/>
 </g>
 </a>
-<g transform="translate(6.4906, 65.8075)">
-<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
-c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
-c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
-c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:53:9:10">
+<g transform="translate(11.4906, 64.7075)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8887 3.0000C2.2799 3.9746 13.6665 3.9746 15.0578 3.0000L15.0578 3.0000C13.6665 3.8546 2.2799 3.8546 0.8887 3.0000z"/>
 </g>
-<g transform="translate(3.4371, 61.4328)">
-<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
-<tspan>15</tspan>
-</text>
-</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:53:6:7">
 <g transform="translate(11.4906, 66.9075)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
@@ -674,39 +634,62 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <g transform="translate(12.8029, 64.7075)">
 <rect x="-0.0650" y="-1.6500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:16:17">
-<g transform="translate(48.9356, 67.4575)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:53:11:12">
+<g transform="translate(26.0962, 66.9075)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
+<g transform="translate(27.3354, 64.7075)">
+<rect x="-0.0650" y="-1.3187" width="0.1300" height="3.3326" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:53:15:16">
+<g transform="translate(31.8098, 66.3575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(33.0491, 64.7075)">
+<rect x="-0.0650" y="-1.7292" width="0.1300" height="3.1931" ry="0.0400" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:11:12">
-<g transform="translate(44.3716, 67.4575)">
+<g transform="translate(54.0259, 67.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(45.6108, 64.7075)">
-<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+<g transform="translate(3.4371, 61.4328)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>15</tspan>
+</text>
 </g>
-<g transform="translate(45.6758, 63.6475)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+<g transform="translate(6.4906, 65.8075)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<g transform="translate(50.1749, 64.7075)">
-<rect x="-0.0650" y="-0.2110" width="0.1300" height="2.7749" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:56:6:7">
+<g transform="translate(102.1884, 63.6075)">
+<path transform="scale(0.0040, -0.0040)" d="M365 -156h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:20:21">
-<g transform="translate(53.4364, 68.0075)">
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:54:6:7">
+<g transform="translate(41.3234, 66.9075)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(54.6756, 64.7075)">
-<rect x="-0.0650" y="-0.0030" width="0.1300" height="3.1169" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(36.5586, 66.3575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(36.0436, 64.7075)">
+<g transform="translate(42.5627, 64.7075)">
 <rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
+<g transform="translate(43.0777, 66.3575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(36.5580, 64.7075)">
+<rect x="-0.0650" y="-1.9813" width="0.1300" height="2.8952" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:53:19:20">
+<g transform="translate(35.3188, 65.8075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
 <g transform="translate(5.6906, 82.9075)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
@@ -722,114 +705,110 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <g transform="translate(5.6906, 78.5075)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(46.1225, 80.7075)">
+<g transform="translate(5.6906, 84.0075)">
+<rect x="53.4647" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(84.3722, 80.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(69.3842, 80.7075)">
+<g transform="translate(64.9398, 80.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(38.5652, 80.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(113.6210, 80.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(92.6459, 80.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(87.7856, 80.7075)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(30.6682, 80.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(5.6906, 84.0075)">
-<rect x="103.1504" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
-</g>
-<g transform="translate(5.6906, 84.0075)">
-<rect x="20.1976" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
-</g>
-<g transform="translate(89.4961, 77.4475)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:62:9:10">
-<g transform="translate(78.9090, 81.2575)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:61:4:5">
+<g transform="translate(86.5464, 83.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(80.6632, 81.2575)">
+<g transform="translate(88.3006, 83.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(80.1482, 80.7075)">
-<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:62:13:14">
-<g transform="translate(88.1919, 81.2575)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(89.4311, 80.7075)">
-<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:62:6:7">
-<g transform="translate(71.1817, 82.9075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:61:11:12">
-<g transform="translate(64.9302, 82.3575)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(66.1694, 80.7075)">
-<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(66.2344, 78.5475)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
-</g>
-<g transform="translate(72.4209, 80.7075)">
-<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:63:12:13">
-<g transform="translate(109.1670, 84.0075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(110.4062, 80.7075)">
+<g transform="translate(60.7205, 80.7075)">
 <rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(110.4712, 80.1975)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+<g transform="translate(69.4263, 80.7075)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:63:6:7">
-<g transform="translate(94.4434, 82.9075)">
+<g transform="translate(69.9413, 83.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:60:6:7">
+<g transform="translate(68.1140, 83.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(95.7557, 80.7075)">
-<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+<g transform="translate(60.7855, 80.1975)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:63:9:10">
-<g transform="translate(105.0804, 80.7075)">
-<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
+<g transform="translate(109.4667, 78.5475)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:59:17:18">
-<g transform="translate(22.1276, 80.7075)">
-<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
+<g transform="translate(109.4017, 80.7075)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:59:20:21">
-<g transform="translate(26.2142, 84.0075)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:61:11:12">
+<g transform="translate(108.1625, 82.3575)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(27.4534, 80.7075)">
-<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(27.5184, 80.1975)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
-</g>
-<g transform="translate(58.6921, 80.7075)">
+<g transform="translate(99.9152, 80.7075)">
 <rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(35.2930, 83.4575)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:61:8:9">
+<g transform="translate(98.6760, 81.8075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:58:6:7">
+<g transform="translate(11.4906, 82.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(34.3459, 80.7075)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:59:20:21">
+<g transform="translate(59.4813, 84.0075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(22.4662, 80.7075)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(22.9812, 81.2575)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:58:15:16">
+<g transform="translate(21.2270, 81.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(12.7298, 80.7075)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:58:8:9">
+<g transform="translate(12.1427, 78.1825)">
+<path transform="scale(0.0040, -0.0040)" d="M128 508c2 7 9 12 17 12c10 0 18 -7 18 -17c0 -2 -1 -4 -1 -6l-145 -485c-2 -7 -9 -12 -17 -12s-15 5 -17 12l-145 485v6c0 10 7 17 17 17c8 0 15 -5 17 -12l88 -295l40 -164l40 164z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:58:19:20">
+<g transform="translate(33.1067, 81.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(3.4371, 77.4328)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>19</tspan>
+</text>
 </g>
 <g transform="translate(6.4906, 81.8075)">
 <path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
@@ -837,49 +816,27 @@ c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -
 c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
 c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<g transform="translate(3.4371, 77.4328)">
-<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
-<tspan>20</tspan>
-</text>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:60:6:7">
-<g transform="translate(33.4656, 83.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:59:17:18">
+<g transform="translate(54.3901, 80.7075)">
+<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:59:6:7">
-<g transform="translate(11.4906, 82.9075)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<g transform="translate(34.4109, 77.4475)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
-</a>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:59:8:9">
-<g transform="translate(12.1792, 78.1825)">
+<g transform="translate(41.4281, 78.1825)">
 <path transform="scale(0.0040, -0.0040)" d="M-178 333h356c6 0 10 -4 10 -10v-308c0 -8 -7 -15 -15 -15s-16 7 -16 15v185h-314v-185c0 -8 -7 -15 -15 -15s-16 7 -16 15v308c0 6 4 10 10 10z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(12.8029, 80.7075)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:59:6:7">
+<g transform="translate(40.7394, 82.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(42.0517, 80.7075)">
 <rect x="-0.0650" y="-1.6500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:61:4:5">
-<g transform="translate(47.9200, 83.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(34.7780, 80.7075)">
-<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:61:8:9">
-<g transform="translate(57.4529, 81.8075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(49.6742, 83.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(49.1592, 80.7075)">
-<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
 <g transform="translate(5.6906, 98.9075)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
@@ -896,101 +853,89 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <g transform="translate(5.6906, 94.5075)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
-<g transform="translate(58.6743, 96.7075)">
+<g transform="translate(92.1297, 96.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(77.9821, 96.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(37.2614, 96.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(92.2081, 96.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(23.0354, 96.7075)">
+<g transform="translate(41.4691, 96.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
 <g transform="translate(113.6210, 96.7075)">
 <rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(5.6906, 100.0075)">
-<rect x="67.8217" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+<g transform="translate(70.6384, 96.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:69:4:5">
-<g transform="translate(80.6632, 99.4575)">
+<g transform="translate(5.6906, 100.0075)">
+<rect x="58.6433" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(75.3199, 96.7075)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:65:12:13">
+<g transform="translate(64.6599, 100.0075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(75.8349, 99.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:66:6:7">
+<g transform="translate(74.0076, 99.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(82.4906, 99.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(81.9756, 96.7075)">
-<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(75.1425, 96.1975)">
+<g transform="translate(65.9641, 96.1975)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:65:10:11">
-<g transform="translate(11.4906, 96.7075)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5773 3.3000C2.9124 4.2630 12.6909 4.2630 14.0260 3.3000L14.0260 3.3000C12.6909 4.1430 2.9124 4.1430 1.5773 3.3000z"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:68:9:10">
-<g transform="translate(70.0619, 96.7075)">
-<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:68:12:13">
-<g transform="translate(73.8383, 100.0075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(75.0775, 96.7075)">
+<g transform="translate(65.8991, 96.7075)">
 <rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(110.7814, 94.5475)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:70:8:9">
-<g transform="translate(102.6202, 97.8075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:66:10:11">
+<g transform="translate(74.0076, 96.7075)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5773 3.3000C3.0988 4.2985 19.7698 4.2985 21.2913 3.3000L21.2913 3.3000C19.7698 4.1785 3.0988 4.1785 1.5773 3.3000z"/>
 </g>
 </a>
-<g transform="translate(103.8595, 96.7075)">
-<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:70:11:12">
-<g transform="translate(109.4772, 98.3575)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(110.7164, 96.7075)">
-<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:70:4:5">
-<g transform="translate(93.8892, 99.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(95.6434, 99.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(95.1284, 96.7075)">
-<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:66:4:5">
-<g transform="translate(25.7165, 99.4575)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:67:4:5">
+<g transform="translate(95.4989, 99.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(27.5439, 99.4575)">
+<g transform="translate(96.8112, 96.7075)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(97.3262, 99.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(27.0289, 96.7075)">
-<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:64:13:14">
+<g transform="translate(35.4906, 97.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(23.5061, 96.7075)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(24.0211, 97.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:64:9:10">
+<g transform="translate(22.2669, 97.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(12.7298, 96.7075)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:64:6:7">
+<g transform="translate(11.4906, 98.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(3.4371, 93.4328)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>23</tspan>
+</text>
 </g>
 <g transform="translate(6.4906, 97.8075)">
 <path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
@@ -998,62 +943,26 @@ c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -
 c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
 c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<g transform="translate(3.4371, 93.4328)">
-<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
-<tspan>25</tspan>
-</text>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:65:6:7">
-<g transform="translate(11.4906, 99.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(13.3179, 99.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(12.8029, 96.7075)">
-<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(55.7697, 96.7075)">
+<g transform="translate(36.7298, 96.7075)">
 <rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:67:6:7">
-<g transform="translate(38.9425, 98.9075)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(47.8037, 97.2575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(47.2887, 96.7075)">
-<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:67:13:14">
-<g transform="translate(54.5305, 97.2575)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:67:9:10">
-<g transform="translate(46.0495, 97.2575)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(55.8347, 93.4475)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:68:6:7">
-<g transform="translate(60.3554, 98.9075)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(61.6678, 96.7075)">
+<g transform="translate(45.1506, 96.7075)">
 <rect x="-0.0650" y="-1.6500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(40.1817, 96.7075)">
-<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:65:6:7">
+<g transform="translate(43.8382, 98.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
+</a>
+<g transform="translate(36.7948, 93.4475)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:65:9:10">
+<g transform="translate(59.0488, 96.7075)">
+<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
+</g>
+</a>
 <g transform="translate(5.6906, 114.9075)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
@@ -1069,147 +978,103 @@ c25 17 88 50 188 50z" fill="currentColor"/>
 <g transform="translate(5.6906, 110.5075)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
 </g>
+<g transform="translate(113.6210, 112.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(38.5652, 112.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(84.3722, 112.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(64.9398, 112.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
 <g transform="translate(5.6906, 116.0075)">
-<rect x="45.6182" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+<rect x="53.4647" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
 </g>
-<g transform="translate(56.3055, 112.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(34.1654, 112.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(78.4457, 112.1575)">
+<g transform="translate(88.3006, 115.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
-<g transform="translate(78.4457, 113.2575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(79.6857, 112.7075)">
-<rect x="0.0000" y="-2.2000" width="0.6000" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(79.1957, 112.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(96.4083, 112.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(113.2110, 112.7075)">
-<rect x="0.0000" y="-2.2000" width="0.6000" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(112.7210, 112.7075)">
-<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(75.0141, 112.7075)">
-<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(75.0791, 111.0975)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:77:6:7">
-<g transform="translate(82.9744, 115.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(84.8018, 115.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(84.2868, 112.7075)">
-<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
-</g>
-<g transform="translate(59.4966, 112.7075)">
-<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:76:12:13">
-<g transform="translate(73.7749, 114.9075)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:73:4:5">
+<g transform="translate(86.5464, 115.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:76:9:10">
-<g transform="translate(69.4716, 112.7075)">
-<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
+<g transform="translate(87.7856, 112.7075)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
-</a>
-<g transform="translate(57.3355, 109.1527)">
-<g>
-<path transform="scale(0.0025, -0.0025)" d="M191 487c16 0 30 14 41 14c12 0 23 -14 23 -31v-343c0 -46 35 -85 80 -85c14 0 20 -11 20 -21s-6 -21 -20 -21c-48 0 -96 13 -144 13s-95 -13 -143 -13c-14 0 -21 11 -21 21s7 21 21 21c45 0 79 39 79 85v143c0 22 -15 34 -29 34c-7 0 -13 -3 -17 -10l-34 -68
-c-5 -10 -14 -14 -23 -14c-14 0 -27 10 -27 25c0 4 1 9 3 13l127 250c2 4 6 6 10 6c17 0 37 -19 54 -19z" fill="currentColor"/>
-
-<path transform="translate(0.9560, 0.0000) scale(0.0025, -0.0025)" d="M0 53c0 29 24 53 53 53s53 -24 53 -53s-24 -53 -53 -53s-53 24 -53 53z" fill="currentColor"/>
-</g>
-</g>
-<g transform="translate(56.3055, 107.3775)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="22.9702" y1="-0.0000" x2="22.9702" y2="2.0000"/>
-</g>
-<g transform="translate(56.3055, 107.3775)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="0.1100" y1="-0.0000" x2="0.1100" y2="2.0000"/>
-</g>
-<g transform="translate(56.3055, 107.3775)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="0.1100" y1="-0.0000" x2="22.9702" y2="-0.0000"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:77:10:11">
-<g transform="translate(82.9744, 112.7075)">
-<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5773 3.3000C2.9793 4.2767 14.7107 4.2767 16.1127 3.3000L16.1127 3.3000C14.7107 4.1567 2.9793 4.1567 1.5773 3.3000z"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:77:12:13">
-<g transform="translate(99.2871, 115.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(101.1144, 115.4575)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(100.5994, 112.7075)">
+<g transform="translate(69.4263, 112.7075)">
 <rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(12.7298, 112.7075)">
-<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:72:7:8">
-<g transform="translate(19.6514, 113.2575)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(21.4056, 113.2575)">
+<g transform="translate(69.9413, 115.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
-</g>
-<g transform="translate(20.8906, 112.7075)">
-<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:72:4:5">
+<g transform="translate(68.1140, 115.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(60.7855, 112.1975)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(109.4667, 110.5475)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(109.4017, 112.7075)">
+<rect x="-0.0650" y="-2.2000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:73:11:12">
+<g transform="translate(108.1625, 114.3575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(99.9152, 112.7075)">
+<rect x="-0.0650" y="-2.7500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:73:8:9">
+<g transform="translate(98.6760, 113.8075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:70:6:7">
 <g transform="translate(11.4906, 114.9075)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:72:11:12">
-<g transform="translate(29.4946, 113.2575)">
+<g transform="translate(34.4109, 109.4475)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<g transform="translate(34.3459, 112.7075)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(60.7205, 112.7075)">
+<rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(22.4662, 112.7075)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(22.9812, 113.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:70:9:10">
+<g transform="translate(21.2270, 113.2575)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(30.7338, 112.7075)">
-<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+<g transform="translate(12.7298, 112.7075)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(30.7988, 109.4475)">
-<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:70:13:14">
+<g transform="translate(33.1067, 113.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
-<g transform="translate(81.1257, 109.1375)">
-<g>
-<path transform="scale(0.0025, -0.0025)" d="M93 66c-60 0 -40 -66 -72 -66c-11 0 -21 7 -21 20c0 154 232 163 232 335c0 51 -18 103 -62 103c-31 0 -62 -13 -62 -41c0 -25 33 -39 33 -64c0 -35 -29 -63 -64 -63s-63 28 -63 63c0 83 71 147 156 147c97 0 189 -56 189 -145c0 -141 -133 -154 -227 -206
-c86 0 115 -62 168 -62c45 0 29 41 57 41c11 0 21 -9 21 -21c0 -28 -47 -107 -143 -107c-92 0 -95 66 -142 66z" fill="currentColor"/>
-
-<path transform="translate(0.9902, 0.0000) scale(0.0025, -0.0025)" d="M0 53c0 29 24 53 53 53s53 -24 53 -53s-24 -53 -53 -53s-53 24 -53 53z" fill="currentColor"/>
-</g>
-</g>
-<g transform="translate(79.1957, 107.3775)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="34.5353" y1="-0.0000" x2="34.5353" y2="2.0000"/>
-</g>
-<g transform="translate(79.1957, 107.3775)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="1.0100" y1="-0.0000" x2="1.0100" y2="2.0000"/>
-</g>
-<g transform="translate(79.1957, 107.3775)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="1.0100" y1="-0.0000" x2="34.5353" y2="-0.0000"/>
+</a>
+<g transform="translate(3.4371, 109.4575)">
+<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<tspan>27</tspan>
+</text>
 </g>
 <g transform="translate(6.4906, 113.8075)">
 <path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
@@ -1217,40 +1082,237 @@ c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -
 c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
 c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
 </g>
-<g transform="translate(3.4371, 109.4328)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:71:12:13">
+<g transform="translate(59.4813, 116.0075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:71:9:10">
+<g transform="translate(54.3901, 112.7075)">
+<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:71:6:7">
+<g transform="translate(40.7394, 114.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(42.0517, 112.7075)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 130.9075)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 129.8075)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 128.7075)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 127.6075)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(5.6906, 126.5075)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+</g>
+<g transform="translate(98.6978, 128.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(113.2110, 128.7075)">
+<rect x="0.0000" y="-2.2000" width="0.6000" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(112.7210, 128.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(49.9689, 128.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(83.0247, 128.1575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(83.0247, 129.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(84.2647, 128.7075)">
+<rect x="0.0000" y="-2.2000" width="0.6000" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(83.7747, 128.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(63.9921, 128.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(30.9364, 128.7075)">
+<rect x="0.0000" y="-2.2000" width="0.1900" height="4.4000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(5.6906, 132.0075)">
+<rect x="39.8597" y="-0.1050" width="1.9563" height="0.2100" ry="0.1050" fill="currentColor"/>
+</g>
+<g transform="translate(80.2363, 127.0975)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:79:15:16">
+<g transform="translate(75.2069, 128.7075)">
+<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:79:18:19">
+<g transform="translate(78.9320, 130.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(88.6489, 128.7075)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(80.1713, 128.7075)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:80:6:7">
+<g transform="translate(87.3366, 131.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(89.1639, 131.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(66.9664, 128.7075)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:79:12:13">
+<g transform="translate(65.6540, 131.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(50.9989, 125.1527)">
+<g>
+<path transform="scale(0.0025, -0.0025)" d="M191 487c16 0 30 14 41 14c12 0 23 -14 23 -31v-343c0 -46 35 -85 80 -85c14 0 20 -11 20 -21s-6 -21 -20 -21c-48 0 -96 13 -144 13s-95 -13 -143 -13c-14 0 -21 11 -21 21s7 21 21 21c45 0 79 39 79 85v143c0 22 -15 34 -29 34c-7 0 -13 -3 -17 -10l-34 -68
+c-5 -10 -14 -14 -23 -14c-14 0 -27 10 -27 25c0 4 1 9 3 13l127 250c2 4 6 6 10 6c17 0 37 -19 54 -19z" fill="currentColor"/>
+
+<path transform="translate(0.9560, 0.0000) scale(0.0025, -0.0025)" d="M0 53c0 29 24 53 53 53s53 -24 53 -53s-24 -53 -53 -53s-53 24 -53 53z" fill="currentColor"/>
+</g>
+</g>
+<g transform="translate(49.9689, 123.3775)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="33.8857" y1="-0.0000" x2="33.8857" y2="2.0000"/>
+</g>
+<g transform="translate(49.9689, 123.3775)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="0.1100" y1="-0.0000" x2="0.1100" y2="2.0000"/>
+</g>
+<g transform="translate(49.9689, 123.3775)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="0.1100" y1="-0.0000" x2="33.8857" y2="-0.0000"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:80:10:11">
+<g transform="translate(87.3366, 128.7075)">
+<path stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5773 3.3000C2.9051 4.2614 12.4954 4.2614 13.8232 3.3000L13.8232 3.3000C12.4954 4.1414 2.9051 4.1414 1.5773 3.3000z"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:80:12:13">
+<g transform="translate(101.3598, 131.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(103.1871, 131.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(102.6721, 128.7075)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:75:7:8">
+<g transform="translate(18.4951, 129.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(20.2493, 129.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+</g>
+<g transform="translate(19.7343, 128.7075)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:75:11:12">
+<g transform="translate(26.8438, 129.2575)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(28.0830, 128.7075)">
+<rect x="-0.0650" y="-3.3000" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(28.1480, 125.4475)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:76:6:7">
+<g transform="translate(32.5983, 130.9075)">
+<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
+c25 17 88 50 188 50z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(33.9106, 128.7075)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<g transform="translate(85.7047, 125.1375)">
+<g>
+<path transform="scale(0.0025, -0.0025)" d="M93 66c-60 0 -40 -66 -72 -66c-11 0 -21 7 -21 20c0 154 232 163 232 335c0 51 -18 103 -62 103c-31 0 -62 -13 -62 -41c0 -25 33 -39 33 -64c0 -35 -29 -63 -64 -63s-63 28 -63 63c0 83 71 147 156 147c97 0 189 -56 189 -145c0 -141 -133 -154 -227 -206
+c86 0 115 -62 168 -62c45 0 29 41 57 41c11 0 21 -9 21 -21c0 -28 -47 -107 -143 -107c-92 0 -95 66 -142 66z" fill="currentColor"/>
+
+<path transform="translate(0.9902, 0.0000) scale(0.0025, -0.0025)" d="M0 53c0 29 24 53 53 53s53 -24 53 -53s-24 -53 -53 -53s-53 24 -53 53z" fill="currentColor"/>
+</g>
+</g>
+<g transform="translate(83.7747, 123.3775)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="29.9564" y1="-0.0000" x2="29.9564" y2="2.0000"/>
+</g>
+<g transform="translate(83.7747, 123.3775)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="1.0100" y1="-0.0000" x2="1.0100" y2="2.0000"/>
+</g>
+<g transform="translate(83.7747, 123.3775)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="1.0100" y1="-0.0000" x2="29.9564" y2="-0.0000"/>
+</g>
+<g transform="translate(6.4906, 129.8075)">
+<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
+c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
+c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
+c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+</g>
+<g transform="translate(3.4371, 125.4328)">
 <text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
 <tspan>31</tspan>
 </text>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:73:6:7">
-<g transform="translate(36.0441, 114.9075)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:73:9:10">
-<g transform="translate(47.3314, 112.7075)">
-<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:73:12:13">
-<g transform="translate(51.6348, 116.0075)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:75:4:5">
+<g transform="translate(11.4906, 130.9075)">
 <path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(52.8740, 112.7075)">
+<g transform="translate(12.7298, 128.7075)">
+<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:76:12:13">
+<g transform="translate(45.8763, 132.0075)">
+<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(47.1155, 128.7075)">
 <rect x="-0.0650" y="-0.5500" width="0.1300" height="3.6639" ry="0.0400" fill="currentColor"/>
 </g>
-<g transform="translate(52.9390, 112.1975)">
+<g transform="translate(47.1805, 128.1975)">
 <path transform="scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:76:6:7">
-<g transform="translate(58.1843, 115.4575)">
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:79:6:7">
+<g transform="translate(52.6309, 131.4575)">
 <path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
 c25 17 88 50 188 50z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(37.3565, 112.7075)">
-<rect x="-0.0650" y="-1.6500" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+<g transform="translate(54.4582, 131.4575)">
+<path transform="scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
 </g>
+<g transform="translate(53.9432, 128.7075)">
+<rect x="-0.0650" y="-1.1000" width="0.1300" height="3.5910" ry="0.0400" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/runner/work/violin-music_private/violin-music_private/tunes/Classical/Hinata_Reflections/Toshifumi-Hinata-Reflections.ly:76:9:10">
+<g transform="translate(42.1511, 128.7075)">
+<path transform="scale(0.0040, -0.0040)" d="M70 205c79 0 46 -98 91 -98c16 0 54 48 61 63c6 12 23 12 28 0l-123 -420c-8 -7 -17 -10 -27 -10s-20 3 -28 10l117 326c-34 -12 -69 -22 -105 -22c-47 0 -87 34 -87 79c0 40 33 72 73 72z" fill="currentColor"/>
+</g>
+</a>
 </svg>
