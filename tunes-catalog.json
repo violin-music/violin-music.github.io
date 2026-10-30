@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "generated": true,
-  "tune_count": 196,
+  "tune_count": 197,
   "tunes": [
     {
       "title": "Carol of the Bells",
@@ -24,14 +24,14 @@
       "tune_folder": "Carol-of-the-bells",
       "variants": [
         {
+          "filename": "Carol-of-the-bells_Violin_(Dm).ly",
+          "stem": "Carol-of-the-bells_Violin_(Dm)",
+          "key_variant": "Dm"
+        },
+        {
           "filename": "Carol-of-the-bells_Violin_(Am).ly",
           "stem": "Carol-of-the-bells_Violin_(Am)",
           "key_variant": "Am"
-        },
-        {
-          "filename": "Carol-of-the-bells_Violin_(Em).ly",
-          "stem": "Carol-of-the-bells_Violin_(Em)",
-          "key_variant": "Em"
         },
         {
           "filename": "Carol-of-the-bells_Violin_(Gm).ly",
@@ -39,17 +39,17 @@
           "key_variant": "Gm"
         },
         {
-          "filename": "Carol-of-the-bells_Violin_(Dm).ly",
-          "stem": "Carol-of-the-bells_Violin_(Dm)",
-          "key_variant": "Dm"
+          "filename": "Practice-Carol-of-the-Bells.ly",
+          "stem": "Practice-Carol-of-the-Bells"
+        },
+        {
+          "filename": "Carol-of-the-bells_Violin_(Em).ly",
+          "stem": "Carol-of-the-bells_Violin_(Em)",
+          "key_variant": "Em"
         },
         {
           "filename": "Carol-of-the-bells_SATB.ly",
           "stem": "Carol-of-the-bells_SATB"
-        },
-        {
-          "filename": "Practice-Carol-of-the-Bells.ly",
-          "stem": "Practice-Carol-of-the-Bells"
         }
       ],
       "svg_files": [
@@ -309,14 +309,14 @@
       "tune_folder": "Let-It-Snow",
       "variants": [
         {
-          "filename": "Let-It-Snow_(G).ly",
-          "stem": "Let-It-Snow_(G)",
-          "key_variant": "G"
-        },
-        {
           "filename": "Let-It-Snow_(F).ly",
           "stem": "Let-It-Snow_(F)",
           "key_variant": "F"
+        },
+        {
+          "filename": "Let-It-Snow_(G).ly",
+          "stem": "Let-It-Snow_(G)",
+          "key_variant": "G"
         }
       ],
       "svg_files": [
@@ -420,20 +420,6 @@
       "tune_folder": "Silent-Night",
       "variants": [
         {
-          "filename": "Silent-Night.ly",
-          "stem": "Silent-Night"
-        },
-        {
-          "filename": "Silent-Night_(E).ly",
-          "stem": "Silent-Night_(E)",
-          "key_variant": "E"
-        },
-        {
-          "filename": "Silent-Night_(D).ly",
-          "stem": "Silent-Night_(D)",
-          "key_variant": "D"
-        },
-        {
           "filename": "Silent-Night_(G).ly",
           "stem": "Silent-Night_(G)",
           "key_variant": "G"
@@ -442,6 +428,20 @@
           "filename": "Silent-Night_(A).ly",
           "stem": "Silent-Night_(A)",
           "key_variant": "A"
+        },
+        {
+          "filename": "Silent-Night_(E).ly",
+          "stem": "Silent-Night_(E)",
+          "key_variant": "E"
+        },
+        {
+          "filename": "Silent-Night.ly",
+          "stem": "Silent-Night"
+        },
+        {
+          "filename": "Silent-Night_(D).ly",
+          "stem": "Silent-Night_(D)",
+          "key_variant": "D"
         }
       ],
       "svg_files": [
@@ -487,19 +487,17 @@
           "stem": "The-First-Noel_no-spacing"
         },
         {
-          "filename": "The-First-Noel_Duet.ly",
-          "stem": "The-First-Noel_Duet"
-        },
-        {
           "filename": "The-First-Noel.ly",
           "stem": "The-First-Noel"
+        },
+        {
+          "filename": "The-First-Noel_Duet.ly",
+          "stem": "The-First-Noel_Duet"
         }
       ],
       "svg_files": [
         "The-First-Noel_page_1.svg",
-        "The-First-Noel_Duet_page_1.svg",
-        "The-First-Noel_no-spacing-16.svg",
-        "The-First-Noel_no-spacing-17.svg"
+        "The-First-Noel_Duet_page_1.svg"
       ],
       "midi_files": [
         "The-First-Noel.midi",
@@ -588,6 +586,59 @@
       "midi": "tunes/Classical/Tomaso-Giovanni-Albinoni-Adagio-in-Sol-minore.midi"
     },
     {
+      "title": "Arioso",
+      "composer": "Johann Sebastian Bach",
+      "country": "Germany",
+      "country_flag": "🇩🇪",
+      "genre": "Classical",
+      "subgenre": "",
+      "category": "Classical",
+      "period": "Baroque",
+      "type": "",
+      "key": "G major",
+      "time_sig": "4/4",
+      "difficulty": "Intermediate",
+      "tags": [
+        "arioso",
+        "bach",
+        "cantata",
+        "bwv-156",
+        "bwv-1056",
+        "largo"
+      ],
+      "moods": [],
+      "session_friendliness": "",
+      "notes": "Sinfonia of Cantata BWV 156 (Largo of BWV 1056), Sam Franko's arrangement via Mutopia (CC BY 3.0). Cello solo raised an octave for violin; violin part plus violin-and-piano score.",
+      "genre_folder": "Classical",
+      "tune_folder": "Bach_BWV-0156_Arioso",
+      "variants": [
+        {
+          "filename": "Bach_Arioso_[Violin].ly",
+          "stem": "Bach_Arioso_[Violin]",
+          "arrangement": "Violin"
+        },
+        {
+          "filename": "Bach_Arioso.ly",
+          "stem": "Bach_Arioso"
+        },
+        {
+          "filename": "mutopia_Bach_Arioso-BWV-1056_cello.ly",
+          "stem": "mutopia_Bach_Arioso-BWV-1056_cello"
+        }
+      ],
+      "svg_files": [
+        "Bach_Arioso-1.svg",
+        "Bach_Arioso-2.svg",
+        "Bach_Arioso_[Violin].svg"
+      ],
+      "midi_files": [
+        "Bach_Arioso.midi",
+        "Bach_Arioso_[Violin].midi"
+      ],
+      "svg": "tunes/Classical/Bach_Arioso-1.svg",
+      "midi": "tunes/Classical/Bach_Arioso.midi"
+    },
+    {
       "title": "Bourrée in E minor",
       "composer": "Bach",
       "country": "",
@@ -643,13 +694,21 @@
       "tune_folder": "Bach_BWV-1001_Violin-Sonata-No.1_4_Presto",
       "variants": [
         {
+          "filename": "Bach_Violin-Sonata-No.1_4_Presto.ly",
+          "stem": "Bach_Violin-Sonata-No.1_4_Presto"
+        },
+        {
+          "filename": "bwv1001-presto-practice-sections.ly",
+          "stem": "bwv1001-presto-practice-sections"
+        },
+        {
           "filename": "Bach_Violin-Sonata-No.1_4_Presto_[Fingered].ly",
           "stem": "Bach_Violin-Sonata-No.1_4_Presto_[Fingered]",
           "arrangement": "Fingered"
         },
         {
-          "filename": "Annotation-Styles-Example.ly",
-          "stem": "Annotation-Styles-Example"
+          "filename": "bwv1001-presto-practice-sections-v3.ly",
+          "stem": "bwv1001-presto-practice-sections-v3"
         },
         {
           "filename": "Bach_Violin-Sonata-No.1_4_Presto_[Practice].ly",
@@ -657,16 +716,8 @@
           "arrangement": "Practice"
         },
         {
-          "filename": "bwv1001-presto-practice-sections-v3.ly",
-          "stem": "bwv1001-presto-practice-sections-v3"
-        },
-        {
-          "filename": "Bach_Violin-Sonata-No.1_4_Presto.ly",
-          "stem": "Bach_Violin-Sonata-No.1_4_Presto"
-        },
-        {
-          "filename": "bwv1001-presto-practice-sections.ly",
-          "stem": "bwv1001-presto-practice-sections"
+          "filename": "Annotation-Styles-Example.ly",
+          "stem": "Annotation-Styles-Example"
         }
       ],
       "svg_files": [
@@ -1016,12 +1067,12 @@
       "tune_folder": "Dvorak_Humoresque",
       "variants": [
         {
-          "filename": "Dvorak_Humoresque.ly",
-          "stem": "Dvorak_Humoresque"
-        },
-        {
           "filename": "humoresque-rythm.ly",
           "stem": "humoresque-rythm"
+        },
+        {
+          "filename": "Dvorak_Humoresque.ly",
+          "stem": "Dvorak_Humoresque"
         }
       ],
       "svg_files": [
@@ -1056,12 +1107,16 @@
       "tune_folder": "Eccles_The-Mad-Lover",
       "variants": [
         {
-          "filename": "The-Mad-Lover_part_Bass.ly",
-          "stem": "The-Mad-Lover_part_Bass"
+          "filename": "The-Mad-Lover_(Em)_part_Viola.ly",
+          "stem": "The-Mad-Lover_(Em)_part_Viola"
         },
         {
-          "filename": "The-Mad-Lover_(Em)_part_Violin.ly",
-          "stem": "The-Mad-Lover_(Em)_part_Violin"
+          "filename": "The-Mad-Lover_(Em)_part_Bass.ly",
+          "stem": "The-Mad-Lover_(Em)_part_Bass"
+        },
+        {
+          "filename": "The-Mad-Lover_part_Bass.ly",
+          "stem": "The-Mad-Lover_part_Bass"
         },
         {
           "filename": "The-Mad-Lover_part_Violin.ly",
@@ -1072,16 +1127,12 @@
           "stem": "The-Mad-Lover_part_Viola"
         },
         {
-          "filename": "The-Mad-Lover_(Em)_part_Viola.ly",
-          "stem": "The-Mad-Lover_(Em)_part_Viola"
-        },
-        {
-          "filename": "The-Mad-Lover_(Em)_part_Bass.ly",
-          "stem": "The-Mad-Lover_(Em)_part_Bass"
-        },
-        {
           "filename": "The-Mad-Lover_(Em)_Full-Score.ly",
           "stem": "The-Mad-Lover_(Em)_Full-Score"
+        },
+        {
+          "filename": "The-Mad-Lover_(Em)_part_Violin.ly",
+          "stem": "The-Mad-Lover_(Em)_part_Violin"
         }
       ],
       "svg_files": [
@@ -1144,16 +1195,16 @@
       "tune_folder": "Erik_Satie_Gymnopédie",
       "variants": [
         {
-          "filename": "gymnopedie_1_Violin.ly",
-          "stem": "gymnopedie_1_Violin"
+          "filename": "gymnopedie_v2.ly",
+          "stem": "gymnopedie_v2"
         },
         {
           "filename": "gymnopedie.ly",
           "stem": "gymnopedie"
         },
         {
-          "filename": "gymnopedie_v2.ly",
-          "stem": "gymnopedie_v2"
+          "filename": "gymnopedie_1_Violin.ly",
+          "stem": "gymnopedie_1_Violin"
         }
       ],
       "svg_files": [
@@ -1254,10 +1305,6 @@
           "arrangement": "Vivaldi-RV63"
         },
         {
-          "filename": "Folia.ly",
-          "stem": "Folia"
-        },
-        {
           "filename": "Opening-of-Folias_[Lopez-Nogueira].ly",
           "stem": "Opening-of-Folias_[Lopez-Nogueira]",
           "arrangement": "Lopez-Nogueira"
@@ -1268,13 +1315,17 @@
           "key_variant": "Dm"
         },
         {
+          "filename": "Variazioni-sulla-follia-di-Spagna.ly",
+          "stem": "Variazioni-sulla-follia-di-Spagna"
+        },
+        {
+          "filename": "Folia.ly",
+          "stem": "Folia"
+        },
+        {
           "filename": "Folia_[Corelli].ly",
           "stem": "Folia_[Corelli]",
           "arrangement": "Corelli"
-        },
-        {
-          "filename": "Variazioni-sulla-follia-di-Spagna.ly",
-          "stem": "Variazioni-sulla-follia-di-Spagna"
         }
       ],
       "svg_files": [
@@ -1433,12 +1484,12 @@
       "tune_folder": "Kreisler_Liebesleid_Love's-Sorrow",
       "variants": [
         {
-          "filename": "Liebesleid-(Love‘s-Sorrow).ly",
-          "stem": "Liebesleid-(Love‘s-Sorrow)"
-        },
-        {
           "filename": "Liebesleid_MuseScore_Violon+Piano.ly",
           "stem": "Liebesleid_MuseScore_Violon+Piano"
+        },
+        {
+          "filename": "Liebesleid-(Love‘s-Sorrow).ly",
+          "stem": "Liebesleid-(Love‘s-Sorrow)"
         }
       ],
       "svg_files": [
@@ -1738,16 +1789,16 @@
       "tune_folder": "Pachelbel_Canon-in-D",
       "variants": [
         {
-          "filename": "canon-in-D-Duet-2.ly",
-          "stem": "canon-in-D-Duet-2"
-        },
-        {
           "filename": "canon-in-D-Violin-I._-NEW-relative.ly",
           "stem": "canon-in-D-Violin-I._-NEW-relative"
         },
         {
           "filename": "canon-in-D-Rock-Violin.ly",
           "stem": "canon-in-D-Rock-Violin"
+        },
+        {
+          "filename": "canon-in-D-Duet-2.ly",
+          "stem": "canon-in-D-Duet-2"
         },
         {
           "filename": "Pachelbel-Canon-in-D.ly",
@@ -2400,24 +2451,20 @@
       "tune_folder": "Vivaldi-Summer-Presto",
       "variants": [
         {
-          "filename": "summer-violin1.ly",
-          "stem": "summer-violin1"
-        },
-        {
-          "filename": "summer-viola.ly",
-          "stem": "summer-viola"
-        },
-        {
           "filename": "summer-solo.ly",
           "stem": "summer-solo"
         },
         {
-          "filename": "summer-score.ly",
-          "stem": "summer-score"
+          "filename": "summer-violin1.ly",
+          "stem": "summer-violin1"
         },
         {
           "filename": "summer-cello.ly",
           "stem": "summer-cello"
+        },
+        {
+          "filename": "summer-viola.ly",
+          "stem": "summer-viola"
         },
         {
           "filename": "summer-violin2.ly",
@@ -2426,6 +2473,10 @@
         {
           "filename": "summer-presto-solo.ly",
           "stem": "summer-presto-solo"
+        },
+        {
+          "filename": "summer-score.ly",
+          "stem": "summer-score"
         }
       ],
       "svg_files": [
@@ -2686,6 +2737,15 @@
       "tune_folder": "Kreutzer_Etude-No.-2",
       "variants": [
         {
+          "filename": "Kreutzer_Etude-No.-2.ly",
+          "stem": "Kreutzer_Etude-No.-2"
+        },
+        {
+          "filename": "Kreutzer_Etude-No.-2_[Practice].ly",
+          "stem": "Kreutzer_Etude-No.-2_[Practice]",
+          "arrangement": "Practice"
+        },
+        {
           "filename": "Kreutzer_Etude-No.-2_(A).ly",
           "stem": "Kreutzer_Etude-No.-2_(A)",
           "key_variant": "A"
@@ -2694,15 +2754,6 @@
           "filename": "Kreutzer_Etude-No.-2_[Shifting].ly",
           "stem": "Kreutzer_Etude-No.-2_[Shifting]",
           "arrangement": "Shifting"
-        },
-        {
-          "filename": "Kreutzer_Etude-No.-2_[Practice].ly",
-          "stem": "Kreutzer_Etude-No.-2_[Practice]",
-          "arrangement": "Practice"
-        },
-        {
-          "filename": "Kreutzer_Etude-No.-2.ly",
-          "stem": "Kreutzer_Etude-No.-2"
         }
       ],
       "svg_files": [
@@ -2904,14 +2955,23 @@
       "tune_folder": "Greensleeves",
       "variants": [
         {
+          "filename": "Greensleeves_[Guitar-Vocal].ly",
+          "stem": "Greensleeves_[Guitar-Vocal]",
+          "arrangement": "Guitar-Vocal"
+        },
+        {
+          "filename": "Greensleeves_[Landscape].ly",
+          "stem": "Greensleeves_[Landscape]",
+          "arrangement": "Landscape"
+        },
+        {
+          "filename": "greensleeves.ly",
+          "stem": "greensleeves"
+        },
+        {
           "filename": "Greensleeves_[Melody].ly",
           "stem": "Greensleeves_[Melody]",
           "arrangement": "Melody"
-        },
-        {
-          "filename": "Greensleeves_[Jig].ly",
-          "stem": "Greensleeves_[Jig]",
-          "arrangement": "Jig"
         },
         {
           "filename": "Greensleeves_(Em).ly",
@@ -2919,18 +2979,9 @@
           "key_variant": "Em"
         },
         {
-          "filename": "Greensleeves_[Guitar-Vocal].ly",
-          "stem": "Greensleeves_[Guitar-Vocal]",
-          "arrangement": "Guitar-Vocal"
-        },
-        {
-          "filename": "greensleeves.ly",
-          "stem": "greensleeves"
-        },
-        {
-          "filename": "Greensleeves_[Landscape].ly",
-          "stem": "Greensleeves_[Landscape]",
-          "arrangement": "Landscape"
+          "filename": "Greensleeves_[Jig].ly",
+          "stem": "Greensleeves_[Jig]",
+          "arrangement": "Jig"
         }
       ],
       "svg_files": [
@@ -3001,13 +3052,13 @@
       "tune_folder": "Emma_(Waltz)",
       "variants": [
         {
+          "filename": "Emma_(Waltz).ly",
+          "stem": "Emma_(Waltz)"
+        },
+        {
           "filename": "Emma_(Waltz)_(Dm).ly",
           "stem": "Emma_(Waltz)_(Dm)",
           "key_variant": "Dm"
-        },
-        {
-          "filename": "Emma_(Waltz).ly",
-          "stem": "Emma_(Waltz)"
         },
         {
           "filename": "Emma_(Waltz)_(Em).ly",
@@ -3053,6 +3104,11 @@
       "tune_folder": "Ievan-Polkka",
       "variants": [
         {
+          "filename": "Ievan-Polkka_(Dm).ly",
+          "stem": "Ievan-Polkka_(Dm)",
+          "key_variant": "Dm"
+        },
+        {
           "filename": "Ievan-Polkka_[MuseScore].ly",
           "stem": "Ievan-Polkka_[MuseScore]",
           "arrangement": "MuseScore"
@@ -3060,11 +3116,6 @@
         {
           "filename": "Ievan-Polkka.ly",
           "stem": "Ievan-Polkka"
-        },
-        {
-          "filename": "Ievan-Polkka_(Dm).ly",
-          "stem": "Ievan-Polkka_(Dm)",
-          "key_variant": "Dm"
         }
       ],
       "svg_files": [
@@ -3143,13 +3194,13 @@
       "tune_folder": "Au-Clair-de-la-Lune",
       "variants": [
         {
-          "filename": "Au-Clair-de-la-Lune.ly",
-          "stem": "Au-Clair-de-la-Lune"
-        },
-        {
           "filename": "Au-Clair-de-la-Lune_[4 Verses].ly",
           "stem": "Au-Clair-de-la-Lune_[4 Verses]",
           "arrangement": "4 Verses"
+        },
+        {
+          "filename": "Au-Clair-de-la-Lune.ly",
+          "stem": "Au-Clair-de-la-Lune"
         }
       ],
       "svg_files": [
@@ -3551,13 +3602,13 @@
       "tune_folder": "Mori-Shej",
       "variants": [
         {
-          "filename": "Mori-Shej.ly",
-          "stem": "Mori-Shej"
-        },
-        {
           "filename": "Mori-Shej_[v2].ly",
           "stem": "Mori-Shej_[v2]",
           "arrangement": "v2"
+        },
+        {
+          "filename": "Mori-Shej.ly",
+          "stem": "Mori-Shej"
         }
       ],
       "svg_files": [
@@ -3730,13 +3781,13 @@
       "tune_folder": "Darby-O-Gill_Fox-Chase",
       "variants": [
         {
+          "filename": "Darby-O-Gill_Fox-Chase.ly",
+          "stem": "Darby-O-Gill_Fox-Chase"
+        },
+        {
           "filename": "Darby-O-Gill_Fox-Chase_[Short].ly",
           "stem": "Darby-O-Gill_Fox-Chase_[Short]",
           "arrangement": "Short"
-        },
-        {
-          "filename": "Darby-O-Gill_Fox-Chase.ly",
-          "stem": "Darby-O-Gill_Fox-Chase"
         }
       ],
       "svg_files": [
@@ -3779,13 +3830,13 @@
       "tune_folder": "Dr-Gilbert",
       "variants": [
         {
-          "filename": "Dr-Gilbert.ly",
-          "stem": "Dr-Gilbert"
-        },
-        {
           "filename": "Dr-Gilbert_[Matt Cranitch's Book].ly",
           "stem": "Dr-Gilbert_[Matt Cranitch's Book]",
           "arrangement": "Matt Cranitch's Book"
+        },
+        {
+          "filename": "Dr-Gilbert.ly",
+          "stem": "Dr-Gilbert"
         }
       ],
       "svg_files": [
@@ -3829,14 +3880,9 @@
       "tune_folder": "Gary-Owen",
       "variants": [
         {
-          "filename": "Gary-Owen_(A).ly",
-          "stem": "Gary-Owen_(A)",
-          "key_variant": "A"
-        },
-        {
-          "filename": "Gary-Owen_(D).ly",
-          "stem": "Gary-Owen_(D)",
-          "key_variant": "D"
+          "filename": "Gary-Owen_(Bb).ly",
+          "stem": "Gary-Owen_(Bb)",
+          "key_variant": "Bb"
         },
         {
           "filename": "Gary-Owen_(G).ly",
@@ -3844,13 +3890,18 @@
           "key_variant": "G"
         },
         {
-          "filename": "Gary-Owen.ly",
-          "stem": "Gary-Owen"
+          "filename": "Gary-Owen_(D).ly",
+          "stem": "Gary-Owen_(D)",
+          "key_variant": "D"
         },
         {
-          "filename": "Gary-Owen_(Bb).ly",
-          "stem": "Gary-Owen_(Bb)",
-          "key_variant": "Bb"
+          "filename": "Gary-Owen_(A).ly",
+          "stem": "Gary-Owen_(A)",
+          "key_variant": "A"
+        },
+        {
+          "filename": "Gary-Owen.ly",
+          "stem": "Gary-Owen"
         }
       ],
       "svg_files": [
@@ -3945,13 +3996,13 @@
       "tune_folder": "Molly-Ban",
       "variants": [
         {
-          "filename": "Molly-Ban.ly",
-          "stem": "Molly-Ban"
-        },
-        {
           "filename": "Molly-Ban_[Cloch Choinne Céilí Band].ly",
           "stem": "Molly-Ban_[Cloch Choinne Céilí Band]",
           "arrangement": "Cloch Choinne Céilí Band"
+        },
+        {
+          "filename": "Molly-Ban.ly",
+          "stem": "Molly-Ban"
         }
       ],
       "svg_files": [
@@ -4040,8 +4091,10 @@
           "arrangement": "Easy"
         },
         {
-          "filename": "Swallowtail-Jig.ly",
-          "stem": "Swallowtail-Jig"
+          "filename": "Swallowtail-Jig_[Easy]_(G).ly",
+          "stem": "Swallowtail-Jig_[Easy]_(G)",
+          "key_variant": "G",
+          "arrangement": "Easy"
         },
         {
           "filename": "Swallowtail-Jig_[Ornaments].ly",
@@ -4049,10 +4102,8 @@
           "arrangement": "Ornaments"
         },
         {
-          "filename": "Swallowtail-Jig_[Easy]_(G).ly",
-          "stem": "Swallowtail-Jig_[Easy]_(G)",
-          "key_variant": "G",
-          "arrangement": "Easy"
+          "filename": "Swallowtail-Jig.ly",
+          "stem": "Swallowtail-Jig"
         }
       ],
       "svg_files": [
@@ -4345,12 +4396,12 @@
       "tune_folder": "The-Rights-of-Man",
       "variants": [
         {
-          "filename": "The-Rights-of-Man.ly",
-          "stem": "The-Rights-of-Man"
-        },
-        {
           "filename": "The-Rights-of-Man[Adele-Dulahan].ly",
           "stem": "The-Rights-of-Man[Adele-Dulahan]"
+        },
+        {
+          "filename": "The-Rights-of-Man.ly",
+          "stem": "The-Rights-of-Man"
         }
       ],
       "svg_files": [
@@ -4550,14 +4601,9 @@
       "tune_folder": "Bella-Ciao",
       "variants": [
         {
-          "filename": "bella-ciao_(Am).ly",
-          "stem": "bella-ciao_(Am)",
-          "key_variant": "Am"
-        },
-        {
-          "filename": "bella-ciao_(Gm).ly",
-          "stem": "bella-ciao_(Gm)",
-          "key_variant": "Gm"
+          "filename": "bella-ciao_(Em).ly",
+          "stem": "bella-ciao_(Em)",
+          "key_variant": "Em"
         },
         {
           "filename": "Bella-Ciao_[v2].ly",
@@ -4565,13 +4611,18 @@
           "arrangement": "v2"
         },
         {
-          "filename": "bella-ciao_(Em).ly",
-          "stem": "bella-ciao_(Em)",
-          "key_variant": "Em"
+          "filename": "bella-ciao_(Am).ly",
+          "stem": "bella-ciao_(Am)",
+          "key_variant": "Am"
         },
         {
           "filename": "bella-ciao.ly",
           "stem": "bella-ciao"
+        },
+        {
+          "filename": "bella-ciao_(Gm).ly",
+          "stem": "bella-ciao_(Gm)",
+          "key_variant": "Gm"
         }
       ],
       "svg_files": [
@@ -4666,9 +4717,8 @@
       "tune_folder": "Chosen-Kalle-Mazel-Tov",
       "variants": [
         {
-          "filename": "Chosen-Kalle-Mazel-Tov_(Dm).ly",
-          "stem": "Chosen-Kalle-Mazel-Tov_(Dm)",
-          "key_variant": "Dm"
+          "filename": "Chosen-Kalle-Mazel-Tov.ly",
+          "stem": "Chosen-Kalle-Mazel-Tov"
         },
         {
           "filename": "Chosen-Kalle-Mazel-Tov_(Am).ly",
@@ -4676,18 +4726,19 @@
           "key_variant": "Am"
         },
         {
+          "filename": "Chosen-Kalle-Mazel-Tov_(Gm).ly",
+          "stem": "Chosen-Kalle-Mazel-Tov_(Gm)",
+          "key_variant": "Gm"
+        },
+        {
           "filename": "Chosen-Kalle-Mazel-Tov_(Em).ly",
           "stem": "Chosen-Kalle-Mazel-Tov_(Em)",
           "key_variant": "Em"
         },
         {
-          "filename": "Chosen-Kalle-Mazel-Tov.ly",
-          "stem": "Chosen-Kalle-Mazel-Tov"
-        },
-        {
-          "filename": "Chosen-Kalle-Mazel-Tov_(Gm).ly",
-          "stem": "Chosen-Kalle-Mazel-Tov_(Gm)",
-          "key_variant": "Gm"
+          "filename": "Chosen-Kalle-Mazel-Tov_(Dm).ly",
+          "stem": "Chosen-Kalle-Mazel-Tov_(Dm)",
+          "key_variant": "Dm"
         }
       ],
       "svg_files": [
@@ -4733,9 +4784,18 @@
           "key_variant": "Em"
         },
         {
-          "filename": "Erev-shel-Shoshanim_(Dm).ly",
-          "stem": "Erev-shel-Shoshanim_(Dm)",
-          "key_variant": "Dm"
+          "filename": "Erev-shel-Shoshanim.ly",
+          "stem": "Erev-shel-Shoshanim"
+        },
+        {
+          "filename": "Erev-shel-Shoshanim_(Bm).ly",
+          "stem": "Erev-shel-Shoshanim_(Bm)",
+          "key_variant": "Bm"
+        },
+        {
+          "filename": "Erev-shel-Shoshanim_(Gm).ly",
+          "stem": "Erev-shel-Shoshanim_(Gm)",
+          "key_variant": "Gm"
         },
         {
           "filename": "Erev-shel-Shoshanim_(Fm).ly",
@@ -4743,14 +4803,14 @@
           "key_variant": "Fm"
         },
         {
+          "filename": "Erev-shel-Shoshanim_(Dm).ly",
+          "stem": "Erev-shel-Shoshanim_(Dm)",
+          "key_variant": "Dm"
+        },
+        {
           "filename": "Erev-shel-Shoshanim_(Am).ly",
           "stem": "Erev-shel-Shoshanim_(Am)",
           "key_variant": "Am"
-        },
-        {
-          "filename": "Erev-shel-Shoshanim_(Gm).ly",
-          "stem": "Erev-shel-Shoshanim_(Gm)",
-          "key_variant": "Gm"
         },
         {
           "filename": "Erev-shel-Shoshanim_(F#m).ly",
@@ -4761,15 +4821,6 @@
           "filename": "Erev-shel-Shoshanim_(Cm).ly",
           "stem": "Erev-shel-Shoshanim_(Cm)",
           "key_variant": "Cm"
-        },
-        {
-          "filename": "Erev-shel-Shoshanim.ly",
-          "stem": "Erev-shel-Shoshanim"
-        },
-        {
-          "filename": "Erev-shel-Shoshanim_(Bm).ly",
-          "stem": "Erev-shel-Shoshanim_(Bm)",
-          "key_variant": "Bm"
         }
       ],
       "svg_files": [
@@ -4862,6 +4913,11 @@
       "tune_folder": "Hevenu-Shalom-Aleichem",
       "variants": [
         {
+          "filename": "Hevenu-Shalom-Aleichem_(Cm).ly",
+          "stem": "Hevenu-Shalom-Aleichem_(Cm)",
+          "key_variant": "Cm"
+        },
+        {
           "filename": "Hevenu-Shalom-Aleichem_(Dm).ly",
           "stem": "Hevenu-Shalom-Aleichem_(Dm)",
           "key_variant": "Dm"
@@ -4870,11 +4926,6 @@
           "filename": "Hevenu-Shalom-Aleichem_(C#m).ly",
           "stem": "Hevenu-Shalom-Aleichem_(C#m)",
           "key_variant": "C#m"
-        },
-        {
-          "filename": "Hevenu-Shalom-Aleichem_(Cm).ly",
-          "stem": "Hevenu-Shalom-Aleichem_(Cm)",
-          "key_variant": "Cm"
         }
       ],
       "svg_files": [
@@ -4949,13 +5000,9 @@
       "tune_folder": "Numi-numi",
       "variants": [
         {
-          "filename": "Numi-numi.ly",
-          "stem": "Numi-numi"
-        },
-        {
-          "filename": "Numi-numi_(Cm).ly",
-          "stem": "Numi-numi_(Cm)",
-          "key_variant": "Cm"
+          "filename": "Numi-numi_(Bm).ly",
+          "stem": "Numi-numi_(Bm)",
+          "key_variant": "Bm"
         },
         {
           "filename": "Numi-numi_(Dm).ly",
@@ -4963,9 +5010,13 @@
           "key_variant": "Dm"
         },
         {
-          "filename": "Numi-numi_(Bm).ly",
-          "stem": "Numi-numi_(Bm)",
-          "key_variant": "Bm"
+          "filename": "Numi-numi.ly",
+          "stem": "Numi-numi"
+        },
+        {
+          "filename": "Numi-numi_(Cm).ly",
+          "stem": "Numi-numi_(Cm)",
+          "key_variant": "Cm"
         }
       ],
       "svg_files": [
@@ -5011,9 +5062,18 @@
       "tune_folder": "Papirosen",
       "variants": [
         {
+          "filename": "Papirosen_(Dm).ly",
+          "stem": "Papirosen_(Dm)",
+          "key_variant": "Dm"
+        },
+        {
           "filename": "Papirosen_(Am).ly",
           "stem": "Papirosen_(Am)",
           "key_variant": "Am"
+        },
+        {
+          "filename": "Papirosen.ly",
+          "stem": "Papirosen"
         },
         {
           "filename": "Papirosen_(Cm).ly",
@@ -5024,15 +5084,6 @@
           "filename": "Papirosen_(Gm).ly",
           "stem": "Papirosen_(Gm)",
           "key_variant": "Gm"
-        },
-        {
-          "filename": "Papirosen_(Dm).ly",
-          "stem": "Papirosen_(Dm)",
-          "key_variant": "Dm"
-        },
-        {
-          "filename": "Papirosen.ly",
-          "stem": "Papirosen"
         }
       ],
       "svg_files": [
@@ -5271,14 +5322,19 @@
       "tune_folder": "Katyusha",
       "variants": [
         {
+          "filename": "Katyusha_(Dm).ly",
+          "stem": "Katyusha_(Dm)",
+          "key_variant": "Dm"
+        },
+        {
+          "filename": "Katyusha_(Am).ly",
+          "stem": "Katyusha_(Am)",
+          "key_variant": "Am"
+        },
+        {
           "filename": "Katyusha_(Em).ly",
           "stem": "Katyusha_(Em)",
           "key_variant": "Em"
-        },
-        {
-          "filename": "Katyusha_(Gm).ly",
-          "stem": "Katyusha_(Gm)",
-          "key_variant": "Gm"
         },
         {
           "filename": "Katyusha_(Cm).ly",
@@ -5286,18 +5342,13 @@
           "key_variant": "Cm"
         },
         {
-          "filename": "Katyusha_(Dm).ly",
-          "stem": "Katyusha_(Dm)",
-          "key_variant": "Dm"
+          "filename": "Katyusha_(Gm).ly",
+          "stem": "Katyusha_(Gm)",
+          "key_variant": "Gm"
         },
         {
           "filename": "Katyusha.ly",
           "stem": "Katyusha"
-        },
-        {
-          "filename": "Katyusha_(Am).ly",
-          "stem": "Katyusha_(Am)",
-          "key_variant": "Am"
         },
         {
           "filename": "Katyusha_(Bm).ly",
@@ -5359,9 +5410,9 @@
       "tune_folder": "Korobeiniki-Tetris",
       "variants": [
         {
-          "filename": "Korobeiniki-Tetris_(Gm).ly",
-          "stem": "Korobeiniki-Tetris_(Gm)",
-          "key_variant": "Gm"
+          "filename": "Korobeiniki-Tetris_(Am).ly",
+          "stem": "Korobeiniki-Tetris_(Am)",
+          "key_variant": "Am"
         },
         {
           "filename": "Korobeiniki-Tetris_(Fm).ly",
@@ -5369,23 +5420,23 @@
           "key_variant": "Fm"
         },
         {
-          "filename": "Korobeiniki-Tetris_(Am).ly",
-          "stem": "Korobeiniki-Tetris_(Am)",
-          "key_variant": "Am"
-        },
-        {
-          "filename": "Korobeiniki-Tetris_(Dm).ly",
-          "stem": "Korobeiniki-Tetris_(Dm)",
-          "key_variant": "Dm"
+          "filename": "Korobeiniki-Tetris_(Em).ly",
+          "stem": "Korobeiniki-Tetris_(Em)",
+          "key_variant": "Em"
         },
         {
           "filename": "Korobeiniki-Tetris.ly",
           "stem": "Korobeiniki-Tetris"
         },
         {
-          "filename": "Korobeiniki-Tetris_(Em).ly",
-          "stem": "Korobeiniki-Tetris_(Em)",
-          "key_variant": "Em"
+          "filename": "Korobeiniki-Tetris_(Gm).ly",
+          "stem": "Korobeiniki-Tetris_(Gm)",
+          "key_variant": "Gm"
+        },
+        {
+          "filename": "Korobeiniki-Tetris_(Dm).ly",
+          "stem": "Korobeiniki-Tetris_(Dm)",
+          "key_variant": "Dm"
         }
       ],
       "svg_files": [
@@ -5463,11 +5514,6 @@
       "tune_folder": "Polyushko-pole",
       "variants": [
         {
-          "filename": "Polyushko-Pole_(Dm).ly",
-          "stem": "Polyushko-Pole_(Dm)",
-          "key_variant": "Dm"
-        },
-        {
           "filename": "Polyushko-Pole_(Am).ly",
           "stem": "Polyushko-Pole_(Am)",
           "key_variant": "Am"
@@ -5485,6 +5531,11 @@
           "filename": "Polyushko-Pole_(Gm).ly",
           "stem": "Polyushko-Pole_(Gm)",
           "key_variant": "Gm"
+        },
+        {
+          "filename": "Polyushko-Pole_(Dm).ly",
+          "stem": "Polyushko-Pole_(Dm)",
+          "key_variant": "Dm"
         }
       ],
       "svg_files": [
@@ -5530,18 +5581,18 @@
       "tune_folder": "Tsiganisky",
       "variants": [
         {
-          "filename": "Tsiganisky_(Gm).ly",
-          "stem": "Tsiganisky_(Gm)",
-          "key_variant": "Gm"
+          "filename": "Tsiganisky_(Am).ly",
+          "stem": "Tsiganisky_(Am)",
+          "key_variant": "Am"
         },
         {
           "filename": "Tsiganisky.ly",
           "stem": "Tsiganisky"
         },
         {
-          "filename": "Tsiganisky_(Am).ly",
-          "stem": "Tsiganisky_(Am)",
-          "key_variant": "Am"
+          "filename": "Tsiganisky_(Gm).ly",
+          "stem": "Tsiganisky_(Gm)",
+          "key_variant": "Gm"
         }
       ],
       "svg_files": [
@@ -5616,11 +5667,6 @@
       "tune_folder": "Auld-Lang-Syne",
       "variants": [
         {
-          "filename": "Auld-Lang-Syne_[Beethoven].ly",
-          "stem": "Auld-Lang-Syne_[Beethoven]",
-          "arrangement": "Beethoven"
-        },
-        {
           "filename": "Auld-Lang-Syne_(in-D).ly",
           "stem": "Auld-Lang-Syne_(in-D)"
         },
@@ -5633,6 +5679,11 @@
           "filename": "Auld-Lang-Syne_[with lyrics].ly",
           "stem": "Auld-Lang-Syne_[with lyrics]",
           "arrangement": "with lyrics"
+        },
+        {
+          "filename": "Auld-Lang-Syne_[Beethoven].ly",
+          "stem": "Auld-Lang-Syne_[Beethoven]",
+          "arrangement": "Beethoven"
         },
         {
           "filename": "Auld-Lang-Syne_[Jig].ly",
@@ -5878,6 +5929,16 @@
       "tune_folder": "Down-To-The-River-To-Pray",
       "variants": [
         {
+          "filename": "Down-To-The-River-To-Pray_(G).ly",
+          "stem": "Down-To-The-River-To-Pray_(G)",
+          "key_variant": "G"
+        },
+        {
+          "filename": "Down-To-The-River-To-Pray_(E).ly",
+          "stem": "Down-To-The-River-To-Pray_(E)",
+          "key_variant": "E"
+        },
+        {
           "filename": "Down-To-The-River-To-Pray_(A).ly",
           "stem": "Down-To-The-River-To-Pray_(A)",
           "key_variant": "A"
@@ -5886,16 +5947,6 @@
           "filename": "Down-To-The-River-To-Pray_(Bb).ly",
           "stem": "Down-To-The-River-To-Pray_(Bb)",
           "key_variant": "Bb"
-        },
-        {
-          "filename": "Down-To-The-River-To-Pray_(E).ly",
-          "stem": "Down-To-The-River-To-Pray_(E)",
-          "key_variant": "E"
-        },
-        {
-          "filename": "Down-To-The-River-To-Pray_(G).ly",
-          "stem": "Down-To-The-River-To-Pray_(G)",
-          "key_variant": "G"
         }
       ],
       "svg_files": [
@@ -5945,13 +5996,13 @@
       "tune_folder": "Jerusalem-Ridge",
       "variants": [
         {
+          "filename": "Jerusalem-Ridge.ly",
+          "stem": "Jerusalem-Ridge"
+        },
+        {
           "filename": "Jerusalem-Ridge_[Kenny-Baker].ly",
           "stem": "Jerusalem-Ridge_[Kenny-Baker]",
           "arrangement": "Kenny-Baker"
-        },
-        {
-          "filename": "Jerusalem-Ridge.ly",
-          "stem": "Jerusalem-Ridge"
         }
       ],
       "svg_files": [
@@ -6075,14 +6126,9 @@
       "tune_folder": "The-Star-Spangled-Banner",
       "variants": [
         {
-          "filename": "The-Star-Spangled-Banner_(C).ly",
-          "stem": "The-Star-Spangled-Banner_(C)",
-          "key_variant": "C"
-        },
-        {
-          "filename": "The-Star-Spangled-Banner_[SATB].ly",
-          "stem": "The-Star-Spangled-Banner_[SATB]",
-          "arrangement": "SATB"
+          "filename": "The-Star-Spangled-Banner_(Eb).ly",
+          "stem": "The-Star-Spangled-Banner_(Eb)",
+          "key_variant": "Eb"
         },
         {
           "filename": "The-Star-Spangled-Banner_(A).ly",
@@ -6090,8 +6136,9 @@
           "key_variant": "A"
         },
         {
-          "filename": "The-Star-Spangled-Banner.ly",
-          "stem": "The-Star-Spangled-Banner"
+          "filename": "The-Star-Spangled-Banner_(G).ly",
+          "stem": "The-Star-Spangled-Banner_(G)",
+          "key_variant": "G"
         },
         {
           "filename": "The-Star-Spangled-Banner_(D).ly",
@@ -6099,19 +6146,23 @@
           "key_variant": "D"
         },
         {
+          "filename": "The-Star-Spangled-Banner_[SATB].ly",
+          "stem": "The-Star-Spangled-Banner_[SATB]",
+          "arrangement": "SATB"
+        },
+        {
+          "filename": "The-Star-Spangled-Banner.ly",
+          "stem": "The-Star-Spangled-Banner"
+        },
+        {
+          "filename": "The-Star-Spangled-Banner_(C).ly",
+          "stem": "The-Star-Spangled-Banner_(C)",
+          "key_variant": "C"
+        },
+        {
           "filename": "The-Star-Spangled-Banner_(B).ly",
           "stem": "The-Star-Spangled-Banner_(B)",
           "key_variant": "B"
-        },
-        {
-          "filename": "The-Star-Spangled-Banner_(G).ly",
-          "stem": "The-Star-Spangled-Banner_(G)",
-          "key_variant": "G"
-        },
-        {
-          "filename": "The-Star-Spangled-Banner_(Eb).ly",
-          "stem": "The-Star-Spangled-Banner_(Eb)",
-          "key_variant": "Eb"
         }
       ],
       "svg_files": [
@@ -6301,12 +6352,12 @@
           "stem": "Blue_Lou_Marc"
         },
         {
-          "filename": "Blue-Lou_Chords.ly",
-          "stem": "Blue-Lou_Chords"
-        },
-        {
           "filename": "Blue_Lou_Licks.ly",
           "stem": "Blue_Lou_Licks"
+        },
+        {
+          "filename": "Blue-Lou_Chords.ly",
+          "stem": "Blue-Lou_Chords"
         }
       ],
       "svg_files": [
@@ -6347,16 +6398,16 @@
       "tune_folder": "Blues-en-Mineur",
       "variants": [
         {
-          "filename": "Blues-en-Mineur-Serge-Krief.ly",
-          "stem": "Blues-en-Mineur-Serge-Krief"
+          "filename": "Blues-en-Mineur_Chords_Arpeggios.ly",
+          "stem": "Blues-en-Mineur_Chords_Arpeggios"
         },
         {
           "filename": "Blues-en-Mineur.ly",
           "stem": "Blues-en-Mineur"
         },
         {
-          "filename": "Blues-en-Mineur_Chords_Arpeggios.ly",
-          "stem": "Blues-en-Mineur_Chords_Arpeggios"
+          "filename": "Blues-en-Mineur-Serge-Krief.ly",
+          "stem": "Blues-en-Mineur-Serge-Krief"
         }
       ],
       "svg_files": [
@@ -6465,13 +6516,13 @@
       "tune_folder": "Indifférence_Valse_Musette",
       "variants": [
         {
+          "filename": "Indifférence.ly",
+          "stem": "Indifférence"
+        },
+        {
           "filename": "Indifférence_[Practice].ly",
           "stem": "Indifférence_[Practice]",
           "arrangement": "Practice"
-        },
-        {
-          "filename": "Indifférence.ly",
-          "stem": "Indifférence"
         }
       ],
       "svg_files": [
@@ -6539,23 +6590,23 @@
       "tune_folder": "Je-Cherche-Apres-Titine",
       "variants": [
         {
+          "filename": "Je cherche.ly",
+          "stem": "Je cherche"
+        },
+        {
           "filename": "Je-Cherche-Apres-Titine_[Melody].ly",
           "stem": "Je-Cherche-Apres-Titine_[Melody]",
           "arrangement": "Melody"
         },
         {
-          "filename": "Je-Cherche-Apres-Titine_[Henri-Crolla].ly",
-          "stem": "Je-Cherche-Apres-Titine_[Henri-Crolla]",
-          "arrangement": "Henri-Crolla"
-        },
-        {
-          "filename": "Je cherche.ly",
-          "stem": "Je cherche"
-        },
-        {
           "filename": "Je-Cherche-Apres-Titine_[Quartet].ly",
           "stem": "Je-Cherche-Apres-Titine_[Quartet]",
           "arrangement": "Quartet"
+        },
+        {
+          "filename": "Je-Cherche-Apres-Titine_[Henri-Crolla].ly",
+          "stem": "Je-Cherche-Apres-Titine_[Henri-Crolla]",
+          "arrangement": "Henri-Crolla"
         }
       ],
       "svg_files": [
@@ -6784,12 +6835,12 @@
       "tune_folder": "Rythmes-gitans",
       "variants": [
         {
-          "filename": "Rythmes-Gitans_Daisy.ly",
-          "stem": "Rythmes-Gitans_Daisy"
-        },
-        {
           "filename": "Practice-Gypsy-Rythmes-Gitans.ly",
           "stem": "Practice-Gypsy-Rythmes-Gitans"
+        },
+        {
+          "filename": "Rythmes-Gitans_Daisy.ly",
+          "stem": "Rythmes-Gitans_Daisy"
         },
         {
           "filename": "Rythmes-Gitans.ly",
@@ -6836,12 +6887,12 @@
       "tune_folder": "Si-Tu-Savais",
       "variants": [
         {
-          "filename": "Si-tu-savais-(Cm).ly",
-          "stem": "Si-tu-savais-(Cm)"
-        },
-        {
           "filename": "Si-Tu-Savais.ly",
           "stem": "Si-Tu-Savais"
+        },
+        {
+          "filename": "Si-tu-savais-(Cm).ly",
+          "stem": "Si-tu-savais-(Cm)"
         },
         {
           "filename": "Si-tu-savais-copy-Marc’s-iMac.ly",
@@ -7109,13 +7160,13 @@
       "tune_folder": "Autumn-leaves",
       "variants": [
         {
-          "filename": "Autumn-leaves.ly",
-          "stem": "Autumn-leaves"
-        },
-        {
           "filename": "Autumn-leaves_[v2].ly",
           "stem": "Autumn-leaves_[v2]",
           "arrangement": "v2"
+        },
+        {
+          "filename": "Autumn-leaves.ly",
+          "stem": "Autumn-leaves"
         }
       ],
       "svg_files": [
@@ -7193,6 +7244,10 @@
       "tune_folder": "Misty",
       "variants": [
         {
+          "filename": "Misty.ly",
+          "stem": "Misty"
+        },
+        {
           "filename": "Misty_[Grappelli].ly",
           "stem": "Misty_[Grappelli]",
           "arrangement": "Grappelli"
@@ -7201,10 +7256,6 @@
           "filename": "Misty_[MuseScore].ly",
           "stem": "Misty_[MuseScore]",
           "arrangement": "MuseScore"
-        },
-        {
-          "filename": "Misty.ly",
-          "stem": "Misty"
         },
         {
           "filename": "Misty_[Piano].ly",
@@ -7341,6 +7392,11 @@
           "key_variant": "Am"
         },
         {
+          "filename": "Besame-Mucho_(Dm).ly",
+          "stem": "Besame-Mucho_(Dm)",
+          "key_variant": "Dm"
+        },
+        {
           "filename": "Besame-Mucho.ly",
           "stem": "Besame-Mucho"
         },
@@ -7348,11 +7404,6 @@
           "filename": "Besame-Mucho_(Cm).ly",
           "stem": "Besame-Mucho_(Cm)",
           "key_variant": "Cm"
-        },
-        {
-          "filename": "Besame-Mucho_(Dm).ly",
-          "stem": "Besame-Mucho_(Dm)",
-          "key_variant": "Dm"
         }
       ],
       "svg_files": [
@@ -7472,14 +7523,14 @@
       "tune_folder": "Manha-de-Carnaval",
       "variants": [
         {
-          "filename": "Manha-de-Carnaval_(Am).ly",
-          "stem": "Manha-de-Carnaval_(Am)",
-          "key_variant": "Am"
-        },
-        {
           "filename": "Manha-de-Carnaval_(Gm)_[Perlman].ly",
           "stem": "Manha-de-Carnaval_(Gm)_[Perlman]",
           "arrangement": "Perlman"
+        },
+        {
+          "filename": "Manha-de-Carnaval_(Am).ly",
+          "stem": "Manha-de-Carnaval_(Am)",
+          "key_variant": "Am"
         }
       ],
       "svg_files": [
@@ -7802,12 +7853,12 @@
       "tune_folder": "Happy-Birthday",
       "variants": [
         {
-          "filename": "Happy-Birthday-Quartet.ly",
-          "stem": "Happy-Birthday-Quartet"
-        },
-        {
           "filename": "Happy-Birthday.ly",
           "stem": "Happy-Birthday"
+        },
+        {
+          "filename": "Happy-Birthday-Quartet.ly",
+          "stem": "Happy-Birthday-Quartet"
         }
       ],
       "svg_files": [
@@ -7881,13 +7932,13 @@
       "tune_folder": "Hier-Encore",
       "variants": [
         {
-          "filename": "Hier-Encore.ly",
-          "stem": "Hier-Encore"
-        },
-        {
           "filename": "Hier-Encore_(D).ly",
           "stem": "Hier-Encore_(D)",
           "key_variant": "D"
+        },
+        {
+          "filename": "Hier-Encore.ly",
+          "stem": "Hier-Encore"
         }
       ],
       "svg_files": [],
@@ -8039,13 +8090,13 @@
           "key_variant": "Am"
         },
         {
+          "filename": "Le-Pornographe.ly",
+          "stem": "Le-Pornographe"
+        },
+        {
           "filename": "Le-Pornographe_(Dm).ly",
           "stem": "Le-Pornographe_(Dm)",
           "key_variant": "Dm"
-        },
-        {
-          "filename": "Le-Pornographe.ly",
-          "stem": "Le-Pornographe"
         }
       ],
       "svg_files": [
@@ -8368,18 +8419,18 @@
       "tune_folder": "In-the-Mood-for-Love",
       "variants": [
         {
-          "filename": "In-the-Mood-for-Love_[Accompaniment].ly",
-          "stem": "In-the-Mood-for-Love_[Accompaniment]",
-          "arrangement": "Accompaniment"
+          "filename": "In-the-Mood-for-Love_[Practice].ly",
+          "stem": "In-the-Mood-for-Love_[Practice]",
+          "arrangement": "Practice"
         },
         {
           "filename": "In-the-Mood-for-Love.ly",
           "stem": "In-the-Mood-for-Love"
         },
         {
-          "filename": "In-the-Mood-for-Love_[Practice].ly",
-          "stem": "In-the-Mood-for-Love_[Practice]",
-          "arrangement": "Practice"
+          "filename": "In-the-Mood-for-Love_[Accompaniment].ly",
+          "stem": "In-the-Mood-for-Love_[Accompaniment]",
+          "arrangement": "Accompaniment"
         }
       ],
       "svg_files": [
@@ -8529,13 +8580,13 @@
       "tune_folder": "Schindlers_List",
       "variants": [
         {
+          "filename": "Practice-Theme-from-Schindler-s-List.ly",
+          "stem": "Practice-Theme-from-Schindler-s-List"
+        },
+        {
           "filename": "Schindlers_List_[Quartet].ly",
           "stem": "Schindlers_List_[Quartet]",
           "arrangement": "Quartet"
-        },
-        {
-          "filename": "Practice-Theme-from-Schindler-s-List.ly",
-          "stem": "Practice-Theme-from-Schindler-s-List"
         },
         {
           "filename": "Schindlers_List.ly",
@@ -8666,13 +8717,13 @@
       "tune_folder": "Mendelssohn_Wedding-March",
       "variants": [
         {
-          "filename": "Mendelssohn_Wedding-March.ly",
-          "stem": "Mendelssohn_Wedding-March"
-        },
-        {
           "filename": "Mendelssohn_Wedding-March_[Organ].ly",
           "stem": "Mendelssohn_Wedding-March_[Organ]",
           "arrangement": "Organ"
+        },
+        {
+          "filename": "Mendelssohn_Wedding-March.ly",
+          "stem": "Mendelssohn_Wedding-March"
         }
       ],
       "svg_files": [
